@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title id="page-title">AI 工具详情</title>
+
+    <style>
+        /* ================= 样式系统 (与 index.html 保持一致) ================= */
+        :root {
+            --primary: #2563eb;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #1e293b;
+            --text-sub: #64748b;
+            --border: #e2e8f0;
+        }
+
+        * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+        body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text-main); }
+        a { text-decoration: none; color: inherit; }
+
+        /* 布局容器 - 电脑端加宽到 1200px */
+        #app { max-width: 1200px; margin: 0 auto; min-height: 100vh; display: flex; flex-direction: column; }
+
+        /* 顶部导航 */
+        .header {
+            padding: 20px;
+            background: var(--card-bg);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .header h1 { margin: 0; font-size: 1.2rem; font-weight: 700; color: var(--text-main); }
+
+        /* 详情页返回按钮 */
+        .back-btn { font-size: 0.9rem; color: var(--primary); font-weight: 600; cursor: pointer; }
+
+        /* 详情页内容 */
+        .content { padding: 20px; flex: 1; }
+
+        .detail-page {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 40px;
+            margin-top: 20px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .detail-header { text-align: center; margin-bottom: 30px; border-bottom: 1px solid var(--border); padding-bottom: 30px; }
+
+        /* 图片图标样式 (详情页 - 更大) */
+        .detail-icon-img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            border-radius: 16px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .detail-title { font-size: 1.8rem; margin: 0 0 10px 0; }
+        .tag-pill { display: inline-block; background: #eff6ff; color: var(--primary); padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 500; }
+        .detail-body { line-height: 1.8; color: #334155; font-size: 1.05rem; }
+        .cta-btn {
+            display: block; width: 100%; background: var(--primary); color: white; text-align: center;
+            padding: 15px; border-radius: 10px; margin-top: 40px; font-weight: 600; font-size: 1.1rem;
+            box-shadow: 0 4px 10px rgba(37, 99, 235, 0.3); transition: background 0.2s;
+        }
+        .cta-btn:hover { background: #1d4ed8; }
+
+        /* 移动端特殊优化 */
+        @media (max-width: 600px) {
+            .detail-page { max-width: 100%; padding: 25px; margin-top: 0; border-radius: 0; }
+        }
+    </style>
+</head>
+<body>
+
+<div id="app">
+    <header class="header">
+        <!-- 返回首页的链接 -->
+        <a href="index.html" class="back-btn">← 返回首页</a>
+        <h1>工具详情</h1>
+        <!-- 占位符保持头部平衡 -->
+        <div style="width: 80px;"></div>
+    </header>
+    <main class="content">
+        <!-- 详情内容将通过 JavaScript 渲染到这里 -->
+        <div id="detail-view">
+            <!-- 初始加载状态，防止闪烁 -->
+            <div style="text-align: center; color: var(--text-sub); padding-top: 50px;">
+                正在加载...
+            </div>
+        </div>
+    </main>
+</div>
+
+<script>
+
+
+    /**
+     * 渲染详情页
+     */
+    function renderDetail() {
+        const tool = {
+  "category": "AI学习网站",
+  "name": "阿里云AI学习路线",
+  "desc": "阿里云推出的人工智能学习路线（学+测）",
+  "detail": "",
+  "link": "https://www.bing.com/search?q=阿里云ai学习路线",
+  "icon": "./img/阿里云ai学习路线.png"
+};
+        const detailView = document.getElementById('detail-view');
+        const pageTitle = document.getElementById('page-title');
+
+        if (!tool) {
+            // 找不到工具时
+            detailView.innerHTML = `
+                <div class="detail-page" style="text-align: center; padding: 60px;">
+                    <h2 class="detail-title">工具不存在或 ID 错误</h2>
+                    <p style="color: var(--text-sub);">请检查 URL 地址是否正确。</p>
+                </div>
+            `;
+            pageTitle.textContent = '工具不存在';
+            return;
+        }
+
+        // 找到工具，构建 HTML
+        detailView.innerHTML = `
+            <div class="detail-page">
+                <div class="detail-header">
+                    <img src="${tool.icon}" class="detail-icon-img" alt="${tool.name} logo">
+                    <h2 class="detail-title">${tool.name}</h2>
+                    <span class="tag-pill">${tool.category}</span>
+                </div>
+                <div class="detail-body">
+                    <p>${tool.detail || tool.desc}</p>
+                </div>
+                <a href="${tool.link}" target="_blank" class="cta-btn">
+                    🚀 立即前往官网
+                </a>
+            </div>
+        `;
+        pageTitle.textContent = `${tool.name} - AI-Nav`;
+    }
+
+    // 页面加载完成后立即执行渲染
+    document.addEventListener('DOMContentLoaded', renderDetail);
+</script>
+</body>
+</html>

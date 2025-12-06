@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title id="page-title">AI 工具详情</title>
+
+    <style>
+        /* ================= 样式系统 (与 index.html 保持一致) ================= */
+        :root {
+            --primary: #2563eb;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #1e293b;
+            --text-sub: #64748b;
+            --border: #e2e8f0;
+        }
+
+        * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+        body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text-main); }
+        a { text-decoration: none; color: inherit; }
+
+        /* 布局容器 - 电脑端加宽到 1200px */
+        #app { max-width: 1200px; margin: 0 auto; min-height: 100vh; display: flex; flex-direction: column; }
+
+        /* 顶部导航 */
+        .header {
+            padding: 20px;
+            background: var(--card-bg);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .header h1 { margin: 0; font-size: 1.2rem; font-weight: 700; color: var(--text-main); }
+
+        /* 详情页返回按钮 */
+        .back-btn { font-size: 0.9rem; color: var(--primary); font-weight: 600; cursor: pointer; }
+
+        /* 详情页内容 */
+        .content { padding: 20px; flex: 1; }
+
+        .detail-page {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 40px;
+            margin-top: 20px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .detail-header { text-align: center; margin-bottom: 30px; border-bottom: 1px solid var(--border); padding-bottom: 30px; }
+
+        /* 图片图标样式 (详情页 - 更大) */
+        .detail-icon-img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            border-radius: 16px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .detail-title { font-size: 1.8rem; margin: 0 0 10px 0; }
+        .tag-pill { display: inline-block; background: #eff6ff; color: var(--primary); padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 500; }
+        .detail-body { line-height: 1.8; color: #334155; font-size: 1.05rem; }
+        .cta-btn {
+            display: block; width: 100%; background: var(--primary); color: white; text-align: center;
+            padding: 15px; border-radius: 10px; margin-top: 40px; font-weight: 600; font-size: 1.1rem;
+            box-shadow: 0 4px 10px rgba(37, 99, 235, 0.3); transition: background 0.2s;
+        }
+        .cta-btn:hover { background: #1d4ed8; }
+
+        /* 移动端特殊优化 */
+        @media (max-width: 600px) {
+            .detail-page { max-width: 100%; padding: 25px; margin-top: 0; border-radius: 0; }
+        }
+    </style>
+</head>
+<body>
+
+<div id="app">
+    <header class="header">
+        <!-- 返回首页的链接 -->
+        <a href="index.html" class="back-btn">← 返回首页</a>
+        <h1>工具详情</h1>
+        <!-- 占位符保持头部平衡 -->
+        <div style="width: 80px;"></div>
+    </header>
+    <main class="content">
+        <!-- 详情内容将通过 JavaScript 渲染到这里 -->
+        <div id="detail-view">
+            <!-- 初始加载状态，防止闪烁 -->
+            <div style="text-align: center; color: var(--text-sub); padding-top: 50px;">
+                正在加载...
+            </div>
+        </div>
+    </main>
+</div>
+
+<script>
+
+
+    /**
+     * 渲染详情页
+     */
+    function renderDetail() {
+        const tool = {
+  "category": "AI写作工具",
+  "name": "树熊写作",
+  "desc": "树熊AI推出的AI智能写作工具",
+  "detail": "\n                树熊写作是什么\n树熊写作是树熊AI推出的AI智能写作工具，基于先进的AI技术帮助用户快速高效地完成各类文档写作任务。树熊写作能自动生成文章，提供实时写作建议，辅助编辑，满足不同用户的写作需求。适用于企业员工、学生、内容创作者等，树熊写作的设计理念是提升写作效率，节省时间，同时保证内容质量。\n\n树熊写作的主要功能\n\n自动生成文章：用户只需输入关键词或主题，树熊写作能自动创建文章框架并填充内容。\n写作建议：在写作过程中，树熊写作提供实时建议，帮助优化语法、用词和句子结构。\n辅助编辑：支持对生成的文章进行修改和调整，以符合用户的个性化需求。\n智能化技术：运用AI算法提高写作的效率和准确性。\n多场景适用：适用于办公文档、报告、总结、学生论文、内容创作等多种场景。\n\n如何使用树熊写作\n\n注册与登录：访问树熊写作的官方网站。创建账户或使用已有账户登录。\n输入主题：在平台的写作界面输入想要写作的主题或关键词。\n生成文章：点击“生成文章”按钮，树熊写作将基于提供的主题自动生成文章框架和内容。\n审阅与编辑：审阅AI生成的文章内容。根据需要对文章进行修改和调整，包括文本的润色、结构的调整等。\n获取写作建议：在编辑过程中，用树熊写作提供的写作建议功能来优化文章的语法、用词和表达。\n保存与分享：完成编辑后，保存文章。根据需要，可以将文章分享给他人或导出为不同格式的文档。\n\n树熊写作的应用场景\n\n企业员工：树熊写作可以帮助企业员工快速完成办公文档、报告、总结等写作任务，提高工作效率。\n学生：学生可以用树熊写作高效完成论文、作业、笔记等学术写作，节省时间，提高学术成果的质量。\n内容创作者：对于内容创作者来说，树熊写作可以提高写作效率，节省创作时间，帮助他们快速生成与时事相关的文章，抓住读者兴趣点。\n研究人员：研究人员可以用树熊写作整理研究资料，撰写研究报告，提高研究工作的文档处理效率。\n广告文案创作：树熊写作能为广告文案创作提供创意和文案生成，帮助创作者快速产出符合要求的文案。\n市场营销内容生成：企业可以用树熊写作生成高质量的市场营销内容，提升品牌形象。\n\n            ",
+  "link": "https://www.bing.com/search?q=树熊写作",
+  "icon": "./img/树熊写作.png"
+};
+        const detailView = document.getElementById('detail-view');
+        const pageTitle = document.getElementById('page-title');
+
+        if (!tool) {
+            // 找不到工具时
+            detailView.innerHTML = `
+                <div class="detail-page" style="text-align: center; padding: 60px;">
+                    <h2 class="detail-title">工具不存在或 ID 错误</h2>
+                    <p style="color: var(--text-sub);">请检查 URL 地址是否正确。</p>
+                </div>
+            `;
+            pageTitle.textContent = '工具不存在';
+            return;
+        }
+
+        // 找到工具，构建 HTML
+        detailView.innerHTML = `
+            <div class="detail-page">
+                <div class="detail-header">
+                    <img src="${tool.icon}" class="detail-icon-img" alt="${tool.name} logo">
+                    <h2 class="detail-title">${tool.name}</h2>
+                    <span class="tag-pill">${tool.category}</span>
+                </div>
+                <div class="detail-body">
+                    <p>${tool.detail || tool.desc}</p>
+                </div>
+                <a href="${tool.link}" target="_blank" class="cta-btn">
+                    🚀 立即前往官网
+                </a>
+            </div>
+        `;
+        pageTitle.textContent = `${tool.name} - AI-Nav`;
+    }
+
+    // 页面加载完成后立即执行渲染
+    document.addEventListener('DOMContentLoaded', renderDetail);
+</script>
+</body>
+</html>

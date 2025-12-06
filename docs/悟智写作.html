@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title id="page-title">AI 工具详情</title>
+
+    <style>
+        /* ================= 样式系统 (与 index.html 保持一致) ================= */
+        :root {
+            --primary: #2563eb;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #1e293b;
+            --text-sub: #64748b;
+            --border: #e2e8f0;
+        }
+
+        * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+        body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text-main); }
+        a { text-decoration: none; color: inherit; }
+
+        /* 布局容器 - 电脑端加宽到 1200px */
+        #app { max-width: 1200px; margin: 0 auto; min-height: 100vh; display: flex; flex-direction: column; }
+
+        /* 顶部导航 */
+        .header {
+            padding: 20px;
+            background: var(--card-bg);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .header h1 { margin: 0; font-size: 1.2rem; font-weight: 700; color: var(--text-main); }
+
+        /* 详情页返回按钮 */
+        .back-btn { font-size: 0.9rem; color: var(--primary); font-weight: 600; cursor: pointer; }
+
+        /* 详情页内容 */
+        .content { padding: 20px; flex: 1; }
+
+        .detail-page {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 40px;
+            margin-top: 20px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .detail-header { text-align: center; margin-bottom: 30px; border-bottom: 1px solid var(--border); padding-bottom: 30px; }
+
+        /* 图片图标样式 (详情页 - 更大) */
+        .detail-icon-img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            border-radius: 16px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .detail-title { font-size: 1.8rem; margin: 0 0 10px 0; }
+        .tag-pill { display: inline-block; background: #eff6ff; color: var(--primary); padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 500; }
+        .detail-body { line-height: 1.8; color: #334155; font-size: 1.05rem; }
+        .cta-btn {
+            display: block; width: 100%; background: var(--primary); color: white; text-align: center;
+            padding: 15px; border-radius: 10px; margin-top: 40px; font-weight: 600; font-size: 1.1rem;
+            box-shadow: 0 4px 10px rgba(37, 99, 235, 0.3); transition: background 0.2s;
+        }
+        .cta-btn:hover { background: #1d4ed8; }
+
+        /* 移动端特殊优化 */
+        @media (max-width: 600px) {
+            .detail-page { max-width: 100%; padding: 25px; margin-top: 0; border-radius: 0; }
+        }
+    </style>
+</head>
+<body>
+
+<div id="app">
+    <header class="header">
+        <!-- 返回首页的链接 -->
+        <a href="index.html" class="back-btn">← 返回首页</a>
+        <h1>工具详情</h1>
+        <!-- 占位符保持头部平衡 -->
+        <div style="width: 80px;"></div>
+    </header>
+    <main class="content">
+        <!-- 详情内容将通过 JavaScript 渲染到这里 -->
+        <div id="detail-view">
+            <!-- 初始加载状态，防止闪烁 -->
+            <div style="text-align: center; color: var(--text-sub); padding-top: 50px;">
+                正在加载...
+            </div>
+        </div>
+    </main>
+</div>
+
+<script>
+
+
+    /**
+     * 渲染详情页
+     */
+    function renderDetail() {
+        const tool = {
+  "category": "AI写作工具",
+  "name": "悟智写作",
+  "desc": "人工智能驱动的自动化写作平台",
+  "detail": "\n                悟智写作是一个由人工智能技术驱动的内容创作平台，旨在帮助用户高效地创作出高质量的文本内容。该AI写作工具提供了超过100种不同行业和场景的文本模板，无论是撰写广告文案、学术文章、电子邮件、产品描述，还是创作吸引人的标题，用户都能在几分钟内完成。除提升用户的写作效率外，悟智写作还提供校对、改写、续写和翻译等功能，助力用户提升写作技巧。\n\n悟智写作的主要功能\n\nAI文章文案生成：用户只需选择相应的文案项目并输入简短的创作描述，平台即可迅速生成文章全文，极大地简化了创作流程。\n开箱即用的创作模版库：超过100个行业应用场景的写作模板，覆盖公众号文章、小红书种草文、知乎回答、淘宝商品描述等多种内容形式，为用户提供了丰富的创作选择。\nAI写作辅助功能：包括校对、改写、续写、扩写、翻译和纠错批改等辅助功能，可帮助用户轻松完成写作任务，同时确保文本的专业性和准确性。\n智能助理聊天：通过与智能助理的互动，用户可以获得有价值的反馈和指导，激发创作灵感，构思创意内容。\n智能绘画生成：平台还能生成图片，为文章增添封面或丰富内容，提升视觉效果。\n\n\n如何使用悟智写作\n\n访问悟智写作的官网（wuz.com.cn），点击限时注册体验悟智写作进行登录/注册\n登录成功后会自动跳转到控制台，点击智能模板，选择你要使用的创作模板\n然后输入相应的描述和设置，点击生成，等待片刻即可生成文章\n生成后的文章可进行编辑、润色翻译和导出\n\n悟智写作的产品价格\n\n\n免费版：每日可使用小悟3.5智能助理3次；每日校对、改写、续写、翻译各6次；每日使用模板库和AI生成各3次\nVIP会员：每日可使用小悟3.5智能助理360次；每日校对、改写、续写、翻译各1000次；每日使用模板库100次、AI生成30次\nSVIP超级会员：每日可使用小悟3.5智能助理1000次、小悟4.0智能助理200次；每日校对、改写、续写、翻译各3000次；每日使用模板库300次、AI生成100次\n\n            ",
+  "link": "https://www.bing.com/search?q=悟智写作",
+  "icon": "./img/悟智写作.png"
+};
+        const detailView = document.getElementById('detail-view');
+        const pageTitle = document.getElementById('page-title');
+
+        if (!tool) {
+            // 找不到工具时
+            detailView.innerHTML = `
+                <div class="detail-page" style="text-align: center; padding: 60px;">
+                    <h2 class="detail-title">工具不存在或 ID 错误</h2>
+                    <p style="color: var(--text-sub);">请检查 URL 地址是否正确。</p>
+                </div>
+            `;
+            pageTitle.textContent = '工具不存在';
+            return;
+        }
+
+        // 找到工具，构建 HTML
+        detailView.innerHTML = `
+            <div class="detail-page">
+                <div class="detail-header">
+                    <img src="${tool.icon}" class="detail-icon-img" alt="${tool.name} logo">
+                    <h2 class="detail-title">${tool.name}</h2>
+                    <span class="tag-pill">${tool.category}</span>
+                </div>
+                <div class="detail-body">
+                    <p>${tool.detail || tool.desc}</p>
+                </div>
+                <a href="${tool.link}" target="_blank" class="cta-btn">
+                    🚀 立即前往官网
+                </a>
+            </div>
+        `;
+        pageTitle.textContent = `${tool.name} - AI-Nav`;
+    }
+
+    // 页面加载完成后立即执行渲染
+    document.addEventListener('DOMContentLoaded', renderDetail);
+</script>
+</body>
+</html>

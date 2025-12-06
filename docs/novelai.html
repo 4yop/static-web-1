@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title id="page-title">AI 工具详情</title>
+
+    <style>
+        /* ================= 样式系统 (与 index.html 保持一致) ================= */
+        :root {
+            --primary: #2563eb;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #1e293b;
+            --text-sub: #64748b;
+            --border: #e2e8f0;
+        }
+
+        * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+        body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text-main); }
+        a { text-decoration: none; color: inherit; }
+
+        /* 布局容器 - 电脑端加宽到 1200px */
+        #app { max-width: 1200px; margin: 0 auto; min-height: 100vh; display: flex; flex-direction: column; }
+
+        /* 顶部导航 */
+        .header {
+            padding: 20px;
+            background: var(--card-bg);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .header h1 { margin: 0; font-size: 1.2rem; font-weight: 700; color: var(--text-main); }
+
+        /* 详情页返回按钮 */
+        .back-btn { font-size: 0.9rem; color: var(--primary); font-weight: 600; cursor: pointer; }
+
+        /* 详情页内容 */
+        .content { padding: 20px; flex: 1; }
+
+        .detail-page {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 40px;
+            margin-top: 20px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .detail-header { text-align: center; margin-bottom: 30px; border-bottom: 1px solid var(--border); padding-bottom: 30px; }
+
+        /* 图片图标样式 (详情页 - 更大) */
+        .detail-icon-img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            border-radius: 16px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .detail-title { font-size: 1.8rem; margin: 0 0 10px 0; }
+        .tag-pill { display: inline-block; background: #eff6ff; color: var(--primary); padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 500; }
+        .detail-body { line-height: 1.8; color: #334155; font-size: 1.05rem; }
+        .cta-btn {
+            display: block; width: 100%; background: var(--primary); color: white; text-align: center;
+            padding: 15px; border-radius: 10px; margin-top: 40px; font-weight: 600; font-size: 1.1rem;
+            box-shadow: 0 4px 10px rgba(37, 99, 235, 0.3); transition: background 0.2s;
+        }
+        .cta-btn:hover { background: #1d4ed8; }
+
+        /* 移动端特殊优化 */
+        @media (max-width: 600px) {
+            .detail-page { max-width: 100%; padding: 25px; margin-top: 0; border-radius: 0; }
+        }
+    </style>
+</head>
+<body>
+
+<div id="app">
+    <header class="header">
+        <!-- 返回首页的链接 -->
+        <a href="index.html" class="back-btn">← 返回首页</a>
+        <h1>工具详情</h1>
+        <!-- 占位符保持头部平衡 -->
+        <div style="width: 80px;"></div>
+    </header>
+    <main class="content">
+        <!-- 详情内容将通过 JavaScript 渲染到这里 -->
+        <div id="detail-view">
+            <!-- 初始加载状态，防止闪烁 -->
+            <div style="text-align: center; color: var(--text-sub); padding-top: 50px;">
+                正在加载...
+            </div>
+        </div>
+    </main>
+</div>
+
+<script>
+
+
+    /**
+     * 渲染详情页
+     */
+    function renderDetail() {
+        const tool = {
+  "category": "AI写作工具",
+  "name": "NovelAI",
+  "desc": "AI小说故事创作工具",
+  "detail": "\n                NovelAI\nNovel AI是一个创新的AI小说故事创作平台，专门设计来辅助作家和创意人士克服写作障碍，提升故事创作的质量和效率。通过先进的自然语言处理技术，能根据用户提供的简单提示生成详细的文本和生动的图像，支持故事讲述和视觉艺术创作。Novel AI的核心功能包括AI辅助创作、图像生成、文本冒险模块以及定制化编辑器，是激发创意并提供多样化的叙事工具。用户可以通过它生成小说内容、塑造角色和对话。\n\nNovel AI的主要功能\n\n故事生成器（Storyteller）：是Novel AI的核心功能，支持用户输入一个故事的开头或者简单的提示，AI会基于这些信息生成故事的后续内容。\n文本冒险（Text Adventure）：支持用户创建一个互动式的故事体验，可以通过选择不同的选项来影响故事的发展。\n图像生成（Image Generation）：Novel AI提供了将文本描述转换成图像的功能，帮助用户将他们想象中的角色或场景可视化。\n角色和世界观构建（Character and Worldbuilding）：平台提供了工具来帮助用户发展他们故事中的角色和世界观，确保故事的连贯性和深度。\n写作辅助（Writing Assistance）：Novel AI可以提供语法检查、风格建议和主题分析等辅助功能，帮助用户改进他们的写作。\n自定义编辑器（Customizable Editor）：用户可以根据个人喜好调整编辑器的界面，包括字体、颜色和布局等。\nAI模型选择（AI Model Selection）：Novel AI提供了多种AI模型，每个模型有其独特的风格和能力，用户可以根据需要选择最合适的模型来辅助他们的创作。\n\nNovel AI的产品官网\n\n产品官网：novelai.net\n\nNovel AI的应用场景\n\n小说创作：作家和小说家可以用Novel AI来生成故事的初稿、发展情节、塑造角色和构建世界观。可以帮助作者克服写作障碍，提供创意灵感。\n剧本写作：编剧可以用Novel AI来构思剧本的对话和场景，快速生成剧本草稿，进行角色发展和故事线规划。\n角色开发：通过AI辅助的角色构建工具，创作者可以深入探索角色的背景、性格特点和动机，使角色更加立体和真实。\n互动故事和游戏设计：游戏设计师和互动故事作者可以用Novel AI的文本冒险功能来创建分支叙事，为玩家提供丰富的选择和多样的故事路径。\n内容营销：营销专业人士可以用Novel AI来生成吸引人的博客文章、社交媒体帖子和其他营销材料，提高内容的创意性和吸引力。\n\n            ",
+  "link": "https://www.bing.com/search?q=novelai",
+  "icon": "./img/novelai.png"
+};
+        const detailView = document.getElementById('detail-view');
+        const pageTitle = document.getElementById('page-title');
+
+        if (!tool) {
+            // 找不到工具时
+            detailView.innerHTML = `
+                <div class="detail-page" style="text-align: center; padding: 60px;">
+                    <h2 class="detail-title">工具不存在或 ID 错误</h2>
+                    <p style="color: var(--text-sub);">请检查 URL 地址是否正确。</p>
+                </div>
+            `;
+            pageTitle.textContent = '工具不存在';
+            return;
+        }
+
+        // 找到工具，构建 HTML
+        detailView.innerHTML = `
+            <div class="detail-page">
+                <div class="detail-header">
+                    <img src="${tool.icon}" class="detail-icon-img" alt="${tool.name} logo">
+                    <h2 class="detail-title">${tool.name}</h2>
+                    <span class="tag-pill">${tool.category}</span>
+                </div>
+                <div class="detail-body">
+                    <p>${tool.detail || tool.desc}</p>
+                </div>
+                <a href="${tool.link}" target="_blank" class="cta-btn">
+                    🚀 立即前往官网
+                </a>
+            </div>
+        `;
+        pageTitle.textContent = `${tool.name} - AI-Nav`;
+    }
+
+    // 页面加载完成后立即执行渲染
+    document.addEventListener('DOMContentLoaded', renderDetail);
+</script>
+</body>
+</html>
