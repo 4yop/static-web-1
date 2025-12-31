@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AISTOOL - 全球人工智能工具索引与前沿趋势深度观察</title>
+
+
+    <meta name="title" content="AI工具导航,AI工具,AI工具官网,AI工具网站,aistool.org,AI工具导航,AI工具导航官网,AI工具导航,AI工具大全,AI网站大全,AI软件大全,AI工具集合,AI工具集合网,AI工具库,AI工具箱,AI工具箱导航,AI聊天助手, AI智能体, AI编程工具, AI设计工具, AI写作工具, AI图像工具, AI视频工具, AI办公工具, AI音频工具, AI搜索引擎, AI开发平台, AI学习网站, AI训练模型, AI内容检测, AI提示指令" />
+
+    <meta name="keywords" content="AI工具导航,AI工具,AI工具官网,AI工具网站,aistool.org,AI工具导航,AI工具导航官网,AI工具导航,AI工具大全,AI网站大全,AI软件大全,AI工具集合,AI工具集合网,AI工具库,AI工具箱,AI工具箱导航,AI聊天助手, AI智能体, AI编程工具, AI设计工具, AI写作工具, AI图像工具, AI视频工具, AI办公工具, AI音频工具, AI搜索引擎, AI开发平台, AI学习网站, AI训练模型, AI内容检测, AI提示指令" />
+
+    <meta name="description" content="AI工具导航官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等AI工具集合大全，以及AI学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务！" />
+
+    <meta name="google-adsense-account" content="ca-pub-8982726393306273">
+    <meta name="baidu-site-verification" content="codeva-xEZKfvoDNR" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+
+
+    <script>
+        (function () {
+            const PROD_DOMAINS = ['aistool.org'];
+
+            if (!PROD_DOMAINS.includes(location.hostname)) {
+                console.log('[GA4] disabled on:', location.hostname);
+                return;
+            }
+
+            // 1️⃣ 初始化 dataLayer（提前）
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){ dataLayer.push(arguments); }
+            window.gtag = gtag;
+
+            gtag('js', new Date());
+
+            // 2️⃣ 动态加载 gtag.js
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://www.googletagmanager.com/gtag/js?id=G-3CPK6GJ06E';
+
+            s.onload = function () {
+                // 3️⃣ 加载成功后再 config
+                gtag('config', 'G-3CPK6GJ06E');
+            };
+
+            s.onerror = function () {
+                console.warn('[GA4] failed to load gtag.js');
+            };
+
+            document.head.appendChild(s);
+        })();
+    </script>
+
+
+
+    <style>
+        :root {
+            --primary: #0ea5e9;
+            --primary-hover: #0284c7;
+            --slate-900: #0f172a;
+            --slate-700: #334155;
+            --slate-500: #64748b;
+            --slate-100: #f1f5f9;
+            --white: #ffffff;
+            --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: #f8fafc; color: var(--slate-900); line-height: 1.6; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+
+        /* --- 导航栏基础 --- */
+        .main-nav {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid #e2e8f0;
+            height: 72px;
+            display: flex;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+        .nav-inner { display: flex; justify-content: space-between; align-items: center; width: 100%; }
+        .logo { font-size: 1.6rem; font-weight: 800; color: var(--primary); text-decoration: none; letter-spacing: -1px; }
+
+        .nav-menu { display: flex; list-style: none; align-items: center; }
+        .nav-item { position: relative; }
+        .nav-link {
+            padding: 24px 15px; text-decoration: none; color: var(--slate-700);
+            font-weight: 600; font-size: 0.95rem; transition: 0.2s; display: flex; align-items: center;
+        }
+        .nav-link:hover { color: var(--primary); }
+        .nav-link .arrow { font-size: 0.7rem; margin-left: 5px; transition: transform 0.3s; }
+
+        /* --- 下拉菜单容器 --- */
+        .dropdown-menu {
+            position: absolute; top: 100%; left: 0; background: var(--white);
+            min-width: 200px; border-radius: 8px; box-shadow: var(--shadow-md);
+            border: 1px solid #e2e8f0; display: none; list-style: none; padding: 10px 0;
+            opacity: 0; transform: translateY(10px); transition: all 0.3s;
+        }
+        .dropdown-menu li a {
+            padding: 10px 20px; display: block; text-decoration: none;
+            color: var(--slate-700); font-size: 0.9rem; transition: 0.2s;
+        }
+        .dropdown-menu li a:hover { background: var(--slate-100); color: var(--primary); }
+
+        /* --- 电脑端特有样式 (992px以上) --- */
+        @media (min-width: 992px) {
+            /* 关键修复：Hover 时显示下拉菜单 */
+            .nav-item:hover .dropdown-menu { display: block; opacity: 1; transform: translateY(0); }
+            .nav-item:hover .nav-link .arrow { transform: rotate(180deg); }
+
+            .search-box { margin-left: 20px; position: relative; }
+            .search-box input {
+                padding: 8px 12px 8px 35px; border-radius: 20px; border: 1px solid #e2e8f0;
+                outline: none; font-size: 0.85rem; width: 180px; transition: 0.3s;
+            }
+            .search-box input:focus { width: 240px; border-color: var(--primary); }
+            .search-box::before { content: '🔍'; position: absolute; left: 12px; top: 7px; font-size: 0.8rem; }
+            .menu-toggle { display: none; }
+        }
+
+        /* --- 手机端特有样式 (991px以下) --- */
+        @media (max-width: 991px) {
+            .menu-toggle { display: block; background: none; border: none; cursor: pointer; }
+            .bar { display: block; width: 25px; height: 3px; background: var(--slate-900); margin: 5px 0; transition: 0.3s; }
+            .search-box { display: none; }
+
+            .nav-menu {
+                position: fixed; right: -100%; top: 72px; width: 280px; height: calc(100vh - 72px);
+                background: #fff; flex-direction: column; align-items: flex-start;
+                padding: 20px; transition: 0.4s; box-shadow: -5px 0 15px rgba(0,0,0,0.05); overflow-y: auto;
+            }
+            .nav-menu.active { right: 0; }
+            .nav-item { width: 100%; }
+            .nav-link { padding: 15px 0; border-bottom: 1px solid #f1f5f9; width: 100%; justify-content: space-between; }
+
+            /* 手机端点击展示类 */
+            .dropdown-menu.show { display: block; opacity: 1; position: static; box-shadow: none; border: none; background: #f8fafc; transform: none; }
+            .nav-item.active .arrow { transform: rotate(180deg); }
+        }
+
+        .overlay { display: none; position: fixed; top: 72px; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.3); z-index: 999; }
+        .overlay.active { display: block; }
+
+        /* --- 页面内容样式 (Hero, News, Grid) --- */
+        .hero { padding: 80px 0; text-align: center; background: linear-gradient(180deg, #fff 0%, #f8fafc 100%); }
+        .hero h1 { font-size: 3rem; font-weight: 800; margin-bottom: 20px; letter-spacing: -2px; }
+        .hero p { max-width: 800px; margin: 0 auto; color: var(--slate-500); font-size: 1.2rem; }
+
+        .section-title { font-size: 1.75rem; margin: 60px 0 30px; display: flex; align-items: center; justify-content: space-between; }
+        .section-title span { position: relative; padding-left: 15px; }
+        .section-title span::before { content: ''; position: absolute; left: 0; top: 4px; bottom: 4px; width: 4px; background: var(--primary); border-radius: 2px; }
+
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 24px; }
+        .news-card { background: var(--white); border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; transition: 0.3s; cursor: pointer; }
+        .news-card:hover { border-color: var(--primary); transform: translateY(-3px); box-shadow: var(--shadow-md); }
+        .news-meta { font-size: 0.75rem; color: var(--primary); font-weight: 700; margin-bottom: 10px; display: block; }
+
+        .tool-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; }
+        .tool-card { background: var(--white); border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; text-decoration: none; color: inherit; transition: 0.3s; }
+        .tool-card:hover { transform: translateY(-5px); box-shadow: var(--shadow-md); border-color: var(--primary); }
+        .badge { font-size: 0.7rem; background: #f0f9ff; color: #0369a1; padding: 4px 8px; border-radius: 6px; font-weight: 700; }
+
+        footer { background: var(--slate-900); color: var(--white); padding: 80px 0 40px; margin-top: 100px; }
+        .footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 60px; }
+        .footer-logo { font-size: 1.6rem; font-weight: 800; color: var(--primary); text-decoration: none; display: block; margin-bottom: 20px; }
+        .legal-bar { border-top: 1px solid #1e293b; padding-top: 30px; margin-top: 50px; text-align: center; color: #64748b; font-size: 0.85rem; }
+    </style>
+</head>
+
+
+
+<body>
+
+<nav class="main-nav">
+    <div class="container nav-inner">
+        <a href="/" class="logo">AISTOOL</a>
+
+        <button class="menu-toggle" aria-label="Toggle Menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+
+        <ul class="nav-menu">
+            <li class="nav-item"><a href="/" class="nav-link">首页</a></li>
+
+            <li class="nav-item has-submenu">
+                <a href="#" class="nav-link dropdown-trigger">AI 工具分类 <span class="arrow">▼</span></a>
+                <ul class="dropdown-menu">
+                    
+                        <li>
+                            <a target="_blank" href="/ailiaotianzhushou/">
+                                AI聊天助手
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aizhinengti/">
+                                AI智能体
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aibianchenggongju/">
+                                AI编程工具
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aishejigongju/">
+                                AI设计工具
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aixiezuogongju/">
+                                AI写作工具
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aituxianggongju/">
+                                AI图像工具
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aishipingongju/">
+                                AI视频工具
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aibangonggongju/">
+                                AI办公工具
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aiyinpingongju/">
+                                AI音频工具
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aisousuoyinqing/">
+                                AI搜索引擎
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aikaifapingtai/">
+                                AI开发平台
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aixuexiwangzhan/">
+                                AI学习网站
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aixunlianmoxing/">
+                                AI训练模型
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aineirongjiance/">
+                                AI内容检测
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a target="_blank" href="/aitishizhiling/">
+                                AI提示指令
+                            </a>
+                        </li>
+                    
+                </ul>
+            </li>
+
+            <li class="nav-item has-submenu">
+                <a href="#" class="nav-link dropdown-trigger">行业趋势 <span class="arrow">▼</span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="/news.html">全球快讯</a></li>
+                    <li><a href="/reviews.html">深度测评</a></li>
+                    <li><a href="/guides.html">Prompt 指南</a></li>
+                </ul>
+            </li>
+
+            <li class="nav-item"><a href="/about.html" class="nav-link">关于我们</a></li>
+
+            <li class="search-box">
+                <input type="text" placeholder="搜索 AI 工具...">
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+
+<div class="overlay"></div>
+
+<style>
+    /* --- 详情页特有样式 --- */
+    .detail-header { background: var(--white); padding: 40px 0; border-bottom: 1px solid #e2e8f0; margin-bottom: 40px; }
+    .breadcrumb { font-size: 0.85rem; color: var(--slate-500); margin-bottom: 15px; }
+    .breadcrumb a { color: var(--slate-500); text-decoration: none; }
+    .breadcrumb a:hover { color: var(--primary); }
+
+    .tool-intro { display: flex; align-items: center; gap: 30px; }
+    .tool-logo-large { width: 100px; height: 100px; background: #10a37f; border-radius: 20px; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem; }
+    .tool-title-wrap h1 { font-size: 2.5rem; font-weight: 800; margin-bottom: 10px; letter-spacing: -1px; }
+    .tool-tags { display: flex; gap: 10px; }
+
+    .main-layout { display: grid; grid-template-columns: 1fr 350px; gap: 40px; margin-bottom: 80px; }
+
+    /* 左侧内容区 */
+    .article-content { background: var(--white); padding: 40px; border-radius: 16px; border: 1px solid #e2e8f0; }
+    .article-content h2 { font-size: 1.6rem; margin: 30px 0 15px; color: var(--slate-900); }
+    .article-content p { margin-bottom: 20px; color: var(--slate-700); font-size: 1.05rem; }
+    .article-content ul { margin-bottom: 25px; padding-left: 20px; }
+    .article-content li { margin-bottom: 12px; color: var(--slate-700); }
+
+    /* 右侧侧边栏区 */
+    .sidebar-box { background: var(--white); border: 1px solid #e2e8f0; border-radius: 16px; padding: 30px; position: sticky; top: 110px; }
+    .cta-button { display: block; background: var(--primary); color: white; text-align: center; padding: 16px; border-radius: 12px; text-decoration: none; font-weight: 700; margin-bottom: 25px; transition: 0.3s; }
+    .cta-button:hover { background: var(--primary-hover); transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(14, 165, 233, 0.3); }
+
+    .specs-list { list-style: none; }
+    .spec-item { display: flex; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid #f1f5f9; font-size: 0.9rem; }
+    .spec-label { color: var(--slate-500); }
+    .spec-value { font-weight: 600; color: var(--slate-900); }
+
+    .rating-card { background: #f0f9ff; padding: 20px; border-radius: 12px; margin-top: 30px; border: 1px solid #bae6fd; }
+    .rating-score { font-size: 2.5rem; font-weight: 800; color: var(--primary); line-height: 1; }
+
+    @media (max-width: 991px) {
+        .main-layout { grid-template-columns: 1fr; }
+        .tool-intro { flex-direction: column; text-align: center; }
+        .sidebar-box { position: static; margin-top: 20px; }
+
+    }
+
+
+</style>
+
+
+<main>
+    <header class="detail-header">
+        <div class="container">
+            <nav class="breadcrumb">
+                <a href="/">首页</a> / <a href="https://aistool.org/aishipingongju/">AI视频工具</a> / <span>曦灵数字人</span>
+            </nav>
+            <div class="tool-intro">
+                <div class="tool-logo-large">🤖</div>
+                <div class="tool-title-wrap">
+                    <h1>曦灵数字人</h1>
+                    <div class="tool-tags">
+                        
+                            
+                                <span class="badge" style="background: #f0fdf4; color: #166534; padding: 4px 12px; border-radius: 6px; font-weight: 700; font-size: 0.8rem;">AI视频工具</span>
+                            
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container main-layout">
+        <article class="article-content">
+            
+                曦灵数字人是什么
+曦灵数字人是百度智能云推出的基于人工智能技术的数字人平台，为企业和个人开发者提供高性能、易集成和多样化的数字人组件能力。平台支持数字人形象定制、视频合成、交互对话、直播等多场景应用，满足不同行业的需求。支持文生3D数字人、2D小样本数字人、2D精品数字人和照片数字人等多种类型，用户可上传照片或视频进行个性化定制。通过大模型实现分钟级直播间搭建，支持多平台开播，数字人可与弹幕实时互动。AI一键创作脚本即可生成高质量口播视频。
+
+曦灵数字人的主要功能
+
+
+2D和3D数字人克隆：用户可以通过上传照片、视频或简单描述，快速生成2D或3D数字人形象。平台提供800+公共人像和150+公共音色供选择。
+
+
+高效克隆模式：支持“精品克隆”和“极速克隆”两种模式。精品克隆适用于需要高度还原真人的场景，如真人IP短视频生产；极速克隆则适用于追求快速生成的场景，如店铺自播。
+
+AI视频创作
+
+主题生成视频：在文本框中描述视频主题、内容要点以及目标受众。调整设置，一键生成视频。
+口播脚本生成视频：只需输入口播脚本，AI可智能理解脚本内容，自动生成精细的分镜画面。
+PPT生成视频：只需上传PPT，AI即可自动解析PPT内容，并将其转化为讲解视频。
+裂变视频生成：用户通过上传裂变视频主体素材，选择数字人、音色，填写产品名称和产品卖点后，自动生成播报文案，并通过大模型的理解能力对视频进行混剪和制作，最终批量生成裂变后的营销视频。
+AI卡片视频生成：AI卡片提供海量优质的预置模板供您选择。选择模板，上传一张证件照，生成2D数字人形象，轻松获得个性化的AI名片、贺卡、宣传页、邀请函和明信片。
+
+
+
+
+AI直播：通过大模型能力实现极速开播，仅需要简单几步点选即可实现专业的直播间搭建，帮助企业降本增效。
+
+
+
+个性化定制：用户可以对数字人进行多维度调整，包括捏脸、更换发型、服饰和妆容，可以通过TTS技术定制声音。
+
+
+AI一键创作：无需真人出镜，用户输入脚本或关键词，平台可快速生成高质量的口播视频。
+
+
+多语种支持：支持多种语言和音色选择，适用于教育培训、新闻播报、企业营销等多种场景。
+
+
+多样化模板：提供丰富的视频制作模板，用户可以快速生成裂变视频、精编视频、分身视频等。
+
+
+智能对话：基于百度文心大模型，数字人可以进行自然流畅的对话，支持精准应答和广域知识问答。
+
+
+实时互动：AI实时话术改写，数字人可以与弹幕实时互动，支持多平台开播。
+
+
+如何使用曦灵数字人
+
+
+注册账号：访问曦灵数字人的官方网站，点击“注册”，填写相关信息（如用户名、密码、邮箱等）完成注册。
+
+
+登录账号：使用注册的账号登录平台，登录成功后可领取试用额度。
+
+创建数字人
+
+
+选择定制类型：平台提供照片数字人、2D小样本数字人、2D精品数字人和3D数字人等多种类型。
+
+
+上传素材：根据选择的类型上传相应的照片或视频素材。
+
+
+自定义设置：调整数字人的外观，如面部特征、发型、服饰等。
+
+
+开始克隆：填写相关信息后，点击“开始克隆”，等待生成。
+
+
+
+照片数字人克隆：曦灵平台可以实现将一张单帧照片秒级生成2D数字人。填写人像名称-上传底板照片-开始克隆；选择自动扣图（可实现自动扣图，方便替换背景）
+数字人广场：平台提供了400+人像供用户在直播、视频应用中使用。可通过筛选，根据使用场景，选择适合自己数字人形象。
+AI视频创作
+
+主题生成视频：在文本框中描述视频主题、内容要点以及目标受众。调整设置，一键生成视频。
+口播脚本生成视频：只需输入口播脚本，AI可智能理解脚本内容，自动生成精细的分镜画面。
+PPT生成视频：只需上传PPT，AI即可自动解析PPT内容，并将其转化为讲解视频。
+裂变视频生成：用户通过上传裂变视频主体素材，选择数字人、音色，填写产品名称和产品卖点后，自动生成播报文案，并通过大模型的理解能力对视频进行混剪和制作，最终批量生成裂变后的营销视频。
+AI卡片视频生成：AI卡片提供海量优质的预置模板供您选择。选择模板，上传一张证件照，生成2D数字人形象，轻松获得个性化的AI名片、贺卡、宣传页、邀请函和明信片。
+
+
+
+曦灵数字人的功能特色
+
+动作表情自然：利用AI算法，使数字人能够模拟真人的表情和动作，实现自然准确的讲话口型和实时对话中的动作表情生成。
+多渲染模式：支持不同终端需求的渲染方式，兼容多种通信协议，并适配多终端场景。
+文心大模型：基于大模型技术，赋予数字人智慧，实现多场景问答互动能力。
+极速定制：提供快速个性化定制服务，包括2D真人数字分身训练和3D数字人模型构建。
+语音生成：提供多种TTS音色，使信息传达更加生动和有说服力。
+单目动捕：使用单个摄像头实现3D数字人动作捕捉，降低驱动门槛，提升动作逼真度。
+
+曦灵数字人的应用场景
+
+虚拟直播：利用数字人进行24小时不间断的直播，适用于新闻播报、游戏直播、带货直播等。
+视频生产：快速生成高质量的视频内容，服务于品牌营销、产品介绍、教育培训等。
+虚拟互动：在客户服务、在线教育、虚拟导游等领域，通过数字人提供互动体验。
+IP孵化：为原创IP或品牌打造虚拟形象，通过数字人提升品牌影响力和用户参与度。
+真人克隆：创建公众人物或特定人物的数字人分身，用于特定活动或长期代言。
+金融服务：在银行和金融领域，数字人可以提供理财咨询、客户服务、投资建议等。
+文旅宣传：作为虚拟导游或形象大使，为文化旅游目的地提供宣传和讲解服务。
+企业客服：作为虚拟客服，提供24小时的客户咨询服务，解答用户问题。
+
+            
+        </article>
+
+        <aside style="display: none;">
+            <div class="sidebar-box">
+                <a href="https://chatgpt.com" target="_blank" class="cta-button">访问官方网站 →</a>
+
+                <ul class="specs-list">
+                    <li class="spec-item"><span class="spec-label">开发厂商</span><span class="spec-value">OpenAI</span></li>
+                    <li class="spec-item"><span class="spec-label">收费模式</span><span class="spec-value">免费+订阅制</span></li>
+                    <li class="spec-item"><span class="spec-label">支持平台</span><span class="spec-value">Web/iOS/Android</span></li>
+                    <li class="spec-item"><span class="spec-label">API 支持</span><span class="spec-value">是</span></li>
+                    <li class="spec-item"><span class="spec-label">更新日期</span><span class="spec-value">2025-12-28</span></li>
+                </ul>
+
+                <div class="rating-card">
+                    <div style="font-size: 0.8rem; color: var(--slate-500); margin-bottom: 8px;">AISTOOL 综合评测得分</div>
+                    <div style="display: flex; align-items: baseline; gap: 5px;">
+                        <span class="rating-score">9.8</span>
+                        <span style="color: var(--slate-400); font-weight: 700;">/ 10</span>
+                    </div>
+                    <div style="color: #fbbf24; margin-top: 8px; font-size: 1.2rem;">★★★★★</div>
+                </div>
+
+                <div style="margin-top: 30px; height: 250px; background: #f1f5f9; border: 2px dashed #e2e8f0; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #94a3b8; font-size: 0.8rem; text-align: center;">
+                    ADVERTISEMENT<br>(此处可放置侧栏广告)
+                </div>
+            </div>
+        </aside>
+    </div>
+</main>
+
+
+<footer>
+    <div class="container">
+        <div class="footer-grid">
+            <div>
+                <a href="/" class="footer-logo">AISTOOL</a>
+                <p style="color: #94a3b8; font-size: 0.9rem;">AISTOOL.ORG 致力于消除 AI 信息差。我们通过独立评测与行业追踪，为您提供最专业的 AI 工具决策支持。</p>
+            </div>
+            <div>
+                <h5 style="margin-bottom: 20px;">法律与条款</h5>
+                <ul style="list-style: none;">
+                    <li><a href="/privacy.html" style="color: #94a3b8; text-decoration: none; font-size: 0.9rem;">隐私政策 (Privacy Policy)</a></li>
+                    <li><a href="/terms.html" style="color: #94a3b8; text-decoration: none; font-size: 0.9rem; margin-top: 10px; display: block;">服务协议</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="legal-bar">&copy; 2025 AISTOOL.ORG. All Rights Reserved.</div>
+    </div>
+</footer>
+
+
+<script>
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navMenu = document.querySelector('.nav-menu');
+    const overlay = document.querySelector('.overlay');
+    const dropdownTriggers = document.querySelectorAll('.dropdown-trigger');
+
+    // 手机端菜单切换
+    menuToggle.addEventListener('click', () => {
+        navMenu.classList.toggle('active');
+        overlay.classList.toggle('active');
+    });
+
+    overlay.addEventListener('click', () => {
+        navMenu.classList.remove('active');
+        overlay.classList.remove('active');
+    });
+
+    // 手机端二级菜单逻辑
+    dropdownTriggers.forEach(trigger => {
+        trigger.addEventListener('click', (e) => {
+            if (window.innerWidth < 992) {
+                e.preventDefault(); // 阻止跳转
+                const parent = trigger.parentElement;
+                const menu = trigger.nextElementSibling;
+
+                // 切换显示
+                menu.classList.toggle('show');
+                parent.classList.toggle('active');
+            }
+        });
+    });
+
+    // 窗口缩放时清理手机端状态
+    window.addEventListener('resize', () => {
+        if (window.innerWidth >= 992) {
+            navMenu.classList.remove('active');
+            overlay.classList.remove('active');
+            document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.remove('show'));
+        }
+    });
+</script>
+
+</body>
+</html>
