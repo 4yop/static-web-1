@@ -1,0 +1,97 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aibangonggongju","monica",""],"q":"","i":false,"f":[[["",{"children":[["category","aibangonggongju","d",null],{"children":[["tool","monica","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2023/04/monica-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T1577,
+                Monica是什么
+Monica是集成了多种先进AI模型的全能AI助手，支持多平台使用，包括网页插件和移动应用。集成了先进的AI技术，如GPT-4，提供聊天、搜索、写作、翻译等多功能服务。Monica通过其网页插件，用户可以在浏览器中直接享受AI带来的便利，如自动生成文章、翻译文档等。能处理图像和视频，支持多种语言，是办公和写作的得力助手。Monica以其跨平台、多功能的特点，为用户提供了便捷的智能服务体验。
+
+Monica的主要功能
+
+AI聊天：Monica可以与用户进行深入的对话交流，支持包括GPT-4、Claude 3等多个AI模型。
+AI搜索：用户可以提出问题，Monica会通过筛选多个关键词和结果来寻找答案。
+网页/PDF/图片摘要：Monica能够从网页、URL、图像、PDF和屏幕截图中扫描和消化文本，将关键细节精炼为简洁的摘要。
+YouTube视频摘要：快速获取YouTube视频关键信息，Monica会提炼视频的核心内容，指出关键时刻并标注时间戳。
+AI写作：用户可以指定内容细节、期望长度、格式、语气，Monica迅速创作高质量文档。
+网页翻译：Monica可以将整个页面翻译成用户所需的语言，而不会替换原始文本。
+AI翻译器：Monica AI文本翻译工具，可以将文本翻译成120多种语言。
+AI艺术生成器：Monica集成了AI绘画功能，支持中文描述，可以将用户的描述转化为图像。
+图像处理能力：Monica提供图片工具，如去除背景、移除物体、替换背景等操作。
+网页与视频内容处理：Monica可以在任何网页上进行翻译、改写和解释文本，用户可以通过快捷键快速调用Monica进行这些操作。
+
+如何使用Monica
+
+安装插件：访问Monica官方网站，或可以直接在Chrome网上应用店或其他浏览器的插件商店搜索“Monica”，然后按照提示安装Monica浏览器插件。
+注册和登录：安装完成后，打开Monica插件或应用，需要注册账户并登录。
+开始使用：
+
+聊天功能：在Monica的界面中，你可以直接输入你的问题或需求，Monica会以聊天的形式回复你。
+搜索功能：输入你想要搜索的关键词，Monica会展示相关的搜索结果。
+写作辅助：你可以告诉Monica你想要写的文章类型和主题，它会自动生成草稿或帮助你润色文本。
+翻译：将需要翻译的文本或网址提供给Monica，它将为你提供翻译结果。
+摘要生成：提供网页链接、PDF文件或图片，Monica会生成内容的摘要。
+视频摘要：提供YouTube视频链接，Monica会提炼视频的核心内容。
+
+
+高级功能：Monica提供一些高级功能，如AI艺术生成器、图像处理等，你可以根据需要选择使用这些功能。
+设置和偏好：你可以根据个人喜好设置Monica的偏好，比如语言选择、界面主题等。
+
+Monica的产品定价
+
+Free（免费计划）：
+
+每日40次访问普通模型，包括GPT-40 mini和Claude 3 Haiku。
+有限试用的图像生成/视频生成。
+基础模型驱动的AI写作、翻译、总结。
+有限试用的ChatPDF。
+多平台功能扩展和跨平台AI助手。
+
+
+Pro（专业计划） – 每年99.0美元（8.3美元/月，年度订阅节省17%）：
+
+每月5000次访问普通模型，包括GPT-40 mini和Claude 3 Haiku。
+每月200次访问高级模型，包括01-preview & GPT-40、Claude 3.5 Sonnet、Gemini 1.5 Pro和Llama 3.1 405B。
+生成图像与视频的功能，包括Dall-E 3、SDXL & SD3、Flux Pro & Dev、Kling和Stable Video Diffusion。
+高级模型驱动的智能写作、翻译、总结和ChatPDF。
+提供1500高级积分。
+多平台功能扩展和跨平台AI助手。
+
+
+Unlimited（无限计划） – 每年149.0美元（原价299.0美元，年度订阅节省50%）：
+
+无限访问普通模型，包括GPT-40 mini和Claude 3 Haiku。
+无限访问高级模型，包括01-preview & GPT-40、Claude 3.5 Sonnet、Gemini 1.5 Pro和Llama 3.1 405B。
+生成图像与视频的功能，包括Dall-E 3、SDXL & SD3、Flux Pro & Dev、Kling和Stable Video Diffusion。
+高级模型驱动的智能写作、翻译、总结和ChatPDF。
+提供4500高级积分。
+多平台功能扩展和跨平台AI助手。
+
+
+
+Monica的应用场景
+
+多语言支持与语音交互：Monica AI支持多种语言，能理解和处理多语言文本，将语音转化为文字进行处理，完成对应语言的翻译工作，适用于国际商务沟通或跨国团队协作场景。
+图像处理能力：Monica AI集成了图像相关的功能，如AI绘图、去除背景、移除物体、替换背景等，适用于网页设计或自媒体内容创作中需要对图片进行快速处理的场景。
+网页与视频内容处理：Monica AI可以在任何网页上进行翻译、改写和解释文本，快速提取长文稿或网页内容的主要内容，适用于学术研究或新闻资讯浏览场景。
+办公与写作相关领域：Monica AI在办公写作场景中有广泛应用，如商业写作、论文写作、邮件管理等，提供多种模板和格式、语气的选择功能，满足不同类型文案的需求。
+数据与文档处理工具：Monica AI能够自动分析数据文件，生成SQL语句、Python脚本和可视化图表，适用于数据分析师。在文档处理方面，它能够精确捕捉文件中的关键细节，提高文档处理的效率和准确性。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Monica\",\"description\":\"全能AI助手，提供聊天、搜索、写作、翻译等多功能服务\",\"url\":\"https://aistool.orgaibangonggongju/monica/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/04/monica-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Monica"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/04/monica-icon.png","alt":"Monica","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Monica"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"全能AI助手，提供聊天、搜索、写作、翻译等多功能服务"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],"$L13"]}]]}]
+13:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","349",{"href":"/aixiezuogongju/jenni/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Jenni"}],["$","a","332",{"href":"/aixiezuogongju/rytr/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Rytr"}],["$","a","1085",{"href":"/aikaifapingtai/x-all-in-one/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"X-All in one"}],["$","a","72",{"href":"/ailiaotianzhushou/wenxiaobai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"问小白"}],["$","a","753",{"href":"/aibangonggongju/tongyizhiwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"通义智文"}],["$","a","241",{"href":"/aishejigongju/qiantuwang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千图网"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Monica | AIStool"}],["$","meta","1",{"name":"description","content":"Monica是集成了多种先进AI模型的全能AI助手，支持多平台使用，包括网页插件和移动应用。集成了先进的AI技术，如GPT-4，提供聊天、搜索、写作、翻译等多功能服务。Monica通过其网页插件，用户可以在浏览器中直接享受AI带来的便利，如自动生成文章、翻译文档等。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaibangonggongju/monica/"}],["$","meta","3",{"property":"og:title","content":"Monica"}],["$","meta","4",{"property":"og:description","content":"Monica是集成了多种先进AI模型的全能AI助手，支持多平台使用，包括网页插件和移动应用。集成了先进的AI技术，如GPT-4，提供聊天、搜索、写作、翻译等多功能服务。Monica通过其网页插件，用户可以在浏览器中直接享受AI带来的便利，如自动生成文章、翻译文档等。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaibangonggongju/monica/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2023/04/monica-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Monica"}],["$","meta","10",{"name":"twitter:description","content":"Monica是集成了多种先进AI模型的全能AI助手，支持多平台使用，包括网页插件和移动应用。集成了先进的AI技术，如GPT-4，提供聊天、搜索、写作、翻译等多功能服务。Monica通过其网页插件，用户可以在浏览器中直接享受AI带来的便利，如自动生成文章、翻译文档等。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2023/04/monica-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","13",{}]]

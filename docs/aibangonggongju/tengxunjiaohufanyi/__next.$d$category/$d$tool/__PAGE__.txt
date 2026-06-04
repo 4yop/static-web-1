@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/10/qqtransmart-website-2.png","image"]
+3:Tb69,
+                腾讯交互翻译是什么
+腾讯交互翻译是腾讯公司推出的多语言AI翻译工具，集成交互式机器翻译、神经网络机器翻译等先进技术。腾讯交互翻译支持20多种语言的互译，包括英语、日语、韩语、德语、法语等，满足不同用户的需求。支持网页版或多平台应用进行实时翻译或批量文件翻译。腾讯交互翻译具备翻译记忆融合和翻译输入法功能，提高翻译效率和准确性。适于个人学习、商务沟通、技术开发等多种场景，帮助用户跨越语言障碍。
+
+腾讯交互翻译的主要功能
+
+交互式机器翻译：提供智能的译文片段推荐和整句补全，减少人工修订的次数。
+翻译记忆融合：结合用户的历史翻译数据，生成更符合用户习惯的自动翻译结果。
+翻译输入法：根据原文上下文和翻译知识库，辅助用户快速、准确地输入翻译内容。
+多语言支持：支持20多种语言之间的翻译，满足不同语言用户的需求。
+文件翻译：支持多种文件格式的批量翻译，提高翻译效率。
+实时翻译：提供即时的翻译服务，适合在线交流和即时翻译需求。
+
+如何使用腾讯交互翻译
+
+访问网站： 访问腾讯交互翻译的官方网站。
+选择翻译类型： 在网站首页，选择“交互翻译”或“文件翻译”。交互翻译适于单句或短段落的翻译，文件翻译适于文档的批量翻译。
+输入或上传内容：
+
+对于交互翻译，直接在输入框中输入或粘贴想要翻译的文本。
+对于文件翻译，点击“选择文件”按钮，上传想要翻译的文档。支持的文件格式包括TXT、PDF、Word文档等。
+
+
+选择语言： 在输入文本或上传文件后，选择原文和目标语言。腾讯交互翻译支持多种语言之间的互译。
+开始翻译： 点击“翻译”按钮，系统自动处理翻译请求。
+查看结果： 翻译完成后，翻译结果显示在屏幕上。对于交互翻译，能直接在网页上看到翻译结果，进行编辑或保存。对于文件翻译，翻译后的文件能下载到本地。
+编辑和保存： 如果需要对翻译结果进行编辑，确保翻译的准确性。完成后将翻译结果复制或保存。
+
+腾讯交互翻译的产品定价
+目前完全免费
+腾讯交互翻译的应用场景
+
+教育学习：帮助学生和语言爱好者翻译学习资料，提高语言学习效率。
+商务沟通：支持商务人士与国际客户进行邮件往来和商务谈判。
+旅游出行：辅助旅行者翻译地图、菜单、路标等，提升旅行体验。
+学术研究：协助研究人员翻译学术论文，获取国际研究资料。
+技术开发：帮助开发者翻译技术文档，加速产品的国际化进程。
+内容创作：支持媒体工作者和内容创作者翻译视频字幕和文章。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"腾讯交互翻译\",\"description\":\"腾讯推出的多语言AI翻译工具\",\"url\":\"https://aistool.orgaibangonggongju/tengxunjiaohufanyi/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/10/qqtransmart-website-2.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"腾讯交互翻译"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/10/qqtransmart-website-2.png","alt":"腾讯交互翻译","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"腾讯交互翻译"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"腾讯推出的多语言AI翻译工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","597",{"href":"/aishipingongju/soundview/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"SoundView"}],["$","a","434",{"href":"/aituxianggongju/qianluai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千鹿AI"}],["$","a","196",{"href":"/aibianchenggongju/debuild/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Debuild"}],["$","a","194",{"href":"/aibianchenggongju/marsx/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MarsX"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","46",{"href":"/aizhinengti/suna/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Suna"}]
+5:["$","a","505",{"href":"/aituxianggongju/huayuzhou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"画宇宙"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aituxianggongju","omma",""],"q":"","i":false,"f":[[["",{"children":[["category","aituxianggongju","d",null],{"children":[["tool","omma","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2026/03/Omma-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tf63,
+                Omma是什么
+Omma 是 Spline 推出的 AI 3D 内容智能创作平台，通过自然语言描述可自动生成 3D 交互网页、游戏和应用。Omma 采用多 AI Agent 并行架构，协同完成代码生成、3D 建模、图像创作等任务，支持 Blender、CSV、JSON 等多种文件导入，能将平面内容一键转为 3D 场景。用户无需掌握专业技能，能快速创建可发布的交互式体验，大幅降低 3D 开发门槛。
+
+Omma的主要功能
+
+多模态文件导入：支持 Blender、GLB、OBJ 等 3D 文件，以及 CSV、JSON、图片、视频、音频、URL 等多种格式。
+一句话生成 3D 内容：通过自然语言描述自动生成 3D 互动官网、小游戏（如赛车、火车）、场景和动画。
+平面转 3D：用 /3d 命令将平面图像或描述直接转换为 3D 模型并置入场景。
+交互式网页开发：平台能创建数据可视化图表、Dashboard 等平面交互网页，支持 CSV 导入和实时预览。
+多 Agent 并行执行：支持多个 AI Agent 同时处理代码生成、图像创作、3D 建模等任务，秒级完成。
+代码导出与发布：可查看、复制源代码，支持一键分享、下载和发布。
+
+Omma的关键信息和使用要求
+
+
+开发商：Spline（3D 头部公司）
+
+
+核心技术：多 AI Agent 并行架构
+
+
+支持格式：Blender、GLB、OBJ、CSV、JSON、图片、视频等 50 余种
+
+
+生成类型：3D 网站、游戏、应用、数据可视化
+
+
+使用要求：无需编程基础，自然语言描述可创建，需注册账号后使用。
+
+
+Omma的核心优势
+
+
+
+
+
+
+
+
+
+
+
+零门槛创作：无需掌握 WebGL、Three.js 等 3D 技术，自然语言描述可生成专业级交互内容。
+
+
+多 Agent 并行：多个 AI 智能体同时处理代码、建模、图像等任务，效率远超传统单线程工具。
+
+
+3D 原生支持：区别于普通网页生成工具，平台能直接输出真 3D 场景、游戏和应用，而非伪 3D 效果。
+
+
+全格式兼容：支持 Blender、GLB、CSV、JSON、音视频等 50 余种文件导入，打通真实数据与创作。
+
+
+端到端闭环：从描述、生成、调试到发布一站式完成，无需切换工具可上线可交互作品。
+
+
+如何使用Omma
+
+注册登录：访问Omma官网 https://omma.build/ ，完成账号注册。
+描述需求：在输入框用文字描述想创建的内容，或上传 3D 文件、图片、CSV 等素材。
+选择模板：根据场景选取预设类型，如官网、数据面板或游戏等。
+生成预览：多 AI Agent 并行协作，秒级自动生成可交互预览。
+调整优化：通过对话指令迭代修改细节，如调整颜色、添加动画等。
+发布上线：导出源代码，或直接分享、下载、一键发布。
+
+Omma的同类竞品对比
+
+
+
+维度
+Omma
+Lovable
+Figma AI
+
+
+
+
+产品类型
+AI创意开发平台
+AI全栈应用构建器
+原生AI设计工具
+
+
+核心定位
+3D/动效/交互内容生成
+全栈Web应用开发
+UI/UX设计协作
+
+
+母公司
+Spline
+–
+Adobe
+
+
+主要用户
+3D设计师、创意开发者、营销人员
+产品经理、非技术创始人、开发者
+UI/UX设计师、产品团队
+
+
+设计阶段覆盖
+概念→生成→部署
+需求→代码→上线
+设计→原型→交付开发
+
+
+
+Omma的应用场景
+
+3D 网站搭建：用户可通过自然语言快速生成带有 3D 模型的产品展示页或品牌官网，实现沉浸式浏览体验。
+游戏开发：开发者能一句话生成交互式 3D 小游戏，用于原型验证或直接发布上线。
+数据可视化：平台支持导入 CSV 等真实数据，自动生成可交互的 3D 图表和实时数据仪表盘。
+创意表达：设计师无需代码可创建 3D 艺术装置、粒子动画和着色器效果，快速验证视觉概念。
+教育展示：教师可制作分子结构、历史场景等 3D 教学模型，让学生通过交互直观理解复杂知识。
+
+
+
+
+
+
+
+
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Omma\",\"description\":\"Spline 推出的 AI 3D 内容智能创作平台\",\"url\":\"https://aistool.orgaituxianggongju/omma/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/03/Omma-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Omma"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/03/Omma-logo.png","alt":"Omma","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Omma"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Spline 推出的 AI 3D 内容智能创作平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L13","$L14","$L15","$L16","$L17","$L18"]}]]}]]}]]}]
+13:["$","a","203",{"href":"/aibianchenggongju/visual-studio-intellicode/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Visual Studio IntelliCode"}]
+14:["$","a","217",{"href":"/aishejigongju/gemdesign/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"GemDesign"}]
+15:["$","a","872",{"href":"/aibangonggongju/baiduaitongchuanzhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"百度AI同传助手"}]
+16:["$","a","821",{"href":"/aibangonggongju/feishuduoweibiaoge/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"飞书多维表格"}]
+17:["$","a","539",{"href":"/aituxianggongju/huiwaaixiaochu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"绘蛙AI消除"}]
+18:["$","a","625",{"href":"/aishipingongju/kreadoai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"KreadoAI"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Omma | AIStool"}],["$","meta","1",{"name":"description","content":"Omma 是 Spline 推出的 AI 3D 内容智能创作平台，通过自然语言描述可自动生成 3D 交互网页、游戏和应用。Omma 采用多 AI Agent 并行架构，协同完成代码生成、3D 建模、图像创作等任务，支持 Blender、CSV、JSON 等多种文件导入，能将平面内容一键转为 3D 场景。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaituxianggongju/omma/"}],["$","meta","3",{"property":"og:title","content":"Omma"}],["$","meta","4",{"property":"og:description","content":"Omma 是 Spline 推出的 AI 3D 内容智能创作平台，通过自然语言描述可自动生成 3D 交互网页、游戏和应用。Omma 采用多 AI Agent 并行架构，协同完成代码生成、3D 建模、图像创作等任务，支持 Blender、CSV、JSON 等多种文件导入，能将平面内容一键转为 3D 场景。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaituxianggongju/omma/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2026/03/Omma-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Omma"}],["$","meta","10",{"name":"twitter:description","content":"Omma 是 Spline 推出的 AI 3D 内容智能创作平台，通过自然语言描述可自动生成 3D 交互网页、游戏和应用。Omma 采用多 AI Agent 并行架构，协同完成代码生成、3D 建模、图像创作等任务，支持 Blender、CSV、JSON 等多种文件导入，能将平面内容一键转为 3D 场景。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2026/03/Omma-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","13",{}]]

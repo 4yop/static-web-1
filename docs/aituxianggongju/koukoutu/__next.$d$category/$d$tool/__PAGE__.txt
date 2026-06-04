@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/01/koukoutu-website.png","image"]
+3:T1069,
+                抠抠图是什么
+抠抠图是基于AI的在线免费图片处理工具，专注于为用户提供高效、便捷的抠图服务。抠抠图通过AI技术自动识别主体与背景，实现精准AI抠图，无需复杂操作和专业软件。抠抠图操作简单，适合设计师、电商从业者、内容创作者等各类用户，满足日常图片处理需求。
+
+抠抠图的主要功能
+
+
+AI 智能抠图：通过先进的人工智能技术，自动精准识别图片中的主体与背景，能处理复杂细节如发丝和边缘，支持人物、商品、动物、图案等多种主体，实现高质量的抠图效果。
+
+
+批量处理功能：支持多张图片同时上传和处理，适合电商商品图、模特图、素材图等批量操作需求，减少重复人工操作。
+
+
+背景替换与白底图生成：提供一键替换背景功能，可自动生成纯色背景或透明背景，适用于电商平台主图、证件照、产品展示图等多种场景，操作简单，一键完成。
+
+
+印花与图案提取：针对印花、纹理、图案类图片进行精准提取，有效区分图案与底纹，保留细节。
+
+
+图片无损放大与增强：基于AI技术智能补充图片细节，提升图片清晰度，放大后边缘清晰，不易模糊，适合老图修复和电商素材优化。
+
+
+智能去水印：支持自动去除常见简单水印，无需复杂操作。
+
+AI图片编辑：提供多种AI辅助的图片编辑功能，如色彩调整、对比度优化等，帮助用户快速提升图片质量。
+AI图片高清：通过AI技术增强图片细节，模糊或低分辨率的图片变得更加清晰，适合老照片修复和素材优化。
+AI产品精修：针对电商产品图片进行精细化处理，突出产品细节，提升视觉效果，适合电商平台的商品展示。
+老照片修复：利用AI技术修复老照片的褪色、划痕等问题，恢复照片的清晰度和色彩，保留珍贵回忆。
+文生图、图生图、图生视频：支持通过文字生成图片、图片生成图片或图片生成视频等多种创意功能，满足内容创作者的多样化需求。
+
+如何使用抠抠图
+
+访问官网：访问抠抠图官网 https://www.koukoutu.com/ 。无需注册或登录，即可直接使用。
+选择工具：在首页选择你需要使用的功能，例如“AI智能抠图”、“背景替换”、“印花提取”等。
+上传图片：点击上传按钮，选择本地电脑中的图片文件，或直接粘贴图片链接。支持常见的图片格式，如JPG、PNG等。
+等待处理：点击“开始处理”按钮，AI会自动识别并处理图片。
+查看结果：处理完成后，页面会显示处理后的图片效果。用户能预览、确认结果是否符合预期。
+下载结果：如果满意，点击“下载”按钮，将处理后的图片保存到本地电脑。
+
+
+抠抠图的产品特色与优势
+
+
+永久免费：抠抠图提供永久免费的AI抠图服务，无需付费即可享受高质量的图像处理功能。
+
+
+免注册登录：无需注册账号或登录，即用即走，方便快捷。
+
+
+浏览器在线使用：无需下载或安装任何软件，直接在浏览器中操作，节省时间和存储空间。
+
+
+批量处理：工具支持多张图片同时上传和处理，大幅提升工作效率，尤其适合电商和设计师。
+
+
+功能丰富：除抠图，还提供背景替换、印花提取、图片放大、去水印等多种工具，满足一站式设计需求。
+
+
+抠抠图的应用场景
+
+
+设计领域：设计师可快速抠取图片主体用于海报、宣传册等设计，提升设计效率和专业性。
+
+
+内容创作：自媒体创作者和视频制作者可快速抠图并替换背景，制作吸引人的封面图和视频特效。
+
+
+印花定制与POD：精准提取印花图案，用于服装、家居软装等定制设计，确保图案清晰无底纹干扰。
+
+
+普通用户日常需求：用于制作证件照、修复老照片或满足个人创意项目，操作简单便捷。
+
+
+教育与培训：教师可快速处理教学图片，学生可用于制作项目报告，提升教学和学习效果。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"抠抠图\",\"description\":\"免费在线AI抠图工具，一键批量抠图\",\"url\":\"https://aistool.orgaituxianggongju/koukoutu/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/01/koukoutu-website.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"抠抠图"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/01/koukoutu-website.png","alt":"抠抠图","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"抠抠图"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"免费在线AI抠图工具，一键批量抠图"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","94",{"href":"/ailiaotianzhushou/xiaohuangjiao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"小黄蕉"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1273",{"href":"/aituxianggongju/wuli/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"呜哩"}]
+5:["$","a","1029",{"href":"/aisousuoyinqing/lianqiai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"链企AI"}]
+6:["$","a","516",{"href":"/aituxianggongju/huiwaaigaoqing/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"绘蛙AI高清"}]
+7:["$","a","1419",{"href":"/aineirongjiance/wenshusanyan/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"文枢三言"}]
+8:["$","a","1179",{"href":"/aixunlianmoxing/watsonx.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Watsonx.ai"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

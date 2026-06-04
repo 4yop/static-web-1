@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aituxianggongju","miaohuaai",""],"q":"","i":false,"f":[[["",{"children":[["category","aituxianggongju","d",null],{"children":[["tool","miaohuaai","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/12/miaohua-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Te2e,
+                妙话AI是什么
+妙话AI是专为普通用户与内容创作者设计的创意图片生成工具。用户只需上传照片，即可快速生成具有趣味性、反差感和视觉冲击力的创意图像，如透明啤酒服、龙井茶服、螺蛳粉袋等爆梗玩法。非常适合制作短视频封面、小红书笔记、宠物账号内容以及朋友圈趣味图。
+
+妙话AI的主要功能
+
+
+创意图片生成：用户上传照片后，妙话AI可自动生成具有趣味性、反差感和视觉冲击力的创意图像，如透明啤酒服、龙井茶服、螺蛳粉袋等玩法，适合制作短视频封面、小红书笔记封面、宠物账号内容及朋友圈趣味图。
+
+
+简单易用：操作几乎零门槛，用户选择玩法后，系统自动完成照片识别、分割、材质融合等步骤，通常几秒即可完成生成，相比传统修图软件更轻量、高效。
+
+
+丰富玩法更新：每周不定时更新新玩法，节日期间推出更多系列主题玩法，帮助创作者抓住热点流量，持续保持内容的新鲜感和吸引力。
+
+
+快速生成与应用：生成后的图片或视频可直接用于抖音、小红书、朋友圈等多种场景，满足不同用户在不同平台的内容创作需求。
+
+
+基础免费服务：提供基础功能的免费使用，降低用户使用门槛，无论是新手还是专业创作者都能轻松上手，快速产出创意内容。
+
+
+如何使用妙话AI
+
+访问官网：访问妙话AI官网 imiaohua.com ，注册登录账号。
+
+选择玩法：在热门玩法中挑选喜欢的图片或视频玩法，无需复杂操作，系统会自动完成效果。
+
+
+上传照片：建议上传光线均匀、主体无遮挡的照片，系统会自动识别与分割，这是后续创意生成的基础。若需要更自然的效果，可选择正面或半身照。
+
+
+点击生成：上传照片后，点击生成按钮，系统将自动完成识别、分割、材质融合等处理，通常几秒内即可完成。
+
+
+保存与应用：生成的图片或视频可直接保存，用于抖音封面、小红书笔记、朋友圈等场景，满足不同内容创作需求。
+
+
+妙话AI的应用场景
+
+
+短视频创作：生成创意图片或视频作为短视频封面，吸引用户点击，提升视频的吸引力和播放量。
+
+
+社交媒体内容：制作小红书笔记封面、朋友圈趣味图等，增加内容的趣味性和视觉吸引力，帮助创作者抓住热点流量。
+
+
+宠物账号运营：为宠物博主提供创意宠物图片或视频，如宠物烤烧袋等玩法，丰富宠物账号的内容形式。
+
+
+商业营销：用于制作促销海报、产品视觉素材，通过创意图像提升产品的吸引力和营销效果。
+
+
+个人娱乐：日常用户可以制作个性化的创意图片，用于分享生活、表达创意，增添生活乐趣。
+
+
+妙话AI的适用人群
+
+
+短视频创作者：可以用妙话AI快速生成有趣且吸引人的短视频封面，提升内容的吸引力。
+
+
+宠物博主：适合制作宠物相关的创意图片或视频，如宠物烤烧袋等玩法，增加内容的趣味性。
+
+
+小红书达人：可用于生成小红书笔记封面，通过创意图片吸引用户关注。
+
+
+日常用户：普通用户也可以通过妙话AI轻松制作朋友圈趣味图，分享生活中的创意瞬间。
+
+
+新手友好：对于新手来说，妙话AI的操作门槛极低，几秒钟即可产出可分享的成品。
+
+
+专业内容创作者：对于专业创作者而言，妙话AI可以作为高效制作封面的工具，提升创作效率。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"妙话AI\",\"description\":\"专为内容创作者设计的创意图片生成工具\",\"url\":\"https://aistool.orgaituxianggongju/miaohuaai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/12/miaohua-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"妙话AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/12/miaohua-icon.png","alt":"妙话AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"妙话AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"专为内容创作者设计的创意图片生成工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1124",{"href":"/aixuexiwangzhan/coursera/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Coursera"}],["$","a","1169",{"href":"/aixunlianmoxing/alibabam6/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"阿里巴巴M6"}],["$","a","1323",{"href":"/aishejigongju/pagepop/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PagePop"}],"$L13","$L14","$L15"]}]]}]]}]]}]
+13:["$","a","834",{"href":"/aibangonggongju/yunyiduo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"云一朵"}]
+14:["$","a","1060",{"href":"/aikaifapingtai/aliyunbailian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"阿里云百炼"}]
+15:["$","a","1174",{"href":"/aixunlianmoxing/palm-2/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PaLM 2"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"妙话AI | AIStool"}],["$","meta","1",{"name":"description","content":"妙话AI是专为普通用户与内容创作者设计的创意图片生成工具。用户只需上传照片，即可快速生成具有趣味性、反差感和视觉冲击力的创意图像，如透明啤酒服、龙井茶服、螺蛳粉袋等爆梗玩法。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaituxianggongju/miaohuaai/"}],["$","meta","3",{"property":"og:title","content":"妙话AI"}],["$","meta","4",{"property":"og:description","content":"妙话AI是专为普通用户与内容创作者设计的创意图片生成工具。用户只需上传照片，即可快速生成具有趣味性、反差感和视觉冲击力的创意图像，如透明啤酒服、龙井茶服、螺蛳粉袋等爆梗玩法。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaituxianggongju/miaohuaai/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/12/miaohua-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"妙话AI"}],["$","meta","10",{"name":"twitter:description","content":"妙话AI是专为普通用户与内容创作者设计的创意图片生成工具。用户只需上传照片，即可快速生成具有趣味性、反差感和视觉冲击力的创意图像，如透明啤酒服、龙井茶服、螺蛳粉袋等爆梗玩法。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/12/miaohua-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","13",{}]]

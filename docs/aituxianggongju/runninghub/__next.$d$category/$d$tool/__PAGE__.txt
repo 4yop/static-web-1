@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/RunningHub-logo1.png","image"]
+3:Tdee,
+                RunningHub是什么
+RunningHub是基于云端ComfyUI的AI图像与视频创作平台。RunningHub基于ComfyUI架构，拥有超7000个预置节点，涵盖前沿模型如Stable Diffusion、腾讯混元AI视频模型等。用户基于拖拽节点构建工作流，实时调试并管理版本，支持Python/JS开发。RunningHub提供强大云端算力，基于FramePack技术让普通设备能生成高清视频，具备多模态生成及批量处理能力，广泛应用在电商、影视、游戏等领域，加速创作流程，降低创作门槛，助力创作者实现从分镜脚本到成片的快速转变。
+
+RunningHub的主要功能
+
+在线开发与编辑：提供云端开发环境，用户能在线编辑ComfyUI工作流，无需本地安装复杂软件，方便快捷。
+应用发布与盈利：用户将创作的AI应用发布到平台，供他人使用并有机会获得收入，实现商业变现。
+最新最全节点：提供最新最全的ComfyUI节点，满足不同创作需求。
+工作流集成：基于API接口，将RunningHub工作流集成到用户系统，实现与其他业务系统无缝对接。
+多任务运行状态查询：基于API可查询工作流多任务运行状态，便于任务管理和调度。
+业务逻辑控制：用户设计业务逻辑控制工作流调用策略，实现个性化业务流程自动化。
+热门模型预装：预装Stable Diffusion、Flux、Cogvideo等热门模型，降低创作门槛。
+
+如何使用RunningHub
+
+登录注册：访问RunningHub官网：https://www.runninghub.cn/ ，完成注册和登录。
+使用AI应用：
+
+选择应用：在AI应用界面，选择一个感兴趣的AI应用，例如“换脸王-Face Swap”。
+参数设置：根据应用下方的作者介绍和输入建议，调整参数满足创作需求。
+运行应用：调整好参数后，点击“运行”按钮，开始运行AI应用。
+查看结果：运行完成后，点击右侧的任务列表查看运行结果。
+
+
+使用工作流：
+
+创建工作流：在工作流界面，点击“创建新工作流”，进入ComfyUI界面。
+编辑节点：在ComfyUI界面中，选择需要的节点并进行参数调整，构建工作流。
+连接节点：确保所有节点正确连接，且保存图像节点已连接。
+运行工作流：调整完成后，点击右上角的“运行”按钮，开始运行工作流。
+查看结果：运行完成后，点击右侧的任务列表查看运行结果。
+
+
+使用模型库：
+
+选择模型：在模型库界面，选择需要的模型，例如Stable Diffusion。
+加载模型：将选中的模型加载到工作流中，开始使用。
+调整参数：根据模型的使用说明，调整相关参数达到最佳效果。
+运行模型：调整好参数后，运行工作流，查看模型的输出结果。
+
+
+
+RunningHub的应用场景
+
+创意设计：设计师和艺术家快速生成高质量的图像和视频，进行创意设计和艺术创作，提升工作效率和创意表达。
+内容创作：创作者生成吸引人的图像和视频内容，用在社交媒体和自媒体平台，提升内容的吸引力和传播力。
+影视制作：影视制作团队生成特效镜头和动画内容，减少后期制作的复杂性和成本，提高制作效率。
+广告与营销：广告公司和企业生成创意广告图像和视频，快速测试不同方案，提升广告效果和品牌推广。
+教育与培训：教育工作者生成教学用的图像和视频，丰富教学内容，提升教学效果和学生的学习体验。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"RunningHub\",\"description\":\"基于云端ComfyUI的AI图像与视频创作平台\",\"url\":\"https://aistool.orgaituxianggongju/runninghub/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/RunningHub-logo1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"RunningHub"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/RunningHub-logo1.png","alt":"RunningHub","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"RunningHub"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"基于云端ComfyUI的AI图像与视频创作平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","279",{"href":"/aishejigongju/eva-design-system/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Eva Design System"}],["$","a","1390",{"href":"/aishipingongju/zorq-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Zorq AI"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","895",{"href":"/aibangonggongju/qingyanppt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"清言PPT"}]
+5:["$","a","1009",{"href":"/aiyinpingongju/notta/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Notta"}]
+6:["$","a","604",{"href":"/aishipingongju/chanjing/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"蝉镜"}]
+7:["$","a","1343",{"href":"/aibangonggongju/xmatrix/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"xMatrix"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

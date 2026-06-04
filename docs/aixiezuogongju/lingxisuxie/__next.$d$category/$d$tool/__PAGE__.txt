@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/08/lingxisuxie-logo.png","image"]
+3:Tc04,
+                灵犀速写是什么
+灵犀速写是AI小说创作工具，能帮助作者提高写作效率和创新故事内容。灵犀速写提供一系列写作工具，包括提示词库、角色库、智能续写、工作流等功能，支持用户创建和管理小说作品。灵犀速写支持自定义API，支持用户直接调用外部模型，实现更灵活的创作需求。通过这些功能，灵犀速写助力作者轻松构建小说世界，激发创作灵感。
+
+灵犀速写的主要功能
+
+小说创作：提供界面供用户创建、编辑和管理自己的小说作品。
+智能写作：利用AI技术辅助用户进行小说的开篇、续写等创作活动。
+提示词库：提供一系列提示词，帮助用户激发灵感和创意。
+角色库：支持用户创建和管理小说中的角色，方便角色信息的统一和调用。
+工作流：集成多种自动化文本生成工作流，支持用户快速创作和编辑小说、故事等内容。
+拆书仿写：分析优秀作品的风格和结构，帮助用户模仿和学习。
+生成历史：记录用户的创作历史，方便回溯和修改。
+知识点管理：管理创作中涉及的知识点，确保内容的准确性和丰富性。
+AI排行榜：展示AI创作的排名或评分，激励用户创作更高质量的作品。
+自定义API：用户能添加自己的API，调用外部模型，实现个性化的创作需求。
+数据概览：提供创作数据的概览，帮助用户了解自己的创作情况。
+
+
+如何使用灵犀速写
+
+注册和登录：访问灵犀速写官网 https://www.lingxisuxie.com/ ，完成注册和登录。
+创建新作品：在平台的主界面，找到“创建新作品”或“创建第一个小说”的按钮。点击后，根据提示输入小说的基本信息，如标题、类型、简介等。
+设置小说参数：根据需要设置小说的目标字数、标签、角色等。可以用平台提供的角色库和词条库丰富小说内容。
+用AI辅助创作：用AI开篇功能，选择或自定义提示词，让AI生成小说的开头部分。用AI续写功能，根据当前剧情发展，让AI继续创作后续内容。
+编辑和审稿：用AI编辑功能，让AI帮助审阅和提出修改建议。根据AI的建议，手动调整和完善小说内容。
+管理创作进度：用工作流功能，规划和管理创作流程。
+保存和导出：将创作的内容保存到平台上，或导出为文件格式，如TXT、PDF等。
+
+灵犀速写的应用场景
+
+小说创作：作者创作全新的小说，从构思、开篇到续写和编辑，全程辅助。
+灵感激发：遇到创作瓶颈时，作者用平台的提示词库和智能写作功能激发新的灵感。
+角色和世界观构建：用角色库和词条库，作者能系统地构建和管理小说中的角色和世界观。
+写作练习：新手作者通过模仿和练习提高写作技巧，平台提供的拆书仿写功能对此非常有帮助。
+内容优化：作者用AI编辑功能优化小说内容，提高作品质量。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"灵犀速写\",\"description\":\"AI小说创作工具，支持AI写作工作流\",\"url\":\"https://aistool.orgaixiezuogongju/lingxisuxie/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/08/lingxisuxie-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"灵犀速写"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/08/lingxisuxie-logo.png","alt":"灵犀速写","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"灵犀速写"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI小说创作工具，支持AI写作工作流"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","845",{"href":"/aibangonggongju/zapier-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Zapier AI"}],["$","a","1354",{"href":"/aishipingongju/pexo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pexo"}],["$","a","467",{"href":"/aituxianggongju/qiantushejishiaizhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千图设计室AI助手"}],["$","a","723",{"href":"/aishipingongju/veed-video-background-remover/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Veed Video Background Remover"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","585",{"href":"/aituxianggongju/wanxiangyingzao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"万相营造"}]
+5:["$","a","875",{"href":"/aibangonggongju/dingdingxiegang“/”/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"钉钉斜杠“/”"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

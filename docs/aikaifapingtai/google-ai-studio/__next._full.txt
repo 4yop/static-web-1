@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aikaifapingtai","google-ai-studio",""],"q":"","i":false,"f":[[["",{"children":[["category","aikaifapingtai","d",null],{"children":[["tool","google-ai-studio","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/08/Google-AI-Studio-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tcdc,
+                Google AI Studio是什么
+Google AI Studio 是 Google 推出的基于浏览器的免费集成开发环境（IDE），让开发者、研究人员和技术爱好者能快速、直观地访问和实验 Google 最先进的生成式 AI 模型（例如 Gemini 系列），并进行快速原型设计和应用开发免费的在线平台，用户能体验和测试 Google 最新的 AI 模型，无需任何费用。
+Google AI Studio提供了多种功能，包括聊天、生成图像、总结视频、分析音频等，适合从初学者到专业开发者的各类用户。用户能快速测试想法、创建项目，并 AI 功能与其他 Google 工具结合使用。Google AI Studio 是多功能的 AI 实验室，让每个人都能轻松探索和利用 AI 的潜力。
+
+Google AI Studio的主要功能
+Google AI Studio 的功能设计围绕着 “快速实验” 和 “轻松集成” 两大目标：
+
+多模态支持：支持文本、图像、音频等多种数据形式的输入和处理。
+快速提示工程与原型设计：提供自由形式提示（直接输入指令）、结构化提示（通过示例教模型学习模式）和聊天提示（模拟多轮对话）三种方式，让你快速测试不同想法。
+模型选择与微调：可以访问 Gemini 系列的不同模型（如 Gemini Pro、Gemini Pro Vision等），并调整温度（Temperature）、Top-K、Top-P等参数来控制模型输出的随机性、准确性和创造性。
+一键代码导出与API集成：当你对实验结果满意后，可以一键生成多种编程语言（如Python, JavaScript, Swift等）的代码片段，轻松将AI功能集成到自己的应用程序中。
+丰富的应用开发支持：提供了实时API交互测试、用量控制台等功能，帮助你更好地管理和部署AI应用。
+
+如何使用Google AI Studio
+
+注册与登录：访问 Google AI Studio 官网 https://aistudio.google.com/ ，完成账号注册和登录。
+进入控制台：登录后，进入Google AI Studio控制台。
+
+模型探索与测试：
+
+
+在主界面，能看到 Google 提供的各种 AI 模型。
+
+
+选择一个模型，输入提示词（prompt），点击“生成”按钮，能看到模型的输出结果。
+
+
+调整提示词和模型参数，获得更符合需求的响应。
+
+
+
+
+应用构建与部署：
+
+
+选择“构建应用”功能，输入想法或提示词。
+
+
+Google AI Studio 根据提示词生成代码框架，或进一步编辑和优化代码。
+
+
+完成后，将应用部署到云端或本地环境，并分享给其他人。
+
+
+
+
+资源管理：
+
+
+在“运营管理”部分，能查看和管理 API 密钥、计费信息和项目。
+
+
+设置资源使用限额，确保不会超出预算。
+
+
+
+
+
+Google AI Studio的应用场景
+
+内容创作：生成文本、图像和视频内容，用在社交媒体、广告、产品展示等。
+教育与学习：提供学习材料、虚拟助教和个性化学习计划，帮助学生和教育工作者。
+企业级应用：构建智能聊天机器人，生成市场营销内容，优化产品开发流程。
+开发与技术：生成代码片段，快速构建应用原型，部署应用到云端或本地环境。
+医疗与健康：提供医疗咨询、症状分析、健康建议和医学研究支持。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Google AI Studio\",\"description\":\"免费体验和测试 Google 最新的 AI 模型\",\"url\":\"https://aistool.orgaikaifapingtai/google-ai-studio/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/08/Google-AI-Studio-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Google AI Studio"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/08/Google-AI-Studio-icon.png","alt":"Google AI Studio","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Google AI Studio"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"免费体验和测试 Google 最新的 AI 模型"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","112",{"href":"/ailiaotianzhushou/stable-chat/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Stable Chat"}],"$L13","$L14","$L15","$L16","$L17"]}]]}]]}]]}]
+13:["$","a","923",{"href":"/aibangonggongju/ajelix/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Ajelix"}]
+14:["$","a","1153",{"href":"/aixunlianmoxing/llama-3/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Llama 3"}]
+15:["$","a","339",{"href":"/aixiezuogongju/zhangqiaokeyanailunwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"掌桥科研AI论文"}]
+16:["$","a","1301",{"href":"/aituxianggongju/airbrush/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AirBrush"}]
+17:["$","a","41",{"href":"/aizhinengti/crepal/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CrePal"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Google AI Studio | AIStool"}],["$","meta","1",{"name":"description","content":"Google AI Studio 是 Google 推出的基于浏览器的免费集成开发环境（IDE），让开发者、研究人员和技术爱好者能快速、直观地访问和实验 Google 最先进的生成式 AI 模型（例如 Gemini 系列），并进行快速原型设计和应用开发免费的在线平台，用户能体验和测试 Google 最新的 AI 模型，无需任何费用。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaikaifapingtai/google-ai-studio/"}],["$","meta","3",{"property":"og:title","content":"Google AI Studio"}],["$","meta","4",{"property":"og:description","content":"Google AI Studio 是 Google 推出的基于浏览器的免费集成开发环境（IDE），让开发者、研究人员和技术爱好者能快速、直观地访问和实验 Google 最先进的生成式 AI 模型（例如 Gemini 系列），并进行快速原型设计和应用开发免费的在线平台，用户能体验和测试 Google 最新的 AI 模型，无需任何费用。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaikaifapingtai/google-ai-studio/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/08/Google-AI-Studio-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Google AI Studio"}],["$","meta","10",{"name":"twitter:description","content":"Google AI Studio 是 Google 推出的基于浏览器的免费集成开发环境（IDE），让开发者、研究人员和技术爱好者能快速、直观地访问和实验 Google 最先进的生成式 AI 模型（例如 Gemini 系列），并进行快速原型设计和应用开发免费的在线平台，用户能体验和测试 Google 最新的 AI 模型，无需任何费用。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/08/Google-AI-Studio-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","13",{}]]

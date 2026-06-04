@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aixiezuogongju","qianbiailunwen",""],"q":"","i":false,"f":[[["",{"children":[["category","aixiezuogongju","d",null],{"children":[["tool","qianbiailunwen","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2024/01/aipaperpass-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Ta96,
+                千笔AI论文（原AIPaperPass）是全网首家免费改稿AI论文写作平台，5分钟可产出5万字，提供真实网络数据、图、表、公式、代码，不限次2000字3级大纲，附带PPT、开题报告、任务书、40篇真实参考文献。知网AIGC率超25%退费，重复率超15%退费。千笔AI论文融合了先进的AI技术与丰富的学术资源，为用户提供了全面的论文写作支持，包括但不限于论文写作辅助、研究建议与指导、文献综述生成和论文修订与优化。
+
+千笔AI论文的主要功能
+
+高效高质量的内容产出：千笔AI论文能在短短10分钟内产出高达3万字的高质量论文内容，保证质量领先于行业标准。
+个性化大纲定制：平台提供免费的千字级论文大纲，并允许无限次编辑，以满足用户对个性化内容的需求。
+权威参考文献保障：千笔AI论文确保所提供的40篇参考文献均来自知网和中科院，确保内容的可靠性和可追溯性，
+详尽的开题报告与任务书：千笔AI论文提供约五千字的详尽开题报告和任务书，帮助用户清晰规划研究方向。
+期刊论文撰写支持：千笔AI论文的服务覆盖期刊论文的撰写，轻松应对高度的专业知识和学术挑战。
+全方位文献综述服务：平台提供中英文文献综述，以及精准的摘要编写，更好地理解相关领域的研究进展和趋势
+多样致谢模板：千笔AI论文提供5篇不同风格的致谢模板，让论文更加完整和满足个性化表达的需求。
+论文PPT制作：千笔AI论文提供约30页的AI辅助PPT制作服务，让论文演示和答辩更加专业和引人注目。
+
+如何使用千笔AI论文
+
+访问千笔AI论文的官网（aipaperpass.com），选择学位教育阶段（如专科、本科、研究生）
+选择科目方向（如哲学、经济学、文学等），并输入完整的论文题目
+点击生成大纲，稍等1分钟左右大纲即可创作完毕，然后点击生成全文
+支付订单后等待论文初稿生成，然后下载论文文件即可
+
+千笔AI论文的产品价格
+
+论文初稿的价格为：专科约1万字为49.9元、本科2万字为49.9元、研究生3万字为69.9元
+附加服务：开题报告：4.9元、任务书：4.9元、答辩汇报PPT：19.9元
+
+常见问题
+
+
+千笔AI论文提供免费体验吗？
+千笔AI论文提供免费3000字的论文大纲生成。
+
+
+千笔AI论文生成的论文重复率为多少？
+千笔AI论文生成的论文重复率在10%以内。
+
+
+千笔AI论文生成的论文带有参考文献吗？
+千笔AI论文提供40篇真实的中英文知网、中科院参考文献。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"千笔AI论文\",\"description\":\"全网首家论文无限改稿平台\",\"url\":\"https://aistool.orgaixiezuogongju/qianbiailunwen/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/01/aipaperpass-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"千笔AI论文"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/01/aipaperpass-icon.png","alt":"千笔AI论文","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"千笔AI论文"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"全网首家论文无限改稿平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1321",{"href":"/aiyinpingongju/xunfeiyizhi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞译制"}],["$","a","971",{"href":"/aiyinpingongju/fryderyk/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Fryderyk"}],["$","a","412",{"href":"/aixiezuogongju/prowritingaid/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ProWritingAid"}],["$","a","936",{"href":"/aiyinpingongju/haimianyinyue/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"海绵音乐"}],"$L13","$L14"]}]]}]]}]]}]
+13:["$","a","160",{"href":"/aibianchenggongju/devchat/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DevChat"}]
+14:["$","a","630",{"href":"/aishipingongju/boba/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Boba"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"千笔AI论文 | AIStool"}],["$","meta","1",{"name":"description","content":"千笔AI论文（原AIPaperPass）是全网首家免费改稿AI论文写作平台，5分钟可产出5万字，提供真实网络数据、图、表、公式、代码，不限次2000字3级大纲，附带PPT、开题报告、任务书、40篇真实参考文献。知网AIGC率超25%退费，重复率超15%退费。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaixiezuogongju/qianbiailunwen/"}],["$","meta","3",{"property":"og:title","content":"千笔AI论文"}],["$","meta","4",{"property":"og:description","content":"千笔AI论文（原AIPaperPass）是全网首家免费改稿AI论文写作平台，5分钟可产出5万字，提供真实网络数据、图、表、公式、代码，不限次2000字3级大纲，附带PPT、开题报告、任务书、40篇真实参考文献。知网AIGC率超25%退费，重复率超15%退费。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaixiezuogongju/qianbiailunwen/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2024/01/aipaperpass-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"千笔AI论文"}],["$","meta","10",{"name":"twitter:description","content":"千笔AI论文（原AIPaperPass）是全网首家免费改稿AI论文写作平台，5分钟可产出5万字，提供真实网络数据、图、表、公式、代码，不限次2000字3级大纲，附带PPT、开题报告、任务书、40篇真实参考文献。知网AIGC率超25%退费，重复率超15%退费。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2024/01/aipaperpass-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","13",{}]]

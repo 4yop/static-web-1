@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/PromptFolder-logo.png","image"]
+3:Tb88,
+                PromptFolder是什么
+PromptFolder 是专为 AI 提示词管理设计的工具，适用 ChatGPT、Midjourney 等 AI 应用程序。PromptFolder 能帮助用户高效组织、编辑和存储提示词，支持创建文件夹进行分类，提供高级编辑器优化表达。PromptFolder具备 SEO 标题生成、低难度关键词查找和博客创意生成等实用功能。工具界面简洁直观，支持浏览器扩展，方便用户在使用 AI 工具时快速调用提示词，提升工作效率和创作灵感。
+
+PromptFolder的主要功能
+
+提示词管理：用户能创建、编辑、删除和组织提示词，支持基于文件夹进行分类管理。
+高级编辑器：提供更强大的编辑功能，帮助优化提示词的表达和结构。
+浏览热门提示词：展示其他用户分享的热门提示词，帮助用户获取灵感。
+特定工具集成：提供如SEO标题生成器、低难度关键词查找器、博客创意生成器等实用工具。
+与AI工具集成：支持与ChatGPT、Midjourney等AI工具无缝对接，方便用户直接使用管理好的提示词。
+批量操作：支持批量移动或删除提示词，提升管理效率。
+
+如何使用PromptFolder
+
+注册与登录：访问 PromptFolder 官网：https://promptfolder.com/。按提示完成注册和登录。
+创建提示词：登录后进入主界面，点击“New Prompt”按钮，创建新的提示词。在编辑框中输入提示词内容，用高级编辑器优化表达。
+组织提示词：点击“New Folder”创建文件夹，对提示词进行分类。将提示词拖拽到相应的文件夹中，或基于右键菜单移动提示词。
+用特定工具：点击顶部菜单中的工具名称（如“SEO Meta Title Writer”或“Blog Post Idea Generator”）。根据工具提示输入相关信息，生成所需内容。
+与 AI 工具集成：在 PromptFolder 中编辑好的提示词直接复制粘贴到 ChatGPT 或 Midjourney 等 AI 工具中使用。
+浏览热门提示词：点击“Browse Trending Prompts”，查看其他用户分享的热门提示词，从中获取灵感。
+
+PromptFolder的应用场景
+
+内容创作辅助：PromptFolder 帮助创作者快速生成创意灵感，用优化的提示词生成高质量的文案、标题或故事大纲，提升写作效率。
+SEO 优化与关键词研究：用户快速找到低竞争度的关键词，优化内容的搜索引擎排名，提高网站流量。
+AI 提示词管理与复用：用户创建和管理自己的提示词文件夹，方便对常用的提示词进行分类、编辑和复用，提升 AI 工具的使用效率。
+团队协作与资源共享：支持多人协作，团队成员能共享和编辑提示词文件夹，促进团队内部的知识共享和协作效率。
+学习与社区互动：用户浏览平台上的热门提示词，学习其他用户的优秀实践，提升自己编写高效 AI 提示词的能力。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"PromptFolder\",\"description\":\" AI提示词生成和管理工具\",\"url\":\"https://aistool.orgaitishizhiling/promptfolder/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/PromptFolder-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aitishizhiling/","className":"hover:text-primary transition","children":"AI提示指令"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"PromptFolder"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/PromptFolder-logo.png","alt":"PromptFolder","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"PromptFolder"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","15",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI提示指令"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":" AI提示词生成和管理工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","960",{"href":"/aiyinpingongju/lovo-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LOVO AI"}],["$","a","934",{"href":"/aiyinpingongju/xunfeizhizuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞智作"}],["$","a","493",{"href":"/aituxianggongju/whee/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"WHEE"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1063",{"href":"/aikaifapingtai/dify/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Dify"}]
+5:["$","a","1142",{"href":"/aixunlianmoxing/cherry-studio/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Cherry Studio"}]
+6:["$","a","368",{"href":"/aixiezuogongju/novelai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"NovelAI"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

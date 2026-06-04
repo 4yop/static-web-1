@@ -1,0 +1,193 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/05/RHTV-logo.png","image"]
+3:T1978,
+                RHTV是什么
+RHTV 是 RunningHub 推出的原生 AI 无限画布创作工具，实现”真·人机协同”创作。RHTV 区别于传统”假画布 Agent”，将 AI 智能体直接嵌入画布内，用户通过自然语言指令可驱动其完成从需求分析、脚本策划、分镜生成到成片输出的全流程，无需跳转窗口。RHTV 背靠 10 万+模型与 13681 个 ComfyUI 节点的满血生态，覆盖图像、视频、音频、3D、文本五大模态，支持创作-分享-变现闭环，让个人创作者能拥有专业团队的产能。
+
+RHTV的主要功能
+
+
+原生画布智能体：AI 智能体常驻无限画布内，24 小时待命，用户无需跳出画布即可完成全部创作交互。
+
+
+自然语言驱动：输入一句话需求，智能体自动拆解任务、分析风格调性、规划执行路径并搭建工作流。
+
+
+透明化工作流：全流程以可视化节点树呈现，每一步模型调用、参数设置、生成逻辑 100% 可见，支持单节点精准修改。
+
+
+Anchor First 锚点先行：优先锁定核心视觉锚点（如产品原型、角色三视图），确保后续所有生成内容形象一致。
+
+
+全模态工业流水线：覆盖剧本/分镜脚本、图像生成、图生视频、配音配乐、3D 渲染、剪辑包装的一站式产出。
+
+
+ComfyUI 生态一键调用：打通 ComfyUI 与画布最后一公里，海量专业级工作流无需本地部署，直接云端调用。
+
+
+创作变现闭环：画布作品与模板可发布至社区，获得曝光与持续收益，形成创作-分享-赚钱生态。
+
+
+如何使用RHTV
+
+
+访问平台：访问RHTV官网 https://rhtv.ai/ 注册登录，直接进入浏览器端的无限画布，无需安装任何本地环境。
+
+
+下达指令：在画布底部输入框用自然语言描述需求，如”做一支科幻折叠屏手机 TVC 概念片”。
+
+
+配置模式：选择 Agent 执行策略、领域技能包和生成偏好（手动/自动），点击 GO 启动智能体。
+
+
+确认方案：审阅智能体生成的视觉风格、卖点挖掘、内容大纲与场景设计，确认后继续。
+
+
+锚点定稿：智能体在画布上创建产品定稿板或角色三视图，锁定后续所有片段必须保持一致的核心视觉锚点。
+
+
+节点执行：智能体以可视化节点树在画布上展开全流程，点击任意节点即可查看逻辑并单点修改，无需推翻重来。
+
+
+合成输出：确认所有节点后，智能体自动串联图像、视频、音频等模态，在画布内置剪辑器中完成最终成片。
+
+
+发布变现：将画布作品或工作流模板发布至社区，获得曝光并持续赚取收益。
+
+
+RHTV的关键信息和使用要求
+
+产品名称：RHTV（RunningHub TV）
+开发团队：RunningHub
+产品定位：原生 AI 智能体全能内容创作平台
+核心特色：无限画布 + 原生智能体 + ComfyUI 生态
+支持模态：图像、视频、音频、3D、文本
+模型/节点规模：10 万+ 模型，13681 个可用节点
+社区规模：10 万+ 社区 AI 应用，15000+ 日活开发者
+使用门槛：无需代码/部署，自然语言交互，浏览器即用
+商业模式：平台使用 + 创作内容/模板发布变现
+
+RHTV的核心优势
+
+
+
+
+
+
+
+
+
+
+
+真原生智能体，零跳转体验：区别于”画布+对话窗口”割裂式交互，智能体真正住在画布内，创作流不被打断。
+
+
+全流程白盒可控：拒绝黑盒盲盒，每个生成步骤以节点形式可视化呈现，哪里不对改哪里，无需推翻重来。
+
+
+生态无上限：能力天花板由全球开源社区 15000+ 开发者共同定义，Day 0 级更新速度，永不落伍。
+
+
+ComfyUI 零门槛：将原本需要本地部署、高学习成本的专业工作流，变为云端一键调用。
+
+
+一人即团队：从品牌策略、导演、分镜师到后期剪辑，智能体承担全部执行角色，用户只需做决策导演。
+
+
+
+
+
+
+RHTV的同类竞品对比
+
+
+
+对比维度
+RHTV
+LibTV
+TapNow
+
+
+
+
+开发团队
+RunningHub
+LiblibAI（哩布哩布AI）
+TapNow（香港）
+
+
+产品形态
+无限画布 + 原生常驻智能体
+无限画布 + 节点式工作流（人类+Agent 双入口）
+AI 原生创意画布（Tapflow 节点工作流）
+
+
+核心交互
+自然语言驱动，智能体常驻画布内 24 小时待命，零跳转
+拖拽节点精细创作 + OpenClaw 等 Agent 一句话自动执行
+可视化节点拖拽编排 + 自然语言指令，导演级调度
+
+
+工作流透明度
+100% 节点可视化，单节点精准修改，全流程白盒可控
+节点可视化，任意环节可修改复用，拒绝黑盒
+节点式编辑，支持单点参数微调与模型替换
+
+
+模型生态
+10 万+ 模型，13681 个 ComfyUI 节点，Day 0 级社区更新
+30+ 顶级模型聚合（Seedance、可灵、HappyHorse、Midjourney、Wan 等）
+多模型协同引擎（Veo、Kling、Midjourney、Runway、GPT 等）
+
+
+专业控制
+Anchor First 锚点先行，锁定角色/产品三视图确保全局一致
+20+ 专业工具：角色三视图、9/25 宫格分镜、电影级灯光、三维打光、视频提帧
+Cinema Lab 专业摄像机库、Spot to Edit 指哪改哪、角色一致性、虚拟模特
+
+
+使用门槛
+零代码，浏览器即用，无需本地部署
+网页即开即用，人类入口零门槛；Agent 入口需配置 Skill
+浏览器即用，内置模板库，新手友好兼顾专业控制
+
+
+创作闭环
+创作-分享-变现一体化，画布作品与模板可发布社区持续收益
+支持作品发布与模板共享，背靠 2000 万创作者社区
+TapTV 全球首个 AI 视觉开源社区，支持 Fork 复用完整工作流
+
+
+
+RHTV的应用场景
+
+
+AI 漫剧 / 真人短剧：自动创作剧本、锁定角色三视图、铺九宫格分镜、调用 Seedance 2.0 出片并内置剪辑，一站式完成漫剧或短剧制作。
+
+
+TVC / 广告片制作：输入产品卖点即可生成概念片，支持虚拟摄影机调用好莱坞级镜头，定点调光修材质，一人完成传统团队工作。
+
+
+电商视觉资产：一句话生成整套品牌视觉物料，白棚/户外/复古场景一键切换，虚拟模特换装换姿势，直接产出可上架素材。
+
+
+室内设计渲染：自然语言描述户型与风格，直接输出多角度空间效果图、软装搭配及平面布局图，画布上定点改材质换灯光。
+
+
+品牌 VI 全案：从 Logo 创意到名片、包装、海报、社媒素材，自动延展统一调性的完整视觉方案，无需外包。
+
+
+
+
+
+
+
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"RHTV\",\"description\":\"RunningHub 推出的原生 AI 无限画布创作工具\",\"url\":\"https://aistool.orgaishipingongju/rhtv/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/05/RHTV-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"RHTV"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/05/RHTV-logo.png","alt":"RHTV","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"RHTV"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"RunningHub 推出的原生 AI 无限画布创作工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1239",{"href":"/aixunlianmoxing/nano-banana/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Nano Banana"}],["$","a","1361",{"href":"/aishejigongju/miora/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Miora"}],["$","a","1415",{"href":"/aikaifapingtai/moma/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MoMA"}],["$","a","290",{"href":"/aituxianggongju/linglong/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"羚珑"}],["$","a","450",{"href":"/aituxianggongju/zaohaowu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"造好物"}],["$","a","532",{"href":"/aituxianggongju/nero-image-upscaler/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Nero Image Upscaler"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

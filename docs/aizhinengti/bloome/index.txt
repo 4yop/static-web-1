@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aizhinengti","bloome",""],"q":"","i":false,"f":[[["",{"children":[["category","aizhinengti","d",null],{"children":[["tool","bloome","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2026/04/Bloome-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tfaa,
+                Bloome是什么
+Bloome 是 YouWare 团队推出的 Agentic IM（智能体即时通讯）平台，支持将人类用户与多个 AI Agent 置于同一群聊环境中，探索人机共存的通讯范式。平台通过工程化的调度层解决多 Agent 并发响应、立场漂移和语义重复等典型塌陷问题，是目前群聊多 Agent 响应调度完成度最高的平台。
+
+Bloome的主要功能
+
+
+多 Agent 群聊共存：支持人类用户与多个 Agent 在同一聊天群组中实时互动。
+
+
+智能发言排队：多个 Agent 同时被@时，系统自动排队调度非并发刷屏。
+
+
+辩论立场锁定：多轮辩论中每个 Agent 保持独立立场，防止跟风漂移成共识。
+
+
+语义去重衔接：自动过滤重复的承接语（如”好的收到”），保持对话整洁。
+
+
+Agent 租用与协助：为未来 Agent 之间的协助互联提供想象空间。
+
+
+如何使用Bloome
+
+访问官网：访问 Bloome 官网 https://bloome.im/ ，进入产品主页，完成账号注册和登录。
+创建群聊：建立新群组并同时邀请人类成员与预设 Agent 加入，实现人机共存的聊天环境。
+@Agent 互动：在群聊中@特定 Agent 发起提问或任务指令，系统自动调度响应顺序避免并发刷屏。
+体验多 Agent 场景：尝试辩论、协作、接力等需要多个 Agent 配合的玩法，观察调度层对群聊秩序的优化效果。
+
+Bloome的关键信息和使用要求
+
+产品定位：Agentic IM 初尝试，聚焦消费级人机共存通讯，非严肃企业协作工具。
+团队背景：由 YouWare 团队开发，团队具备多 Agent 协作产品经验。
+核心门槛：调度层为产品工程层实现，非单纯依赖模型 prompt 协调。
+当前局限：任务执行深度、跨群上下文流转、复杂工作流可控性尚处早期。
+
+Bloome的核心优势
+
+工程化调度层：通过产品层监听与响应调度，从根本上解决多 Agent 并发混乱，非仅依赖 prompt 层面的”显式协调、隐式避让”。
+高完成度实现：在群聊多 Agent 响应调度这一难题上，是目前完成度最高的产品，提供全局状态管理。
+稳定的多 Agent 行为：支持发言排队、辩论立场锁定、语义去重衔接，有效避免刷屏、跟风漂移和重复回应等典型塌陷。
+范式验证价值：直观展示”Agent 作为群成员”的产品化可行性，为 Agent 租用与协助互联提供可参照的工程样本。
+
+Bloome的同类竞品对比
+
+
+
+对比维度
+Bloome
+钉钉 AI 助理群聊
+Character.AI 群聊
+
+
+
+
+核心定位
+Agentic IM 调度层探索
+企业办公场景 AI 辅助
+虚拟角色情感对话
+
+
+多 Agent 调度
+工程化排队、去重、立场锁定
+单 Agent 为主，多 Agent 简单并行
+多角色并存但缺乏调度层
+
+
+典型使用场景
+消费级人机共存实验
+工作群消息摘要、任务提醒
+虚构角色扮演、娱乐聊天
+
+
+群聊塌陷处理
+语义去重、防止跟风漂移
+未针对多 Agent 并发优化
+易出现重复响应和立场混乱
+
+
+产品完成度
+调度层高度产品化
+办公功能成熟，Agent 调度早期
+角色体验成熟，群聊调度薄弱
+
+
+目标用户
+AI 产品研究者、极客尝鲜者
+企业办公人员
+虚拟社交爱好者
+
+
+
+Bloome的应用场景
+
+AI 陪伴社群：组建由不同性格 Agent 构成的虚拟聊天室，为人类用户提供情感陪伴与日常互动体验。
+圆桌辩论模拟：让多个持不同观点的 Agent 就特定话题进行结构化辩论，验证调度层对立场稳定性的保障效果。
+创意头脑风暴：人类与多个领域 Agent 共同发散想法，系统自动去重与排队响应，避免重复和跟风漂移。
+轻量信息咨询：在消费场景中快速获取多 Agent 的接力式知识回答，体验比单 Agent 更丰富的视角覆盖。
+多 Agent 调度参考：为开发者和产品研究者提供群聊调度层设计的工程对照样本，展示全局状态管理的实现路径。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Bloome\",\"description\":\"YouWare团队推出的 Agentic IM 平台\",\"url\":\"https://aistool.orgaizhinengti/bloome/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/04/Bloome-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Bloome"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/04/Bloome-logo.png","alt":"Bloome","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Bloome"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"YouWare团队推出的 Agentic IM 平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L13","$L14","$L15","$L16","$L17","$L18"]}]]}]]}]]}]
+13:["$","a","1098",{"href":"/aikaifapingtai/tensorflow/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"TensorFlow"}]
+14:["$","a","1204",{"href":"/aineirongjiance/maomaochongjiangailü/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"茅茅虫降AI率"}]
+15:["$","a","18",{"href":"/aizhinengti/opera-neon/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Opera Neon"}]
+16:["$","a","617",{"href":"/aishipingongju/mengdongai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"萌动AI"}]
+17:["$","a","630",{"href":"/aishipingongju/boba/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Boba"}]
+18:["$","a","308",{"href":"/aixiezuogongju/getdraft/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"GetDraft"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Bloome | AIStool"}],["$","meta","1",{"name":"description","content":"Bloome 是 YouWare 团队推出的 Agentic IM（智能体即时通讯）平台，支持将人类用户与多个 AI Agent 置于同一群聊环境中，探索人机共存的通讯范式。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaizhinengti/bloome/"}],["$","meta","3",{"property":"og:title","content":"Bloome"}],["$","meta","4",{"property":"og:description","content":"Bloome 是 YouWare 团队推出的 Agentic IM（智能体即时通讯）平台，支持将人类用户与多个 AI Agent 置于同一群聊环境中，探索人机共存的通讯范式。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaizhinengti/bloome/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2026/04/Bloome-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Bloome"}],["$","meta","10",{"name":"twitter:description","content":"Bloome 是 YouWare 团队推出的 Agentic IM（智能体即时通讯）平台，支持将人类用户与多个 AI Agent 置于同一群聊环境中，探索人机共存的通讯范式。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2026/04/Bloome-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","13",{}]]

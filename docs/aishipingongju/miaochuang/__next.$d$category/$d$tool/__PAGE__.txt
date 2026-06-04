@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+b:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/09/yizhentv-logo.png","image"]
+3:T1222,
+                秒创是什么
+秒创（原一帧秒创）是基于秒创AIGC引擎的AI内容创作平台，为200万+创作者提供包括文字续写、文字转语音、文生图、图文转视频、AI成片、数字人播报等创作服务，产品包括秒创数字人、秒创AI帮写、秒创图文转视频、秒创AI视频、秒创AI语音、秒创AI作画等。
+
+秒创可以做什么？
+1. 秒创数字人
+智能数字人播报平台，输入文案，一键生成“真人”营销视频。AI数字人是以数字孪生等AI技术为基础，1:1还原真人形象、动作、神态、声音，无限逼近真人的数字分身。甚至还可以1:1还原真人形象+1:1还原真人音色，定制专属于您的数字人形象和声音，帮助您快速完成企业和个人IP打造，助力营销增长。
+
+2. 秒创图文转视频
+作为国内领先的智能内容创作平台，输入文案，智能匹配，AI将根据语意自动匹配画面，快速实现从文案到视频的制作，不仅支持文案、文章链接输入，同时也支持PPT文件导入，一键进行视频制作。画面匹配、智能配音、智能字幕等功能，AI都能完美实现。高效产出内容的同时，支持非常灵活的细节调整，文稿、音乐、配音、粗剪、LOGO、字幕、语速等功能，一应俱全。海量在线素材，可任意替换选择，一键图文成片。
+
+3. 秒创AI帮写
+智能文案写作平台，输入灵感，文思泉涌，出“手”成章。秒创提供短视频、营销、直播、风格文案4大类型AI帮写模板，全方位满足用户需求，甚至能直接输出直播脚本，大大提升运营和主播同学的效率。短视频内容、营销文案，秒创AI帮写统统都能帮你搞定。
+
+4. 秒创AI作画
+智能绘画生成平台，输入idea，灵感涌现，释放想象。只需输入作画文本关键词，描述出想要AI作画的场景画面，选择修饰词、艺术风格、艺术家风格，只需一键AI就可以自动生成精美绝伦的绘画作品。
+
+5. 秒创文字转语音
+秒创拥有独有的AI智能配音技术，一键输入文本自动完成配音，囊括全网热门发音人，56种AI配音可供选择，中文英文任意切换，输出的内容像真人一样，为创作者提供丰富的选择空间。
+
+AIGC创作平台秒创，依托强大的AI技术，识别文字语义，自动分镜头匹配素材，实现“自动化视频剪辑”，一键成片，一天轻松制作100条”高质量原创视频“。
+6.PPT转视频
+PPT转视频是秒创推出的新功能支持用户上传本地的PPT和PPTX文件，能将静态的幻灯片内容瞬间转化为动态的视频。
+
+备注解析成文案：用户可以在PPT的备注栏中输入文本，这些文本将被自动识别并转化为视频中的文案内容。
+矩阵化视频生成：通过智能技术，秒创平台能够将PPT内容矩阵化，生成视频，同时保留PPT中的所有文字和图片，使视频内容更加专业和精准。
+
+7.AI视频
+AI视频功能进行全面升级，新增了文生图与图生视频两大特性，支持多样的视频时长及比例选择。
+
+文字描述或图片素材转化为视频：提供文字描述或图片素材，转化为视觉作品。
+多种视频比例选项：平台提供了16:9、9:16、4:3等多种视频比例选项，适应不同场景下的应用需求。
+快速生成与一致性保证：确保输出内容的专业性和连贯性。
+
+秒创的产品价格
+目前秒创免费使用是完全没问题的，当然会员可享受更多权益。如果您对秒创有更高的使用需求，可以开通付费版，AI工具集专属渠道优惠18.8元（注册后7天内有效），截止时间2023.12.31。
+
+秒创的应用场景
+
+自媒体内容创作：自媒体作者可以用秒创平台将文字文章快速转化为吸引人的视频内容，提高粉丝互动和内容传播效果。
+企业营销推广：企业可以用秒创平台快速生成产品介绍、品牌宣传等营销视频，提升品牌形象和市场影响力。
+教育培训：教育机构和个人教师可以用秒创平台将教学资料转换为生动的视频课程，提升学习体验和教学效果。
+新闻媒体：新闻机构可以利用创平台快速将文字新闻转化为视频报道，适应现代受众的信息获取习惯。
+个人创作：普通用户可以用秒创平台简单易用的视频创作工具，实现个人创意的快速可视化。
+社交媒体运营：社交媒体运营者可以用秒创平台快速生成适合各平台的视频内容，提高账号活跃度和影响力。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"秒创\",\"description\":\"AIGC内容创作平台\",\"url\":\"https://aistool.orgaishipingongju/miaochuang/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/09/yizhentv-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"秒创"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/09/yizhentv-logo.png","alt":"秒创","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"秒创"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AIGC内容创作平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L4","$L5","$L6","$L7","$L8","$L9"]}]]}]]}]]}],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","658",{"href":"/aishipingongju/vimi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Vimi"}]
+5:["$","a","479",{"href":"/aituxianggongju/tukeli/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"图可丽"}]
+6:["$","a","20",{"href":"/aizhinengti/neodomain/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"NeoDomain"}]
+7:["$","a","1183",{"href":"/aixunlianmoxing/evidently-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Evidently AI"}]
+8:["$","a","811",{"href":"/aibangonggongju/tongyitingwu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"通义听悟"}]
+9:["$","a","871",{"href":"/aibangonggongju/caiyunxiaoyi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"彩云小译"}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/05/VibePaper-icon.png","image"]
+3:T1de3,
+                VibePaper是什么
+VibePaper是面向短剧制作公司和专业创作者的AI协作工作台。别人的画布上只有你一个人，VibePaper的画布上有你，还有一支AI团队——策划、编剧、视觉、剪辑四个Agent各司其职，由Gemini 3.1 Pro、GPT-5.4、Claude Opus 4.6、Seedance 2.0、Kling 3.0 Omni等顶级模型驱动，在节点式无限画布上透明协作。支持AI漫剧、商业广告片等多场景创作需求，从脚本到成片全链路在一张画布内闭环，AI负责执行一切，品味留给核心团队。
+
+VibePaper的主要功能
+
+AI编剧：由Gemini 3.1 Pro等主流大语言模型驱动，强上下文能力贯穿全流程。输入创作方向或上传参考剧本，自动生成包含角色设定、场景描述、分集剧情的结构化脚本。支持漫剧（都市、古风、悬疑、甜宠等主流题材）、商业片（产品卖点拆解、品牌广告脚本）等多条创作路径。
+AI分镜：根据脚本自动拆解逐镜头分镜，规划画面构图、角色站位、镜头运动与转场效果，输出结构化分镜表，含角色三视图与多机位调度方案。漫剧与商业片分镜逻辑分别优化。
+连线式图像生成： 集成GPT-Image-2、Banana Pro、Seedream 5.0等图像模型。参考图与生成节点直接连线，角色形象、场景风格精准传递，保证漫剧全集与商业片全程人物、场景、道具等视觉一致性。任意节点可单独修改重跑，不影响其他节点。
+连线式视频生成：集成Seedance 2.0、Kling 3.0 Omni、Veo 3.1等视频模型。分镜或图片转化为高质量连贯视频，支持漫剧、仿真人剧等多种风格，商业片按产品场景调用最适合的模型。
+视频后期处理： 内置超分、视频拼接与剪辑功能，素材直接在画布内完成后期，无需导出至第三方工具。
+AI配音与字幕： 内置AI配音与字幕生成，支持多语言版本，输出可直接发布至抖音、快手、小红书的竖屏高清成片。
+画布辅助工具： 内置扩图、九宫格一键裁剪、图片裁剪等高频实用功能，覆盖制作全流程小需求。
+团队共创画布： 多人共享同一画布，资料、版本、修改记录集中可见，新成员打开画布即可了解项目全貌。
+记忆沉淀： 品牌语气、视觉规范、历史项目沉淀为团队长期记忆，Agent直接调用，创作经验不随人员变动流失。
+批量生产线： 工作流跑通后保存为模板，替换商品、卖点或平台尺寸，批量出片，竖横方版一键适配。
+
+如何使用VibePaper
+
+访问平台：打开网页 https://vibepaper-ai.com/ ，注册账号，进入画布，从空白或模板开始。
+
+输入创作目标：编剧Agent选用合适的大语言模型拆解brief，生成结构化脚本。
+
+
+生成分镜：分镜Agent根据脚本自动拆解分镜表，不满意的节点单独返工，其余保留。
+
+
+生成与调整视觉：连线参考图，视觉Agent按分镜生成画面，单个镜头可独立精调，不影响其他节点。
+
+
+视频成片：视频Agent将图片或分镜转化为连贯视频，内置后期工具完成剪辑、超分、配音、字幕。
+
+
+保存模板：保存工作流为模板，团队下次直接复用，或替换内容批量出片。
+
+
+VibePaper的关键信息和使用要求
+
+产品定位：短剧制作公司与专业创作者的AI协作工作台。
+核心形态：节点式无限画布 + 四Agent协同。
+驱动模型：Gemini 3.1 Pro、GPT-5.4、Claude Opus 4.6、Seedance 2.0、Kling 3.0 Omni等。
+主要场景：AI漫剧、仿真人短剧、商业广告片。
+计费模式：按月订阅，支持包月会员、购买点数、企业服务。
+团队功能：共享画布、多人协作、版本可追溯。
+平台适配：抖音、快手、小红书、B站，竖横方版一键切换。
+
+VibePaper的产品定价
+按月订阅，同时支持包月会员、购买点数、企业服务三种方式。
+
+Basic：每月79元 每月490积分，最多约245张图/61个视频。生成并发x4，解锁Paper Agent；文字模型：Gemini 3.1 Pro、Gemini 3.0 Flash、GPT-5.4、Claude Opus 4.6、Claude Sonnet 4.6、Kimi K2.5、Seed 2.0 Mini；图像模型：Imagen 3系列、GPT-Image-2、Wan 2.7 Image Pro、Seedream 5.0、Midjourney V7；视频模型：Seedance 2.0、Seedance 2.0 Fast、Kling 3.0 Omni、Vidu q3 Pro、Wan 2.7、Veo 3.1。
+Pro：每月199元 每月1260积分，最多约630张图/157个视频。生成并发x8，解锁Paper Agent；文字、图像、视频模型同上。
+Pro+：每月419元 每月2800积分，最多约1400张图/350个视频。无限并发，解锁Paper Agent；文字、图像、视频模型同上。
+Ultra：每月819元 每月5600积分，最多约2800张图/700个视频。无限并发，解锁Paper Agent；文字、图像、视频模型同上。
+企业服务支持定制方案，可联系官方获取报价。
+
+VibePaper的核心优势
+
+节点级返工：改一个镜头只重跑该节点，不影响其余内容，反复打磨不赌整条片子。
+连线保一致： 参考图与生成节点直接连线，角色形象、场景风格全程锁定，漫剧全集与商业片视觉不跑偏。
+AI团队分工： 策划、编剧、视觉、剪辑四个Agent各司其职，由顶级大语言模型驱动，过程透明可干预。
+团队记忆沉淀： 品牌标准、制作经验、历史项目留在画布里，新人上手快，团队扩张不从零开始。
+全链路不出画布： 从脚本到成片，图像、视频、后期、配音、字幕全部在一张画布内完成，不切工具不丢上下文。
+
+VibePaper的应用场景
+
+短剧制作公司： 多人分工协作，策划、编剧、视觉、剪辑Agent配合团队各角色并行推进，风格标准沉淀为团队记忆，系列内容批量生产，新人快速上手。
+专业短剧创作者： 四个Agent补齐执行侧人力，创作者保留每个关键决策的控制权，漫剧与仿真人剧全流程在一张画布上完成。
+商业广告团队： 品牌视觉资产连线复用，产品卖点拆解至脚本，多版本适配不同平台，批量出片。
+
+VibePaper的常见问题
+Q：VibePaper 和普通 AI 视频生成工具（如即梦、可灵）有什么区别？
+
+A： 传统工具侧重”输入 prompt → 输出视频”的单点生成，VibePaper 则提供从 brief 到成片的完整工作流。它将创作拆解为可独立编辑的节点（脚本、分镜、镜头、配音等），改哪步只重跑哪步，并支持多 Agent 协同和团队模板复用，更适合需要精细控制和批量生产的团队。
+
+
+Q：修改一个镜头真的不会影响其他部分吗？
+
+A： 是的。节点式架构下，每个元素（脚本、分镜、单个镜头、配音轨等）都是独立节点。修改第 51 秒的镜头时，前 50 秒的节点状态保持不变，Agent 仅针对该节点重新生成，整体链路不受破坏。
+
+
+Q：支持哪些视频生成模型？
+
+A： 平台集成主流视频生成模型，视觉 Agent 会根据当前分镜场景自动调用最适合的模型。具体支持列表建议以官网实时更新为准。
+
+
+Q：团队如何协作？需要每个人都订阅吗？
+
+A： 多人可围绕同一画布实时协作，资料、版本、决策集中管理。具体团队权限与计费模式建议参考官网定价方案。
+
+
+Q：品牌规范如何沉淀为长期记忆？
+A： 在创作过程中，品牌语气、产品信息、视觉规范、历史爆款等会被系统自动提取并沉淀。后续 Agent 在生成新内容时会主动调用这些记忆，确保风格统一。
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"VibePaper\",\"description\":\"短剧制作团队的AI协作工作台，节点式无限画布\",\"url\":\"https://aistool.orgaishipingongju/vibepaper/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/05/VibePaper-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"VibePaper"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/05/VibePaper-icon.png","alt":"VibePaper","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"VibePaper"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"短剧制作团队的AI协作工作台，节点式无限画布"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","458",{"href":"/aituxianggongju/wantukoutu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"顽兔抠图"}],["$","a","1404",{"href":"/aishipingongju/rhtv/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"RHTV"}],["$","a","1379",{"href":"/aizhinengti/maxhermes/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MaxHermes"}],["$","a","1130",{"href":"/aixuexiwangzhan/ml-for-beginners/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ML for Beginners"}],["$","a","1214",{"href":"/aitishizhiling/ai-short/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AI Short"}],["$","a","1271",{"href":"/aibianchenggongju/opencode/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"OpenCode"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

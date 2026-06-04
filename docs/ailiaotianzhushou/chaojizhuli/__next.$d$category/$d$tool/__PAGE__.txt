@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/12/superagent-icon.png","image"]
+3:Td47,
+                超级助理是什么？
+超级助理是百度智能云推出的一款基于文心一言的AI原生应用和伴随式Copilot助理，是一个功能强大、使用方便、面向所有人应用的智能助手，可满足日常生活和工作中的各种需求。无论是浏览网页、深入阅读长篇文档，还是高效的信息服务，超级助理都能提供无缝的体验。超级助理不仅是您的信息获取助手，更是您的创意伙伴。它能够基于您的需求生成专业、富有创意的文案，让创作变得轻而易举，提供更加智能、高效的工作和生活方式。
+
+超级助理的主要功能
+
+划选快捷指令：划选网页内容，一键实现解释、总结、翻译、纠错、改写、扩写、续写、知识问答等AI原生应用能力
+自定义指令：划选网页内容后可以输入自定义Prompt，将自己的想法与大模型相融合，探索AI原生的无限可能
+网页解读：页面右下角按钮一键解读，同时可针对网页内容进行问答
+文件解读：点击文件解读上传文件，打开网页版进行PDF沉浸阅读，即可提供沉浸式阅读，支持划选指令、摘要总结、智能问答等能力
+全文对照式翻译：非中文网站支持对照式翻译，同时展示原文与译文，阅读外文网站不带怕的
+图片OCR识别：当鼠标hover到图片上时，图片右下角会出现“OCR”的浮标，点击后可解析图片上的文字
+搜索增强：用大模型增强你的企业搜索结果，探索会话式搜索新体验，让知识扑面而来
+聊天机器人：在如流端外也能与超级助理畅快交流，享受与端内一致的聊天体验；可调用各类插件，还能结合网页全文进行总结和问答
+
+
+超级助理的应用场景
+
+知识查询与学习：公司政策与文档解读、行业知识的精准获取、智能推荐，拓展学习、专业术语解释，拓展边界
+科研论文深度解读：沉浸式论文阅读、互动式知识点探讨、观点批注功能、名词定义快速查阅、段落精读与总结
+市场洞察与分析：行业报告解读、市场深度分析、市场知识点精准探讨
+掌握全球视野：无障碍英文阅读，支持全页深度翻译和互动式即时翻译
+文案创作：简历优化、内容创作、爆款文案生成
+AI聊天：机器人聊天、多模态交互、网络访问
+任务调度：创建日程、创建会议、查找文档
+
+如何使用超级助理
+
+访问超级助理的官网，点击下载插件
+将下载到本地的压缩包进行解压
+点击浏览器扩展程序->管理扩展程序
+点击加载已解压的扩展程序，上传解压后的压缩包
+上传成功后即可看到超级助理插件，打开插件
+在浏览器右上角点击安装好的超级助理，登录百度账号后即可使用
+浏览器打开任意网页或文件，点击右下角超级助理的悬浮图标便可使用其功能
+
+常见问题
+
+
+超级助理是免费的吗？
+超级助理目前处于免费公测中，所有用户都可以免费使用。
+
+
+超级助理支持哪些平台？
+超级助理目前提供浏览器插件版，后续会推出独立的PC端和移动端应用。
+
+
+超级助理的插件支持哪些浏览器？
+超级助理目前的插件支持以Chromium内核的浏览器，如常见的Chrome浏览器、Edge浏览器、QQ浏览器等。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"超级助理\",\"description\":\"百度智能云发布的基于文心一言的AI原生应用和Copilot“超级助理”\",\"url\":\"https://aistool.orgailiaotianzhushou/chaojizhuli/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/12/superagent-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/ailiaotianzhushou/","className":"hover:text-primary transition","children":"AI聊天助手"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"超级助理"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/12/superagent-icon.png","alt":"超级助理","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"超级助理"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","6",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI聊天助手"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"百度智能云发布的基于文心一言的AI原生应用和Copilot“超级助理”"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","480",{"href":"/aituxianggongju/hotpot-ai-background-remover/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Hotpot AI Background Remover"}],["$","a","1412",{"href":"/aikaifapingtai/fangzhou-agent-plan/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"方舟 Agent Plan"}],["$","a","1326",{"href":"/aiyinpingongju/yinshuai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"音述AI"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","829",{"href":"/aibangonggongju/zhaowoya/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"找我呀"}]
+5:["$","a","302",{"href":"/aixiezuogongju/gaoyiailunwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"稿易AI论文"}]
+6:["$","a","1341",{"href":"/aizhinengti/winclaw/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"WinClaw"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

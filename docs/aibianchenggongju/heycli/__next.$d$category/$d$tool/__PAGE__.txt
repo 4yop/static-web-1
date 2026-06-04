@@ -1,0 +1,72 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/03/heycli-icon.png","image"]
+3:Ta09,
+                HeyCLI是什么
+HeyCLI 是基于 AI技术的命令行工具，能帮助用户通过简单的指令完成复杂的 Linux 命令操作。工具支持 Linux 和 macOS 系统，用户无需记忆繁琐的命令语法，只需用自然语言描述需求，HeyCLI 能自动转换为相应的 Linux 命令并、执行。工具具备命令历史管理、错误调试等功能，适合新手和开发者使用，能有效提升命令行操作的效率和便捷性。
+
+HeyCLI的主要功能
+
+
+自然语言命令转换：HeyCLI 能将用户用自然语言描述的操作需求，精准地转换为对应的 Linux 命令，让用户无需记忆复杂的命令语法。
+
+
+命令行调试功能：HeyCLI 支持对 Python、Node.js、kubectl、gcloud、AWS 等多种命令的错误进行调试，帮助用户快速定位、解决问题。
+
+
+命令历史管理：上传用户的命令历史记录，更好地提供个性化建议和上下文支持，提升用户体验。
+
+
+多平台兼容性：支持 Linux 和 macOS 系统，未来计划扩展到更多平台，满足更广泛的用户需求。
+
+
+命令解释功能：提供详细的命令解释，帮助用户更好地理解命令的作用和用法。
+
+
+如何使用HeyCLI
+
+
+下载脚本：在终端中运行 wget -q https://raw.githubusercontent.com/HeyCLI/heyCLI/main/heycli_client.sh -O ~/.heycli_client.sh 下载 HeyCLI 安装脚本。
+
+
+源文件：通过运行 source ~/.heycli_client.sh 将脚本加载到当前会话中。
+
+
+获取 API 密钥：访问 https://signup.heycli.com/ 获取一个 API 密钥。
+
+
+设置环境变量：在终端中运行 export HEYCLI_API_KEY=<your_api_key> 设置 API 密钥。
+
+
+（可选）设置上下文：运行 hey setup 上传命令历史、优化建议和回答。
+
+
+开始使用：输入以“hey”开头的自然语言指令，如“hey list all files in the current directory”，HeyCLI 将自动转换，执行相应的 Linux 命令。
+
+
+HeyCLI的应用场景
+
+
+新手入门：帮助新手快速上手 Linux 命令行操作，无需记忆复杂命令，通过自然语言即可完成任务。
+
+
+开发人员：开发人员快速执行命令，节省查找命令的时间，提升开发效率。
+
+
+命令调试：在遇到命令错误时，帮助调试 Python、Node.js、kubectl 等命令，快速定位解决问题。
+
+
+多平台操作：支持 Linux 和 macOS，方便用户在不同操作系统中使用。
+
+
+命令历史管理：通过上传命令历史，提供更个性化的建议和上下文支持，帮助用户更好地管理命令历史。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"HeyCLI\",\"description\":\"自然语言转义为CLI命令\",\"url\":\"https://aistool.orgaibianchenggongju/heycli/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/03/heycli-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibianchenggongju/","className":"hover:text-primary transition","children":"AI编程工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"HeyCLI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/03/heycli-icon.png","alt":"HeyCLI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"HeyCLI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","7",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI编程工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"自然语言转义为CLI命令"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","669",{"href":"/aishipingongju/pixfun/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pixfun"}],["$","a","77",{"href":"/ailiaotianzhushou/tiangongai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"天工AI"}],["$","a","555",{"href":"/aituxianggongju/gaodingaibianqingxi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"稿定AI变清晰"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1205",{"href":"/aineirongjiance/xueshucha/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"学术猹"}]
+5:["$","a","1006",{"href":"/aiyinpingongju/listnr/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Listnr"}]
+6:["$","a","539",{"href":"/aituxianggongju/huiwaaixiaochu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"绘蛙AI消除"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

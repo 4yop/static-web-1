@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/09/creao.ai-logo.png","image"]
+3:Tf65,
+                CREAO是什么
+CREAO 是创新的零代码AI应用开发平台，用户通过简单的描述构建完整应用程序。用户只需描述需求，CREAO 的 AI 将自动处理后端、数据库和托管等复杂基础设施，无需编程。提供丰富的集成库，支持流行的工具和应用，用户可以通过 API 或 MCP 服务器连接自定义工具，创建强大的 AI 工作流。每个应用内置了强大的 AI 智能体，帮助用户完成工作。 CREAO 成为 AI 原生应用的新标准，提供全应用上下文的 AI 助手、内置的后端和数据库，以及可处理复杂工作流的全功能应用。
+
+CREAO的主要功能
+
+
+通过描述构建应用：用户只需描述需求，CREAO的AI会处理后端、数据库和托管等复杂基础设施，无需编码即可构建完整应用。
+
+
+一键集成工具：提供丰富的集成库，支持流行的工具和应用，用户可以通过API或MCP服务器连接自定义工具，创建强大的AI驱动工作流。
+
+
+内置AI助手：每个应用都内置了强大的AI助手，具备智能代理能力，帮助用户完成工作。
+
+
+AI原生应用标准：提供全应用上下文的AI助手、内置的后端和数据库，以及可处理复杂工作流的全功能应用。
+
+
+Mermaid 图表可视化：CREAO 开发的小工具，可以将 Mermaid 代码渲染成动态图表，具有纸张质感的卡片、大胆的材质颜色、点击波纹效果、平滑过渡和微交互功能。
+
+
+实时演示与测试：用户可以将 Mermaid 代码放入回复中，测试该工具的性能。
+
+
+如何使用CREAO
+
+访问平台：访问CREAO 官网：https://creao.ai/ ，注册或登录。
+
+描述需求：用户通过简单的文字描述告诉 CREAO想要什么工具。例如，你可以说“创建一个仪表盘来跟踪我的 Twitter 互动情况，并将结果导出为 CSV 文件”。
+
+
+自动构建应用：CREAO的 AI 会理解用户的意图，自动构建相应的工具，连接到用户指定的 API。在用户提出想法的瞬间，AOS 会自动完成前端交互界面、后端数据库架构、服务器逻辑乃至核心 Creao Agent 的同步构建与部署。
+
+
+集成工具：用户可以使用CREAO 提供的丰富集成库，连接流行的工具和应用，或者通过 API 或 MCP 服务器连接自定义工具，创建强大的 AI 驱动工作流。
+
+
+使用内置 AI 助手：每个应用都内置了强大的 AI 助手，具备智能代理能力，帮助用户完成工作。
+
+
+CREAO的产品定价
+
+免费版（Free）：提供30个积分/月。
+
+无需信用卡即可开始使用
+可以从简单的语言构建完整的 AI 本地应用程序
+无摩擦地集成官方 API 和 MCP
+应用原生 Copilot 可自动化复杂任务（测试版）
+不需要信用卡或编码经验
+
+
+专业版（Pro）：$12.50 每月（提供250个积分/月）
+
+
+包含免费版所有功能
+
+
+为复杂构建提供高级代码代理
+
+
+定制 API 和 MCP 集成
+
+
+源代码和数据库可见性
+
+
+提前访问高级功能
+
+
+
+
+CREAO的适用人群
+
+
+资深程序员：他们参与复杂系统的维护，需要 AI 快速理解项目架构和需求，进行模块迭代和问题排查。
+
+
+Vibe Coder：需要从0到1快速验证想法，希望得到一个完整产品来找到目标用户。
+
+
+企业用户：需要创建定制化智能体解决业务问题，寻求智能客服解决方案，或希望用智能体进行品牌营销和用户互动。
+
+
+内容创作者：包括希望创建知识型智能体的教育工作者和需要创建IP数字分身的创作者。
+
+
+开发者群体：对AI应用开发感兴趣的开发者，希望通过可视化方式创建应用的低代码开发爱好者，以及需要快速验证AI产品概念的产品经理。
+
+
+普通用户：对AI技术感兴趣并希望尝试的科技爱好者，以及有一定专业知识希望创建专属智能体的特定领域专业人士。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"CREAO\",\"description\":\"零代码AI应用开发平台，内置AI智能体\",\"url\":\"https://aistool.orgaikaifapingtai/creao/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/09/creao.ai-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"CREAO"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/09/creao.ai-logo.png","alt":"CREAO","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"CREAO"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"零代码AI应用开发平台，内置AI智能体"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1105",{"href":"/aikaifapingtai/vercel-ai-sdk/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Vercel AI SDK"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1292",{"href":"/aizhinengti/workany/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"WorkAny"}]
+5:["$","a","86",{"href":"/ailiaotianzhushou/koko-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Koko AI"}]
+6:["$","a","927",{"href":"/aibangonggongju/formula-bot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Formula bot"}]
+7:["$","a","985",{"href":"/aiyinpingongju/mubert/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Mubert"}]
+8:["$","a","591",{"href":"/aituxianggongju/cutout.pro/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Cutout.Pro"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

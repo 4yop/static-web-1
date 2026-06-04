@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aineirongjiance","wacuowang",""],"q":"","i":false,"f":[[["",{"children":[["category","aineirongjiance","d",null],{"children":[["tool","wacuowang","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/04/wacuowang-logo-1.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T1094,
+                挖错网是什么
+挖错网是AI内容审核校对平台，一键检测内容自动纠错，支持文本、图片、音频、视频等多种形式的内容审核。挖错网支持快速识别错别字、标点错误、语速问题、敏感词及涉政信息，提供高亮提示和纠错建议，保障内容的准确性和严谨性。挖错网支持大稿件审核，一次可处理10万字，能有效提升工作效率，帮助用户规避风险，是内容创作者和编辑人员的得力助手。
+
+挖错网的主要功能
+
+内容挖错：快速识别文本中的错别字、标点符号错误、语速问题、敏感词和涉政信息等，给出高亮提示和纠错建议，支持一次审核10万字的大稿件，有效保障内容的准确性和严谨性。
+内容合规：对图片、视频、音频等形式的内容进行深入检测和分析，识别标记出其中的敏感信息和违规内容，帮助用户规避风险。
+AIGC检测：基于AI检测技术，对文字、图片、视频等内容进行AI合成检测，快速判断内容是否为AI生成，确保信息的真实性。
+
+如何使用挖错网
+
+注册与登录：
+
+在线访问：访问挖错网的官网 https://wacuowang.com/  ，完成注册和登录。
+客户端：在官网首页，点击多端下载，根据系统类型选择对应版本下载和登录。
+
+
+文字纠错：
+
+进入文字编辑器：进入文字编辑页面。
+上传或输入文本：将撰写好的文章或文档内容粘贴到编辑器中。
+开始挖错：点击【开始挖错】按钮，系统自动检测文本中的错误。
+查看审核结果：系统高亮显示错别字、敏感词等，提供纠错建议。选择单个错误进行修改，或一键应用所有建议。
+导出纠错文稿：编辑器最下方提供导出功能，保存纠错后的文稿。
+
+
+文档纠错：
+
+上传文档：点击上传按钮，选择需要处理的文档（支持单个或多个文件）。
+选择审核方案：选择系统提供的标准审核方案，或自定义审核方案。
+查看审核结果：审核结果显示在右侧，包括错别字、敏感词等。
+根据提示进行修改：支持单选或一键应用建议。
+导出文档：导出纠错后的文档，便于保存和使用。
+
+
+图片纠错：
+
+上传图片：点击上传按钮，选择需要审核的图片。
+查看审核结果：系统自动识别图片中的违法违规内容，进行标记。
+处理违规图片：根据标记的违规内容，决定是否需要调整或删除。
+
+
+视频纠错：
+
+上传视频：点击上传按钮，选择需要审核的视频（支持格式：rmvb、mp4、mov、m4v、avi、flv，大小不超过1G）。
+查看审核结果：系统自动检测视频中的画面和文字，识别违法违规内容。审核结果在右侧用时间轴和处理结果的形式展示。
+处理违规内容：根据时间轴标记的违规片段，进行修改或删除。
+
+
+自定义审核方案：根据需求设置关键词和敏感词汇，创建个性化的审核方案。
+AIGC检测：上传文字、图片或视频，系统检测内容是否为AI生成。
+
+挖错网的产品定价
+
+免费版：通用点数100点，大模型配额0字，高级模型配额3000字/天，文字挖错大模型1000字，文档挖掘高级模型 10000字，图片合规50张，视频合规50秒，音频合规100秒，AIGC文本检测1000字，AIGC图片检测100张，AIGC视频检测50秒。
+VIP版：¥29.9/月，通用点数3000点，大模型配额50000字，高级模型配额25000字/天，文字挖错大模型 30000字，文档挖错高级模型 30000字，图片合规1500张，视频合规1500秒，音频合规3000秒，AIGC文本检测30000字，AIGC图片检测3000张，AIGC视频检测1500秒。
+
+挖错网的应用场景
+
+文本校对：帮助作者和编辑快速纠正文章中的错别字和敏感内容。
+社交媒体审核：确保社交媒体发布内容合规，保护个人或企业声誉。
+广告合规：审核广告文案，避免因内容错误导致的法律和市场风险。
+学术出版：确保教材和学术作品的准确性和严谨性。
+多媒体内容检测：审核视频、音频和图片，确保多媒体内容合法合规。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"挖错网\",\"description\":\"AI内容审核校对平台，一键检测内容自动纠错\",\"url\":\"https://aistool.orgaineirongjiance/wacuowang/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/04/wacuowang-logo-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aineirongjiance/","className":"hover:text-primary transition","children":"AI内容检测"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"挖错网"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/04/wacuowang-logo-1.png","alt":"挖错网","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"挖错网"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","14",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI内容检测"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI内容审核校对平台，一键检测内容自动纠错"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","259",{"href":"/aishejigongju/pimento/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pimento"}],"$L13","$L14","$L15","$L16","$L17"]}]]}]]}]]}]
+13:["$","a","1412",{"href":"/aikaifapingtai/fangzhou-agent-plan/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"方舟 Agent Plan"}]
+14:["$","a","839",{"href":"/aibangonggongju/qimiaowen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"奇妙问"}]
+15:["$","a","1379",{"href":"/aizhinengti/maxhermes/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MaxHermes"}]
+16:["$","a","637",{"href":"/aishipingongju/tavus/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Tavus"}]
+17:["$","a","995",{"href":"/aiyinpingongju/lemonaid/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Lemonaid"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"挖错网 | AIStool"}],["$","meta","1",{"name":"description","content":"挖错网是AI内容审核校对平台，一键检测内容自动纠错，支持文本、图片、音频、视频等多种形式的内容审核。挖错网支持快速识别错别字、标点错误、语速问题、敏感词及涉政信息，提供高亮提示和纠错建议，保障内容的准确性和严谨性。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaineirongjiance/wacuowang/"}],["$","meta","3",{"property":"og:title","content":"挖错网"}],["$","meta","4",{"property":"og:description","content":"挖错网是AI内容审核校对平台，一键检测内容自动纠错，支持文本、图片、音频、视频等多种形式的内容审核。挖错网支持快速识别错别字、标点错误、语速问题、敏感词及涉政信息，提供高亮提示和纠错建议，保障内容的准确性和严谨性。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaineirongjiance/wacuowang/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/04/wacuowang-logo-1.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"挖错网"}],["$","meta","10",{"name":"twitter:description","content":"挖错网是AI内容审核校对平台，一键检测内容自动纠错，支持文本、图片、音频、视频等多种形式的内容审核。挖错网支持快速识别错别字、标点错误、语速问题、敏感词及涉政信息，提供高亮提示和纠错建议，保障内容的准确性和严谨性。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/04/wacuowang-logo-1.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","13",{}]]

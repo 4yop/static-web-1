@@ -1,0 +1,75 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/09/401726222454_.pic_.png","image"]
+3:Tb42,
+                麦当秀MindShow是什么
+麦当秀MindShow是AI在线PPT生成工具，通过大模型和智能算法，能将文本、Word或Markdown内容快速转化为专业演示文稿。用户输入主题或文档内容后，MindShow可在30秒内生成结构清晰、设计专业的幻灯片，适配商务、教育等多种场景。支持多语言翻译、自动设计图片、多格式导入等功能。MindShow适用于商务人士、教师学生、设计师、营销人员及跨国团队，能大幅提升工作效率。
+
+麦当秀MindShow的主要功能
+
+
+一键生成PPT：用户输入标题或关键词，系统快速生成完整的PPT，包含文本、布局和图片等元素，适合多种场景。
+
+
+多格式内容导入：支持从文本、Word、Markdown、PDF、TXT、思维导图等多种格式导入内容，方便用户快速整合资料。
+
+
+智能翻译：提供智能翻译功能，可将文档内容翻译成多种语言，同时保持原文排版，满足国际化需求。
+
+
+自动设计图片：根据PPT内容或关键词，自动生成匹配的图片，提升演示文稿的视觉效果。
+
+
+丰富模板与主题：提供多种PPT模板和主题，用户可以根据需求选择，快速打造个性化演示文稿。
+
+
+在线协作编辑：支持多人在线协作，团队成员可以实时共享和编辑演示文稿，提高团队协作效率。
+
+
+如何使用麦当秀MindShow
+
+
+注册与登录：访问麦当秀MindShow官网 https://www.mindshow.vip/ ，微信扫码或手机号注册账号，新用户可获赠免费生成额度。
+
+
+创建或导入内容：在创作界面输入核心主题或上传文档（如Word、Markdown、PPT、PDF等），系统将自动生成PPT内容。
+
+
+编辑与定制：对生成的PPT进行编辑和定制，如调整布局、更换模板、添加动画、插入图片和图表等。
+
+
+智能功能优化：使用「智能配图」功能批量替换素材，或启用「设计规范」功能锁定品牌字体与配色方案。
+
+
+导出与演示：完成编辑后，可将PPT导出为PPTX或PDF格式，或直接在线演示，支持演讲者视图。
+
+
+麦当秀MindShow的适用人群
+
+
+商务人士：快速制作高质量的商务汇报、会议演示文稿，节省时间，提升专业形象。
+
+
+教育工作者：教师和培训师可轻松创建课程演示文稿，学生也可用于制作学术报告或项目展示。
+
+
+市场营销人员：制作宣传资料、市场分析报告和品牌推广演示文稿，提升工作效率和内容吸引力。
+
+
+项目管理人员：快速生成项目进度报告和团队汇报材料，便于团队沟通和项目推进。
+
+
+行政人员：制作日常工作报告、会议纪要等，减少重复性工作，提高工作效率。
+
+
+创意设计人员：利用其模板和设计功能，快速生成创意演示文稿，激发灵感。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"麦当秀MindShow\",\"description\":\"AI在线PPT生成工具\",\"url\":\"https://aistool.orgaibangonggongju/maidangxiumindshow/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/09/401726222454_.pic_.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"麦当秀MindShow"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/09/401726222454_.pic_.png","alt":"麦当秀MindShow","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"麦当秀MindShow"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI在线PPT生成工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","839",{"href":"/aibangonggongju/qimiaowen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"奇妙问"}],["$","a","1103",{"href":"/aikaifapingtai/label-studio/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Label Studio"}],["$","a","349",{"href":"/aixiezuogongju/jenni/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Jenni"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1302",{"href":"/aibangonggongju/chattoc/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ChatTOC"}]
+5:["$","a","1024",{"href":"/aisousuoyinqing/tiangongaisousuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"天工AI搜索"}]
+6:["$","a","282",{"href":"/aishejigongju/colormagic/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ColorMagic"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

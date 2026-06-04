@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/WonderCV-logo.png","image"]
+3:Te68,
+                超级简历是什么
+超级简历WonderCV是人力资源专家参与设计、结合AI技术的智能简历制作与优化平台，帮助求职者高效打造专业简历。超级简历提供2000+覆盖15大行业、300+岗位的专业模板，所有模板均由HR精选，格式、措辞符合行业标准。超级简历WonderCV基于160万字行业语料库，通过AI智能解析岗位JD，自动匹配专业表达模型，优化关键词密度与措辞，提升简历通过ATS系统筛选的概率。平台支持多端同步编辑，用户可通过小程序、APP等随时修改简历，生成加密链接安全投递。超级简历WonderCV提供简历优化、面试辅导、职业规划等一对一导师服务。
+
+超级简历的主要功能
+
+
+AI智能简历生成与优化：基于160万字行业语料库，AI自动解析岗位JD，匹配5000+专业表达模型，优化关键词密度、措辞表达，提升简历通过ATS系统筛选的概率。
+
+
+海量专业模板库：提供2000+份由HR专家设计的专业模板，覆盖15+行业、300+岗位，确保简历格式、排版、措辞符合行业标准。
+
+
+智能纠错与优化建议：自动检测并纠正20大常见简历问题，从HR视角审查简历逻辑与表达，提供精准优化建议，帮助用户扬长补短。
+
+
+多端同步与便捷编辑：支持小程序、iOS、安卓、鸿蒙等多平台同步编辑，数据实时云存储，用户可随时随地修改简历。
+
+
+中英双语简历支持：一键生成中英文简历，满足外企、海外求职或国际项目申请需求。
+
+
+安全投递与隐私保护：支持生成加密链接投递简历，保护用户隐私，避免简历信息被滥用。
+
+
+一对一职业指导服务：提供简历优化、面试辅导、职业规划等个性化服务，由资深HR导师一对一指导，帮助用户精准定位职业方向。
+
+
+如何使用超级简历
+
+注册并登录账号：访问超级简历WonderCV官网 https://www.wondercv.com/，注册并登录账号后可开始使用。
+选择合适的简历模板：超级简历WonderCV提供2000+份专业模板，覆盖15+行业、300+岗位，所有模板均由HR专家设计，确保符合行业规范。可以根据自己的求职方向选择合适的模板。
+填写个人信息与经历：根据模板提示填写个人信息、教育背景、实习经历、项目经验等内容。超级简历WonderCV支持模块化填写，帮助你快速理清思路。
+AI智能优化简历：填写完成后，超级简历WonderCV的AI系统会自动分析你的简历内容，进行岗位关键词匹配、措辞优化、ATS系统兼容性检测，提供具体的优化建议。
+导出与投递简历：优化完成后，可以将简历导出为PDF格式，或通过平台生成的加密链接直接投递给招聘方。
+使用多端同步功能：超级简历WonderCV支持小程序、iOS、安卓、鸿蒙等多平台同步编辑，随时随地修改简历。
+
+超级简历的应用场景
+
+校园招聘与实习申请：提供丰富的校园招聘模板，AI智能优化帮助突出亮点，提升简历通过率。
+社会招聘与岗位跳槽：提供行业细分模板，AI自动匹配岗位关键词，优化措辞表达，提升简历竞争力。
+跨行业转行求职：提供跨行业模板与优化建议，帮助用户精准定位职业方向，提升转行成功率。
+海外求职与国际项目申请：支持一键生成中英文简历，模板符合国际规范，提升海外求职竞争力。
+职业咨询与面试辅导：提供一对一职业导师服务，涵盖简历优化、面试辅导、职业规划等，帮助用户全面提升求职能力。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"超级简历\",\"description\":\"3分钟生成简历超千万人使用\",\"url\":\"https://aistool.orgaibangonggongju/chaojijianli/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/WonderCV-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"超级简历"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/WonderCV-logo.png","alt":"超级简历","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"超级简历"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"3分钟生成简历超千万人使用"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","808",{"href":"/aibangonggongju/aihaoji/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Ai好记"}],["$","a","948",{"href":"/aiyinpingongju/yinjian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"音剪"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1393",{"href":"/aishejigongju/quiverai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"QuiverAI"}]
+5:["$","a","326",{"href":"/aixiezuogongju/mitaxiezuomao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"秘塔写作猫"}]
+6:["$","a","709",{"href":"/aishipingongju/fliki/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Fliki"}]
+7:["$","a","397",{"href":"/aixiezuogongju/hypotenuse-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Hypotenuse AI"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

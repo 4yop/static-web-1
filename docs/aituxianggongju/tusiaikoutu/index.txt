@@ -1,0 +1,105 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aituxianggongju","tusiaikoutu",""],"q":"","i":false,"f":[[["",{"children":[["category","aituxianggongju","d",null],{"children":[["tool","tusiaikoutu","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2024/07/tusiart-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Td28,
+                吐司AI抠图是什么
+吐司AI抠图是吐司TusiArt推出的智能抠图工具，基于ComfyUI Workflow实现的，帮助用户快速去除图像背景，同时保持主体的完整性。用户只需上传图片，吐司AI抠图会自动识别并分离主体与背景，生成清晰的去背景图像。如果对结果不满意，可多次尝试以优化效果。适用于设计师、电商从业者以及需要快速处理图像的用户。
+
+吐司AI抠图的主要功能
+
+
+自动识别与精准抠图：基于AI技术自动识别图片中的主体，一键生成透明背景，精准处理主体边缘，适用于复杂背景或细节丰富的图像。
+
+
+批量处理能力：支持批量上传和处理图片，可同时处理多张图像，大幅提升工作效率。
+
+
+背景替换与编辑：可以去除背景，根据需要替换背景，支持从素材库中选择或自定义背景。
+
+
+智能消除与修复：提供智能消除功能，用户可以通过涂抹的方式消除图片中的瑕疵、多余物体或文字，AI自动补全背景。
+
+
+多场景适用：适用于多种场景，包括电商产品图处理、证件照抠图、社交媒体配图等，满足不同用户的需求。
+
+
+无需专业技能：用户无需掌握Photoshop等专业图像处理软件，可通过简单的操作完成高质量的抠图。
+
+
+高清导出与无水印：支持高清无损导出抠图后的图像，无水印，确保图像质量。
+
+
+如何使用吐司AI抠图
+
+
+注册/登录：访问吐司TusiArt – 智能抠图 ，注册登录。
+
+
+选择智能抠图工具：在工作区中找到“智能抠图”功能，点击进入。
+
+
+上传图片：点击“上传图片”按钮，选择需要抠图的图片。支持拖拽文件或点击上传。
+
+
+等待处理结果：平台会自动识别图片主体并去除背景。如果对结果不满意，可以尝试重新上传或调整图片。
+
+
+调整与优化（可选）
+
+
+如果需要，可以手动调整抠图区域，例如通过涂抹工具标记需要保留或删除的部分。
+
+
+也可以选择替换背景，从平台提供的素材库中选择背景或上传自定义背景。
+
+
+
+
+下载或分享结果：处理完成后，点击“下载”按钮保存抠图后的图片，或将其分享到Tensor.Art社区。
+
+
+批量处理（可选）：如果需要批量抠图，可以上传多张图片进行批量处理，提升效率。
+
+
+吐司AI抠图的产品定价
+每天可获得一定数量的免费信用额度，用于生成或处理图像。
+吐司AI抠图的应用场景
+
+
+艺术创作：设计师可以用智能抠图工具快速提取图像主体，创作独特的艺术作品，如插画、油画、水彩画等。
+
+
+广告与内容制作：营销人员和内容创作者可以用工具去除或替换广告图像中的背景，生成更具吸引力的视觉内容，提升广告效果。
+
+
+电商与产品设计：电商从业者可以快速去除商品图片的背景，生成适合电商平台展示的透明背景图像，同时设计师可以用抠图功能生成产品设计原型。
+
+
+社交媒体内容创作：社交媒体博主和内容创作者可以用智能抠图生成独特的图像和视觉内容。
+
+
+游戏开发：游戏开发者可以用智能抠图工具快速提取角色或场景元素，用于游戏内的资产生成和概念设计。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"吐司AI抠图\",\"description\":\"吐司AI推出的智能抠图工具\",\"url\":\"https://aistool.orgaituxianggongju/tusiaikoutu/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/07/tusiart-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"吐司AI抠图"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/07/tusiart-logo.png","alt":"吐司AI抠图","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"吐司AI抠图"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"吐司AI推出的智能抠图工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","264",{"href":"/aishejigongju/vizcom/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Vizcom"}],["$","a","1170",{"href":"/aixunlianmoxing/lamini/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Lamini"}],["$","a","155",{"href":"/aibianchenggongju/junie/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Junie"}],"$L13","$L14","$L15"]}]]}]]}]]}]
+13:["$","a","152",{"href":"/aibianchenggongju/warp-code/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Warp Code"}]
+14:["$","a","1173",{"href":"/aixunlianmoxing/deepspeed/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DeepSpeed"}]
+15:["$","a","978",{"href":"/aiyinpingongju/resemble.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"RESEMBLE.AI"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"吐司AI抠图 | AIStool"}],["$","meta","1",{"name":"description","content":"吐司AI抠图是吐司TusiArt推出的智能抠图工具，基于ComfyUI Workflow实现的，帮助用户快速去除图像背景，同时保持主体的完整性。用户只需上传图片，吐司AI抠图会自动识别并分离主体与背景，生成清晰的去背景图像。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaituxianggongju/tusiaikoutu/"}],["$","meta","3",{"property":"og:title","content":"吐司AI抠图"}],["$","meta","4",{"property":"og:description","content":"吐司AI抠图是吐司TusiArt推出的智能抠图工具，基于ComfyUI Workflow实现的，帮助用户快速去除图像背景，同时保持主体的完整性。用户只需上传图片，吐司AI抠图会自动识别并分离主体与背景，生成清晰的去背景图像。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaituxianggongju/tusiaikoutu/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2024/07/tusiart-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"吐司AI抠图"}],["$","meta","10",{"name":"twitter:description","content":"吐司AI抠图是吐司TusiArt推出的智能抠图工具，基于ComfyUI Workflow实现的，帮助用户快速去除图像背景，同时保持主体的完整性。用户只需上传图片，吐司AI抠图会自动识别并分离主体与背景，生成清晰的去背景图像。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2024/07/tusiart-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","13",{}]]

@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/11/Doc2X-logo.png","image"]
+3:Te96,
+                Doc2X是什么
+Doc2X是武汉智识无垠推出的AI文档识别、转换与翻译工具。能高精度识别各种文档，包括论文、财报等，支持将PDF转换为Word、HTML等多种格式。Doc2X提供大模型加持的双语对照翻译功能，帮助用户快速理解文档内容。支持批量处理和API接入，方便个人和企业用户使用。用户可以通过官网在线使用，或通过API进行集成。
+
+Doc2X的主要功能
+
+高精度识别：适配论文、财报、教育、书籍等场景，识别准确率高于市面上绝大部分识别方法，包括多栏识别、公式识别、表格识别和代码识别。
+齐全转换格式：用户可以轻松将PDF转换为Word、HTML、LaTeX、Markdown等多种格式。在转换前，还可以与原PDF进行对照跳转编辑，确保准确性。
+大模型加持的双语对照翻译：支持GPT、Deepseek、GLM等模型，提供精确翻译和双语对照的沉浸式翻译体验，帮助用户快速理解内容。
+高效批量处理：Doc2X提供批量识别转换功能，并且可以接入API来批量快速识别PDF。Doc2X已累计处理数亿页+文档，日吞吐量千万页+。
+在线使用与集成：用户可以直接在网页上使用Doc2X，或者通过API集成到自己的系统中。
+
+如何使用Doc2X
+
+个人用户使用：
+
+访问Doc2X的官网地址。
+直接在线使用，无需下载或安装任何软件。
+注册并登录账户，享受每天提供的免费文档转换和翻译服务额度。
+
+
+文档识别与转换：
+
+选择需要转换的PDF文件，上传至Doc2X平台。
+选择输出格式，如Word、LaTeX、HTML、Markdown等。
+在转换前，可以与原PDF进行对照跳转编辑，确保转换后的准确性。
+
+
+多语言翻译：
+
+基于Doc2X提供的多语言翻译功能，选择目标语言进行翻译。
+支持GPT、Deepseek、GLM等大模型，提供双语对照翻译。
+
+
+批量处理与API服务：
+
+对于需要处理大量文档的用户，Doc2X支持批量识别转换功能。
+开发者可以通过访问官方网站使用API服务，集成Doc2X的功能到自己的应用中。
+
+
+
+Doc2X的产品定价
+
+尝鲜会员：限时优惠4.9元，原价9.9元；30天内 500页PDF解析额度；30天内 100张图片识别额度；允许批量上传/导出文件；免费优先体验新模型；在线导出WORD/PDF。
+ 月费Pro会员：限时优惠9.9元，原价19.9元；30天内 1000页PDF解析额度；30天内 250张图片识别额度；允许批量上传/导出文件；免费优先体验新模型；在线导出WORD/PDF。
+年费Pro会员：限时优惠98.9元，原价239元；30天内 12000页PDF解析额度；30天内 4000张图片识别额度；允许批量上传/导出文件；免费优先体验新模型；在线导出WORD/PDF。
+
+Doc2X的应用场景
+
+学术研究：学者和研究人员可以用Doc2X将PDF格式的学术论文转换为Word、LaTeX或Markdown格式，便于编辑和引用。
+教育培训：教师可以用Doc2X将教材、课件和试卷等PDF或图片格式的教学材料转换为可编辑的Word文档，便于修改和补充，提高教学准备工作的效率。
+商务办公：在商务办公环境中，Doc2X可以将合同、报告、会议纪要等PDF或图片格式的商务文档转换为Word文档，编辑和修改变得更加容易。
+自助出版与博客写作：自助出版者和博客作者可以将PDF格式的书籍章节或文章转换为Markdown格式，在博客或网站上发布。
+数据分析与报告制作：在数据分析领域，Doc2X的表格识别功能可以将PDF或图片中的表格内容转换为可编辑的Excel或Word表格，方便数据分析师进行数据分析和报告制作。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Doc2X\",\"description\":\"AI文档识别、转换与翻译工具\",\"url\":\"https://aistool.orgaibangonggongju/doc2x/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/11/Doc2X-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Doc2X"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/11/Doc2X-logo.png","alt":"Doc2X","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Doc2X"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI文档识别、转换与翻译工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","323",{"href":"/aixiezuogongju/muset/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Muset"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","697",{"href":"/aishipingongju/invideo-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"InVideo AI"}]
+5:["$","a","772",{"href":"/aibangonggongju/mapify/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Mapify"}]
+6:["$","a","1122",{"href":"/aixuexiwangzhan/fast.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"fast.ai"}]
+7:["$","a","565",{"href":"/aituxianggongju/picma-studio/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PicMa Studio"}]
+8:["$","a","801",{"href":"/aibangonggongju/mianshimao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"面试猫"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/03/awesome-chatgpt-prompt-icon.png","image"]
+3:Tb10,
+                Awesome ChatGPT Prompts是什么
+Awesome ChatGPT Prompts是开源的AI提示词工具，能收集和整理各种用在ChatGPT和其他大型语言模型（LLM）的提示词（prompts）。提示词能帮助用户更有效地与AI进行交互，生成更符合需求的文本内容。工具中包含多种类型的提示词，例如用于编程、写作、学习、娱乐等场景的示例，用户根据自己的需求选择或修改提示词。Awesome ChatGPT Prompts鼓励社区成员贡献自己的提示词，丰富资源库。Awesome ChatGPT Prompts适用初学者，也为有经验的用户提供灵感和参考。
+
+Awesome ChatGPT Prompts的主要功能
+
+提供多样化的提示词：涵盖编程、写作、教育、娱乐等多个领域，满足不同用户需求。
+优化AI交互体验：基于精准的提示词设计，提高AI输出质量和效率，减少无效内容。
+促进社区贡献：开放平台，鼓励用户提交新提示词，丰富资源库并保持项目更新。
+提供学习资源：为初学者提供示例，帮助快速上手；为高级用户展示优化方向。
+支持多种AI模型：兼容ChatGPT、Claude、Gemini等，用户能灵活调整提示词适配不同模型。
+
+如何使用Awesome ChatGPT Prompts
+
+访问网站：访问Awesome ChatGPT Prompts的官方网站：https://prompts.chat/。
+浏览提示：网站提供多种类型的提示，涵盖从编程、写作、设计到日常生活等各个领域的场景。
+选择提示：找到感兴趣的提示类别。点击提示，查看其详细内容。
+使用提示：将提示内容复制到使用的 AI 工具（如 ChatGPT）中。
+自定义提示：如果有特定的需求，参考网站上的提示格式，自己编写一个提示。
+提交问题：将完整的提示粘贴到 AI 工具中，然后提交问题。AI 根据提示生成回答，用户根据需要进一步调整或优化提示。
+
+克隆或下载项目：访问wesome ChatGPT Prompts是开源项目，技术人员可以放问GitHub页面：https://github.com/f/awesome-chatgpt-prompts，克隆或下载提示词库，选择合适的提示词输入到ChatGPT等AI模型中，根据需要进行调整和优化。
+
+
+Awesome ChatGPT Prompts的应用场景
+
+编程开发：开发者用提示词生成代码片段、调试建议或优化方案，提高编程效率。
+写作创作：作家和内容创作者借助提示词撰写文章、故事、诗歌或剧本，激发创作灵感。
+教育学习：教师和学生用提示词获取学习资料、练习题或考试复习建议，提升学习效果。
+健康咨询：用户通过提示词获取健康建议、饮食计划或运动指导，促进健康生活方式。
+娱乐互动：娱乐爱好者用提示词创作幽默段子、角色扮演或生成创意内容，增添乐趣。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Awesome ChatGPT Prompts\",\"description\":\"AI提示词收集和整理工具\",\"url\":\"https://aistool.orgaitishizhiling/awesome-chatgpt-prompts/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/03/awesome-chatgpt-prompt-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aitishizhiling/","className":"hover:text-primary transition","children":"AI提示指令"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Awesome ChatGPT Prompts"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/03/awesome-chatgpt-prompt-icon.png","alt":"Awesome ChatGPT Prompts","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Awesome ChatGPT Prompts"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","15",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI提示指令"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI提示词收集和整理工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1296",{"href":"/aibangonggongju/chartinai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ChartinAI"}],["$","a","27",{"href":"/aizhinengti/jiaotuai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"椒图AI"}],["$","a","443",{"href":"/aituxianggongju/tushengsheng/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"图生生"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1051",{"href":"/aikaifapingtai/bigmodel/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"BigModel"}]
+5:["$","a","761",{"href":"/aibangonggongju/xinghuokeyanzhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"星火科研助手"}]
+6:["$","a","949",{"href":"/aiyinpingongju/yinmi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"音秘"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/04/plandex-icon.png","image"]
+3:Tb86,
+                Plandex是什么
+Plandex是一个基于终端的开源 AI 编程引擎，可帮助程序员完成复杂的软件编程开发任务、解决不良输出并最大限度地提高生产力。该AI编程助手通过使用长期运行的智能体来完成跨越多个文件并需要多个步骤的任务，将大型任务分解为较小的子任务，然后逐一实现它们，直到完成整个软件开发工作。Plandex旨在提高开发效率，帮助用户处理积压工作，掌握不熟悉的技术，并减少在重复性工作上的时间投入。
+
+Plandex的主要功能
+
+任务分解与执行：Plandex能够将复杂的开发任务项目分解成更小的子任务（如任务规划、代码补全、代码编写、代码审查等），并逐一完成它们，直至整个任务顺利结束。
+沙盒保护与版本控制：Plandex在一个受保护的沙盒环境中累积更改，允许用户在将更改应用到项目文件之前进行审查。同时，内置的版本控制功能使得用户可以轻松地回退并尝试不同的解决方案。
+上下文管理：Plandex允许用户在终端中高效地管理上下文，可以轻松添加文件或整个目录，并自动保持更新，确保模型始终拥有项目的最新状态。
+多平台支持：Plandex支持多种操作系统，包括Mac、Linux、FreeBSD和Windows，并且可以从单一的二进制文件运行，无需依赖其他软件。
+依赖OpenAI API：Plandex依赖于OpenAI API来执行任务，并需要设置环境变量OPENAI_API_KEY来使用。后续计划支持开源模型、Google Gemini和Anthropic Claude。
+分支功能：用户可以利用分支功能尝试多种方法并比较结果，这有助于在开发过程中探索不同的解决方案。
+
+如何使用Plandex
+1. 下载Plandex源代码
+打开终端，依次输入以下命令并运行
+git clone https://github.com/plandex-ai/plandex.git
+git clone https://github.com/plandex-ai/survey.git
+cd plandex/app/cli
+go build -ldflags "-X plandex/version.Version=$(cat version.txt)"
+mv plandex /usr/local/bin #根据系统路径自行修改
+
+2. 设置 OpenAI API 密钥
+cd plandex
+export OPENAI_API_KEY=YOUR_KEY #输入你自己的Key
+
+3. 运行 Plandex
+plandex new
+
+Plandex的产品定价
+用户可以选择自托管Plandex，在自己的服务器上部署和运行，对数据隐私和安全有特殊要求的用户来说是一个不错的选择。
+Plandex还提供了基于云的服务，称为Plandex Cloud，使得用户可以轻松开始使用Plandex。在创建第一个项目时，用户会被提示开始一个匿名试用，这个试用不需要提供电子邮件地址。试用账户有一定的限制，例如每个计划限制了10个任务和10次AI模型的回复。
+目前Plandex Cloud账户是免费的，未来可能会引入收费。预计的费用范围在每月10到20美元之间，具体的价格会根据服务的发展和市场情况进行调整。
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Plandex\",\"description\":\"免费开源的基于终端的AI编程引擎\",\"url\":\"https://aistool.orgaibianchenggongju/plandex/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/04/plandex-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibianchenggongju/","className":"hover:text-primary transition","children":"AI编程工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Plandex"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/04/plandex-icon.png","alt":"Plandex","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Plandex"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","7",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI编程工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"免费开源的基于终端的AI编程引擎"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1385",{"href":"/aizhinengti/loopit/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Loopit"}],["$","a","1201",{"href":"/aineirongjiance/bilingjiangailü/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"笔灵降AI率"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1225",{"href":"/aitishizhiling/learning-prompt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Learning Prompt"}]
+5:["$","a","198",{"href":"/aibianchenggongju/fig/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Fig"}]
+6:["$","a","1164",{"href":"/aixunlianmoxing/gradio/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Gradio"}]
+7:["$","a","1377",{"href":"/aibangonggongju/lantay/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Lantay"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

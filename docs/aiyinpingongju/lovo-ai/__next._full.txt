@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aiyinpingongju","lovo-ai",""],"q":"","i":false,"f":[[["",{"children":[["category","aiyinpingongju","d",null],{"children":[["tool","lovo-ai","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2023/03/lovo-ai-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tb29,
+                LOVO AI是什么
+LOVO AI是专业的AI文字转语音工具，提供500+声音和100种语言的文本转语音服务。专为营销、培训、社交媒体等视频内容创作设计，支持无缝音频视频同步、自动字幕生成、AI写作辅助和声音克隆技术。LOVO AI通过其易用的界面和强大的编辑工具，帮助用户节省时间和成本，提升内容的全球吸引力和专业度。
+
+LOVO AI的主要功能
+
+
+文本转语音：将文本转换成自然流畅、逼真的人声，支持500+种声音选择。
+多语言支持：提供100多种语言的声音选项，满足全球化内容需求。
+Genny视频编辑平台：集成的在线视频编辑器，方便用户编辑和同步视频与音频。
+自动字幕生成：自动为视频生成20+种语言的字幕，提升全球观众的参与度。
+AI写作助手：帮助用户快速生成专业水平的脚本，解决写作难题。
+
+
+如何使用LOVO AI
+
+
+
+访问网站：打开浏览器并访问（lovo.ai）。
+
+
+注册账户：创建一个新账户或使用现有账户登录。LOVO AI 提供免费试用，用户可以注册后体验部分功能。
+
+
+选择声音：在平台上浏览并选择适合您项目的声音。LOVO AI 提供多种语言和性别的声音选项。
+
+
+输入或上传脚本：将您的文本脚本输入到文本框中，或者上传文档以供平台读取。
+
+
+调整语音设置：根据需要调整语音的速度、音量、语调等参数，以确保声音符合您的期望。
+
+
+生成语音：完成设置后，点击生成按钮，LOVO AI 将根据您提供的脚本和选择的声音生成语音文件。
+
+
+编辑和同步：使用 LOVO AI 的在线视频编辑器，将生成的语音与您的视频内容同步。可以剪辑、调整音频和视频，以实现完美的同步效果。
+
+
+添加字幕：利用自动字幕生成器为视频添加多语言字幕，以扩大观众范围。
+
+
+编辑和完善：使用 AI 写作助手来改进脚本，或使用 AI 艺术生成器添加图像和元素，以增强视频的吸引力。
+
+
+导出和分享：完成编辑后，您可以将视频导出为 MP3、WAV 或 MP4 格式。
+
+
+
+LOVO AI的应用场景
+
+
+
+营销和广告：为企业和产品制作吸引人的广告视频，增加营销内容的吸引力和说服力。
+
+
+社交媒体：在社交媒体平台上发布带有配音的视频，提高内容的互动性和观看率。
+
+
+企业培训和教育：创建教育和企业培训视频，使用自然的声音提高学习材料的吸引力和易理解性。
+
+
+产品演示和解释视频：为产品演示和解释性视频添加专业的配音，帮助用户更好地理解产品特性和使用方法。
+
+
+客户服务和支持：在客户服务场景中使用 AI 语音生成器，提供自动语音回复或交互式语音响应系统。
+
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"LOVO AI\",\"description\":\"专业的AI文字转语音工具，支持500+声音和100种语言\",\"url\":\"https://aistool.orgaiyinpingongju/lovo-ai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/03/lovo-ai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aiyinpingongju/","className":"hover:text-primary transition","children":"AI音频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"LOVO AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/03/lovo-ai-icon.png","alt":"LOVO AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"LOVO AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","9",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI音频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"专业的AI文字转语音工具，支持500+声音和100种语言"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1220",{"href":"/aitishizhiling/promptfolder/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PromptFolder"}],["$","a","963",{"href":"/aiyinpingongju/tiangongskymusic/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"天工SkyMusic"}],["$","a","774",{"href":"/aibangonggongju/yinxiangtuji/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"印象图记"}],["$","a","136",{"href":"/aibianchenggongju/codex/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Codex"}],"$L13","$L14"]}]]}]]}]]}]
+13:["$","a","606",{"href":"/aishipingongju/kelingai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"可灵AI"}]
+14:["$","a","1136",{"href":"/aixuexiwangzhan/tengxunkouding/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"腾讯扣叮"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"LOVO AI | AIStool"}],["$","meta","1",{"name":"description","content":"LOVO AI是专业的AI文字转语音工具，提供500+声音和100种语言的文本转语音服务。专为营销、培训、社交媒体等视频内容创作设计，支持无缝音频视频同步、自动字幕生成、AI写作辅助和声音克隆技术。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaiyinpingongju/lovo-ai/"}],["$","meta","3",{"property":"og:title","content":"LOVO AI"}],["$","meta","4",{"property":"og:description","content":"LOVO AI是专业的AI文字转语音工具，提供500+声音和100种语言的文本转语音服务。专为营销、培训、社交媒体等视频内容创作设计，支持无缝音频视频同步、自动字幕生成、AI写作辅助和声音克隆技术。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaiyinpingongju/lovo-ai/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2023/03/lovo-ai-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"LOVO AI"}],["$","meta","10",{"name":"twitter:description","content":"LOVO AI是专业的AI文字转语音工具，提供500+声音和100种语言的文本转语音服务。专为营销、培训、社交媒体等视频内容创作设计，支持无缝音频视频同步、自动字幕生成、AI写作辅助和声音克隆技术。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2023/03/lovo-ai-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","13",{}]]

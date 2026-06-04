@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aibangonggongju","xmatrix",""],"q":"","i":false,"f":[[["",{"children":[["category","aibangonggongju","d",null],{"children":[["tool","xmatrix","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2026/03/xMatrix-icon1.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tf26,
+                xMatrix是什么
+xMatrix 是超矩科技推出的 AI 协作力人才招聘平台，基于人工智能技术重构企业与技术人才的双向匹配体验。平台通过 100+ 技术面试主题库、AI 协作力测试、GitHub 代码资产分析等多维信号，为候选人生成系统的能力画像与匹配指数，帮助 HR 从海量简历中快速锁定真正合适的人选。对求职者而言，只需完成一次接近真实开发环境的 AI 技术面试，成绩即可被多家企业复用，由 AI 职业代理持续推荐匹配岗位，实现”一轮次面试、无限次机会”的高效求职体验。
+
+xMatrix的主要功能
+招聘方：
+
+
+AI 技术面试：100+ 面试主题库覆盖主流技术栈，自由组合定制岗位专属面试方案。
+
+
+AI 协作力测试：评估候选人团队协作、沟通表达等软技能，补齐纯技术评估盲区。
+
+
+简历与技术资产分析：自动抓取 GitHub 等代码仓库，结合项目经历形成立体技术画像。
+
+
+智能匹配与报告生成：综合多维信号输出能力报告和匹配指数，直观对比候选人优劣。
+
+
+效果付费模式：仅在达成面试后付费，降低招聘成本与试错风险。
+
+
+求职方：
+
+
+真实环境技术面试：在接近实际开发的场景中进行能力评估，成绩更具说服力。
+
+
+全面能力画像：一次评估生成技术能力 + 协作力的完整档案。
+
+
+成绩平台内复用：单次面试成绩被多家企业认可，无需重复参加技术笔试。
+
+
+AI 职业代理：系统持续分析岗位匹配度，自动推送适合的职位机会。
+
+
+高效求职体验：减少重复面试环节，快速触达心仪企业。
+
+
+如何使用xMatrix
+招聘方：
+
+访问平台：访问 xMatrix 官网 https://www.xmatrix.tech/ ，点击“我要招人”，提交企业信息申请入驻，超矩将在第一时间与您联系。
+
+企业发布岗位：与AI招聘顾问对话，创建招聘需求，填写技术栈、经验要求等基本信息，生成结构化的岗位描述。
+
+
+配置AI面试方案：从100+技术面试主题库中选择相关题目，组合成符合岗位需求的AI面试流程。
+
+
+系统自动评估：候选人投递后，平台自动发起AI技术面试、协作力测试及代码资产分析。
+
+查看多维评估结果：HR可查看推荐人员名单及匹配指数、候选人资料包、AI面试记录、100%可解释的评估报告。
+
+发起人工终面：根据AI评估结果筛选合适人选，直接发起人工终面，达成后按效果付费。
+
+
+求职方：
+
+访问平台：访问 xMatrix 官网 https://job.xmatrix.tech/ ，注册账号并完善个人信息与职业意向。
+选择岗位：选择目标岗位主题，完成 AI 技术面试与协作力测试。
+能力报告入库：系统自动生成能力报告并入库，供多家企业查看。
+获得持续推荐：成绩入库后被多家企业可见，AI职业代理自动推送匹配职位，无需重复面试。
+
+xMatrix的应用场景
+招聘方：
+
+
+企业技术招聘：互联网公司、软件企业快速筛选大量技术简历，降低HR初筛成本，提升招聘效率。
+
+
+精准人才匹配：对算法、后端、前端等细分技术岗位，通过AI面试精准评估候选人实际编码能力与项目经验。
+
+
+校招/社招批量处理：面对成百上千份简历时，系统自动完成初筛和能力分级，HR只需关注高匹配度候选人。
+
+
+远程团队组建：评估分布式协作所需的软技能，筛选具备良好远程沟通与协作能力的技术人才。
+
+
+求职方：
+
+
+技术人才职业发展：开发者通过一次全面评估获得能力背书，持续获得AI推荐的优质岗位机会。
+
+
+猎头/HR外包服务：第三方招聘机构利用平台AI评估能力，为客户提供更精准的人才筛选服务。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"xMatrix\",\"description\":\"超矩AI协作力人才招聘平台\",\"url\":\"https://aistool.orgaibangonggongju/xmatrix/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/03/xMatrix-icon1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"xMatrix"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/03/xMatrix-icon1.png","alt":"xMatrix","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"xMatrix"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"超矩AI协作力人才招聘平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1342",{"href":"/aishejigongju/seede-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Seede AI"}],"$L13","$L14","$L15","$L16","$L17"]}]]}]]}]]}]
+13:["$","a","1019",{"href":"/aisousuoyinqing/devv/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Devv"}]
+14:["$","a","602",{"href":"/aishipingongju/heygen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"HeyGen"}]
+15:["$","a","1267",{"href":"/aibangonggongju/chartgen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ChartGen"}]
+16:["$","a","1068",{"href":"/aikaifapingtai/openrouter/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"OpenRouter"}]
+17:["$","a","1192",{"href":"/aineirongjiance/wacuowang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"挖错网"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"xMatrix | AIStool"}],["$","meta","1",{"name":"description","content":"xMatrix 是超矩科技推出的 AI 协作力人才招聘平台，基于人工智能技术重构企业与技术人才的双向匹配体验。平台通过 100+ 技术面试主题库、AI 协作力测试、GitHub 代码资产分析等多维信号，为候选人生成系统的能力画像与匹配指数，帮助 HR 从海量简历中快速锁定真正合适的人选。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaibangonggongju/xmatrix/"}],["$","meta","3",{"property":"og:title","content":"xMatrix"}],["$","meta","4",{"property":"og:description","content":"xMatrix 是超矩科技推出的 AI 协作力人才招聘平台，基于人工智能技术重构企业与技术人才的双向匹配体验。平台通过 100+ 技术面试主题库、AI 协作力测试、GitHub 代码资产分析等多维信号，为候选人生成系统的能力画像与匹配指数，帮助 HR 从海量简历中快速锁定真正合适的人选。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaibangonggongju/xmatrix/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2026/03/xMatrix-icon1.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"xMatrix"}],["$","meta","10",{"name":"twitter:description","content":"xMatrix 是超矩科技推出的 AI 协作力人才招聘平台，基于人工智能技术重构企业与技术人才的双向匹配体验。平台通过 100+ 技术面试主题库、AI 协作力测试、GitHub 代码资产分析等多维信号，为候选人生成系统的能力画像与匹配指数，帮助 HR 从海量简历中快速锁定真正合适的人选。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2026/03/xMatrix-icon1.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","13",{}]]

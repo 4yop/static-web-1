@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/11/quark-logo-1.png","image"]
+3:Ta4b,
+                夸克是什么
+夸克是阿里推出的AI搜索应用，集成了AI浏览器搜索、网盘、实用工具等功能。夸克支持手机版、Pad版、Windows电脑PC版，资产一键同步。提供6T超大空间、AI总结、AI生成等智能服务。用户可通过手机扫码快速登录，享受无缝的多端协同体验。夸克极速、安全、高效、高颜值，是你的学习、工作、生活的高效拍档。
+
+夸克的功能特色
+
+智能搜索：夸克基于AI智能引擎提供快速、准确的搜索结果，查资料更快，工作，学习文档精准搜。
+夸克网盘：6T超大空间，超速下载；电脑资料安心存，多端备份；超级播放器，免费5倍速。
+
+文件工具中心：支持PDF转Word、Excel、PPT、txt、图片等格式，高保真还原排版，轻松查看和在线编辑文档。
+
+
+夸克快传：多端共享，文件极速传输；文档、图片、视频、大文件，一键无损快传，手机与电脑轻松连接。
+
+多端协同：夸克支持手机、平板和PC端之间的无缝协作，方便用户在不同设备上查看和编辑文件。
+
+全面保护，极速安全： 强大的安全和隐私保护功能，高兼容性；丰富的智能网页工具提升你的浏览效率和体验。
+
+
+如何使用夸克
+
+下载与安装：访问官网 quark.cn ，免费下载夸克PC版并安装。
+
+夸克Windows客户端下载：https://download.quark.cn/download/quarkpc
+夸克Mac客户端下载：https://download.quark.cn/download/quarkmac
+
+
+打开夸克：找到桌面图标或系统启动器中的夸克，双击打开。
+账户登录：使用夸克APP扫码或输入账号密码登录，实现跨设备同步。
+智能搜索：在地址栏输入关键词，利用夸克的智能搜索快速找到所需信息。
+访问网盘：点击浏览器界面上的网盘图标，直接进入夸克网盘，上传、下载和管理文件。
+浏览体验：打开新标签页，输入网址访问网页，或通过书签快速打开常用网站。
+使用小工具：探索并使用夸克提供的各种实用小工具，如扫描、翻译等。
+
+夸克的适用人群
+
+学生群体：需要快速查找学习资料、文档和在线资源的学生，尤其是大学生和高中生。
+办公人士：需要处理大量文件、使用网盘存储和协作办公的职场人士。
+科技爱好者：对最新浏览器技术和AI功能感兴趣的科技爱好者。
+多设备用户：需要在手机、平板和PC端之间同步数据和信息的用户。
+教师和教育工作者：需要查找教育资源、制作教学材料的教师。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"夸克AI\",\"description\":\"集AI搜索、网盘、文档、创作等功能于一体的应用\",\"url\":\"https://aistool.orgaisousuoyinqing/kuakeai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/11/quark-logo-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aisousuoyinqing/","className":"hover:text-primary transition","children":"AI搜索引擎"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"夸克AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/11/quark-logo-1.png","alt":"夸克AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"夸克AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","10",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI搜索引擎"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"集AI搜索、网盘、文档、创作等功能于一体的应用"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1241",{"href":"/aituxianggongju/liblibaigaoqingfangda/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LiblibAI高清放大"}],["$","a","269",{"href":"/aishejigongju/qiantushejishiaihaibao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千图设计室AI海报"}],["$","a","105",{"href":"/ailiaotianzhushou/lucamianbiluka/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Luca面壁露卡"}],["$","a","1325",{"href":"/aibangonggongju/humata/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Humata"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1018",{"href":"/aisousuoyinqing/diandian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"点点"}]
+5:["$","a","856",{"href":"/aibangonggongju/belin-doc/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Belin Doc"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

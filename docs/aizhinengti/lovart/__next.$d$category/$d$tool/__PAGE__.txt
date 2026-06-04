@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/11/Lovart-logo.png","image"]
+3:T1055,
+                Lovart是什么
+Lovart 是 LiblibAI 推出的全球首个设计 Agent，实现从概念到图像、视频、3D等的自动设计。Lovart 通过Edit Elements分层图像编辑功能，支持用户直接对图像进行精准修改，无需复杂的图像编辑软件。Lovart接入了多个顶尖模型，如Nano Banana Pro、Veo 3.1、Sora2、Hailuo 2.3等，提升作品质量。适合各类创作者，从专业设计师到个人爱好者，都能轻松使用。
+
+Lovart的主要功能
+
+
+自动化设计：自动完成从概念到最终设计的整个流程，包括图像、视频和3D模型。
+
+
+编辑元素：支持用户对图像进行分层编辑，包括文字、前景和背景，实现像素级图像编辑。
+
+
+共创设计：通过ChatCanvas与Lovart进行互动，用户能自由表达想法，Lovart能理解并参与设计。
+
+
+精选作品库：提供丰富的创意作品供用户探索和获取灵感。
+
+
+灵活切换生成速度：通过Thinking思考模式能自主规划复杂任务并执行，通过Fast 模式能快速响应用户指令，提高工作效率。
+
+
+接入顶尖AI模型：接入多个高质量AI生成模型，提升内容的质量和逼真度。
+
+
+批量生图：支持一次性并行发起多个设计任务，提高大规模任务的成功率。
+
+
+如何使用Lovart
+
+
+访问Lovart网站：访问 Lovart 官网 https://www.lovart.ai/ ，完成注册和登录。
+
+
+开始设计： 在输入框中输入想法或指令，Lovart将自动完成设计流程。
+
+
+编辑元素： 用Lovart的“编辑元素”功能，对图像进行分层编辑，包括调整文字、移动元素等，实现像素级图像编辑。
+
+
+探索精选作品： 浏览Lovart的精选作品库，获取灵感或直接使用现有的设计模板。
+
+
+完成设计： 完成设计后，将设计用于商业用途。
+
+
+保存和分享： 保存计作品，根据需要分享给他人或直接用项目。
+
+
+Lovart的使用示例
+Generate an image of an undergraduate level math problem and solution written on a white board.生成一张白板上写着大学本科水平数学问题及其解答的图片。
+
+A velvet, bright orange sculptural tubular chair.一个天鹅绒材质、亮橙色的雕塑式管状椅子。
+
+Lovart的产品定价
+
+
+Starter：$19/月，按年计费$192/年，每月2,000积分，首购额外2,000积分，每日获得100刷新积分，访问所有图片和编辑模型，访问所有视频模型，可商用，编辑元素1个月无限。
+
+
+Basic：$32/月，按年计费$324/年，每月3,500积分，首购额外3,500积分，每日获得100刷新积分，访问所有图片和编辑模型，访问所有视频模型，可商用，编辑元素1个月无限，可访问Nano Banana、Seedream 4.0、Midjourney及Nano Banana Pro模型（有效期一年）。
+
+
+Pro：$98/月，按年计费首年$468，次年续费$888，每月11,000积分，首购额外11,000积分，每日获得100刷新积分，访问所有图片和编辑模型，访问所有视频模型，充值积分享九折优惠，可商用，编辑元素1个月无限，可访问Nano Banana、Seedream 4.0、Midjourney及Nano Banana Pro模型（有效期一年）。
+
+
+Ultimate：$199/月，按年计费首年$948，次年续费$1,992，每月27,000积分，首购额外27,000积分，每日获得100刷新积分，访问所有图片和编辑模型，访问所有视频模型，充值积分享九折优惠，可商用，编辑元素1个月无限，可访问Nano Banana、Seedream 4.0、Midjourney及Nano Banana Pro模型（有效期一年）。
+
+
+Lovart的应用场景
+
+
+品牌设计：Lovart能帮助设计师快速创建和编辑品牌LOGO、海报、名片等，建立和维护品牌形象。
+
+
+市场营销：营销人员用Lovart制作吸引人的营销材料，如海报和宣传册，促进产品或服务的推广。
+
+
+内容创作：内容创作者设计高质量的视觉内容，增强博客文章、社交媒体帖子的吸引力。
+
+
+产品设计：产品设计师设计产品包装和标签，提升产品的市场吸引力。
+
+
+游戏开发：游戏开发者设计游戏内的视觉元素，如角色和环境，增强游戏体验。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Lovart\",\"description\":\"LiblibAI推出的全球首个设计智能体\",\"url\":\"https://aistool.orgaizhinengti/lovart/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/11/Lovart-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Lovart"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/11/Lovart-logo.png","alt":"Lovart","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Lovart"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"LiblibAI推出的全球首个设计智能体"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","145",{"href":"/aibianchenggongju/github-copilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"GitHub Copilot"}],["$","a","686",{"href":"/aishipingongju/showrunner/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Showrunner"}],["$","a","1239",{"href":"/aixunlianmoxing/nano-banana/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Nano Banana"}],["$","a","1310",{"href":"/aibangonggongju/easyclaw/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"EasyClaw"}],["$","a","542",{"href":"/aituxianggongju/gaodingaixiaochu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"稿定AI消除"}],["$","a","536",{"href":"/aituxianggongju/image-enlarger/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Image Enlarger"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

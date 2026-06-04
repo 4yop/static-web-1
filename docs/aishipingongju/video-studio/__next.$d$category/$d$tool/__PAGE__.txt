@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/09/Video-Studio-logo1.png","image"]
+3:Td5c,
+                Video Studio是什么
+Video Studio 是一款在线AI视频生成工具，能将文字、图像和角色设计转化为高质量的视频内容。用户无需专业的视频编辑或AI知识，只需提供简单的文字描述或上传图片和角色图，Video Studio 的AI技术就能自动生成具有专业感的视频。平台适合希望快速简便地制作视频的个人和企业用户，用于社交媒体、广告宣传和其他创意项目。提供实时预览功能，确保用户在最终渲染之前能即时调整视频内容。
+
+Video Studio的主要功能
+
+文本到视频：用户可以输入文字描述，AI 将这些文字转换成视频内容。
+图像到视频：上传静态图片，AI 技术将其转化为动态视频。
+角色动画：上传角色设计图，AI 能生成角色的动态视频。
+视频模板：提供多种视频模板，可以根据需要选择合适的模板。
+实时预览：在最终渲染之前，可以实时预览视频效果。
+无缝过渡：确保视频内容之间的过渡自然流畅。
+AI 视频编辑：集成的 AI 编辑工具，简化视频剪辑和制作流程。
+高质量输出：生成的视频具有专业质量，适合各种用途。
+
+如何使用Video Studio
+
+注册和登录：访问 Video Studio 官网，创建账户并登录。
+选择创作模式：在主界面选择“文本到视频”或“图像到视频”等创作模式。
+输入内容：
+
+文本到视频：输入文字描述，AI 将根据描述生成视频。
+图像到视频：上传希望转化为视频的静态图片。
+
+
+选择模板：从提供的多种视频模板中选择一个，或让 AI 根据内容推荐合适的模板。
+自定义视频：根据需要调整视频中的文本、图像、颜色和过渡效果，实现个性化定制。
+实时预览：在最终渲染之前，使用实时预览功能查看视频效果，进行必要的调整。
+渲染和分享：满意后，点击渲染按钮生成视频，选择分享至社交媒体或下载到本地。
+
+Video Studio产品定价
+
+免费计划：每月提供 10 积分，相当于可以生成 1 个视频。功能包括文本到视频、图像到视频、角色到视频。同时只能创建 1 个视频。
+小型计划：每月提供 3000 积分，相当于可以生成 300 个视频。包括基础计划的所有功能、同时可以创建多达 10 个视频。提供更快的视频生成速度。可以下载视频。包含传统功能。
+中型计划：每月提供 10000 积分，相当于可以生成 1000 个视频。包括小型计划的所有功能。
+大型计划：每月提供 25000 积分，相当于可以生成 2500 个视频。包括中型计划的所有功能。优先电子邮件支持。
+
+
+Video Studio的应用场景
+
+社交媒体内容创作：为 Instagram、TikTok、Facebook 等社交平台制作吸引人的短视频内容。
+广告和营销：创建广告视频，用于产品推广、品牌宣传或社交媒体营销活动。
+教育和培训：制作教学视频、课程内容或培训材料，更直观的方式呈现复杂概念。
+企业演示：为企业会议、投资者介绍或产品展示制作专业的演示视频。
+个人项目：个人可以使用 Video Studio 来制作旅行视频、家庭纪念视频或任何个人创意项目。
+新闻和出版：新闻机构可以用来快速制作新闻报道视频或将文章转换成视频内容。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Video Studio\",\"description\":\"在线AI视频制作工具，零编辑技能制作专业视频内容\",\"url\":\"https://aistool.orgaishipingongju/video-studio/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/09/Video-Studio-logo1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Video Studio"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/09/Video-Studio-logo1.png","alt":"Video Studio","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Video Studio"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"在线AI视频制作工具，零编辑技能制作专业视频内容"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1192",{"href":"/aineirongjiance/wacuowang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"挖错网"}],["$","a","1413",{"href":"/aikaifapingtai/wanxiaozhi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"万小智"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","688",{"href":"/aishipingongju/kuaijianji/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"快剪辑"}]
+5:["$","a","844",{"href":"/aibangonggongju/einstein-copilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Einstein Copilot"}]
+6:["$","a","173",{"href":"/aibianchenggongju/coderabbit/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CodeRabbit"}]
+7:["$","a","739",{"href":"/aibangonggongju/wisfile/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Wisfile"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+b:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/03/taskade-icon.png","image"]
+3:Tf06,
+                Taskade是什么
+Taskade 是强大的 AI 驱动的生产力工具，基于多智能体 AI 技术提升团队和个人的工作效率。Taskade支持任务自动化、项目管理、实时协作和 AI 聊天等功能，帮助用户快速将想法转化为行动。Taskade 提供高颜值的 AI 思维导图生成，支持多种可视化方式，如列表、看板、表格、日历等。Taskade支持多平台同步（包括 Web、移动设备和桌面应用），提供无限共享和协作功能，适合个人任务管理、团队项目协作及企业级应用。Taskade 的 AI 智能体能学习、适应并自动化重复任务，帮助用户节省时间并激发创造力。
+
+Taskade的主要功能
+
+AI 智能体（AI Agents）：创建和训练 AI 智能体，自动化任务、进行研究并实时协作。
+任务自动化（Task Automation）：用定制的 AI 智能体快速完成任务，借助 AI 聊天机器人和项目助手提升生产力。
+项目生成（Project Generation）：通过任务或目标激发创造力，生成动态的待办事项列表、流程图、项目冲刺和 SOP。
+AI 思维导图（AI Mind Maps）：基于 AI 技术快速生成高颜值的思维导图，支持实时协作。
+AI 聊天（AI Chat）：与 AI 团队协作，简化任务并提升生产力，支持跨项目和工作空间的智能对话。
+知识管理（Knowledge Management）：存储和检索数据，帮助 AI 智能体更好地理解和执行任务。
+多平台支持（Multi-Platform Support）：支持 Android、iOS、Mac、Windows 等多种设备，实时同步，无缝切换。
+无限共享与协作（Unlimited Sharing & Collaboration）：轻松共享 AI 智能体、项目和工作空间，支持无限视频聊天和屏幕共享。
+Web 爬虫与搜索（Web Scraping & Search）：从网站提取实时数据、内容和链接，用 AI 智能体进行网络搜索。
+自动化流程（Automation Flows）：构建自定义自动化流程，连接 AI 智能体和外部工具，支持强大的触发器和操作。
+
+如何使用Taskade
+
+注册与登录：访问 Taskade 官网，按提完成注册和登录。
+创建工作空间：登录后，点击“Create Workspace”，为工作空间命名并选择公开或私密。
+添加项目：在工作空间中，点击“Create Project”，输入项目名称并选择项目类型（如列表、看板、思维导图等）。
+使用 AI 智能体：在项目中，点击“AI Agents”，创建或选择一个智能体，为其分配任务。
+任务自动化：点击“Automate”或“AI Automations”，选择任务类型并设置触发器和动作。
+生成项目内容：用“AI Workflow Generator”，输入任务或目标，AI 自动生成项目内容。
+实时协作：点击“Share”邀请团队成员加入，或使“Unlimited Video Chat”进行实时会议。
+知识管理：用“Agent Knowledge & Memory”存储和检索数据，帮助 AI 智能体更好地执行任务。
+多平台同步：下载 Taskade 的移动或桌面应用，登录账号后所有数据自动同步。
+导出与共享：完成项目后，点击“Export”导出为 PDF、图片或文本，或用“Share”生成链接共享项目。
+
+Taskade的应用场景
+
+项目管理：用在规划、跟踪和管理团队项目，从任务分配到进度监控，提升项目执行效率。
+头脑风暴与创意激发：基于 AI 思维导图快速整理想法，将头脑风暴的成果转化为可执行的计划。
+个人任务管理：作为个人待办事项列表，帮助用户高效安排日常任务和目标。
+团队协作：实时协作功能支持团队成员共同编辑文档、讨论项目细节，提升团队沟通效率。
+营销与销售：自动生成营销计划、客户跟进流程，帮助营销和销售团队优化工作流程。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Taskade\",\"description\":\"高颜值AI大纲和思维导图生成\",\"url\":\"https://aistool.orgaibangonggongju/taskade/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/03/taskade-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Taskade"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/03/taskade-icon.png","alt":"Taskade","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Taskade"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"高颜值AI大纲和思维导图生成"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L4","$L5","$L6","$L7","$L8","$L9"]}]]}]]}]]}],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1048",{"href":"/aisousuoyinqing/qdrant/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Qdrant"}]
+5:["$","a","457",{"href":"/aituxianggongju/meitukoutu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"美图抠图"}]
+6:["$","a","1265",{"href":"/aishipingongju/mochiani/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MochiAni"}]
+7:["$","a","1160",{"href":"/aixunlianmoxing/wenxindamoxing/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"文心大模型"}]
+8:["$","a","1380",{"href":"/aixiezuogongju/danqingmiaobi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"丹青妙笔"}]
+9:["$","a","758",{"href":"/aibangonggongju/pdf.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PDF.ai"}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

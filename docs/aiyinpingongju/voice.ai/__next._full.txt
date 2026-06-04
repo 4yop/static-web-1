@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aiyinpingongju","voice.ai",""],"q":"","i":false,"f":[[["",{"children":[["category","aiyinpingongju","d",null],{"children":[["tool","voice.ai","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/09/Voice.ai-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Td49,
+                Voice.ai是什么
+Voice.ai 是先进的实时AI变声工具，提供高质量的语音解决方案。平台支持文本到语音（TTS）、语音克隆、语音变声等多种功能，能生成高度逼真的语音，支持多种语言和方言。Voice.ai 提供企业级语音Agent，neng 自动化处理电话通话，帮助企业降低成本、提高效率。Voice.ai 强大的 API 和 SDK 为开发者提供灵活的集成方案，适用直播、游戏、培训等多种场景。Voice.ai 以低延迟、高合规性和易于扩展的特点，为企业和个人提供高效、个性化的语音交互体验。
+
+Voice.ai的主要功能
+
+
+AI语音Agents（Voice Agents）：提供多种功能的语音代理，包括通用Agent、客户支持Agent、销售线索资格Agent等，能自动化处理企业与客户的电话通话。
+
+
+文本到语音（Text to Speech）：将文本转换为高质量、接近人类的语音，支持多种语言和方言，生成工作室级别的音频，适用有声读物、视频、培训等多种场景。
+
+
+AI语音克隆（Voice Cloning）：仅需10秒音频样本，能克隆出高度逼真的语音，用户能创建独特的语音身份，适用广告、虚拟助手等多种场景。
+
+
+AI语音变声器（AI Voice Changer）：提供实时语音变声功能，用户能轻松切换性别、风格或语调，适用直播、游戏、在线聊天等场景。
+
+
+企业级解决方案：为企业提供自动化语音Agent和文本到语音服务，支持本地或云端部署，符合企业级安全和合规标准，支持无缝集成到现有技术栈中，帮助企业降低成本、提高效率。
+
+
+开发者工具：提供API和SDK，支持语音Agent、文本到语音和语音变声等功能，开发者neng 构建具有实时AI语音、克隆和降噪功能的交互式应用程序。
+
+
+如何使用Voice.ai
+
+
+访问平台：访问 Voice.ai 官网 https://voice.ai/，完成账号注册和登录。
+
+
+选择功能：根据需求选择 AI Voice Agent、文本到语音、语音克隆或语音变声等功能。
+
+
+配置 Agent：对于 AI Voice Agent，选择预设的 Agent 类型（如客户支持或销售线索资格）进行自定义设置。
+
+
+输入文本或音频：对于文本到语音，输入需要转换的文本；对于语音克隆或变声，上传音频样本。
+
+
+生成语音：点击生成按钮，平台将根据输入生成语音或变声效果。
+
+
+调整优化：根据需要调整语音的语调、速度或风格，优化输出效果。
+
+
+下载或应用：将生成的语音文件下载到本地，或直接在平台上使用（如实时通话）。
+
+
+Voice.ai的应用场景
+
+
+客户服务：通过 AI Voice Agent 自动接听客户电话，提供24/7不间断服务，解答常见问题，提升客户满意度。
+
+
+销售与营销：用语音克隆和变声功能为广告和营销活动创建个性化、逼真的语音内容，吸引目标受众。
+
+
+虚拟助手：为企业和个人开发定制化的语音助手，提供日程管理、信息查询等服务，提升工作效率。
+
+
+有声读物与播客：用高质量的文本到语音功能生成有声读物和播客内容，支持多种语言和方言，满足不同听众需求。
+
+
+在线教育：为在线课程生成语音讲解，提供多语言支持，增强学习体验，帮助内容创作者快速制作音频教材。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Voice.ai\",\"description\":\"实时AI变声工具\",\"url\":\"https://aistool.orgaiyinpingongju/voice.ai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/09/Voice.ai-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aiyinpingongju/","className":"hover:text-primary transition","children":"AI音频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Voice.ai"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/09/Voice.ai-logo.png","alt":"Voice.ai","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Voice.ai"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","9",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI音频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"实时AI变声工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1073",{"href":"/aikaifapingtai/xiaomasuanli/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"小马算力"}],["$","a","1309",{"href":"/aituxianggongju/katuai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"咖图AI"}],"$L13","$L14","$L15","$L16"]}]]}]]}]]}]
+13:["$","a","52",{"href":"/aizhinengti/rabbitos-intern/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"rabbitOS intern"}]
+14:["$","a","1249",{"href":"/aixiezuogongju/sheyantong/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"社研通"}]
+15:["$","a","56",{"href":"/ailiaotianzhushou/chatgpt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ChatGPT"}]
+16:["$","a","522",{"href":"/aituxianggongju/mejorar-imagen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Mejorar Imagen"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Voice.ai | AIStool"}],["$","meta","1",{"name":"description","content":"Voice.ai 是先进的实时AI变声工具，提供高质量的语音解决方案。平台支持文本到语音（TTS）、语音克隆、语音变声等多种功能，能生成高度逼真的语音，支持多种语言和方言。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaiyinpingongju/voice.ai/"}],["$","meta","3",{"property":"og:title","content":"Voice.ai"}],["$","meta","4",{"property":"og:description","content":"Voice.ai 是先进的实时AI变声工具，提供高质量的语音解决方案。平台支持文本到语音（TTS）、语音克隆、语音变声等多种功能，能生成高度逼真的语音，支持多种语言和方言。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaiyinpingongju/voice.ai/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/09/Voice.ai-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Voice.ai"}],["$","meta","10",{"name":"twitter:description","content":"Voice.ai 是先进的实时AI变声工具，提供高质量的语音解决方案。平台支持文本到语音（TTS）、语音克隆、语音变声等多种功能，能生成高度逼真的语音，支持多种语言和方言。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/09/Voice.ai-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","13",{}]]

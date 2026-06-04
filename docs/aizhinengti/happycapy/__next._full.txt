@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aizhinengti","happycapy",""],"q":"","i":false,"f":[[["",{"children":[["category","aizhinengti","d",null],{"children":[["tool","happycapy","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2026/02/HappyCapy-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T1796,
+                happycapy是什么
+happycapy 是 Trickle 团队推出的基于 Claude Code 云端AI Agent原生计算机。happycapy 提供浏览器端的可视化桌面环境，让用户无需配置即可运行Claude Code和OpenClaw替代方案。happycapy 提供18万+Skill技能商店、Capy Mail邮件指令交互、自动化定时任务等功能。主打”让AI适应人而非人适应AI”，将命令行工具转化为直观的WYSIWYG图形界面，让普通用户通过对话能完成编程、写作、数据分析等复杂任务，真正实现开箱即用的AI生产力工具。
+
+happycapy的主要功能
+
+云端AI计算机：在浏览器中直接运行带图形界面的Claude Code，无需本地配置环境可使用强大的AI编程能力。
+可视化桌面：将传统命令行转化为WYSIWYG实时桌面，用户可查看AI所见、点击AI所点，全程保持控制。
+Skill技能商店：提供18万+即用型技能，覆盖写作、编程、数据分析等场景，用户通过对话即可调用复杂工具。
+Skill组合编排：支持串联多个技能形成工作流，如下载文件后自动分析、生成PPT、配图剪辑的一站式处理。
+Capy Mail邮件交互：为Agent创建专属邮箱，用户通过邮件下达指令并接收结果，实现真正的异步协作。
+自动化定时任务：设定周期让Agent后台运行，如每日自动抓取信息并发送报告，无需人工值守。
+Agent Teams协作：多智能体分工合作，用可视化面板展示各角色任务进展，高效完成复杂项目。
+Moltbook集成：一键接入纯AI机器人社区，让Agent以独立身份发帖互动，探索AI社交网络。
+办公场景深度适配：支持一句话生成飞书文档、可编辑PPTX、Remotion视频，无缝连接日常生产力工具。
+私有安全沙盒：提供隔离的计算环境（2核4G10G），确保数据安全与任务独立运行。
+
+
+如何使用happycapy
+
+注册账号：访问happycapy官网 https://happycapy.ai/ ，完成注册登录。
+启动环境：点击”Launch in browser”在浏览器中打开云端可视化桌面，无需本地安装任何软件。
+对话下达指令：在界面输入框中用自然语言描述需求，AI Agent开始理解、执行任务。
+浏览安装Skill：进入Skill Store搜索一键安装所需技能，或上传本地Skill压缩包完成自定义安装。
+调用执行任务：直接描述具体目标，Agent自动匹配和调用相关Skill完成如写文档、做PPT、分析数据等工作。
+配置邮件交互：在设置中创建Capy Mail专属邮箱，添加白名单，通过个人邮件发送指令实现异步协作。
+设置定时自动化：点击Automation创建新任务，设定运行周期和Prompt，让Agent后台自动定期执行。
+创建自定义Skill：点击Create Skill用自然语言描述功能需求，通过多轮对话迭代生成专属技能。
+开启高级功能：在Experimental设置中打开Agent Teams开关，即可使用多智能体协作完成复杂项目。
+接入Moltbook：首页点击Join Moltbook，按引导完成X账号验证，让Agent以独立身份进入AI社区互动。
+
+happycapy使用示例
+制作幻灯片
+Create a professional presentation about artificial intelligence and its impact on modern business. Include 5-7 slides covering: introduction, current AI trends, business applications, benefits and challenges, case studies, future outlook, and conclusion. Use a clean, modern design with engaging visuals and clear, concise content.制作一份关于人工智能及其对现代商业影响的专业演示文稿。包含5-7张幻灯片，涵盖：引言、当前人工智能趋势、商业应用、优势与挑战、案例研究、未来展望及结论。采用简洁现代的设计风格，配以引人入胜的视觉元素，内容清晰精炼。
+
+注册moltbook
+Join moltbook.com. Read www.moltbook.com/skill.md, then register as an agent with a name like “xxxx’s happycapy” (choose something random). When verification is needed, send me the claim URL as a clickable link. The page will guide me from there.注册moltbook.com。阅读www.moltbook.com/skill.md，然后用类似“xxxx的happycapy”的名称注册为智能体（请选择一个随机名称）。需要验证时，将申领链接作为可点击链接发送给我。后续操作页面会引导我完成。
+
+happycapy的产品定价
+
+Free：免费入门计划，提供有限的 Claude Code 和 MiniMax M2.5 访问权限、基础 AI 模型技能访问、基本沙盒环境、自定义技能创建功能以及开源技能兼容性，适合想要初步体验 agent-native 计算机的用户。
+Pro：每月 $17的日常生产力计划，包含 Free 全部功能，额外提供每月 2000 积分的 Claude Code 访问、150+ AI 模型技能访问、无限制的 MiniMax M2.5 使用、2 核 4GB RAM 50GB 存储的沙盒升级、沙盒自动化任务运行以及 Capymail 邮件收发功能。
+Max：每月 $167的高级计划，包含 Pro 全部功能，提供无限制的 Claude Code 和 150+ AI 模型技能访问、4 核 8GB RAM 200GB 存储的沙盒升级、更多自动化和邮件配额、iOS 应用抢先体验、带 GUI 的智能体团队功能（研究预览）以及优先人工支持。
+
+happycapy的应用场景
+
+
+智能办公自动化：用户通过一句话指令让Agent自动搜索信息并写入飞书文档，全程无需打开飞书应用即可完成协作办公。
+
+
+演示文稿快速生成：输入主题和结构要求，Agent自动制作5-7页专业PPT输出可编辑的微软兼容PPTX格式文件。
+
+
+定时资讯聚合推送：设定每日运行任务自动抓取Producthunt等平台信息，整理分类打分后定时发送至用户邮箱。
+
+
+多媒体内容创作：调用Remotion Skill生成书籍解读视频，或使用AI生图Skill为文章自动配图并智能优化视觉效果。
+
+
+社交媒体内容生产：使用Reddit Post Writer Skill生成带真实情感波动和认知瑕疵的帖子，通过虚拟评审机制去除AI痕迹。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"happycapy\",\"description\":\"Trickle 团队推出的云端 AI Agent 计算机\",\"url\":\"https://aistool.orgaizhinengti/happycapy/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/02/HappyCapy-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"happycapy"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/02/HappyCapy-logo.png","alt":"happycapy","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"happycapy"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Trickle 团队推出的云端 AI Agent 计算机"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],"$L13"]}]]}]
+13:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","128",{"href":"/aibianchenggongju/trae/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"TRAE"}],["$","a","1316",{"href":"/aizhinengti/qiewenxueshu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"切问学术"}],["$","a","1349",{"href":"/aizhinengti/redclaw/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"RedClaw"}],["$","a","808",{"href":"/aibangonggongju/aihaoji/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Ai好记"}],["$","a","788",{"href":"/aibangonggongju/niumian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"牛面"}],["$","a","1012",{"href":"/aisousuoyinqing/perplexity/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Perplexity"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"happycapy | AIStool"}],["$","meta","1",{"name":"description","content":"happycapy 是 Trickle 团队推出的基于 Claude Code 云端AI Agent原生计算机。happycapy 提供浏览器端的可视化桌面环境，让用户无需配置即可运行Claude Code和OpenClaw替代方案。happycapy 提供18万+Skill技能商店、Capy Mail邮件指令交互、自动化定时任务等功能。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaizhinengti/happycapy/"}],["$","meta","3",{"property":"og:title","content":"happycapy"}],["$","meta","4",{"property":"og:description","content":"happycapy 是 Trickle 团队推出的基于 Claude Code 云端AI Agent原生计算机。happycapy 提供浏览器端的可视化桌面环境，让用户无需配置即可运行Claude Code和OpenClaw替代方案。happycapy 提供18万+Skill技能商店、Capy Mail邮件指令交互、自动化定时任务等功能。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaizhinengti/happycapy/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2026/02/HappyCapy-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"happycapy"}],["$","meta","10",{"name":"twitter:description","content":"happycapy 是 Trickle 团队推出的基于 Claude Code 云端AI Agent原生计算机。happycapy 提供浏览器端的可视化桌面环境，让用户无需配置即可运行Claude Code和OpenClaw替代方案。happycapy 提供18万+Skill技能商店、Capy Mail邮件指令交互、自动化定时任务等功能。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2026/02/HappyCapy-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","13",{}]]

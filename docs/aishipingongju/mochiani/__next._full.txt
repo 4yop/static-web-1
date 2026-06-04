@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aishipingongju","mochiani",""],"q":"","i":false,"f":[[["",{"children":[["category","aishipingongju","d",null],{"children":[["tool","mochiani","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2026/01/MochiAni-logo.jpg","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T106f,
+                MochiAni是什么
+MochiAni（麻薯动画）是专为创作者打造的AI动画视频创作工具，提供从创作到出海的一站式解决方案。通过智能化手段简化动画制作流程，降低创作门槛。用户只需输入文字，MochiAni能自动生成多格分镜，提供10余种风格模板，支持角色形象锁定，保障多集内容一致性。MochiAni支持一键将中文视频翻译成多种语言，自动匹配原声BGM并智能去除原字幕，轻松生成国际版视频。MochiAni能将小说文案快速解析为动态漫剧视频，实现零门槛创作。具备创意重构功能，可快速生成不同视角和画风的视频版本，满足多平台内容矩阵需求。
+
+MochiAni的主要功能
+
+文字生成动画：用户只需输入文字脚本，AI能自动生成多格分镜动画，大大减少了前期设计和制作的工作量。
+
+多种风格模板：提供10余种不同风格的动画模板，满足不同场景和用户需求。
+
+智能修复与优化：自动检测并修复音频与画面不同步的问题，确保视频流畅播放。对静态画面进行动态优化，提升视频整体流畅度。
+
+多场景适配：支持短视频、漫剧、广告、教育等多种应用场景。可导出横屏和竖屏两种格式，适配不同平台的发布需求。
+
+
+角色形象锁定：支持角色形象锁定，确保多集内容中角色形象的一致性。
+
+
+云端实时协作：支持云端协作，方便团队成员共同创作和修改。
+
+
+视频翻译：支持一键将中文视频翻译成英文等其他语言，自动匹配原声BGM并智能去除原字幕，生成专业的国际版视频。
+
+
+极速创作闭环：可将小说文案一键解析生成动态漫剧视频，支持批量生成人物场景和分镜，实现零门槛创作。
+
+
+创意重构与裂变：通过创意重构功能，快速生成不同视角和画风的视频版本，满足多平台内容矩阵需求。
+
+
+音画同步修复：提供情绪克隆功能统一角色音色，支持画面去水印和字幕净化，保障视频音画品质。
+
+
+编辑器升级：操作手感全面升级，支持全域剪贴板操作，接入画图板，元素自由操控更灵活。
+
+
+AI生成与控制优化：新增新手/专业模式切换，支持批量添加角色/场景、关键词替换，提升生成稳定性。
+
+
+团队协作与项目管理：在共享项目模式下，项目所有者拥有会员权限时，团队成员下载视频均无水印；支持成员管理优化和数据导出加强。
+
+
+如何使用MochiAni
+
+
+注册账号：访问 MochiAni 官网 https://www.mochiani.com/ ，注册并登录账号。
+
+
+选择模板：根据需求选择合适的动画风格模板，平台提供多种风格供选择。
+
+
+输入脚本：在创作界面输入文字脚本，这是生成动画的基础内容。
+
+
+分段处理：将脚本分段，便于生成多格分镜动画。
+
+
+一键生成：点击生成按钮，AI会根据输入的文字自动生成多格分镜动画。
+
+
+智能修复：系统自动修复音频与画面不同步的问题，优化动画效果。
+
+
+调整分镜：根据需要调整分镜的顺序、时长等参数。
+
+
+添加特效：为动画添加字幕、特效等元素，增强表现力。
+
+
+导出格式：选择合适的视频格式（如MP4）和分辨率（如1080P）导出动画。
+
+
+发布平台：将生成的动画上传至短视频平台、社交媒体等，根据平台要求设置标题和标签。
+
+
+MochiAni的应用场景
+
+
+短视频创作：快速生成有趣、个性化的短视频内容，适合抖音、快手等平台，提升用户创作效率和内容吸引力。
+
+
+漫剧制作：为漫画改编动画提供高效解决方案，支持多集内容角色形象锁定，确保一致性，适配多集连载。
+
+
+广告营销：快速制作品牌宣传、产品推广等广告动画，降低制作成本，提高广告点击率和转化率。
+
+
+教育内容：用于制作教育动画，将复杂知识通过生动的动画形式呈现，提升学习兴趣和完课率。
+
+
+社交媒体：生成适合微博、小红书等社交媒体的动画内容，增强用户互动和传播力。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"MochiAni\",\"description\":\"AI动画视频创作工具\",\"url\":\"https://aistool.orgaishipingongju/mochiani/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/01/MochiAni-logo.jpg\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"MochiAni"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/01/MochiAni-logo.jpg","alt":"MochiAni","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"MochiAni"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI动画视频创作工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","270",{"href":"/aishejigongju/illostrationai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"illostrationAI"}],"$L13","$L14","$L15","$L16","$L17"]}]]}]]}]]}]
+13:["$","a","1294",{"href":"/aituxianggongju/jiaodianai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"蕉点AI"}]
+14:["$","a","833",{"href":"/aibangonggongju/qimi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"奇觅"}]
+15:["$","a","753",{"href":"/aibangonggongju/tongyizhiwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"通义智文"}]
+16:["$","a","119",{"href":"/ailiaotianzhushou/shangliangsensechat/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"商量SenseChat"}]
+17:["$","a","1039",{"href":"/aisousuoyinqing/phind/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Phind"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"MochiAni | AIStool"}],["$","meta","1",{"name":"description","content":"MochiAni（麻薯动画）是专为创作者打造的AI动画视频创作工具，提供从创作到出海的一站式解决方案。通过智能化手段简化动画制作流程，降低创作门槛。用户只需输入文字，MochiAni能自动生成多格分镜，提供10余种风格模板，支持角色形象锁定，保障多集内容一致性。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaishipingongju/mochiani/"}],["$","meta","3",{"property":"og:title","content":"MochiAni"}],["$","meta","4",{"property":"og:description","content":"MochiAni（麻薯动画）是专为创作者打造的AI动画视频创作工具，提供从创作到出海的一站式解决方案。通过智能化手段简化动画制作流程，降低创作门槛。用户只需输入文字，MochiAni能自动生成多格分镜，提供10余种风格模板，支持角色形象锁定，保障多集内容一致性。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaishipingongju/mochiani/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2026/01/MochiAni-logo.jpg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"MochiAni"}],["$","meta","10",{"name":"twitter:description","content":"MochiAni（麻薯动画）是专为创作者打造的AI动画视频创作工具，提供从创作到出海的一站式解决方案。通过智能化手段简化动画制作流程，降低创作门槛。用户只需输入文字，MochiAni能自动生成多格分镜，提供10余种风格模板，支持角色形象锁定，保障多集内容一致性。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2026/01/MochiAni-logo.jpg"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","13",{}]]

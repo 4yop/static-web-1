@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/03/clipfly-ai-icon.png","image"]
+3:Tb75,
+                Clipfly是什么
+Clipfly是一个一站式AI视频制作平台，由成都恒图科技（AI图像工具Fotor背后的公司）开发，旨在为用户提供从创意产生到完成视频的全套解决方案。该产品集成了多种功能，包括AI视频生成、AI视频增强、视频编辑等，使用户能够在一个平台上完成从文本到视频的转换和编辑。Clipfly的目标是简化视频制作流程，使得任何用户，无论是否具备专业的视频编辑技能，都能够轻松地创作出高质量的视频内容。
+
+Clipfly的主要功能
+
+AI视频生成：用户可以通过输入文本提示词（Prompt）来生成视频帧（Frame），Clipfly会根据这些文本提示词生成相应的视频内容，支持如摄影、动画、概念风、电影等不同风格的视频生成。
+视频编辑器：Clipfly内置了一个视频编辑器，允许用户对生成的视频片段进行剪辑、添加字幕、音乐等，以及进行其他常规的视频编辑任务，如调整视频长度、裁剪画面等。
+视频增强：该功能可以帮助用户提升视频画面质量，通过自动调整视频的亮度、饱和度、对比度等参数，使得视频看起来更加生动和专业。
+照片动画制作：用户可以利用这个功能让静态照片动起来，为照片添加动态效果，使其更具吸引力和趣味性。
+口播虚拟人：Clipfly提供了一个独特的功能，可以将照片中的人物头像转换成说话的虚拟人，通过自然的声音覆盖，使得照片看起来像是在说话。
+视频清晰度增强：对于质量不高或拍摄条件不理想的视频，Clipfly提供了视频清晰度增强工具，可以改善视频的清晰度，提升观看体验。
+媒体库资源：Clipfly提供了丰富的媒体库资源，包括贴纸、图片、音乐、转场效果和文本效果等，用户可以直接使用这些资源来丰富和个性化自己的视频。
+
+
+如何使用Clipfly生成视频
+
+访问Clipfly的官网（clipfly.ai），点击Try for free，然后进行注册/登录
+点击顶部的AI Tools菜单栏，选择AI Video Generator，然后点击Get Started
+在Prompts处输入提示词，选择视频帧（Frames）数量，然后点击Geneate Frame
+最后选择视频帧画面，点击Generate a Video生成视频，等待视频生成
+视频生成完毕后，可进行下载，也可以继续生成视频片段合并为长视频
+
+Clipfly的产品价格
+
+
+免费版：新用户注册后可获得免费的20个AI积分，1视频帧生成消耗1积分，1个视频生成消耗5积分，视频画质增强每分钟视频消耗5积分。
+Pro付费版：14.99美元每月（99.99美元每年），每月提供200个积分，支持4K画质视频导出、1200+音频素材、39000+版权贴纸、5500+版权图片、100+版权视频、210+字体、2G+云存储、音频提取、导出视频为MP3等权益。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Clipfly\",\"description\":\"一站式AI长视频制作和编辑平台\",\"url\":\"https://aistool.orgaishipingongju/clipfly/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/03/clipfly-ai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Clipfly"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/03/clipfly-ai-icon.png","alt":"Clipfly","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Clipfly"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"一站式AI长视频制作和编辑平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","797",{"href":"/aibangonggongju/offerin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Offerin"}],["$","a","635",{"href":"/aishipingongju/vozo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Vozo"}],["$","a","41",{"href":"/aizhinengti/crepal/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CrePal"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","291",{"href":"/aituxianggongju/lingdongai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"灵动AI"}]
+5:["$","a","193",{"href":"/aibianchenggongju/fronty/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Fronty"}]
+6:["$","a","1050",{"href":"/aisousuoyinqing/kaisouai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"开搜AI"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

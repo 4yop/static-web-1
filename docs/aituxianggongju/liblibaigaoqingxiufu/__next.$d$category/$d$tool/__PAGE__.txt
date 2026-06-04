@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/10/liblib.art-logo.png","image"]
+3:Td08,
+                LiblibAI高清放大是什么
+LiblibAI高清放大是LiblibAI推出的AI高清放大工作流，基于先进的超分辨率技术，支持多种模型，能显著提升图像的清晰度和细节。主要用于将图像放大分辨率，适用于需要极高清晰度的图像输出，如专业图像展示或高清壁纸等。为用户提供了强大的图像高清放大能力，满足不同场景下的需求。
+
+LiblibAI高清放大的主要功能
+
+
+多种模型支持：LiblibAI支持多种超分辨率模型，如R-ESRGAN_4x+Anime6B、SUPIR-v0F和4x-UltraSharp等。这些模型针对不同风格的图像（如动漫、写实等）进行了优化，能根据图像类型选择合适的模型，获得更理想的放大效果。
+
+
+低显存运行：通过优化算法，LiblibAI的高清放大功能可以在较低的显存条件下运行。例如，使用InvSR模型时，最低仅需8G显存即可实现4K图像的高清放大。
+
+
+快速处理：高清放大功能的处理速度较快，单图4K的放大处理大约仅需21秒。
+
+
+集成于ComfyUI工作流：LiblibAI的高清放大功能可以通过ComfyUI的工作流实现，用户可以方便地将高清放大节点集成到工作流中。
+
+
+如何使用LiblibAI高清放大
+
+加载高清放大工作流：访问LiblibAI官网 www.liblib.art/workflows ，找到工作流，选择高清放大功能，点击“在ComfyUI中运行”，跳转到ComfyUI界面。
+上传图片：在ComfyUI操作界面中找到“加载图像”节点，点击“choose file to upload”，从电脑中选择需要放大的图片。
+调整参数
+
+
+调整重绘幅度：找到“基础调度器”节点，调整降噪参数（重绘幅度）。数值过低会使细节不够丰富，过高则可能偏离原图构想，建议控制在0.23-0.4之间。
+
+
+选择模型（可选）：在工作流右上方的“UNET加载器”节点中，可更换默认模型，选择与图片风格匹配的大模型，但需确保基础算法是F.1系列。
+
+
+
+运行工作流：所有参数调整完毕后，点击右上角的“运行”按钮，等待AI完成处理。
+保存结果：处理完成后，在界面右下角找到“保存图像”节点，右键点击生成的图片并选择“保存图像”。
+
+LiblibAI高清放大的应用场景
+
+
+动漫图像高清放大：使用R-ESRGAN_4x+Anime6B模型，适用于动漫风格图像的高清放大，能保留动漫特有的线条和色彩风格，增强图像细节，适合制作高清动漫壁纸或素材。
+
+
+写实图像高清放大：通过4x-UltraSharp等模型，对写实风格的图像进行高清放大，适用于风景、人像等写实图像，可提升图像清晰度，用于高质量的图像展示或打印。
+
+
+专业图像处理：在需要高分辨率输出的场景中，如广告设计、艺术创作等，使用高清放大功能可以将低分辨率图像放大至4K甚至更高分辨率，满足专业需求。
+
+
+老旧图像修复：对于老旧或低质量的图像，高清放大功能可以帮助恢复图像细节，提升清晰度，使其更适合现代展示或进一步编辑。
+
+
+视频帧高清放大：在视频制作中，对关键帧进行高清放大，可以提升视频的整体视觉效果，尤其是在需要高清展示的视频内容中，如纪录片、广告等。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"LibLibAI高清修复\",\"description\":\"AI高清修复工作流\",\"url\":\"https://aistool.orgaituxianggongju/liblibaigaoqingxiufu/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/10/liblib.art-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"LibLibAI高清修复"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/10/liblib.art-logo.png","alt":"LibLibAI高清修复","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"LibLibAI高清修复"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI高清修复工作流"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","416",{"href":"/aixiezuogongju/frase/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Frase"}],["$","a","1177",{"href":"/aixunlianmoxing/imagen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Imagen"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","366",{"href":"/aixiezuogongju/writingpal/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"WritingPal"}]
+5:["$","a","371",{"href":"/aixiezuogongju/hyperwrite/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"HyperWrite"}]
+6:["$","a","1365",{"href":"/aizhinengti/colaos/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ColaOS"}]
+7:["$","a","1380",{"href":"/aixiezuogongju/danqingmiaobi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"丹青妙笔"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

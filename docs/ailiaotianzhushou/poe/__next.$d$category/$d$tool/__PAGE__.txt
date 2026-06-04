@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/10/Poe-logo.png","image"]
+3:Tbc6,
+                Poe是什么
+Poe 是国外知名问答社区 Quora 推出的多模型 AI 聊天平台，支持多种 AI 模型（如 ChatGPT、Claude、Gemini 等）。用户能通过一个界面与不同的AI模型进行交互，实现聊天、写作、翻译等多种功能。Poe提供丰富的预设模型，支持许用户创建和定制自己的AI助手，满足个性化需求。Poe支持跨设备同步，用户能在网页版、iOS和Android应用中无缝切换。Poe的目标是通过简单易用的界面，让用户轻松释放AI的潜能，提升工作和学习效率。
+
+Poe的主要功能
+
+
+多模型集成：用户能在一个平台上切换使用 Claude、GPT、Gemini 等多种 AI 模型，根据需求选择最适合的模型。
+
+
+即时对话：用户能输入问题或指令，所选模型提供上下文相关且准确的回答，支持实时互动。
+
+
+创意与写作支持：帮助用户进行创意写作、文案生成、故事创作等，激发灵感。
+
+
+编程辅助：提供代码建议、调试帮助和编程思路，支持多种编程语言。
+
+翻译功能：支持多种语言之间的文本翻译，帮助用户快速跨越语言障碍，适用于文档翻译和即时翻译。
+创建自定义 AI 助手：用户能创建自己的 AI 助手（Bot），自定义其功能和行为，生成专属链接分享给他人，满足个性化需求。
+多平台支持：Poe 提供网页版、iOS 和 Android 应用，支持跨设备同步，方便用户随时随地使用。
+
+如何使用Poe
+
+注册账号：访问 Poe 官网 https://poe.com/或下载Poe App，完成账号注册和登录。
+选择 AI 模型：登录后，从多个可用的 AI 模型（如Gemini-2.5-Pro、GPT-5、Claude-Haiku-4.5 等）中选择一个，根据需求进行对话。
+开始对话：输入问题或指令，点击发送，AI 立即给出回答，继续对话能获取更多信息。
+创建自定义 AI 助手：点击左侧菜单的“Create a bot”，填写 Bot 名称和初始指令（Prompt），选择模型，生成专属链接分享给他人。
+使用其他功能：利用翻译、写作辅助、教育应用等功能，满足不同需求，如语法检查、文本润色、口语练习等。
+同步与跨设备使用：登录账号后，聊天记录能在所有设备上同步，支持在网页版、iOS 或 Android 应用中使用。
+
+Poe的应用场景
+
+教育：教师能创建写作助教、口语练习伙伴或阅读理解工具，帮助学生提升学习效果。
+写作：作家和内容创作者用 AI 辅助写作，进行语法检查、文本润色和创意生成。
+语言学习：学习者与 AI 进行对话练习，提升口语和听力能力，平台支持多种语言。
+内容创作：创作者能生成图像、视频和音频内容，支持创意设计和多媒体制作。
+编程辅助：开发者用 AI 提供的编程建议和代码生成功能，提高开发效率。
+日常对话：用户与 AI 进行日常交流，获取建议、娱乐或解答问题。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Poe\",\"description\":\"问答社区Quora推出的问答机器人工具\",\"url\":\"https://aistool.orgailiaotianzhushou/poe/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/10/Poe-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/ailiaotianzhushou/","className":"hover:text-primary transition","children":"AI聊天助手"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Poe"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/10/Poe-logo.png","alt":"Poe","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Poe"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","6",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI聊天助手"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"问答社区Quora推出的问答机器人工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1298",{"href":"/aishejigongju/xiaomoyingbianjiqi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"小墨鹰编辑器"}],["$","a","1185",{"href":"/aineirongjiance/gptzero/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"GPTZero"}],["$","a","1351",{"href":"/aishipingongju/libtv/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LibTV"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1360",{"href":"/aituxianggongju/omma/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Omma"}]
+5:["$","a","183",{"href":"/aibianchenggongju/quest-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Quest AI"}]
+6:["$","a","806",{"href":"/aibangonggongju/shenbijianli/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"神笔简历"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

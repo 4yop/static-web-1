@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/05/mooliv-icon.png","image"]
+3:Tbd8,
+                模力视频是什么
+模力视频是一个基于人工智能技术的在线视频编辑平台，通过AI剪辑功能，使用户能够快速制作出适应不同场景的高质量视频内容。该平台拥有丰富的高清视频模板，覆盖电商、企业宣传、新媒体运营等多种应用场景，支持多种格式的素材导入，并允许用户将制作完成的视频导出为多种格式。模力视频的界面设计简单易用，适合各种水平的用户，即使是视频制作的新手也能轻松上手。
+
+模力视频的主要功能
+
+丰富的视频模板库：提供海量、多样化的高清视频模板，覆盖从电商广告到个人生活记录的广泛场景，满足不同用户的个性化需求。
+智能剪辑技术：利用先进的AI算法，模力视频能够智能识别素材内容，自动进行剪辑和合成，即使是视频制作的新手也能快速制作出专业级别的视频作品。
+广泛的应用场景：无论是商业宣传、社交媒体内容创作，还是个人视频日记，模力视频都能提供相应的解决方案，帮助用户在各种平台上吸引观众。
+用户友好的操作界面：简洁直观的操作界面设计，使得用户无需复杂的学习过程，即可通过拖放和编辑轻松制作视频。
+多格式兼容：支持多种流行的视频、图片和音频文件格式，极大提高了素材的可用性和视频制作的灵活性。
+一键导出功能：用户可以方便地将编辑好的视频导出为多种流行的视频格式，便于在不同的设备和平台上分享和展示。
+全面的行业解决方案：针对电商、企业宣传、教育、活动等不同行业，模力视频提供了定制化的解决方案，帮助用户提升视频内容的专业度和吸引力。
+商用素材库：配备了丰富的商用素材库，包括可免费商用的音乐、字体、视频片段和图片，让用户的视频制作更加安心无忧。
+
+模力视频以其强大的功能和用户友好的设计，为用户提供了一个全面、高效、专业的视频创作环境，无论是业余爱好者还是专业视频制作人员，都能在这里找到满足其创作需求的工具和服务。
+模力视频的应用场景
+
+电商视频制作：为电商平台制作吸引人的产品展示视频，提升商品的视觉效果和购买转化率。
+企业宣传：创建企业宣传片，展示公司文化、服务和产品，增强品牌形象。
+广告营销：设计和制作广告视频，用于社交媒体、电视或网络平台，吸引潜在客户。
+新媒体运营：为微博、抖音、快手等新媒体平台制作短视频，增加用户互动和粉丝参与度。
+活动会议：制作活动预告、回顾或会议记录视频，记录重要时刻，分享精彩瞬间。
+个人生活纪念：编辑家庭视频、旅行VLOG、纪念日视频等，保存珍贵记忆。
+教育和培训：制作教育课程视频、培训材料或讲解视频，提高学习效率。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"模力视频\",\"description\":\"AI驱动的视频编辑平台\",\"url\":\"https://aistool.orgaishipingongju/molishipin/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/05/mooliv-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"模力视频"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/05/mooliv-icon.png","alt":"模力视频","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"模力视频"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI驱动的视频编辑平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","513",{"href":"/aituxianggongju/stockimg-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Stockimg AI"}],["$","a","1012",{"href":"/aisousuoyinqing/perplexity/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Perplexity"}],["$","a","178",{"href":"/aibianchenggongju/solo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Solo"}],["$","a","1133",{"href":"/aixuexiwangzhan/trancy/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Trancy"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","957",{"href":"/aiyinpingongju/stable-audio/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Stable Audio"}]
+5:["$","a","429",{"href":"/aituxianggongju/pic-copilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pic Copilot"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

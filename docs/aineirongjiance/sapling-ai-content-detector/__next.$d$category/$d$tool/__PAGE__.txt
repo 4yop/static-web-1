@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/03/sapling-ai-icon.png","image"]
+3:Ta95,
+                Sapling AI Content Detector是什么
+Sapling AI Content Detector 是检测文本是否由AI生成的免费在线工具，用户可以通过上传文本或直接粘贴内容进行检测，工具基于机器学习算法分析文本特征，识别出由 AI 模型（如 ChatGPT 和 GPT-4）生成的内容。Sapling 能在短至 50 个字的文本中进行检测，将 AI 生成的部分高亮显示，同时提供整体的 AI 生成内容比例。
+
+Sapling AI Content Detector的主要功能
+
+AI生成文本检测：Sapling AI Content Detector能分析文本并输出文本是由AI模型（如ChatGPT或Gemini）生成的概率。
+浏览器扩展：提供浏览器扩展功能，支持用户在任何网页上检查AI生成的内容。
+文本分析：提供整体评分，高亮显示看起来像是AI生成的文本部分。
+句子级别的检测：能标记可能由AI生成的句子，例如陈词滥调或过于简单的句子。
+API访问：提供API接口，支持用户通过编程方式访问检测功能，方便集成到自己的应用程序中。
+高精度检测：Sapling.ai的AI检测器在内部基准测试中表现出色，捕捉超过97%的AI生成文本，同时将误报率保持在低于3%。
+
+Sapling AI Content Detector的产品官网
+
+产品官网：hsapling.ai/ai-content-detector
+
+Sapling AI Content Detector的产品定价
+
+免费：提供基本建议、免费域名上使用、20个片段。
+专业版：25美元/月；包含免费功能、不限片段、高级保费建议、高级域名无限使用、较长查询AI检测器。
+企业：咨询定制。包含所有功能。
+
+Sapling AI Content Detector的应用场景
+
+教育领域：可以帮助教育工作者检测学生提交的作业或论文是否由AI生成，维护学术诚信和原创性。
+SEO实践：对于SEO从业者来说，工具能检测网页内容是否为AI生成，帮助他们确保网站内容的质量和原创性，提高搜索引擎优化的效果。
+用户生成内容的审核：在社交媒体和论坛等平台上，内容审核者可以用Sapling AI Content Detector来识别和过滤由AI生成的内容，保证平台内容的真实性和可靠性。
+版权保护：通过检测AI生成内容，工具有助于保护原创作品的版权，打击抄袭行为。
+内容创作和出版：对于内容创作者和出版商来说，Sapling AI Content Detector可以帮助他们验证内容的真实性，确保发布的内容是由人类创作而非机器生成。
+客户服务和通信平台：Sapling AI Content Detector可以与客户服务和通信平台无缝集成，提供实时AI内容检测，适用于需要监控大量人工智能生成内容通信的企业。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Sapling AI Content Detector\",\"description\":\"Sapling.ai推出的免费在线AI内容检测工具\",\"url\":\"https://aistool.orgaineirongjiance/sapling-ai-content-detector/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/03/sapling-ai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aineirongjiance/","className":"hover:text-primary transition","children":"AI内容检测"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Sapling AI Content Detector"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/03/sapling-ai-icon.png","alt":"Sapling AI Content Detector","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Sapling AI Content Detector"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","14",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI内容检测"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Sapling.ai推出的免费在线AI内容检测工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1085",{"href":"/aikaifapingtai/x-all-in-one/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"X-All in one"}],["$","a","1345",{"href":"/aishipingongju/museart-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MuseArt AI"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1319",{"href":"/aibangonggongju/narraland/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"NarraLand"}]
+5:["$","a","959",{"href":"/aiyinpingongju/ttsmaker/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"TTSMaker"}]
+6:["$","a","645",{"href":"/aishipingongju/shenbimaliang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"神笔马良"}]
+7:["$","a","418",{"href":"/aixiezuogongju/copymatic/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Copymatic"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/11/88lingo-icon.png","image"]
+3:Tb0d,
+                灵构笔记是一个集文本编辑、任务管理、数据库、笔记、协作和AI写作工具于一身的综合性应用程序，该产品融合了传统笔记应用的简洁性和任务管理工具的强大功能，同时支持团队协作和AI创作，使其成为一款广受欢迎的工作生产力工具。
+
+灵构笔记的主要功能
+
+多层次的文档编辑。灵构笔记的编辑功能非常灵活，支持多层次的文档结构。用户可以创建页面、子页面，轻松建立层次结构，以更好地组织和整理信息。
+任务和项目管理。灵构笔记允许用户创建任务列表、待办事项和项目计划。通过简单的拖拽操作，用户可以调整任务的优先级和顺序，实现高效的任务管理。
+数据库与表格。灵构笔记内置了强大的数据库功能，用户可以创建各种类型的数据库、列表等。这使得灵构笔记不仅仅是一个笔记应用，还是一个适用于各种数据管理的工具。
+知识库和笔记。灵构笔记是一个强大的知识库工具，用户可以在其中存储和组织大量的信息。它支持富文本编辑、嵌入式媒体和链接，让用户可以轻松创建复杂而丰富的笔记。
+AI助手快速创作/续写/扩写。灵构笔记内置了强大的AI助手，可以帮助用户在营销文案、工作总结、心得体会、培训总结上进行丰富的创作。
+
+如何使用灵构笔记
+
+注册与登录：首先，用户需要在灵构笔记的官方网站上注册账户，并完成登录步骤。
+创建工作区和页面：用户登录后，可以创建自己的工作区，并在其中创建页面。页面可以用于不同的目的，例如项目管理、笔记、文档等。
+使用编辑工具：灵构笔记的编辑工具非常直观，用户可以通过点击页面上的文本区域开始编辑。编辑工具支持富文本格式、插入图片和嵌入链接，使得用户能够轻松创建丰富多彩的内容。
+唤起AI助手：输入斜杠/，即可启用AI进行页面内容优化或快速创作
+
+灵构笔记的产品价格
+
+注册后即免费赠送1000字AI创作额度，按充值字数来算5000字9.9元，10000字19.9元，50000字29.9元
+按购买时长不限字数创作来算，3天不限字数29元，1月畅用99元，1年畅用199元
+
+常见问题
+
+
+灵构笔记的AI创作是免费的吗？
+灵构笔记为新注册用户提供了免费的1000字AI创作，若觉得产品不错需要更多字数可以选择付费充值。
+
+
+灵构AI写作助手可以做什么？
+灵构笔记的AI助手可以进行页面内容优化（如续写、扩写、改写、简写、翻译等）和快速创作。
+
+
+灵构笔记的AI助手基于什么大模型？
+灵构笔记的AI助手基于百度最新推出的文心一言大模型。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"灵构AI笔记\",\"description\":\"在线安全的灵感收集、思路整理AI笔记工具\",\"url\":\"https://aistool.orgaixiezuogongju/linggouaibiji/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/11/88lingo-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"灵构AI笔记"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/11/88lingo-icon.png","alt":"灵构AI笔记","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"灵构AI笔记"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"在线安全的灵感收集、思路整理AI笔记工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","720",{"href":"/aishipingongju/molishipin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"模力视频"}],["$","a","1398",{"href":"/aishipingongju/seedance/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Seedance"}],["$","a","656",{"href":"/aishipingongju/noisee-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Noisee AI"}],["$","a","1424",{"href":"/aikaifapingtai/ofoxai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"OfoxAI"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","467",{"href":"/aituxianggongju/qiantushejishiaizhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千图设计室AI助手"}]
+5:["$","a","42",{"href":"/aizhinengti/jaaz/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Jaaz"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

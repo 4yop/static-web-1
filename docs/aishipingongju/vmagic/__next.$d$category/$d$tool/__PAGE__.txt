@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/10/VMagic-logo.png","image"]
+3:Tab5,
+                VMagic是什么
+VMagic是一个AI视频处理平台，提供视频风格转换、AI换脸、照片舞蹈、LivePortrait、面部动作控制和视频增强等功能。适用于个人创作者和专业团队，支持多种场景，如娱乐创作、电影制作、教育、广告等。VMagic提供基础、Pro和Pro+三种订阅计划，满足不同用户需求。官方网站提供教程和指导，帮助用户高效使用平台。
+
+VMagic的主要功能
+
+视频风格转换：将视频转换成不同风格，如漫画、真实风格等。
+换脸技术：在视频或图片中实现面部交换，创造逼真效果。
+照片舞蹈：使静态照片中的人物动起来，进行舞蹈或其他动作。
+LivePortrait：将静态肖像转化为动态视频，并控制表情。
+面部动作控制：在视频或照片中调整和控制人物的面部表情。
+视频增强：提升视频质量，包括分辨率、清晰度、色彩优化和帧率提升。
+
+VMagic的产品官网
+
+产品官网：vmagic.app/zh
+
+VMagic的产品定价
+
+免费：提供免费试用视频风格转换、换脸、照片舞动等功能，但有有限的生成次数。
+VMagic Basic：每月9.90美元，提供2000积分，支持最多转换80个视频，包括视频风格转换、视频换脸、照片舞蹈、LivePortrait、Flux图像生成等功能。
+VMagic Pro：每月24.90美元，提供5500积分，支持最多转换220个视频，并且可以使用无限生成队列，同时最多有5个等待任务。
+VMagic Pro+：每月49.90美元，提供12000积分，支持最多转换480个视频，享有额外的无限生成队列，最多有10个等待任务。
+
+VMagic的应用场景
+
+社交媒体视频创作：用户可以用VMagic的视频风格转换、换脸、照片舞蹈等功能，快速创作出吸引眼球的创意视频，增加社交媒体上的粉丝互动和关注度。
+广告与品牌推广：品牌可以用VMagic的换脸或视频风格转换功能，制作独特的广告视频，增强品牌影响力和吸引力。
+娱乐与创意视频：VMagic可以将静态照片变成动态视频，用户可以制作出趣味性极高的短视频，适合娱乐或分享给他人。
+教育与培训：VMagic的LivePortrait功能可以将静态图片转换为具有真实面部表情和动作的动画视频，适用于在线课程和培训内容的创建，使内容更加生动和吸引人。
+个性化视频通讯：通过Live Portrait AI动画化照片，可以轻松创建个性化的视频消息、问候和公告，适合个性化视频通讯。
+动态肖像创作：VMagic的动态肖像功能支持用户将静态照片转换为动态视频，控制面部表情，适用于创建个性化的肖像动画。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"VMagic\",\"description\":\"AI视频处理平台，提供视频风格转换、换脸、照片舞蹈等功能\",\"url\":\"https://aistool.orgaishipingongju/vmagic/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/10/VMagic-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"VMagic"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/10/VMagic-logo.png","alt":"VMagic","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"VMagic"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI视频处理平台，提供视频风格转换、换脸、照片舞蹈等功能"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1178",{"href":"/aixunlianmoxing/stablevicuna/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"StableVicuna"}],["$","a","1159",{"href":"/aixunlianmoxing/dall·e-3/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DALL·E 3"}],["$","a","673",{"href":"/aishipingongju/filmora/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Filmora"}],["$","a","169",{"href":"/aibianchenggongju/tabby/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Tabby"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","905",{"href":"/aibangonggongju/iterms/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"iTerms"}]
+5:["$","a","1080",{"href":"/aikaifapingtai/ppiopaiouyun/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PPIO派欧云"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

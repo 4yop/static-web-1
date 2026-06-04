@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/03/gatekeep-ai-icon.png","image"]
+3:Tf29,
+                Gatekeep是什么
+Gatekeep AI是一个文本转视频的智能教学工具，专注于将复杂的数学和物理问题转化为直观的教学视频。用户输入相关文本描述，Gatekeep便能自动生成包含图表、图示和动画的约2分钟视频，通过生动的讲解和视觉展示，帮助学习者更好地理解和掌握知识点，以提升学习效率和教学质量。Gatekeep以其独特的功能和高效的学习体验，为教学领域带来了创新的解决方案，不仅优化了知识的传递方式，也为学习者提供了一种全新的、互动性强的学习途径。
+
+Gatekeep的主要功能
+
+文本转教学视频：用户输入问题的文本提示（如勾股定理），Gatekeep能够理解这些提示，并生成相应的教学解释视频内容。这种转换使得抽象的概念和理论变得生动和易于理解。
+自动生成图表和图示：为了更好地解释数学公式和科学原理，Gatekeep会自动创建图表、图示和动画，这些视觉元素有助于用户更清晰地把握知识点。
+动画原理解释：Gatekeep不仅提供静态的图表，还能通过动画展示原理的应用和变化过程，使得学习更加动态和有趣。
+视频讲解内容：除了视觉元素，Gatekeep还会在视频中包含讲解内容，通过语音解说帮助用户更好地理解视频展示的信息。
+专注于数学学习：Gatekeep特别强调其在数学教育中的应用，能够将复杂的数学问题和概念通过视频以简单直观的方式呈现给学习者。
+问题求解演示：用户可以向Gatekeep提出具体的数学问题或物理问题，AI会生成视频展示问题的求解过程，包括步骤说明和结果验证。
+知识原理证明：对于需要证明的数学定理，Gatekeep能够生成视频详细解释证明过程，帮助用户理解定理背后的逻辑。
+个性化学习体验：Gatekeep能够根据用户的需求和提问，生成定制化的视频内容，为用户提供个性化的学习体验。
+
+
+如何使用Gatekeep AI
+
+访问Gatekeep的官网（gatekeep.ai），点击Start Generating然后注册/登录
+登录成功后会进入后台生成界面，在输入框中输入你想要解释的问题并发送
+视频生成约等待2~3分钟左右
+视频生成后，可进行编辑、添加说明、以及进行聊天对话对该主题进行深度了解
+此外，你也可以加入Gatekeep AI的Discord服务器（https://discord.gg/36PTEgY892）进行视频生成
+
+Gatekeep的适用人群
+
+各阶段的学生：从小学到高等教育的学生都可以使用Gatekeep来辅助他们的数学和科学学习。无论是理解基础的数学概念，还是掌握复杂的物理原理，Gatekeep都能提供直观的视频解释，帮助学生更好地吸收和应用知识。
+教师和教育工作者：教师可以利用Gatekeep来丰富他们的教学材料，为课堂带来更多互动性和趣味性。通过视频内容，教师可以更有效地解释难题，同时也能为学生提供课后复习的资源。
+自学者：对于自主学习的成人或那些希望通过在线课程提升技能的专业人士，Gatekeep提供了一个便捷的学习工具。自学者可以通过生成的视频快速理解新概念，加速学习进程。
+备考者：准备数学或科学相关考试的学生和成人，如SAT、ACT、GRE等，可以使用Gatekeep来强化对考试内容的理解和记忆，提高应试技巧。
+专业人士：工程师、数据分析师和其他需要频繁使用数学和物理知识的专业人士，可以通过Gatekeep快速回顾和巩固相关知识，保持专业能力的前沿性。
+非专业背景的学习者：对于那些对数学和科学感兴趣但没有专业背景的人来说，Gatekeep能够将复杂的专业知识转化为易于理解的视频内容，降低学习门槛。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Gatekeep\",\"description\":\"AI教学视频生成工具，可生成数学物理问题解释视频\",\"url\":\"https://aistool.orgaishipingongju/gatekeep/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/03/gatekeep-ai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Gatekeep"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/03/gatekeep-ai-icon.png","alt":"Gatekeep","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Gatekeep"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI教学视频生成工具，可生成数学物理问题解释视频"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","29",{"href":"/aizhinengti/yueliangshuaixuanpin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"月亮树AI选品"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1002",{"href":"/aiyinpingongju/metavoice/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MetaVoice"}]
+5:["$","a","1233",{"href":"/aikaifapingtai/sophnet/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"SophNet"}]
+6:["$","a","184",{"href":"/aibianchenggongju/tiangongzhimaskycode/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"天工智码Skycode"}]
+7:["$","a","1420",{"href":"/aizhinengti/tengxunmarvis/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"腾讯Marvis"}]
+8:["$","a","1014",{"href":"/aisousuoyinqing/searchgpt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"SearchGPT"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

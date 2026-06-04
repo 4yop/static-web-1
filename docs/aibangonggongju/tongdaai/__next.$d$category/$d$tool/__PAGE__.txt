@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/06/tongda-ai-icon.png","image"]
+3:Tf28,
+                通答AI是一款企业级人工智能应用，基于先进的大模型技术，帮助企业快速创建AI数字员工，以提高工作效率和降低运营成本。通答AI支持快速部署，无需复杂设置即可开箱即用，并可轻松接入网页、App、企业微信、飞书等多平台。只需简单的操作，让AI学习企业知识，企业即可拥有一个能够处理文档、数据分析、内容创作等任务的智能助手，以推动企业数字化转型，优化工作流程。
+
+通答AI的功能特色
+
+自定义AI员工：用户可以基于企业数据，通过通答AI的无代码平台，快速创建专属的AI员工。这些AI员工可以被定制以适应特定的业务流程和需求。
+办公自动化：AI员工能够自动执行日常办公任务，如文档的整理、分类和搜索，以及数据的录入和分析，从而减少人力成本和时间。
+多平台集成：AI员工能够无缝集成到企业现有的IT基础设施中，包括网页、移动应用、企业通讯工具等，实现跨平台的智能协作。
+数据安全与隐私：通答AI提供严格的数据安全措施，确保企业在使用AI员工时，所有敏感数据都得到妥善保护，防止数据泄露或滥用。
+即时交互能力：AI员工能够实时响应用户的查询和指令，提供快速反馈，提高沟通效率。
+任务自动化：AI员工可以自动执行复杂的工作流程，如项目管理、客户关系维护等，减少人工干预，提高业务流程的自动化水平。
+
+如何使用通答AI创建AI员工
+
+注册登录：访问通答AI的官方网站：tongdaai.com，创建账户并登录系统。登录成功后，会自动进入系统后台。
+创建AI数字员工：在后台左侧菜单中选择“AI员工”选项。点击进入创建页面，按照提示填写必要的信息，如员工姓名等（带*的字段为必填项）。选择一个模型，如果不确定，可以选择默认推荐的模型。完成填写后，即可创建AI员工。
+调试AI员工：在创建页面的预览窗口中，与AI员工进行交互，测试其功能。例如，可以要求AI员工生成一段营销文案或完成其他任务。
+分享和集成：创建成功后，可以将AI员工分享给同事，或将其内嵌到网站、微信群聊、飞书等平台，也可以通过提供的API将AI员工接入到企业本身的业务系统中。
+让AI员工学习企业知识：要让AI员工处理企业任务，需要上传企业相关的资料数据，AI员工会自动学习并掌握这些资料数据。
+上传企业资料：在后台系统中找到上传资料的选项，上传企业内部的管理制度、知识库等文档，等待AI员工学习并掌握这些资料。
+使用AI员工：AI员工学习成功后，便可以向其咨询知识库中的内容，或让其执行相关任务。
+
+通答AI的应用场景
+
+客户服务：AI员工可以作为智能客服，提供24小时不间断的客户咨询和问题解答服务，提高客户满意度。
+文档管理：AI员工可以帮助企业自动化文档的分类、检索和整理工作，提升文档管理效率。
+数据分析：AI员工能够处理和分析大量业务数据，为企业提供洞察力和决策支持。
+内容创作：AI员工可以根据企业需求，生成营销文案、新闻稿、社交媒体内容等，提高内容创作的效率和质量。
+内部知识库：AI员工可以作为一个智能的知识库，帮助员工快速找到所需信息，提高工作效率。
+项目管理：AI员工可以协助管理项目进度，自动跟踪任务完成情况，提醒相关人员。
+人力资源管理：AI员工可以协助处理招聘、员工培训、绩效评估等人力资源管理工作。
+财务分析：AI员工可以帮助企业进行财务数据的分析，提供财务报告和预测。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"通答AI\",\"description\":\"企业AI数字员工生成平台\",\"url\":\"https://aistool.orgaibangonggongju/tongdaai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/06/tongda-ai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"通答AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/06/tongda-ai-icon.png","alt":"通答AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"通答AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"企业AI数字员工生成平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","31",{"href":"/aizhinengti/masteragent/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MasterAgent"}],["$","a","1267",{"href":"/aibangonggongju/chartgen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ChartGen"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","294",{"href":"/aixiezuogongju/xunfeihuiwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞绘文"}]
+5:["$","a","713",{"href":"/aishipingongju/lumen5/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Lumen5"}]
+6:["$","a","14",{"href":"/aizhinengti/genflow/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"GenFlow"}]
+7:["$","a","485",{"href":"/aituxianggongju/duiyouaifanyingdui/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"堆友AI反应堆"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

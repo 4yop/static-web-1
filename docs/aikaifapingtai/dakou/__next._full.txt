@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aikaifapingtai","dakou",""],"q":"","i":false,"f":[[["",{"children":[["category","aikaifapingtai","d",null],{"children":[["tool","dakou","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/10/dakou-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Te7e,
+                搭叩是什么
+搭叩是心流（iFlow）AI助手旗下异步AI智能体开发平台，专注于为开发者提供一站式开发任务支持。平台通过自然语言交互，端到端地协助用户完成从创意、编码、测试到部署的全流程开发任务，具备独立的云端隔离沙箱环境，保障代码安全。搭叩核心特性包括异步批量并行任务处理、模板管理、以及支持集成GitHub和第三方MCP Server，提升研发效率。
+
+搭叩的主要功能
+
+异步Agent任务处理：支持批量并行执行AI任务，通过自然语言交互端到端处理研发全流程（包括调研、分析、设计、编码、测试及部署），提升效率。
+云端隔离沙箱环境：提供独立的云端安全环境，确保代码执行过程中的数据隔离与安全，避免外部干扰。
+模板管理与开放集成：内置模板库支持快速调用，并可集成GitHub及第三方MCP Server（如自定义工具链），扩展开发能力。
+多场景创作支持：覆盖网站开发、小游戏生成、调研报告撰写等场景，降低技术门槛，用户无需深厚编程背景即可高效创作。
+研发全流程自动化：通过AI驱动自动完成从需求分析到部署的完整流程，减少人工干预，实现高效协作。
+
+如何使用搭叩
+
+登录平台：访问搭叩官网 https://dakou.iflow.cn/ ，使用已激活的账号登录。
+快速开始（示例）‍：搭叩提供了一些预设的示例任务，您可以选择一个并直接发起，以此熟悉任务从发起到完成的整个运行过程，并查看最终生成的产品（如一个官网）。
+前期准备（可选）‍：为了更高效地完成任务，您可以进行一些准备工作：
+
+导入业务知识：将相关资料上传，供AI Agent在任务中自动调用。
+创建剧本：为特定类型的任务定义标准操作流程（SOP），以便后续快速调用。
+启用工具：在MCP Server市场中启用所需的外部工具（如连接代码仓库）。
+
+
+委派任务：是核心操作步骤：
+
+描述任务：在对话框中清晰、详细地填写您的需求。
+选择剧本（可选）‍：如果已创建相关剧本，可直接选用以规范执行流程。
+选择代码仓库（可选）‍：授权并关联您的GitHub等代码仓库，以便直接提交代码。
+提交任务：确认信息后提交，任务将进入自动处理队列。
+
+
+任务执行与查看：任务提交后，搭叩会开始自动执行。您可以通过内置的编辑器实时查看生成的代码，并使用预览功能查看运行结果（如生成的网页）。
+结果评估与迭代：如果对当前结果不满意，您可以继续下发新的指令要求AI进行优化。同时，欢迎对执行结果进行评价，并反馈使用中遇到的问题。
+
+搭叩的应用场景
+
+网站与应用开发：用户可以通过自然语言描述需求，平台能自动完成从需求分析、UI设计、前后端编码到测试部署的全流程，快速生成网站或Web应用。
+数据分析与报告生成：平台能处理调研、分析等任务，自动生成数据报告或可视化大屏，适用于需要快速获取洞察的商业智能场景。
+小游戏开发：用户可提出创意，由AI完成游戏逻辑设计、编码及测试，降低独立游戏开发的门槛。
+系统集成与扩展开发：平台支持通过MCP Server与GitHub等第三方工具集成，可用于开发API网关、数据集成模块或为现有系统添加新功能。
+流程自动化：适用于构建自动化工作流，例如自动处理重复性研发任务、审批流程或业务表单生成，提升运营效率。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"搭叩\",\"description\":\"心流AI旗下异步AI智能体开发平台\",\"url\":\"https://aistool.orgaikaifapingtai/dakou/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/10/dakou-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"搭叩"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/10/dakou-icon.png","alt":"搭叩","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"搭叩"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"心流AI旗下异步AI智能体开发平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","285",{"href":"/aishejigongju/appicons-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Appicons AI"}],["$","a","142",{"href":"/aibianchenggongju/augment-code/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Augment Code"}],"$L13","$L14","$L15","$L16"]}]]}]]}]]}]
+13:["$","a","363",{"href":"/aixiezuogongju/moonbeam/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Moonbeam"}]
+14:["$","a","1222",{"href":"/aitishizhiling/promptbase/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PromptBase"}]
+15:["$","a","385",{"href":"/aixiezuogongju/xunfeizhijian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞智检"}]
+16:["$","a","468",{"href":"/aituxianggongju/adobe-image-background-remover/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Adobe Image Background Remover"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"搭叩 | AIStool"}],["$","meta","1",{"name":"description","content":"搭叩是心流（iFlow）AI助手旗下异步AI智能体开发平台，专注于为开发者提供一站式开发任务支持。平台通过自然语言交互，端到端地协助用户完成从创意、编码、测试到部署的全流程开发任务，具备独立的云端隔离沙箱环境，保障代码安全。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaikaifapingtai/dakou/"}],["$","meta","3",{"property":"og:title","content":"搭叩"}],["$","meta","4",{"property":"og:description","content":"搭叩是心流（iFlow）AI助手旗下异步AI智能体开发平台，专注于为开发者提供一站式开发任务支持。平台通过自然语言交互，端到端地协助用户完成从创意、编码、测试到部署的全流程开发任务，具备独立的云端隔离沙箱环境，保障代码安全。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaikaifapingtai/dakou/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/10/dakou-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"搭叩"}],["$","meta","10",{"name":"twitter:description","content":"搭叩是心流（iFlow）AI助手旗下异步AI智能体开发平台，专注于为开发者提供一站式开发任务支持。平台通过自然语言交互，端到端地协助用户完成从创意、编码、测试到部署的全流程开发任务，具备独立的云端隔离沙箱环境，保障代码安全。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/10/dakou-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","13",{}]]

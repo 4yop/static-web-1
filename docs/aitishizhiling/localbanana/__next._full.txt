@@ -1,0 +1,95 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aitishizhiling","localbanana",""],"q":"","i":false,"f":[[["",{"children":[["category","aitishizhiling","d",null],{"children":[["tool","localbanana","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/12/Local-Banana-icon-1.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tabd,
+                Local Banana是什么
+Local Banana 是专注于 AI 图像 Prompt 收集与结构化的平台，帮助用户深入理解并高效利用 Prompt，提升创作能力。围绕 Nano Banana（Gemini）生态，将散落在各处的优质 Prompt 整理为可检索、可编辑的创作资产。用户可按风格、题材等维度快速找到作品，直接获取完整 Prompt，通过 AI 分析将其拆解为结构化片段。Local Banana 明确区分可编辑区域，降低误改成本，能实时预览编辑效果，一键复制到 Gemini 等生成工具。Local Banana 不仅提供 Prompt，更通过结构化和可编辑的设计，让用户理解 Prompt 的工作原理，培养可迁移的创作能力，使用户在任何模型上能稳定复现高质量图像。
+
+Local Banana的主要功能
+
+
+多维度浏览：用户可根据风格、题材、构图、比例等维度快速找到可复现的作品。
+
+
+完整 Prompt 获取：在看到成品图的同时，用户能直接获得完整的 Prompt。
+
+
+结构化分析：通过 AI 自动分析，将 Prompt 拆解为清晰的结构化片段，便于理解。
+
+
+区分编辑区域：明确区分锁定、可编辑与高风险修改区域，降低误改成本。
+
+
+实时预览与编辑：用户可在原文中直接编辑关键变量，并实时预览效果。
+
+
+一键复制与兼容性：支持一键将 Prompt 复制到 Gemini、GPT 或任意习惯的生成工具中。
+
+
+如何使用Local Banana
+
+访问平台：访问Local Banana官网 https://www.localbanana.io/ 。
+
+浏览作品：通过风格、题材、构图等维度筛选，快速找到感兴趣的作品。
+
+
+获取 Prompt：查看成品图时，直接获取对应的完整 Prompt。
+
+
+分析结构：利用 AI 分析功能，将 Prompt 拆解为结构化片段，理解其组成。
+
+
+编辑 Prompt：在平台上直接编辑关键变量，根据需求调整 Prompt 内容。
+
+
+实时预览：修改后实时查看效果，确保生成结果符合预期。
+
+
+复制使用：将编辑好的 Prompt 一键复制到 Gemini、GPT 等生成工具中，开始创作。
+
+
+
+
+Local Banana的应用场景
+
+
+艺术创作：艺术家可以快速找到风格化的 Prompt，用于生成灵感草图或完成作品。
+
+
+广告设计：设计师通过平台获取适合商业广告的 Prompt，生成创意视觉素材。
+
+
+游戏开发：开发者用 Prompt 生成游戏概念图、角色设计或场景元素。
+
+
+教育学习：学生和教育者使用平台学习 AI 图像生成技巧，提升创作能力。
+
+
+个人项目：创作者在个人项目中快速找到合适的 Prompt，实现创意想法。
+
+
+品牌推广：品牌团队根据品牌风格找到 Prompt，生成符合品牌形象的视觉内容。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"LocalBanana\",\"description\":\"专注于AI图像Prompt收集与结构化的平台\",\"url\":\"https://aistool.orgaitishizhiling/localbanana/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/12/Local-Banana-icon-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aitishizhiling/","className":"hover:text-primary transition","children":"AI提示指令"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"LocalBanana"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/12/Local-Banana-icon-1.png","alt":"LocalBanana","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"LocalBanana"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","15",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI提示指令"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"专注于AI图像Prompt收集与结构化的平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","863",{"href":"/aibangonggongju/toby/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Toby"}],["$","a","721",{"href":"/aishipingongju/gencraft/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Gencraft"}],["$","a","306",{"href":"/aixiezuogongju/qinyanxueshu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"沁言学术"}],"$L13","$L14","$L15"]}]]}]]}]]}]
+13:["$","a","618",{"href":"/aishipingongju/neirongtegongdui/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"内容特工队"}]
+14:["$","a","1159",{"href":"/aixunlianmoxing/dall·e-3/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DALL·E 3"}]
+15:["$","a","4",{"href":"/aizhinengti/kouzi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"扣子"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"LocalBanana | AIStool"}],["$","meta","1",{"name":"description","content":"Local Banana 是专注于 AI 图像 Prompt 收集与结构化的平台，帮助用户深入理解并高效利用 Prompt，提升创作能力。围绕 Nano Banana（Gemini）生态，将散落在各处的优质 Prompt 整理为可检索、可编辑的创作资产。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaitishizhiling/localbanana/"}],["$","meta","3",{"property":"og:title","content":"LocalBanana"}],["$","meta","4",{"property":"og:description","content":"Local Banana 是专注于 AI 图像 Prompt 收集与结构化的平台，帮助用户深入理解并高效利用 Prompt，提升创作能力。围绕 Nano Banana（Gemini）生态，将散落在各处的优质 Prompt 整理为可检索、可编辑的创作资产。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaitishizhiling/localbanana/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/12/Local-Banana-icon-1.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"LocalBanana"}],["$","meta","10",{"name":"twitter:description","content":"Local Banana 是专注于 AI 图像 Prompt 收集与结构化的平台，帮助用户深入理解并高效利用 Prompt，提升创作能力。围绕 Nano Banana（Gemini）生态，将散落在各处的优质 Prompt 整理为可检索、可编辑的创作资产。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/12/Local-Banana-icon-1.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","13",{}]]

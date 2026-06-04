@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aisousuoyinqing","adot",""],"q":"","i":false,"f":[[["",{"children":[["category","aisousuoyinqing","d",null],{"children":[["tool","adot","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2024/07/Adot-website02.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Ta78,
+                Adot是什么
+
+Adot是一个由AI驱动的 Web3 搜索引擎。采用了去中心化架构，不依赖中心服务器，将数据分散存储于多个节点中，增强了数据安全性和隐私保护。Adot引入了激励机制，鼓励用户参与到数据的收集、索引、分析和整理中，用户因此可以获得虚拟货币奖励。Adot的应用场景是为用户在加密货币市场和Web3领域提供深入的洞察和知识。融合了Web2和Web3的数据，包括传统网页、区块链数据、社交媒体数据和Web3交易数据等，为用户提供了一个全面的信息获取平台。
+
+Adot的主要功能
+
+
+
+去中心化搜索：Adot通过分布式节点存储数据，提高了数据的安全性和抗审查性。
+
+
+加密货币市场洞察：Adot专注于为用户在加密货币市场提供深入的分析和信息，帮助用户更好地理解市场动态。
+
+
+Web3知识获取：作为一个通用搜索引擎，Adot特别强调对Web3相关领域的知识搜索，帮助用户获取与区块链、去中心化应用等有关的信息。
+
+
+数据融合：Adot整合了来自Web2和Web3的数据源，包括传统网页、区块链数据、社交媒体和Web3交易数据，为用户提供了一个多元化的信息搜索平台。
+
+
+如何使用Adot
+
+
+
+访问Adot搜索引擎：打开Adot的官方网站（adot.tech），进入其搜索界面。
+
+
+基本搜索：在搜索框中输入关键词或短语，Adot会提供与Web3和加密货币市场相关的信息和数据。
+
+
+自定义条件搜索：用户可以根据个人需求设置搜索条件，进行更精确的数据检索。
+
+
+AI搜索和总结：利用Adot的AI功能，进行智能搜索和获取内容的AI总结。
+
+
+内容分享：用户可以分享通过Adot搜索得到的内容或数据，与他人协作或讨论。
+
+
+参与激励机制：参与Adot的数据贡献和搜索活动，根据平台规则获得虚拟货币奖励。
+
+
+社区互动：加入Adot的社区，与其他用户交流搜索技巧和Web3相关的话题。
+
+
+Adot的适用人群
+
+
+
+Web3和加密货币市场分析师：他们需要获取实时、智能的决策支持，Adot能够提供深入的市场洞察和相关数据。
+
+
+区块链项目的开发者和用户：Adot覆盖全链数据，包括区块链数据、社交媒体数据等，对项目开发和用户获取信息非常有帮助。
+
+
+对AI技术感兴趣的技术爱好者：Adot结合了人工智能技术，可以吸引对最新技术趋势感兴趣的群体。
+
+
+需要数据检索和分析的专业人士：Adot的AI搜索、内容AI总结功能能够为专业人士提供精准的数据分析和总结。
+
+
+
+
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Adot\",\"description\":\"一个由AI驱动的 Web3 搜索引擎\",\"url\":\"https://aistool.orgaisousuoyinqing/adot/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/07/Adot-website02.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aisousuoyinqing/","className":"hover:text-primary transition","children":"AI搜索引擎"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Adot"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/07/Adot-website02.png","alt":"Adot","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Adot"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","10",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI搜索引擎"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"一个由AI驱动的 Web3 搜索引擎"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","19",{"href":"/aizhinengti/flowmuse-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"FlowMuse AI"}],["$","a","257",{"href":"/aishejigongju/logoliveryai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LogoliveryAI"}],["$","a","465",{"href":"/aituxianggongju/clipdrop-remove-background/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ClipDrop Remove Background"}],["$","a","612",{"href":"/aishipingongju/zaoci/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"造次"}],"$L13","$L14"]}]]}]]}]]}]
+13:["$","a","151",{"href":"/aibianchenggongju/replit-agent/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Replit Agent"}]
+14:["$","a","1103",{"href":"/aikaifapingtai/label-studio/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Label Studio"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Adot | AIStool"}],["$","meta","1",{"name":"description","content":"Adot是一个由AI驱动的 Web3 搜索引擎。采用了去中心化架构，不依赖中心服务器，将数据分散存储于多个节点中，增强了数据安全性和隐私保护。Adot引入了激励机制，鼓励用户参与到数据的收集、索引、分析和整理中，用户因此可以获得虚拟货币奖励。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaisousuoyinqing/adot/"}],["$","meta","3",{"property":"og:title","content":"Adot"}],["$","meta","4",{"property":"og:description","content":"Adot是一个由AI驱动的 Web3 搜索引擎。采用了去中心化架构，不依赖中心服务器，将数据分散存储于多个节点中，增强了数据安全性和隐私保护。Adot引入了激励机制，鼓励用户参与到数据的收集、索引、分析和整理中，用户因此可以获得虚拟货币奖励。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaisousuoyinqing/adot/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2024/07/Adot-website02.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Adot"}],["$","meta","10",{"name":"twitter:description","content":"Adot是一个由AI驱动的 Web3 搜索引擎。采用了去中心化架构，不依赖中心服务器，将数据分散存储于多个节点中，增强了数据安全性和隐私保护。Adot引入了激励机制，鼓励用户参与到数据的收集、索引、分析和整理中，用户因此可以获得虚拟货币奖励。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2024/07/Adot-website02.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","13",{}]]

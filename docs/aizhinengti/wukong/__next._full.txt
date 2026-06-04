@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aizhinengti","wukong",""],"q":"","i":false,"f":[[["",{"children":[["category","aizhinengti","d",null],{"children":[["tool","wukong","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2026/03/WUKONG-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tf1d,
+                悟空是什么
+悟空（WUKONG）是阿里推出的全球首个企业级AI原生工作平台，让每个团队都拥有”24小时工作的AI Agent军团”。悟空是独立应用，同时深度内置于钉钉，其企业级安全能力支持AI自动继承权限规则、沙箱运行、Token成本透明可控。悟空（WUKONG）首创OPT（一人团队）十大行业解决方案，覆盖电商、跨境电商、财税、法律、猎头、制造等场景。同时整合淘宝、1688、支付宝、阿里云等阿里生态B端能力，支持微信、Slack等全球主流IM平台。
+
+悟空的主要功能
+
+
+企业级AI工作平台：作为全球首个专为企业打造的AI原生工作系统，让每家公司拥有24小时工作的AI Agent军团。
+
+
+安全沙箱运行：所有AI操作在企业权限规则和安全沙箱中执行，确保数据安全与合规可控。
+
+
+长期记忆学习：具备灵根共长能力，持续记忆用户上下文，越用越聪明，深度理解个人工作习惯。
+
+
+OPT行业方案：提供十大一人团队模板，覆盖电商、财税、法律等场景，一键启用可拥有完整AI工作团队。
+
+
+钉钉全面CLI化：深度整合钉钉上千项原生能力，实现沟通即执行，AI直接调用文档、表格、IM等工具。
+
+
+AI能力市场：开放Skill生态，支持开发者上架、分发AI技能，共建全球最大toB Skill市场。
+
+
+阿里生态整合：逐步接入淘宝、1688、支付宝、阿里云等B端商业能力，形成完整服务闭环。
+
+
+跨平台接入：支持微信、Slack、Telegram等全球主流IM平台，随时随地远程唤起AI完成工作。
+
+
+
+如何使用悟空
+
+
+下载安装：访问悟空官网 https://www.dingtalk.com/wukong ，下载对应系统版本。
+
+
+选择模式：云电脑版无需安装即刻使用，本机版安装后可操作本地文件和浏览器。
+
+
+登录账号：用钉钉账号登录，自动继承企业权限和安全规则。
+
+
+唤起使用：在电脑或手机上远程唤起悟空，也可直接在钉钉AI 2.0内置Agent中使用。
+
+
+选择方案：进入AI能力中心，一键启用十大OPT行业模板（如一人电商、一人财税等）。
+
+
+分配任务：用自然语言描述工作需求，悟空自动拆解任务并调用相应Skill执行。
+
+
+验收成果：查看AI完成的文档、表格、代码或分析结果，确认或要求修改。
+
+
+持续优化：通过长期使用培养悟空的长期记忆，使其越来越了解工作习惯。
+
+
+悟空的官网示例
+一人制造
+
+一人设计
+
+悟空邀请码领取说明
+目前悟空处于 Beta邀测阶段，需要通过邀请码申请使用。
+
+官网获取：定期访问悟空官网首页下方位置，查看更新的邀请码。
+钉钉服务窗获取：打开钉钉搜索”钉钉”，点击并关注”钉钉服务窗”，官方定期发布邀请码。
+邀请码有效期：每个邀请码存在有效期且名额有限，获取后需及时进入悟空产品内完成兑换，满额即刻失效。
+兑换方式：下载悟空桌面端并打开，在弹出的邀请码填写窗口中输入获取到的邀请码可激活使用。
+
+悟空的应用场景
+
+
+一人电商：自动完成1688选品、供应商背调、全网比价和商品上架，一人搞定电商全链路运营。
+
+
+一人跨境电商：通过选品雷达、物料制作、卖点测试的AI运营系统，将核心运营环节从一周压缩到一个下午。
+
+
+一人财税：实现流水发票秒成账、税务代办智能提醒、经营数据随时可查，一人管理企业完整财务。
+
+
+一人律所：基于案件信息自动生成谈案笔录、办案小结，并精准检索相关法规，高效辅助律师工作。
+
+
+一人猎头：深度分析公司背景、提炼岗位要点、生成人才画像与寻访策略，一人完成招聘全流程。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"悟空\",\"description\":\"阿里推出的全球首个企业级AI原生工作平台\",\"url\":\"https://aistool.orgaizhinengti/wukong/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/03/WUKONG-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"悟空"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/03/WUKONG-logo.png","alt":"悟空","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"悟空"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"阿里推出的全球首个企业级AI原生工作平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1196",{"href":"/aineirongjiance/copyleaks/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CopyLeaks"}],["$","a","623",{"href":"/aishipingongju/runway/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Runway"}],"$L13","$L14","$L15","$L16"]}]]}]]}]]}]
+13:["$","a","427",{"href":"/aituxianggongju/meitushangpai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"美图商拍"}]
+14:["$","a","1157",{"href":"/aixunlianmoxing/shushengdamoxing/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"书生大模型"}]
+15:["$","a","1102",{"href":"/aikaifapingtai/mlx/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MLX"}]
+16:["$","a","750",{"href":"/aibangonggongju/youdaosudu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"有道速读"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"悟空 | AIStool"}],["$","meta","1",{"name":"description","content":"悟空（WUKONG）是阿里推出的全球首个企业级AI原生工作平台，让每个团队都拥有\"24小时工作的AI Agent军团\"。悟空是独立应用，同时深度内置于钉钉，其企业级安全能力支持AI自动继承权限规则、沙箱运行、Token成本透明可控。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaizhinengti/wukong/"}],["$","meta","3",{"property":"og:title","content":"悟空"}],["$","meta","4",{"property":"og:description","content":"悟空（WUKONG）是阿里推出的全球首个企业级AI原生工作平台，让每个团队都拥有\"24小时工作的AI Agent军团\"。悟空是独立应用，同时深度内置于钉钉，其企业级安全能力支持AI自动继承权限规则、沙箱运行、Token成本透明可控。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaizhinengti/wukong/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2026/03/WUKONG-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"悟空"}],["$","meta","10",{"name":"twitter:description","content":"悟空（WUKONG）是阿里推出的全球首个企业级AI原生工作平台，让每个团队都拥有\"24小时工作的AI Agent军团\"。悟空是独立应用，同时深度内置于钉钉，其企业级安全能力支持AI自动继承权限规则、沙箱运行、Token成本透明可控。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2026/03/WUKONG-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","13",{}]]

@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","ailiaotianzhushou","longcat",""],"q":"","i":false,"f":[[["",{"children":[["category","ailiaotianzhushou","d",null],{"children":[["tool","longcat","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/09/LongCat-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T15a7,
+                LongCat是什么
+LongCat 是美团推出的自研大模型AI对话平台，具有强大的自然语言处理能力。最新版本 LongCat-Flash-Chat 正式开源，采用创新的混合专家模型（Mixture-of-Experts, MoE）架构，总参数量达5600亿，每个token仅激活186亿至313亿参数，平均激活约270亿参数，实现了算力的高效利用。LongCat-Flash-Chat模型在多个基准测试中表现出色，尤其在智能体任务中优势明显。例如，在τ²-Bench中超越其他模型，在VitaBench中以24.30的得分位列第一。LongCat-Flash-Chat在编程、指令遵循等方面也表现出色，如在TerminalBench中得分为39.51，位列第二；在IFEval中以89.65的得分位列第一。
+
+LongCat的主要功能
+
+
+自然语言对话：能进行流畅自然的对话交流，准确理解用户意图并提供精准详细的解答，涵盖生活、学习、工作等多个领域的问题。
+
+联网搜索与实时信息整合：支持联网搜索功能，能实时获取互联网上的最新信息，整合到回答中，为用户提供最新的数据和资讯。
+
+多领域知识应用：具备科学、技术、文化、历史、艺术等多领域的知识，可为用户提供广泛的信息支持，解答各类专业问题。
+
+
+文本生成与创作：支持文章写作、故事创作、文案撰写等多种文本类型的生成任务，根据用户需求生成高质量、逻辑清晰的文本内容。
+
+
+代码生成与解析：可以生成多种编程语言的代码片段，对代码进行解析，帮助用户理解代码逻辑和功能，适用于编程学习和开发辅助。
+
+
+智能体任务优化：在智能体任务中表现出色，具备强大的工具使用和复杂场景处理能力，适用于需要智能决策和自动化操作的应用场景。
+
+
+如何使用LongCat
+
+
+访问官网体验：可直接访问LongCat官网 https://longcat.chat/ ，与 LongCat-Flash-Chat 开启对话，进行自然语言交流、获取信息解答等操作。
+
+
+使用开源模型：前往Hugging Face或Github获取开源模型，根据自身需求进行本地部署、二次开发或研究使用。
+
+
+单机部署体验：使用 SGLang 进行单机部署，运行特定命令（如示例命令）启动服务，即可在本地环境中使用 LongCat-Flash-Chat 模型。
+
+
+LongCat的官网地址
+
+
+官网地址：https://longcat.chat/
+
+
+Hugging Face 模型库：https://huggingface.co/meituan-longcat/LongCat-Flash-Chat
+
+
+Github 仓库：https://github.com/meituan-longcat/LongCat-Flash-Chat
+
+
+LongCat模型效果如何
+
+
+支持的模型：LongCat对话平台目前主要支持 LongCat-Flash-Chat 模型。
+
+
+模型评测效果：
+
+
+在通用领域知识方面，LongCat-Flash 在 ArenaHard-V2 基准测试中取得 86.50 的优异成绩，位列第二；在 MMLU 得分为 89.71，CEval 得分为 90.44，展现出强劲且全面的性能。
+
+
+在智能体（Agentic）工具使用方面，LongCat-Flash 在 τ²-Bench 中表现超越其他模型；在 VitaBench 中以 24.30 的得分位列第一，彰显出在复杂场景中的强大处理能力。
+
+
+在编程方面，LongCat-Flash 在 TerminalBench 中得分为 39.51，位列第二；在 SWE-Bench-Verified 中得分为 60.4，展现出扎实的编程能力。
+
+
+在指令遵循方面，LongCat-Flash 在 IFEval 中以 89.65 的得分位列第一；在 COLLIE 和 Meeseeks-zh 中也获得最佳成绩，分别为 57.10 和 43.03，凸显其在中英文指令集上的出色驾驭能力。
+
+
+
+
+
+
+模型技术亮点：
+
+
+创新性混合专家模型架构：采用 Mixture-of-Experts (MoE) 架构，总参数量达 5600 亿，但每个 token 依据上下文需求仅激活 186 亿至 313 亿参数，平均激活约 270 亿参数，实现了算力按需分配和高效利用。
+
+
+零计算专家机制：引入“零计算专家（Zero-Computation Experts）”机制，通过 PID 控制器实时微调专家偏置，将单 token 平均激活量稳定在约 270 亿，有效控制总算力消耗。
+
+
+跨层通道优化：在层间铺设跨层通道，使 MoE 的通信和计算能很大程度上并行，极大提高了训练和推理效率。
+
+
+高效训练与推理：通过定制化的底层优化，LongCat-Flash 在 30 天内完成高效训练，并在 H800 上实现单用户 100+ tokens/s 的推理速度。
+
+
+智能体能力优化：自建 Agentic 评测集指导数据策略，并在训练全流程进行优化，包括使用多智能体方法生成多样化高质量的轨迹数据等，显著提升了智能体能力。
+
+
+
+
+LongCat的应用场景
+
+
+智能对话与客服：提供流畅自然的对话交流，可作为智能客服系统，快速准确地解答用户问题，提升用户体验和客服效率。
+
+
+内容创作与生成：支持文章、故事、文案等多种文本类型的生成，帮助创作者快速产出高质量内容，提高创作效率。
+
+
+编程辅助：生成多种编程语言的代码片段并解析代码逻辑，为开发者提供编程建议和解决方案，辅助编程学习和开发工作。
+
+
+智能体任务：在复杂场景中表现出色，可用于智能体任务，如自动化操作、智能决策等，适用于需要高效处理复杂任务的场景。
+
+
+知识问答：涵盖多领域知识，可作为知识问答系统，为用户提供科学、技术、文化等多领域的专业解答。
+
+
+教育辅导：辅助教育领域，提供学习资料、解答学术问题，帮助学生和教育工作者更高效地进行学习和教学。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"LongCat\",\"description\":\"美团推出的自研大模型AI对话平台\",\"url\":\"https://aistool.orgailiaotianzhushou/longcat/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/09/LongCat-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/ailiaotianzhushou/","className":"hover:text-primary transition","children":"AI聊天助手"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"LongCat"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/09/LongCat-icon.png","alt":"LongCat","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"LongCat"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","6",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI聊天助手"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"美团推出的自研大模型AI对话平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],"$L13"]}]]}]
+13:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1284",{"href":"/aituxianggongju/luxreal/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LuxReal"}],["$","a","86",{"href":"/ailiaotianzhushou/koko-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Koko AI"}],["$","a","25",{"href":"/aizhinengti/dia/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Dia"}],["$","a","62",{"href":"/ailiaotianzhushou/kimizhinengzhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Kimi智能助手"}],["$","a","339",{"href":"/aixiezuogongju/zhangqiaokeyanailunwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"掌桥科研AI论文"}],["$","a","242",{"href":"/aishejigongju/pictographic/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pictographic"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"LongCat | AIStool"}],["$","meta","1",{"name":"description","content":"LongCat 是美团推出的自研大模型AI对话平台，具有强大的自然语言处理能力。最新版本 LongCat-Flash-Chat 正式开源，采用创新的混合专家模型（Mixture-of-Experts, MoE）架构，总参数量达5600亿，每个token仅激活186亿至313亿参数，平均激活约270亿参数，实现了算力的高效利用。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgailiaotianzhushou/longcat/"}],["$","meta","3",{"property":"og:title","content":"LongCat"}],["$","meta","4",{"property":"og:description","content":"LongCat 是美团推出的自研大模型AI对话平台，具有强大的自然语言处理能力。最新版本 LongCat-Flash-Chat 正式开源，采用创新的混合专家模型（Mixture-of-Experts, MoE）架构，总参数量达5600亿，每个token仅激活186亿至313亿参数，平均激活约270亿参数，实现了算力的高效利用。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgailiaotianzhushou/longcat/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/09/LongCat-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"LongCat"}],["$","meta","10",{"name":"twitter:description","content":"LongCat 是美团推出的自研大模型AI对话平台，具有强大的自然语言处理能力。最新版本 LongCat-Flash-Chat 正式开源，采用创新的混合专家模型（Mixture-of-Experts, MoE）架构，总参数量达5600亿，每个token仅激活186亿至313亿参数，平均激活约270亿参数，实现了算力的高效利用。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/09/LongCat-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","13",{}]]

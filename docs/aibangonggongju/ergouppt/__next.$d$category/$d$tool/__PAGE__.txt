@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/04/2dogppt-logo.png","image"]
+3:T12ac,
+                二狗PPT是什么
+二狗PPT 是基于 DeepSeek V4 旗舰大模型与自研 AI Agent 调度系统的「去 AI 味」中式职场 PPT 生成工具。二狗PPT 专为国企汇报、传统行业工作总结、乙方项目方案等场景优化，支持 Word/PDF 一键解析生成贴合职场逻辑的 PPT 大纲，提供体制内专属模板，导出标准 PPTX 格式，解决市面 AI PPT 机械生硬、无法直接用于正式汇报的痛点。
+
+二狗PPT的主要功能
+
+去 AI 味真人级 PPT 生成：基于 DeepSeek V4 + 自研 AI Agent，将生硬 AI 文案改写为真人级表达，确保汇报场景下「不像机器写的」。
+Word/PDF/Excel 一键解析：上传办公文档，自动解析全文并转为贴合职场逻辑的 PPT 大纲，应急汇报救命神器。
+体制内 / 中式职场专属模板：面向国企汇报、乙方方案、年终总结、商业计划书等场景，严谨克制、领导审美友好。
+对话式 AI 实时编辑：支持润色、扩写、翻译等实时协作，卡片式编辑拒绝 AI 过度篡改。
+全格式兼容导出：一键导出标准 PPTX 文件，完美兼容 Microsoft PowerPoint / WPS Office / Keynote。
+
+如何使用二狗PPT
+
+访问官网：访问二狗PPT官网 https://www.2dogppt.com/  ，注册登录账号。
+输入需求：粘贴文本、上传 Word/PDF/Excel 文档，或直接输入 PPT 制作主题与场景需求。
+生成大纲：AI 理解职场需求，按中式职场逻辑生成结构化 PPT 大纲，卡片式编辑调整。
+选择模板：挑选体制内 / 中式职场专属模板，一键套用严谨克制的视觉风格。
+AI 润色优化：使用对话式 AI 助手实时改写文案，去除 AI 痕迹，确保真人级表达。
+导出文件：一键导出标准 PPTX 格式，兼容 WPS / Office / Keynote，直接用于汇报。
+
+二狗PPT的关键信息和使用要求
+
+
+
+
+
+
+
+
+产品名称：二狗PPT
+底层模型：DeepSeek V4 旗舰大模型 + 自研 AI Agent 调度系统
+支持格式：Word、PDF、Excel、PPT 上传解析；PPTX 导出
+付费模式：按次付费（「狗粮」点数），按页消耗，点数永久有效，无包月 / 无订阅
+适用人群：国企 / 传统行业员工、乙方售前 / 项目管理、职业 PPT 写手、应急汇报打工人
+核心要求：对 PPT 风格严谨、无 AI 痕迹、可直接用于正式汇报有要求的用户
+免费体验：官网支持免费体验部分功能
+
+
+
+
+
+
+
+
+二狗PPT的核心优势
+
+
+去 AI 味，可直接用于正式汇报：解决市面 AI PPT 机械生硬、需大量人工修改的痛点，生成内容领导友好。
+
+
+中式职场场景深度优化：专为国企、传统行业、乙方方案等中式职场场景定制模板与逻辑。
+
+
+按次付费，无订阅陷阱：采用「狗粮」点数按页消耗，点数永久有效，无包月限制、不降速不降智，碎片化使用无浪费。
+
+
+全格式兼容，二次编辑无障碍：导出标准 PPTX，兼容 WPS/Office/Keynote，不绑定封闭格式。
+
+
+应急高效，三步出稿：粘贴文本 / 上传文档 → AI 生成大纲 → 套用模板导出，大幅缩短熬夜改稿时间。
+
+
+二狗PPT的同类竞品对比
+
+
+
+对比维度
+二狗PPT
+Gamma
+美图 AI PPT
+WPS AI
+
+
+
+
+核心定位
+去 AI 味中式职场 PPT
+海外极简演示文档
+通用 AI PPT 生成
+办公套件内置 AI
+
+
+大模型
+DeepSeek V4 + 自研 Agent
+自研 / GPT
+自研 / 开源模型
+自研模型
+
+
+去 AI 味
+✅ 核心卖点，真人级表达
+❌ 偏海外风格
+❌ 通用模板感强
+❌ 辅助功能为主
+
+
+中式职场模板
+✅ 体制内 / 国企专属
+❌ 海外简约风
+⚠️ 通用模板
+⚠️ 通用模板
+
+
+文档解析
+✅ Word/PDF/Excel/PPT
+⚠️ 部分支持
+⚠️ 部分支持
+✅ 原生支持
+
+
+导出格式
+✅ 标准 PPTX 全兼容
+⚠️ 在线为主
+⚠️ 在线 / 部分格式
+✅ 原生格式
+
+
+付费模式
+按次付费，点数永久
+订阅制
+订阅 / 点数混合
+会员订阅
+
+
+适用人群
+国企 / 传统行业 / 乙方
+互联网 / 外企
+泛职场用户
+WPS 会员用户
+
+
+
+二狗PPT的应用场景
+
+
+国企汇报：体制内年终总结、季度汇报、党建材料等正式场景，生成严谨克制、领导友好的汇报 PPT。
+
+
+乙方项目方案：售前投标、项目计划书、客户汇报等方案制作，快速将现有资料转化为专业提案初稿。
+
+
+传统行业工作总结：制造业、建筑业、能源业等非互联网行业的工作汇报，匹配务实数据驱动的职场表达风格。
+
+
+职业 PPT 写手接单：帮助写手将客户零散资料快速结构化，提升初稿产出效率和单日接单交付量。
+
+
+应急 PPT 制作：临时接到次日汇报或会议前夜赶工，上传文档三步生成可用初稿，无需熬夜从零排版。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"二狗PPT\",\"description\":\"去 AI 味中式职场 PPT 生成工具\",\"url\":\"https://aistool.orgaibangonggongju/ergouppt/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/04/2dogppt-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"二狗PPT"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/04/2dogppt-logo.png","alt":"二狗PPT","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"二狗PPT"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"去 AI 味中式职场 PPT 生成工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1127",{"href":"/aixuexiwangzhan/dongshouxueshenduxuexi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"动手学深度学习"}],["$","a","72",{"href":"/ailiaotianzhushou/wenxiaobai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"问小白"}],["$","a","756",{"href":"/aibangonggongju/wanzhi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"万知"}],["$","a","833",{"href":"/aibangonggongju/qimi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"奇觅"}],["$","a","504",{"href":"/aituxianggongju/exactly.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Exactly.ai"}],["$","a","727",{"href":"/aishipingongju/cutout.pro/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Cutout.Pro"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

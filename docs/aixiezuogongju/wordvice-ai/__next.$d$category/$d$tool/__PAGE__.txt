@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/10/Wordvice-logo.jpg","image"]
+3:Tb18,
+                Wordvice AI是什么
+Wordvice AI 是 Wordvice 推出的免费AI写作助手，基于先进的 AI 技术帮助用户提升英文写作质量。工具提供包括语法校对、文本改写、多语言翻译、摘要生成和抄袭检测在内的多种功能，特别适合学术写作、商务沟通和内容创作。
+
+Wordvice AI的主要功能
+
+AI 校对器：自动检测并纠正文本中的语法、拼写、标点和风格错误，确保写作的准确性。
+AI 改写润色：帮助用户重新表述文本，以提高原创性、避免抄袭，改善文本的流畅性和清晰度。
+AI 摘要生成器：将长文本缩短为摘要，快速提取关键信息，适用于需要快速理解文档核心的用户。
+AI 在线翻译：支持多种语言之间的翻译，帮助用户跨越语言障碍，进行有效的沟通。
+AI 在线查重：检测文本中的潜在抄袭问题，确保作品的原创性。
+AI 内容检测器：识别文本中是否包含由 AI 生成的内容，帮助用户维护内容的自然和真实性。
+多语言支持：除了英文，Wordvice AI 支持其他语言的写作辅助，包括中文、日文、韩文等。
+语音转化为文字：将口语转化为书面文字，对于非英语母语者尤其有用。
+教育资源：提供有关语法和写作的免费培训文章，帮助用户提高写作技巧。
+集成插件：提供 Microsoft Word 和浏览器插件，方便用户在不同平台上使用 Wordvice AI。
+多编辑模式：包括轻度、标准、深度和创意编辑模式，满足不同类型和程度的写作需求。
+
+Wordvice AI的产品官网
+
+产品官网：wordvice.ai
+
+Wordvice AI的产品定价
+
+基础版（免费）：提供基本功能；每月提供5,000词的使用额度；包括基本编辑模式。
+高级版：每月费用66.5元人民币起；包含高级功能；每月提供1,000,000词的使用额度；包括高级编辑模式。
+团队版：每月费用56.5元人民币起；提供高级功能；购买10个以上账号时可以享受折扣。
+
+Wordvice AI的应用场景
+
+学术写作：Wordvice AI 提供了帮助改善学术论文的多项辅助功能，满足学术出版的标准，提升投稿成功率 。
+教育领域：对于在校学生，Wordvice AI 可以帮助改善书面作业的清晰度和逻辑性，提升学术成绩 。
+专业沟通：商务专业人士可以用 Wordvice AI 快速撰写出清晰且有影响力的文字，获得职场上的竞争优势 。
+内容创作：博主和内容创作者可以用 Wordvice AI 来提高文章的质量，更加引人入胜 。
+英语学习：非英语母语者可以通过实时纠正和语言建议，提高他们的写作技能 。
+团队协作：专业团队可以用 Wordvice AI 来简化项目流程，保持书面表达的一致性，体现专业性 。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Wordvice AI\",\"description\":\"Wordvice推出的免费AI写作助手\",\"url\":\"https://aistool.orgaixiezuogongju/wordvice-ai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/10/Wordvice-logo.jpg\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Wordvice AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/10/Wordvice-logo.jpg","alt":"Wordvice AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Wordvice AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Wordvice推出的免费AI写作助手"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","439",{"href":"/aituxianggongju/chuangziyou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"创自由"}],["$","a","582",{"href":"/aituxianggongju/kira/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Kira"}],["$","a","321",{"href":"/aixiezuogongju/chuangyiai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"创一AI"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1206",{"href":"/aitishizhiling/promptpilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PromptPilot"}]
+5:["$","a","32",{"href":"/aizhinengti/teamo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Teamo"}]
+6:["$","a","98",{"href":"/ailiaotianzhushou/baichuandamoxing/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"百川大模型"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,88 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aibangonggongju","zhixieliucheng",""],"q":"","i":false,"f":[[["",{"children":[["category","aibangonggongju","d",null],{"children":[["tool","zhixieliucheng","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/08/igenflow-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tbef,
+                智写流程是什么
+智写流程是高效的操作指南AI生成工具，能自动捕捉网页操作生成清晰的图文教程。用户只需正常操作网页，点击“开始录制”后，智写流程会智能跟踪鼠标点击、键盘输入和页面跳转等行为，自动生成带截图和文字说明的操作指南。智写流程支持编辑功能，用户可以调整步骤、标注截图和修改文字，让教程更贴合需求。完成编辑后，可通过链接分享或导出为PDF、Word、Markdown等多种格式，方便知识共享。
+
+智写流程的主要功能
+
+
+自动化捕获操作流程：安装扩展程序后，点击“开始录制”，智写流程智能跟踪鼠标点击、键盘输入、页面跳转等交互行为，实时生成带截图和文字说明的操作指南，降低人工编写成本约80%。
+
+
+编辑与优化功能：支持对生成的操作指南进行灵活编辑，包括增删步骤、调整顺序、标注截图和修改文字说明，让教程更贴合需求。
+
+
+多种分享与导出方式：支持将操作指南生成在线文档，导出为PDF、Word、Markdown等格式，可通过链接分享给他人，方便知识共享。
+
+
+引导模式：分享链接后，他人可按照指南中的步骤进行操作，实现“傻瓜式”操作引导，方便快速上手。
+
+
+使用便捷性：支持本地安装或通过360浏览器、Google Chrome、Microsoft Edge等浏览器应用商店一键安装，微信扫码登录，操作简单便捷。
+
+
+如何使用智写流程
+
+
+安装浏览器插件：访问官网智写流程官网 https://www.igenflow.com/ ，选择本地安装或通过360浏览器、Google Chrome、Microsoft Edge的浏览器应用商店一键安装。
+
+
+登录账号：安装完成后，点击浏览器右上角的智写流程图标，通过微信扫码登录。
+
+
+开始录制操作：登录后，点击“开始记录”，然后正常执行你想要录制的操作流程。
+
+
+完成录制生成指南：操作完成后，点击“完成记录”，智写流程将自动生成包含截图和文字说明的操作指南。
+
+
+编辑生成的指南：进入编辑界面，可以对生成的指南进行修改完善，包括调整步骤、标注截图、修改文字等。
+
+
+分享或导出指南：编辑完成后，可以选择链接分享，或将指南导出为PDF、Word、Markdown等多种格式文件，方便使用。
+
+
+智写流程的应用场景
+
+
+员工培训：为新员工生成系统操作指南，帮助其快速熟悉工作流程。
+
+
+客户支持：制作产品手册和自助式故障排查教程，提升客户体验。
+
+
+内容创作：辅助制作软件测评视频及配套的图文步骤，丰富内容形式。
+
+
+内部知识共享：将团队内部的操作经验转化为标准化文档，方便成员学习和参考。
+
+
+技术支持文档：快速生成技术支持文档，帮助用户解决常见问题。
+
+
+项目管理：为项目团队生成操作流程文档，让团队成员对流程的理解和执行一致。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"智写流程\",\"description\":\"AI文档工具，捕捉网页操作自动生成图文教程\",\"url\":\"https://aistool.orgaibangonggongju/zhixieliucheng/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/08/igenflow-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"智写流程"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/08/igenflow-icon.png","alt":"智写流程","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"智写流程"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI文档工具，捕捉网页操作自动生成图文教程"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","396",{"href":"/aixiezuogongju/anyword/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Anyword"}],["$","a","209",{"href":"/aishejigongju/modaoai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"墨刀AI"}],["$","a","1371",{"href":"/aizhinengti/panofy/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Panofy"}],["$","a","754",{"href":"/aibangonggongju/ziyuzhineng/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"字语智能"}],"$L13","$L14"]}]]}]]}]]}]
+13:["$","a","1079",{"href":"/aikaifapingtai/wordware/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Wordware"}]
+14:["$","a","530",{"href":"/aituxianggongju/media.io-ai-image-upscaler/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Media.io AI Image Upscaler"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"智写流程 | AIStool"}],["$","meta","1",{"name":"description","content":"智写流程是高效的操作指南AI生成工具，能自动捕捉网页操作生成清晰的图文教程。用户只需正常操作网页，点击“开始录制”后，智写流程会智能跟踪鼠标点击、键盘输入和页面跳转等行为，自动生成带截图和文字说明的操作指南。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaibangonggongju/zhixieliucheng/"}],["$","meta","3",{"property":"og:title","content":"智写流程"}],["$","meta","4",{"property":"og:description","content":"智写流程是高效的操作指南AI生成工具，能自动捕捉网页操作生成清晰的图文教程。用户只需正常操作网页，点击“开始录制”后，智写流程会智能跟踪鼠标点击、键盘输入和页面跳转等行为，自动生成带截图和文字说明的操作指南。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaibangonggongju/zhixieliucheng/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/08/igenflow-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"智写流程"}],["$","meta","10",{"name":"twitter:description","content":"智写流程是高效的操作指南AI生成工具，能自动捕捉网页操作生成清晰的图文教程。用户只需正常操作网页，点击“开始录制”后，智写流程会智能跟踪鼠标点击、键盘输入和页面跳转等行为，自动生成带截图和文字说明的操作指南。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/08/igenflow-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","13",{}]]

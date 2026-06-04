@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://www.classppt.cn/img/logo.png","image"]
+3:Tb5f,
+                课灵 PPT是什么
+课灵PPT是专为教育场景设计的AI课件PPT生成工具，能根据教学主题自动生成教学课件，包括文案、设计、插图等，适用于教师、家长和教育机构。通过AI技术，为教师、培训机构和家长提供高效的教学课件制作解决方案。用户只需输入教学主题或上传教案，课灵PPT能在2分钟内自动生成美观、专业的PPT课件，支持150多种主题风格。课灵PPT具备知识可视化功能，能将抽象概念转化为动态图表和思维导图，帮助学生更好地理解和记忆知识。提供AI教案生成、无广告的学术搜索以及AI教学图片生成等功能，全方位满足教学需求。
+
+课灵 PPT的主要功能
+
+
+AI生成PPT课件：输入主题或上传教案，平台在2分钟内完成排版、配图和风格匹配，支持150+主题风格，生成的PPT兼具美观与专业。
+
+
+知识可视化：将抽象概念转化为动态图表、思维导图和交互模型，让复杂知识更直观。
+
+
+AI教案生成：基于大模型的结构化生成，覆盖多学科、多学段，自动匹配教学目标、重点难点，显著降低教师备课负担。
+
+
+AI学术搜索：无广告的学术资源搜索引擎，聚合文献、图片、视频等全网教学素材，精准匹配教学需求。
+
+
+AI图片生成：仅需文字描述即可生成高质量教学插图，支持多种艺术风格，解决配图难题且版权无忧。
+
+
+如何使用课灵 PPT
+
+访问平台：访问课灵PPT官网 https://www.classppt.cn/ ，注册登录后即可使用。
+
+输入需求：在对应功能页填写主题、上传教案或描述所需图片。
+
+
+AI处理：系统自动进行内容分析、结构化生成与视觉配图。
+
+
+下载：一键下载生成的PPT课件。
+
+
+课灵 PPT的核心优势
+
+
+真正的AI生成：不是模板填充，而是根据主题动态生成内容和布局。
+
+
+风格统一且视觉专业：插图、主题、色彩、排版均自动保持一致。
+
+
+多风格插图：支持多种艺术风格的插图，让课件更生动。
+
+
+内容专业且结构化：适合公开课、赛课等场景，内容逻辑清晰。
+
+
+课灵 PPT的应用场景
+
+
+教师教学：快速制作公开课课件、日常教学材料、参赛课件等。
+
+
+家庭教育：帮助家长为孩子生成辅导性课件、启蒙教育材料等。
+
+
+教育机构：适用于教培机构、在线教育平台，用于课程制作、内容审核等。
+
+
+课灵 PPT的适用人群
+
+
+教师：帮助教师快速备课，生成统一风格的课件，提升教学效率，节省时间用于教学互动和学生辅导。
+
+
+培训机构：便于培训机构批量生产专业课件，提高教学交付效率，统一教学内容和风格。
+
+
+家长：为家长提供工具，可为孩子生成辅导性的知识点课件，辅助家庭教育。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"课灵 PPT\",\"description\":\"AI免费生成PPT课件\",\"url\":\"https://aistool.orgaibangonggongju/keling-ppt/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://www.classppt.cn/img/logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"课灵 PPT"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://www.classppt.cn/img/logo.png","alt":"课灵 PPT","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"课灵 PPT"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI免费生成PPT课件"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1219",{"href":"/aitishizhiling/aiprm/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AIPRM"}],["$","a","352",{"href":"/aixiezuogongju/aixinmeitiwenzhang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AI新媒体文章"}],["$","a","834",{"href":"/aibangonggongju/yunyiduo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"云一朵"}],["$","a","1079",{"href":"/aikaifapingtai/wordware/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Wordware"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","448",{"href":"/aituxianggongju/marble/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Marble"}]
+5:["$","a","1263",{"href":"/aizhinengti/anygen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AnyGen"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

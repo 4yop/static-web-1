@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/10/lanzidian-logo.png","image"]
+3:Tcb1,
+                蓝字典AI求职是什么
+蓝字典AI求职是AI求职工具，提供AI简历生成、AI面试指导和职业规划服务。能帮助用户快速创建专业简历，支持多语种模板，针对不同岗位提供定制化面试练习。蓝字典AI能优化简历内容，提升求职效率。用户可通过电脑或手机访问，享受便捷的求职辅助。
+
+蓝字典AI求职的主要功能
+
+AI简历生成：快速生成个性化和专业的简历，支持多种语言版本，适合不同身份的求职者。
+AI面试模拟：提供针对不同岗位的模拟面试，包括选择题和解答题，帮助求职者熟悉面试流程并提高面试技巧。
+AI简历优化：基于AI技术分析简历内容，提供改进建议，增强简历的吸引力。
+职业规划咨询：提供个性化的职业发展建议，帮助求职者规划职业路径。
+多平台访问：支持电脑和手机端使用，方便用户随时随地进行求职准备。
+
+如何使用蓝字典AI求职
+
+访问官网： 访问蓝字典AI的官方网站。
+注册/登录： 注册账户或直接登录。
+选择服务： 根据需求，选择相应的服务，比如AI简历生成、AI面试等。
+AI简历生成：
+
+选择简历模板：选择应届生还是职场人士，对应合适的简历模板。
+输入个人信息：填写教育背景、工作经验等信息。
+生成简历：系统会根据提供的信息生成一份简历。
+
+
+AI面试：
+
+选择岗位：选择想要模拟面试的岗位。
+开始面试：系统会提供一系列面试问题，需要回答这些问题。
+获得反馈：面试结束后，系统会给出反馈和评分。
+
+
+简历优化：上传现有的简历。AI会分析简历提供优化建议。
+职业规划咨询：在咨询板块提出您在职业发展中的疑问。蓝字典AI会提供个性化的职业规划建议。
+
+蓝字典AI求职的产品定价
+
+免费试用：注册后可以免费体验额度，3条对话权益。
+1月会员：￥29；20次专业版对话（送20条）；无限次畅聊AI对话；60+AI求职应用；130+AI面试岗位。
+1年会员：￥69；50次专业版对话（送50条）；无限次畅聊AI对话；60+AI求职应用；130+AI面试岗位。
+终身会员：￥169；200次专业版对话（送200条）；无限次畅聊AI对话；60+AI求职应用；130+AI面试岗位。
+充值：100条对话￥49；200条对话￥99；500条对话￥199；1000条对话￥399。
+
+蓝字典AI求职的应用场景
+
+智能简历生成：用户可以通过蓝字典AI快速生成个性化、专业的简历，支持多种语言版本，包括中文、英语、法语、西语等，以及不同身份的简历版本，如应届生版、职场标准版。
+AI面试准备：蓝字典AI提供AI模拟面试，支持130+面试岗位选择，包括互联网运营、新媒体运营、电商运营、跨境电商、外贸业务等，帮助用户提前练习面试，适应面试氛围。
+职业规划咨询：蓝字典AI提供个性化职业咨询服务，帮助解决求职及职业发展中的困惑和问题，例如职业分析、行业解读、职业路径规划等。
+简历优化服务：AI技术帮助用户优化简历内容和格式，提高简历的竞争力。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"蓝字典AI求职\",\"description\":\"AI求职工具，提供AI简历生成、AI模拟面试服务\",\"url\":\"https://aistool.orgaibangonggongju/lanzidianaiqiuzhi/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/10/lanzidian-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"蓝字典AI求职"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/10/lanzidian-logo.png","alt":"蓝字典AI求职","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"蓝字典AI求职"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI求职工具，提供AI简历生成、AI模拟面试服务"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","231",{"href":"/aishejigongju/juranshejijia/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"居然设计家"}],["$","a","476",{"href":"/aituxianggongju/zyro-ai-background-remover/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Zyro AI Background Remover"}],["$","a","408",{"href":"/aixiezuogongju/xiaoweizhinenglunwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"小微智能论文"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","782",{"href":"/aibangonggongju/miro-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Miro AI"}]
+5:["$","a","956",{"href":"/aiyinpingongju/lyrics-into-song-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Lyrics Into Song AI"}]
+6:["$","a","690",{"href":"/aishipingongju/wonder-studio/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Wonder Studio"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

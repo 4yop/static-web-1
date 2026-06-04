@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/01/imgak-logo-1.png","image"]
+3:T122f,
+                imgAK是什么
+imgAK是强大的在线 AI 图像处理工具，专注于通过 AI 技术修复和增强图像，让模糊、破损的老照片重焕新生。用户只需上传图片，imgAK 可一键修复模糊、褪色、破损、折痕、水印等问题，能为黑白照片精准上色。 AI 放大功能可将低分辨率图片无损放大至 16000px，输出高清图像，适配人像、合影、宠物、商品图等多种类型。
+
+imgAK的主要功能
+
+照片修复：基于先进 AI 算法，一键修复老照片的模糊、褪色、破损、折痕、水印等问题，同时支持黑白照片上色，自动识别人脸与场景，细腻还原细节。
+AI 放大变高清：采用智能超分技术，将低分辨率、压缩失真或年代久远的照片提升至超高清画质，无损放大至 16000px，修复模糊和噪点，输出 300DPI 的打印级高清图像。
+AI 婚纱照生成：提供海量婚纱照样片和风格模板，通过智能换脸技术快速生成定制婚纱照，适合居家使用，节省时间和成本。
+AI抠图白底图：精准识别图像主体并分离背景，支持批量处理，适配电商、设计、海报等多种场景，处理复杂边缘如毛发时也能保持高精度。
+照片转卡通：利用深度学习技术将真实照片转换为卡通风格，提供多种艺术风格选择，适用于头像制作、插画创作等场景，无需专业绘画技能。
+AI产品图精修：融合前沿人工智能算法，智能识别并精细化商品图像的多维细节。自动增强产品轮廓，提画面纯净度与立体感。
+AI人像精修：专业级AI人像修图，肤质增强，秒变精致，告别繁琐修图！AI自动完成祛痘、去瑕疵、磨皮、瘦脸与美白美颜，同步优化肤色不均与暗沉。
+
+如何使用imgAK
+
+访问官网：打开浏览器，访问imgAK官网 https://www.imgak.com/ ，进入 imgAK 网站。
+选择功能：在官网首页，根据需求选择对应的功能模块。
+上传图片：点击“上传图片”按钮，选择需要处理的图像文件，支持多种图片格式。
+调整参数：部分功能支持参数调整，如修复强度、放大倍数、风格选择等。用户可以根据需求进行个性化设置，预览效果后确认。
+开始处理：设置完成后，点击“提交创作”按钮，imgAK 将自动运用 AI 技术对图片进行处理，处理时间视图片大小和功能复杂度而定。
+下载结果：处理完成后，imgAK 会显示处理后的图片效果，用户可以查看并下载高清结果图片，保存到本地设备。
+分享或使用：用户可以将处理后的图片用于个人收藏、社交媒体分享、商业设计或其他创意项目中。
+
+imgAK的核心优势
+
+一键高效：聚焦图像修复、增强与生成的核心场景，用一键式智能工具，帮普通人省时间、助设计师提效率，让AI真正服务于日常创作与生活。
+细节专项优化：针对人脸、服饰、文字、边缘等细节进行专项优化，确保修复和放大后的图像在各个部分都自然、清晰。
+高清输出：采用智能超分算法，可将图像无损放大至 16000px，输出 300DPI 的打印级高清图像，满足高分辨率需求。
+多场景适配：适用于家庭用户修复老照片、电商卖家提升产品图清晰度、设计师翻新低清素材、内容创作者放大网络小图等多种场景。
+高效处理能力：支持多图同步处理，大幅提升工作效率，适合批量处理老照片或电商产品图。
+无需专业技能：用户无需掌握 Photoshop 等专业软件，无需具备复杂的图像处理知识，可轻松完成高质量的图像修复和优化。
+全网页端操作：支持手机和电脑等多种设备，无需安装任何软件或插件，直接在网页上操作，方便快捷。
+隐私保护：用户上传的图片经过加密处理，处理完成后自动删除，确保数据安全，用户无需担心隐私泄露。
+
+imgAK的应用场景
+
+
+家庭用户：修复泛黄的老照片、童年照、结婚照等，让珍贵回忆重焕新生。
+
+
+电商卖家：提升模糊产品图的清晰度，优化商品展示效果，增强销售吸引力。
+
+
+设计师：快速翻新低清素材，避免重新拍摄，节省时间和成本。
+
+
+内容创作者：将网络小图智能放大，用于视频制作、海报设计等，确保高清输出。
+
+
+文博爱好者：高清复原历史照片与文献，用于研究或展示，保留文化记忆。
+
+
+摄影爱好者：修复老胶卷或底片数字化后的瑕疵，提升照片整体质量。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"imgAK\",\"description\":\"一站式在线 AI 图像处理平台\",\"url\":\"https://aistool.orgaituxianggongju/imgak/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/01/imgak-logo-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"imgAK"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/01/imgak-logo-1.png","alt":"imgAK","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"imgAK"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"一站式在线 AI 图像处理平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],"$L4"]}]]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","575",{"href":"/aituxianggongju/zaodianai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"造点AI"}],["$","a","468",{"href":"/aituxianggongju/adobe-image-background-remover/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Adobe Image Background Remover"}],["$","a","112",{"href":"/ailiaotianzhushou/stable-chat/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Stable Chat"}],["$","a","164",{"href":"/aibianchenggongju/twinny/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Twinny"}],["$","a","592",{"href":"/aishipingongju/jimengai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"即梦AI"}],["$","a","361",{"href":"/aixiezuogongju/aichuangzuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"爱创作"}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

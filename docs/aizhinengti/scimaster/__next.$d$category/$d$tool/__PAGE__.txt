@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/08/scimaster_icon.png","image"]
+3:T10e7,
+                SciMaster是什么
+SciMaster 是上交大联合深势科技推出的通用科研Agent ，通过集成多种科研工具和智能技术，为研究人员提供高效、便捷的科研支持。SciMaster支持多种应用场景，包括量子计算瓶颈研究、系外行星探测方法与结果分析、药物筛选中的分子动力学模拟、智能体合作学习以及二维材料在电子学中的应用等。SciMaster 能生成详细的科研报告，帮助研究人员快速了解研究进展和结果，提升科研效率。
+
+SciMaster的主要功能
+
+
+多模态检索：SciMaster 能通过 WebSearch、WebParse 和 PaperSearch 三种方式，对全域互联网以及海量科学文献进行检索，收集相关资讯、数据、论文和专利等资料。
+
+
+专家级报告：基于检索到的信息，SciMaster 可以生成深度调研报告，帮助研究人员快速了解研究领域的现状和进展。
+
+
+工具库支持：SciMaster 集成了多种科学专用工具，支持“主动调用”和“自动调用”两种方式。研究人员可以根据任务需求主动调取所需工具，或由 SciMaster 自动筛选并调用相关工具。
+
+
+思维链编辑：研究人员可以随时暂停 SciMaster 的推理过程，查看其推理逻辑，并对任务分解、执行顺序、重点方向等进行实时调整。
+
+
+实验生态构建：SciMaster 能直接调用 Uni-Lab 提供的 MCP 服务，无缝集成各种实验室仪器设备和软件系统，构建涵盖软件、硬件、研究人员以及科研数据的完整“干湿闭环”实验生态。
+
+
+详细报告生成：SciMaster 能生成详细的科研报告，展示所有参考文献并附上链接，方便研究人员进一步研究。
+
+
+可视化支持：通过图表和数据可视化，帮助研究人员更直观地理解复杂信息。
+
+
+如何使用SciMaster
+
+
+访问官网：访问 SciMaster 官网 https://scimaster.bohrium.com/ 。
+
+
+注册账号：点击注册按钮，填写邮箱及基本信息后申请邀请码。收到邀请码后，输入验证码完成注册。
+
+提出问题：在平台的任务输入框中输入具体的科学问题，如“分子动力学在药物筛选中的典型流程是怎样的”。问题尽量具体，避免模糊表述。
+
+任务拆解：SciMaster 会自动将问题拆解为多个子任务，如检索文献、分析数据等。用户可在右侧工具栏查看拆解详情。
+
+
+检索过程：系统通过 WebSearch 搜索网络信息，WebParse 解析网页内容，PaperSearch 检索 1.7 亿篇文献。检索进度实时显示，用户可暂停查看中间结果。
+
+
+干预任务：若对任务拆分逻辑不满意，可点击“暂停”，进入思维链编辑界面，修改任务优先级、搜索关键词或删除无关子任务。
+
+查看报告：约 5 – 10 分钟后，系统生成报告，包含引用的文献、数据和图表。报告分为“通用助手”模式（简洁概述）和“深度调研”模式（详细分析），用户可选择模式并导出为 PDF 或 Word 格式。
+科学工具调用
+
+
+主动调用：在任务输入框输入指令，如“使用分子动力学工具模拟蛋白质折叠”，SciMaster会调用对应工具并显示结果。
+
+
+自动调用：输入问题后，SciMaster 根据任务需求自动选择工具。
+
+
+
+实验生态支持：SciMaster 可通过 Uni-Lab 的 MCP 服务连接实验室设备。用户需先在玻尔科研空间站注册实验室账户并绑定设备。之后在 SciMaster 界面选择“实验管理”模块，上传实验需求，系统生成实验方案并调用实验室仪器执行，实验完成后生成报告。
+
+SciMaster的应用场景
+
+
+量子计算瓶颈：SciMaster 可能通过数据分析和模型优化帮助研究人员找到解决方案。
+
+
+系外行星探测：在天文学中，SciMaster 可能通过分析观测数据和模拟结果来辅助研究。
+
+
+药物筛选中的分子动力学：在药物研发中，分子动力学模拟是理解药物与生物靶标相互作用的关键。SciMaster 可能通过高效的数据处理和模拟优化来加速这一过程。
+
+
+智能体合作学习：在人工智能领域，智能体之间的合作是一个重要的研究方向。SciMaster 可能通过模拟和优化智能体的行为来探索这一问题。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"SciMaster\",\"description\":\"上交大联合深势科技推出的通用科研Agent\",\"url\":\"https://aistool.orgaizhinengti/scimaster/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/08/scimaster_icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"SciMaster"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/08/scimaster_icon.png","alt":"SciMaster","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"SciMaster"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"上交大联合深势科技推出的通用科研Agent"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":["$L4","$L5"]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","153",{"href":"/aibianchenggongju/codewhisperer/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CodeWhisperer"}],["$","a","1342",{"href":"/aishejigongju/seede-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Seede AI"}],["$","a","224",{"href":"/aishejigongju/onlook/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Onlook"}],["$","a","718",{"href":"/aishipingongju/tuanduikuaijian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"团队快剪"}],["$","a","975",{"href":"/aiyinpingongju/lanzaoai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"蓝藻AI"}],["$","a","1366",{"href":"/aishipingongju/vibeknow/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"VibeKnow"}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/Lightfield-logo.png","image"]
+3:Tacf,
+                Lightfield是什么
+Lightfield是专为销售领域设计的 AI 助手，帮助销售人员精准定位目标客户并提升销售效率。通过分析销售策略和 CRM 数据，识别有潜力的账户，提供关键决策者的详细信息，助力销售人员突破大型客户。Lightfield能学习目标客户的商业模式、员工规模、总部位置和行业术语，帮助销售人员快速了解客户背景，制定更具针对性的销售策略。
+
+Lightfield的主要功能
+
+360° 账户视角：Lightfield能从公开网络和内部数据源中提取信息，为销售人员提供目标客户的全面视图，包括业务重点、关键人物等，帮助销售人员更深入地了解客户。
+个性化外展：通过分析客户需求，Lightfield协助销售人员将产品的价值主张与客户实际需求对接，生成个性化沟通策略，提高潜在客户的兴趣。
+会议准备：Lightfield可以为销售人员提供会议前的及时简报，包含与会者详细信息、建议的发现问题和相关谈话要点，确保销售人员为会议做好充分准备。
+智能合成：基于大型语言模型，Lightfield能快速提取关键信息，如战略重点和组织结构等，帮助销售人员制定营销策略。
+战略客户识别：Lightfield使用 AI 算法识别与公司产品和服务高度契合的客户群体，帮助销售团队集中精力于潜力最大的客户。
+决策者映射：工具能识别目标客户内部的采购决策者及其角色，为销售人员提供宝贵的决策链信息。
+增长与创新指标分析：Lightfield可以检测目标公司的增长指标，如新办公地点或新产品发布，有助于提升公司价值主张的吸引力。
+商业智能分析：提供市场趋势洞察、竞争对手分析和行业动态追踪，帮助销售团队更好地理解市场环境。
+买家研究：构建潜在客户画像，预测客户需求，分析购买行为，帮助销售人员更精准地定位目标客户。
+价值阐述优化：生成个性化销售话术，突出产品优势，并展示投资回报率（ROI），增强销售沟通的效果。
+
+Lightfield的官网地址
+
+官网地址：https://lightfield.app/
+
+Lightfield的应用场景
+
+新客户开发： AI 驱动的市场洞察和买家研究，帮助销售团队更精准地识别和接触潜在客户。
+营销活动：创建引人入胜的多媒体展示，增加客户参与度。
+市场趋势洞察：提供深入的市场研究，智能总结竞争对手动态和市场趋势。
+客户关系管理：通过深入了解客户情况，优化客户关系管理策略。
+销售团队：帮助销售人员更好地准备与目标客户的沟通，提高销售效率和成功率。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Lightfield\",\"description\":\"AI销售助手\",\"url\":\"https://aistool.orgaibangonggongju/lightfield/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/Lightfield-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Lightfield"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/Lightfield-logo.png","alt":"Lightfield","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Lightfield"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI销售助手"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","465",{"href":"/aituxianggongju/clipdrop-remove-background/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ClipDrop Remove Background"}],["$","a","80",{"href":"/ailiaotianzhushou/saylo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Saylo"}],["$","a","758",{"href":"/aibangonggongju/pdf.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PDF.ai"}],["$","a","239",{"href":"/aishejigongju/logoai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Logoai"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1323",{"href":"/aishejigongju/pagepop/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PagePop"}]
+5:["$","a","4",{"href":"/aizhinengti/kouzi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"扣子"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/04/flowith-icon.png","image"]
+3:T114d,
+                Flowith是什么
+Flowith是创新的画布式AI智能体工具，基于首创的节点式交互方式，让用户用多线程和发散式的思维与AI进行互动。Flowith由顶级大模型驱动，支持多种先进的AI模型（如Gemini 3 、Grok4、GPT-5、Claude等）及图像视频多模态模型（Veo 3、Midjourney、SDXL）。Flowith支持文字创作、图片生成、视频制作等多种模式，基于智能体“Agent Neo”实现任务的自动化执行。用户能用知识花园功能管理个人知识库，在“发现更多”中探索社区分享的知识和智能体工作流。Flowith 的 Agent 模式能拆解复杂任务，生成详细的执行计划并逐步完成，适用创意写作、设计、市场调研等多种场景，是创作者和专业人士的得力助手。
+
+Flowith的主要功能
+
+节点式交互：用户能在一个画布上创建多个节点，每个节点代表一个独立的问题或主题，围绕节点进行信息的搜索和整合，实现多线程处理。
+AI模型选择：提供多种AI模型，包括OpenAI的GPT-5、GPT-4.1、Grok 4、Claude 4.5、Google的Gemini 2.5 Pro等，用户根据需求选择最合适的模型。
+文件上传与分析：支持PDF、DOC、EXCEL等多种文件格式的上传和分析，自带OCR功能，方便用户上传和处理文档。
+多模态内容生成：支持文本、图片和视频等多种内容生成，满足用户多样化的创作需求。
+智能体Agent模式：基于智能体“Neo”实现任务自动化执行，支持多步骤任务处理并能与用户互动。
+知识花园：用户创建和管理自己的知识库，将个人的知识、资料等整理成知识库，方便随时调用和参考，提升知识的复用性和价值。在创作过程中，用户指定使用自己的知识库，让生成的内容更贴合个人的知识背景和需求。
+工作流可视化：将任务的执行过程用工作流的形式呈现，用户能清晰地看到任务的各个步骤和节点，方便对任务的进度和执行情况进行把控。
+项目归档与管理：支持用户创建项目，将相关的任务和内容归档到项目中，便于对不同项目进行管理和分类，提高工作效率和组织性。
+
+
+如何使用Flowith
+
+注册与登录：访问 Flowith 官网 https://flowith.net/ ，填邀请码 AIBOTT 新用户注册领2000积分。
+使用Agent模式：点击对话框右侧的Agent按钮或用模式切换进入Agent模式。输入任务指令，Agent自动拆解任务并逐步执行，用户基于工作流界面查看任务进度。
+知识管理：在“知识花园”中创建和管理个人知识库，上传自己的知识文件或资料。在创作时，指定使用知识库，让生成内容更贴合个人需求。
+社区资源：在“发现更多”中访问“知识市场”，查看和使用他人分享的知识库。在“智能体社区”中学习其他用户的Agent使用案例和经验。
+项目管理：在“项目”中创建新的项目，将相关任务和内容归档到项目中，方便管理和分类。
+
+
+Flowith的产品价格
+Flowith提供了不同级别的模型选择，包括T-1和T-2两种对话模型。T-1级模型为成本更高、能力更强大的模型，如GPT-5、Claude 4.5、Veo 3等。T-2级模型为性价比更平衡的模型，如GPT-4.1、Kimi-K2、Gemini 2.5 Flash等。具体价格和权益如下（供参考，以官网最新信息为准）：
+
+Flowith的适用人群
+
+研究人员和学者：需要进行深入的学术研究和资料搜集，Flowith能够帮助他们快速整合互联网信息，构建知识体系。
+专业人士：如律师、医生、财务分析师等，他们需要处理大量专业文档和数据，Flowith的文件上传分析功能可以提高工作效率。
+内容创作者：包括作家、设计师、营销人员等，可以使用Flowith的图像生成和语音合成功能来丰富其创作内容。
+学生：在学习过程中需要理解和整合复杂概念，Flowith的节点式交互和知识图谱构建能力可以帮助他们更好地组织学习材料。
+企业员工：尤其是需要进行市场分析、数据整理和报告撰写的员工，Flowith可以作为一个强大的信息整合和生产力工具。
+技术开发者：对AI技术和自动化流程有兴趣的开发者，可以通过创建AI智慧体来实现特定的工作流程自动化。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Flowith\",\"description\":\"一站式用GPT-5.5、Claude-4.7\",\"url\":\"https://aistool.orgaizhinengti/flowith/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/04/flowith-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Flowith"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/04/flowith-icon.png","alt":"Flowith","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Flowith"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"一站式用GPT-5.5、Claude-4.7"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":["$L4","$L5"]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","95",{"href":"/ailiaotianzhushou/maopaoya/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"冒泡鸭"}],["$","a","491",{"href":"/aituxianggongju/tongyiwanxiang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"通义万相"}],["$","a","909",{"href":"/aibangonggongju/faxingbao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"法行宝"}],["$","a","649",{"href":"/aishipingongju/xunguang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"寻光"}],["$","a","978",{"href":"/aiyinpingongju/resemble.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"RESEMBLE.AI"}],["$","a","411",{"href":"/aixiezuogongju/surferseo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"SurferSEO"}]]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

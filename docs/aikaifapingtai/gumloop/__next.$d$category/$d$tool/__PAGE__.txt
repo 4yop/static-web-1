@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/09/Gumloop-logo.png","image"]
+3:Tb5f,
+                Gumloop是什么
+Gumloop是AI零代码工作流平台，通过简单的拖放界面使用户能够创建和部署 AI 驱动的工作流自动化，无需编写代码。核心优势在于易用性和强大的 AI 功能，适合非技术用户快速上手，设计和实施复杂的自动化流程。Gumloop 提供了预定义的自动化模板，支持与多个流行服务的连接，如 Twitter、AWS、GitHub、Outlook、Google 等，支持用户自定义工作流程。Gumloop 提供了 Chrome 扩展程序，用于构建 AI 浏览器自动化。
+
+Gumloop的主要功能
+
+自动化构建：用户可以通过拖放和链接节点来创建强大的自动化流程，模块化组件被称为“flows”，使任何人能轻松构建和定制工作流。
+平台整合：Gumloop 提供与 Twitter、AWS、GitHub、Outlook、Google 等流行服务的广泛整合，实现跨平台的全面自动化。
+可扩展的基础设施：用户缺乏技术背景，也能大规模运行工作流。Gumloop 设计了高效的处理能力，能处理大量工作负载。
+团队协作：用户可以在统一的工作空间内与团队成员共享和共同建立工作流，增强生产力和合作能力。
+安全性和可扩展性：Gumloop 专注于安全性和可扩展性，提供 SOC 2 和 GDPR 合规性、数据加密和细粒度访问控制等功能。
+自动化模板：提供预定义的自动化模板，帮助用户快速开始，适用于多种业务场景。
+AI 数据提取器：内置的 AI 数据提取器可以从各种内容中提取所需数据，如文本、网页、电子邮件等。
+测试和运行：用户可以在 Gumloop 提供的沙箱中测试工作流程，在满意后部署。
+
+Gumloop的产品官网
+
+产品官网：gumloop.com
+
+如何使用Gumloop
+
+创建账户：访问 Gumloop 官方网站注册账户。
+探索模板：查看预构建的自动化模板，模板涵盖了销售、CRM、网页抓取、软件开发等多个领域。
+阅读文档：通过官方文档了解如何使用平台，包括快速入门指南和深入教程。
+构建工作流程：使用直观的拖放界面创建自定义工作流程，可以添加和连接多个自动化组件。
+测试和运行：在 Gumloop 提供的沙箱环境中测试您的工作流程，满意后可以共享或部署。
+
+Gumloop的应用场景
+
+客户服务自动化：使用 Gumloop 创建智能客服机器人，自动处理常见查询，分类和路由客户请求。
+营销自动化：通过个性化内容推荐，自动化社交媒体发布和互动，以及数据分析和报告生成，来提升营销效率。
+财务流程自动化：自动化发票处理、报销审核，智能异常检测和风险评估。
+人力资源管理：使用 Gumloop 进行简历筛选、候选人匹配、员工绩效分析和预测。
+供应链优化：进行需求预测、库存管理和物流路线优化。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Gumloop\",\"description\":\"AI零代码工作流平台，支持用户自定义工作流程\",\"url\":\"https://aistool.orgaikaifapingtai/gumloop/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/09/Gumloop-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Gumloop"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/09/Gumloop-logo.png","alt":"Gumloop","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Gumloop"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI零代码工作流平台，支持用户自定义工作流程"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1055",{"href":"/aikaifapingtai/yingboyunaisuanli/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"英博云AI算力"}],["$","a","993",{"href":"/aiyinpingongju/play.ht/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Play.ht"}],["$","a","292",{"href":"/aituxianggongju/photomagic/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PhotoMagic"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1265",{"href":"/aishipingongju/mochiani/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MochiAni"}]
+5:["$","a","1120",{"href":"/aixuexiwangzhan/openai-academy/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"OpenAI Academy"}]
+6:["$","a","277",{"href":"/aishejigongju/poly/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Poly"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/10/ima-logo.png","image"]
+3:Tdec,
+                ima.copilot是什么
+ima.copilot（简称ima）是腾讯推出的AI智能工作台产品，基于腾讯混元大模型技术支持。产品的核心功能包括知识获取、打造专属知识库以及智能写作辅助。用户可以通过ima.copilot基于全网信源问答，将感兴趣的优质内容整合到个人知识库中，实现知识的获取和管理。能根据用户的知识库提供定制化的回答，辅助完成论文、作文、文案等写作任务。最新版ima新增AI生图功能升级（支持自定义图像比例、风格和参考图，并可交互调整）及笔记支持导出为PDF格式。
+
+ima.copilot的主要功能
+
+全网信源问答：ima.copilot能基于全网信源进行问答，帮助用户获取和管理感兴趣的优质内容。
+专属知识库：用户可以将搜集到的内容整合到个人知识库中，打造与个人思想同频成长的知识库。
+定制化回答：根据用户的知识库，提供个性化的问答服务，支持工作和学习，激发灵感。
+智能写作辅助：ima.copilot具备智能写作功能，能在用户给出一个开头的情况下，辅助完成论文、作文、文案等写作任务。
+搜读写新体验：提供全新的搜索、阅读和写作体验，让知识管理变得更加智能和高效。
+资料的收集和解读：辅助用户完成课程作业、论文写作、方案策划、工作总结等日常学习和工作任务，长期沉淀为个人智能化的知识库。
+AI问答和互动：通过AI技术，提供问答和互动服务，增强用户体验。
+内容生成和创作：支持内容的生成和创作，提高工作效率。
+
+AI生图：支持选择图像比例、指定风格，还能上传参考图。
+
+笔记转PDF：笔记支持导出为PDF格式，移动端和PC端都支持。
+
+如何使用ima.copilot
+
+下载安装：访问ima.copilot官网 https://ima.qq.com/ 。
+创建知识库：安装完成后，打开应用创建专属于您的知识库。可以根据不同的主题或项目创建不同的知识库。
+搜集资料：基于ima.copilot的全网信源问答功能，搜集感兴趣的资料添加到您的知识库中。
+智能问答：在知识库中提出问题，ima.copilot会根据知识库内容提供定制化的回答。
+智能写作：点击智能写作功能，选择需要的文体（如论文、作文、文案等），开始创作。
+编辑和保存：在写作过程中，可以编辑和调整内容。完成创作后，保存作品。
+
+ima.copilot的应用场景
+
+学术研究：研究人员可以用ima.copilot快速搜集和整理相关领域的资料，提高研究效率。通过全网信源问答，研究人员能将感兴趣的优质内容整合到个人知识库中，实现知识的获取和管理。
+学生学习：学生可以通过ima.copilot整理学习笔记，获取定制化的学习资料。ima.copilot能根据学生的知识库提供定制化的回答，支持学习和复习。
+文案创作：营销人员可以用ima.copilot的智能写作功能，快速生成吸引人的文案。论文、作文、文案等，ima.copilot能提供写作辅助，大大提高写作效率。
+项目管理：项目经理可以用ima.copilot整理项目文档，提高项目管理的效率。通过打造专属知识库，项目经理可以更好地管理和检索项目相关资料。
+个人知识管理：需要管理大量信息的个人可以用ima.copilot来构建自己的知识库。ima.copilot可以帮助用户搜集资料、整理内容，提供智能问答和互动。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"ima.copilot\",\"description\":\"腾讯推出的AI知识库工具\",\"url\":\"https://aistool.orgaibangonggongju/ima.copilot/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/10/ima-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"ima.copilot"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/10/ima-logo.png","alt":"ima.copilot","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"ima.copilot"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"腾讯推出的AI知识库工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1419",{"href":"/aineirongjiance/wenshusanyan/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"文枢三言"}],["$","a","1306",{"href":"/aizhinengti/leewow/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Leewow"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1016",{"href":"/aisousuoyinqing/xinliu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"心流"}]
+5:["$","a","35",{"href":"/aizhinengti/myshell/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MyShell"}]
+6:["$","a","1165",{"href":"/aixunlianmoxing/deepfloyd-if/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DeepFloyd IF"}]
+7:["$","a","1045",{"href":"/aisousuoyinqing/songtell/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Songtell"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

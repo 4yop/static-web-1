@@ -1,0 +1,92 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aizhinengti","genspark",""],"q":"","i":false,"f":[[["",{"children":[["category","aizhinengti","d",null],{"children":[["tool","genspark","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2024/06/genspark-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Td89,
+                Genspark是什么
+Genspark 是前百度小度高管推出的通用 AI 智能体，通过创新的多模型协作系统（Mixture-of-Agents）打造超级 AI 智能体。Genspark 核心理念是让用户通过简单指令驱动多个 AI 模型协同工作，完成复杂任务。Genspark的核心产品Genspark Super Agent 是全能型 AI 助手，能自主思考、规划和执行各种任务，如旅行规划、视频内容生成、数据可视化等。产品功能包括 AI幻灯片、AI表格、AI文档、AI视频等工具，支持在 Slack 等平台无缝协作，用户在熟悉的工作环境中可直接使用AI能力。
+
+Genspark的主要功能
+
+
+Genspark 超级智能体：多功能的 AI 助手，能跨平台执行复杂任务，随着使用不断学习和适应用户需求。
+自定义超级智能体：用户能根据自己的需求创建和定制AI智能体，执行特定的任务。
+AI 表格和文档：用在数据分析和文档起草，帮助用户快速处理电子表格和撰写文档。
+AI 设计师：提供设计服务，如创建海报、设计产品包装等。
+AI 开发者：支持开发任务，如构建网页游戏或预订网站。
+AI 聊天和播客：用于创建播客内容或进行AI驱动的对话。
+AI 图片和视频：用于生成和编辑图片、视频内容，满足创意和媒体需求。
+AI 会议纪要：自动记录和总结会议内容。
+深度研究和事实核查：提供深入的研究分析和信息核实服务。
+自动化任务：执行重复性任务，如文件检索和下载。
+集成平台：与Slack等平台集成，使用户能在平台上直接使用Genspark的服务。
+
+
+
+如何使用Genspark
+
+访问平台：访问Genspark官网 https://www.genspark.ai/ ，注册登录账号。
+
+授权集成：如果使用的是Slack或其他集成平台，需要授权Genspark访问你的账户，以便能与工作流程集成。
+
+
+创建任务：选择需要的功能，创建任务。例如，创建一个AI表格任务分析数据，或者创建一个AI文档任务起草文件。
+
+
+输入指令：根据你选择的任务，输入相应的指令或上传相关文件。Genspark的智能体会根据指令执行任务。
+
+使用结果：一旦任务完成，查看结果，下载文件，或者将结果直接集成到工作流程中。
+定制智能体：对于更复杂的需求，创建自定义超级智能体，适应特定的工作场景。
+
+Genspark的产品定价
+
+
+Free：提供免费访问，包括每天100积分、1GB AI Drive存储空间，及有限的AI模型和智能体使用。
+
+
+Plus：每月24.99美元，提供10,000积分、50GB AI Drive存储，无限畅聊AI聊天，优先使用所有AI智能体，可访问最新图像和视频生成模型。
+
+
+Pro：每月249.99美元，提供125,000积分、1TB AI Drive存储，同样享有无限畅聊AI聊天和优先使用所有AI智能体，以及访问所有最新图像、视频和音频生成模型。
+
+
+Genspark的应用场景
+
+
+自动化办公：Genspark能自动生成报告和处理数据，简化日常办公任务。
+
+
+客户服务：用Genspark提供24/7的自动化客户支持，提升服务效率。
+
+
+市场营销：Genspark帮助分析市场趋势，个性化营销策略，提高客户参与度。
+
+
+人力资源：Genspark辅助HR流程，如简历筛选和员工培训，优化人才管理。
+
+
+教育和培训：Genspark为教育提供个性化学习计划，增强教学效果。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Genspark\",\"description\":\" 通用AI智能体，您的一站式AI工作空间\",\"url\":\"https://aistool.orgaizhinengti/genspark/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/06/genspark-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Genspark"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/06/genspark-icon.png","alt":"Genspark","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Genspark"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":" 通用AI智能体，您的一站式AI工作空间"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","903",{"href":"/aibangonggongju/miaochuppt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"秒出PPT"}],["$","a","501",{"href":"/aituxianggongju/adobe-firefly/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Adobe Firefly"}],"$L13","$L14","$L15","$L16"]}]]}]]}]]}]
+13:["$","a","241",{"href":"/aishejigongju/qiantuwang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千图网"}]
+14:["$","a","210",{"href":"/aishejigongju/pic-copilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pic Copilot"}]
+15:["$","a","494",{"href":"/aituxianggongju/qiyuai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"奇域AI"}]
+16:["$","a","255",{"href":"/aishejigongju/pixso-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pixso AI"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Genspark | AIStool"}],["$","meta","1",{"name":"description","content":"Genspark 是前百度小度高管推出的通用 AI 智能体，通过创新的多模型协作系统（Mixture-of-Agents）打造超级 AI 智能体。Genspark 核心理念是让用户通过简单指令驱动多个 AI 模型协同工作，完成复杂任务。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaizhinengti/genspark/"}],["$","meta","3",{"property":"og:title","content":"Genspark"}],["$","meta","4",{"property":"og:description","content":"Genspark 是前百度小度高管推出的通用 AI 智能体，通过创新的多模型协作系统（Mixture-of-Agents）打造超级 AI 智能体。Genspark 核心理念是让用户通过简单指令驱动多个 AI 模型协同工作，完成复杂任务。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaizhinengti/genspark/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2024/06/genspark-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Genspark"}],["$","meta","10",{"name":"twitter:description","content":"Genspark 是前百度小度高管推出的通用 AI 智能体，通过创新的多模型协作系统（Mixture-of-Agents）打造超级 AI 智能体。Genspark 核心理念是让用户通过简单指令驱动多个 AI 模型协同工作，完成复杂任务。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2024/06/genspark-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","13",{}]]

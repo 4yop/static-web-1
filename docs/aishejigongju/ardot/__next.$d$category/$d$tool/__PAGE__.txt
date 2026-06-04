@@ -1,0 +1,149 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/03/Ardot-logo.png","image"]
+3:T151d,
+                Ardot是什么
+Ardot 是腾讯推出的 AI 智能设计工具，定位”Figma + Lovart“结合体。Ardot 通过文生 UI、图转设计、即时生成等功能，让用户用自然语言快速生成可编辑的界面原型，同时保留专业矢量编辑、组件库管理和开发交付能力。Ardot 核心优势在于用 AI 重塑设计工作流，实现”AI 灵感激发→人工精修”闭环，适合快速原型、高频改稿及中小团队敏捷开发，目前已开放免费公测。
+
+Ardot的主要功能
+
+
+文生 UI：支持输入自然语言描述即可自动生成包含排版、图片和文字的完整界面原型。
+
+
+图转 UI：上传任意图片可快速转换为可编辑的设计稿，方便二次创作。
+
+
+即时绘图：支持直接在画布内呼叫 AI 生成所需插图，无需切换其他工具。
+
+
+动态布局：工具采用 Grid 网格和百分比定位技术，实现界面在不同屏幕尺寸下的自适应调整。
+
+
+组件库管理：支持将颜色、字体、按钮等元素保存为本地样式，修改一处即可全局同步更新。
+
+
+矢量编辑：提供斜切、3D 旋转等 W3C 标准变形工具，满足专业图形绘制需求。
+
+
+开发标注：自动生成 CSS 代码片段并提供精准尺寸标注，消除设计与开发之间的沟通障碍。
+
+
+权限管理：支持管理者、编辑、查看者等多角色权限分离，配备操作日志追踪和离职自动回收功能保障项目安全。
+
+
+Ardot的关键信息和使用要求
+
+产品定位：腾讯推出的 AI 自动化设计平台，融合 Figma 的专业设计能力与 Lovart 的 AI 生成体验，主打”AI 驱动 + 人工精修”的设计工作流。
+核心能力：文生 UI、图转设计、即时 AI 绘图、动态布局系统、组件库管理、矢量编辑、开发代码自动生成及团队协作权限管理。
+技术底座：底层接入 DeepSeek 等大语言模型提供 AI 能力支持。
+当前状态：已开放免费公测。
+账号：需注册腾讯账号登录，目前公测阶段无需邀请码。
+平台：基于 Web 端使用，支持主流浏览器访问。
+
+Ardot的核心优势
+
+
+AI 原生设计工作流：不同于传统设计工具的 AI 插件化，Ardot 从底层重构”描述即生成”的创作模式，让 AI 成为设计起点而非辅助。
+
+
+生成即可编辑：文生 UI 和图转设计的结果直接进入专业编辑器，打破”AI 生成后需重新绘制”的断点，实现无缝迭代。
+
+
+专业级设计深度：保留 Figma 级别的矢量编辑、组件系统和布局能力，避免纯 AI 工具”生成惊艳、修改困难”的短板。
+
+
+开发交付闭环：自动生成 CSS 代码和精准标注，设计稿直接对接前端开发，减少跨角色沟通损耗。
+
+
+国产生态适配：针对中文设计场景优化，更贴合国内团队的协作习惯和交付标准。
+
+
+如何使用Ardot
+
+访问官网：访问 Ardot 官网 https://d.qq.com/ ，登录账号进入工作台。
+创建项目：点击「开始设计」新建项目。
+AI 生成设计：在底部输入框描述需求（如”生成一个音乐播放器界面，深色模式”），选择 DeepSeek 等模型，点击发送后 AI 自动生成可编辑的 UI 框架。
+人工精修：选中画布元素直接拖拽调整位置，在右侧面板修改颜色、字体、间距等属性，或使用矢量工具绘制自定义图形。
+组件复用：将常用元素右键存为「本地样式」或「组件」，修改母版后所有实例自动同步，保持设计一致性。
+开发交付：点击右上角「分享」生成协作链接，开发者进入后可查看标注信息、复制 CSS 代码，实现设计到开发的无缝对接。
+
+Ardot的同类竞品对比
+
+
+
+对比维度
+Ardot
+Figma
+MasterGo
+
+
+
+
+产品定位
+AI 自动化设计平台
+在线协同设计工具
+国产设计协作平台
+
+
+核心模式
+AI 生成 + 专业编辑
+多人实时协作
+团队协作 + 原型设计
+
+
+AI 能力
+文生 UI、图转设计、即时绘图
+无原生 AI，依赖插件
+基础 AI 辅助功能
+
+
+设计深度
+完整矢量编辑、组件系统、动态布局
+专业级设计功能最全
+功能接近 Figma
+
+
+协作特性
+权限管理 + 开发代码交付
+实时多人协作标杆
+适合国内团队流程
+
+
+开发对接
+自动生成 CSS、精准标注
+需借助第三方插件
+基础标注功能
+
+
+适用场景
+快速原型、AI 辅助设计、敏捷开发
+大型团队复杂项目
+国内企业常规设计
+
+
+
+Ardot的应用场景
+
+
+快速原型设计：产品经理或设计师通过文字描述几分钟生成界面框架，用于需求评审和早期沟通，大幅缩短从想法到可视化的周期。
+
+
+电商高频改稿：运营人员上传商品图即可自动生成促销海报，应对大促期间大量、紧急的物料制作需求，降低对专业设计师的依赖。
+
+
+中小团队敏捷开发：初创团队借助 AI 生成基础界面，结合内置组件库快速搭建产品原型，实现设计开发一体化推进，节省人力成本。
+
+
+设计灵感探索：设计师用文生 UI 功能输入不同风格关键词，批量生成多种方案进行视觉发散，突破创意瓶颈后再人工精修定稿。
+
+
+跨角色协作交付：设计完成后直接生成 CSS 代码和开发标注，前端工程师无需反复确认尺寸细节，减少设计与开发之间的沟通摩擦。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Ardot\",\"description\":\"腾讯推出的 AI 智能设计工具\",\"url\":\"https://aistool.orgaishejigongju/ardot/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/03/Ardot-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishejigongju/","className":"hover:text-primary transition","children":"AI设计工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Ardot"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/03/Ardot-logo.png","alt":"Ardot","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Ardot"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","8",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI设计工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"腾讯推出的 AI 智能设计工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","427",{"href":"/aituxianggongju/meitushangpai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"美图商拍"}],["$","a","693",{"href":"/aishipingongju/clipfly/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Clipfly"}],["$","a","467",{"href":"/aituxianggongju/qiantushejishiaizhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千图设计室AI助手"}],["$","a","1118",{"href":"/aixuexiwangzhan/duiyouaixuexi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"堆友AI学习"}],["$","a","813",{"href":"/aibangonggongju/feishumiaoji/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"飞书妙记"}],["$","a","313",{"href":"/aixiezuogongju/feelfish/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"FeelFish"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

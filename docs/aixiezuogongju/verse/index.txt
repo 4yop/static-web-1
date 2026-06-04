@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aixiezuogongju","verse",""],"q":"","i":false,"f":[[["",{"children":[["category","aixiezuogongju","d",null],{"children":[["tool","verse","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2023/06/verse-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T14e4,
+                Verse是什么
+Verse 是印象笔记推出的集成了 AI 技术的写作与文档管理工具。支持信息自由布局与多维标签管理，用户可以通过自由拖拽元素实现个性化信息布局，通过多维标签体系与全端搜索功能，实现碎片化信息的结构化存储。Verse 的 AI 写作辅助功能强大，能智能生成文章框架、自动提炼灵感，提供会议纪要、公文假条、小说作文、工作日报、新闻稿、广告创作等多场景内容智能生成。用户只需在页面中点击“AI 帮我写”，输入想要创作的标题或简要描述可快速生成文字内容。Verse 支持多人实时协作，实时查看彼此的修改内容，进行讨论和沟通。实现与印象笔记家族产品的数据互通及实时同步，覆盖桌面端、移动端和网页端等多种平台，用户可以在不同设备上随时随地访问和使用。
+
+Verse的主要功能
+
+
+极速智能创作：用户只需点击「AI 帮我写」功能，输入主题或关键词，可秒级生成优质内容，大幅提升写作效率。
+
+
+灵感自动产生：在创作过程中，Verse 能根据用户输入的关键词或主题，自动产生创作灵感，帮助用户开启新的创作思路。
+
+
+模板库：提供多种场景的写作模板，如会议纪要、公文假条、工作日报、广告文案等，用户可以直接应用或根据需求进行个性化编辑。
+
+
+文档整理与分类：Verse 能自动对大量文档进行整理与分类，帮助用户快速找到所需信息，提高工作效率。
+
+
+智能文本优化：内置强大的语法检查功能，能自动检测并修正文本中的语法错误，提升文本的专业性和可读性。Verse 能给出针对性的优化建议，如关键词布局、段落结构调整等，提升文本在搜索引擎中的排名或吸引更多读者。
+
+
+实时协作编辑：支持多人同时在线编辑同一份文档，团队成员可以实时查看彼此的修改内容，进行讨论和沟通。用户可以在文档里@他人，发表或回复评论，实现文档内的实时沟通。
+
+
+权限控制与历史记录：设置不同级别的访问权限，确保文档的安全性和私密性；所有文档的修改历史都会被自动记录，方便用户追溯和回滚。
+
+
+模块化文档结构：用户可以创建具有层次结构的文档，像搭建思维导图一样构建知识库，方便知识的组织与管理。
+
+
+智能搜索与推荐：利用 AI 搜索功能，迅速找到存储在 Verse 中的相关信息；根据用户的阅读历史和偏好推荐相关内容。
+
+多平台支持：Verse 支持主流平台，包括 Windows、MacOS、iOS 和 Android 等，用户可以在不同设备上随时随地访问和使用 Verse。
+
+如何使用Verse
+
+
+访问官网：打开 Verse 官网。
+
+
+登录账号：使用微信扫描二维码登录或注册你的印象笔记账号。
+
+
+创建新页面：登录 Verse 后，进入 Verse 空间，点击左上角“新建页面”按钮，即可创建新的文档。
+
+
+添加内容模块：在页面中，点击行首的“+”图标，可以添加文本、图片、表格、待办列表等多种内容模块。
+
+
+模块化编辑：通过鼠标拖拽模块左侧的“::”图标，可以自由调整模块的位置和布局。
+
+
+设置页面布局：输入“/”选择“分栏布局”，或点击右侧“布局”按钮，插入合适的页面布局。
+
+
+启动 AI 写作：在页面中点击“AI 帮我写”，输入想要创作的标题或简要描述，即可快速生成文字内容。
+
+
+选择写作场景：Verse 提供多种写作场景，如会议纪要、公文假条、小说作文、工作日报、新闻稿、广告创作等。
+
+
+智能修改与优化：选中需要优化的文字，点击“智能修改”，可以进行改进写作、修复拼写和语法、简化语言、内容续写、翻译和解释等操作。
+
+
+邀请协作：用户可以邀请他人参与到文档编辑中，实现多人实时在线协作。
+
+
+权限控制：设置不同级别的访问权限，确保文档的安全性和私密性。
+
+
+共享空间与页面：空间和页面可以共享，方便搭建内容、分享、评论和提醒。
+
+
+导入数据：支持从印象笔记导入数据，可以通过左下角的“导入文件”功能导入 HTML、Markdown、纯文本等格式的文件。
+
+
+跨平台同步：支持桌面端、移动端和网页端，实现无缝同步。
+
+
+
+Verse的应用场景
+
+
+文章撰写：支持博客文章、新闻稿、产品描述，小说、诗歌等文学作品，Verse 能帮助用户快速产出高质量的文字内容。
+
+
+灵感记录：用户可以随时记录灵感和想法，Verse 会将其整理成结构化的内容，方便后续创作。
+
+
+日记与笔记：作为数字日记本，记录日常生活点滴，支持插入图片、音视频等多媒体内容，丰富记录形式。
+
+
+课程笔记：学生可以用 Verse 整理课程笔记，将课堂内容进行模块化整理，方便复习和查找。
+
+
+论文写作：从论文大纲的生成到文献综述的撰写，Verse 能提供辅助，帮助学生高效完成论文写作。
+
+
+作业与报告：快速生成各种作业和报告的初稿，学生可以在此基础上进行修改和完善，提高作业完成效率。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Verse\",\"description\":\"印象笔记旗下团队推出的AI写作和文档工具\",\"url\":\"https://aistool.orgaixiezuogongju/verse/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/06/verse-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Verse"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/06/verse-icon.png","alt":"Verse","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Verse"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"印象笔记旗下团队推出的AI写作和文档工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],"$L13"]}]]}]
+13:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","267",{"href":"/aishejigongju/galileo-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Galileo AI"}],["$","a","1378",{"href":"/aikaifapingtai/miaowumeoo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"秒悟Meoo"}],["$","a","845",{"href":"/aibangonggongju/zapier-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Zapier AI"}],["$","a","568",{"href":"/aituxianggongju/palette/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Palette"}],["$","a","59",{"href":"/ailiaotianzhushou/tengxunyuanbao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"腾讯元宝"}],["$","a","308",{"href":"/aixiezuogongju/getdraft/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"GetDraft"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Verse | AIStool"}],["$","meta","1",{"name":"description","content":"Verse 是印象笔记推出的集成了 AI 技术的写作与文档管理工具。支持信息自由布局与多维标签管理，用户可以通过自由拖拽元素实现个性化信息布局，通过多维标签体系与全端搜索功能，实现碎片化信息的结构化存储。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaixiezuogongju/verse/"}],["$","meta","3",{"property":"og:title","content":"Verse"}],["$","meta","4",{"property":"og:description","content":"Verse 是印象笔记推出的集成了 AI 技术的写作与文档管理工具。支持信息自由布局与多维标签管理，用户可以通过自由拖拽元素实现个性化信息布局，通过多维标签体系与全端搜索功能，实现碎片化信息的结构化存储。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaixiezuogongju/verse/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2023/06/verse-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Verse"}],["$","meta","10",{"name":"twitter:description","content":"Verse 是印象笔记推出的集成了 AI 技术的写作与文档管理工具。支持信息自由布局与多维标签管理，用户可以通过自由拖拽元素实现个性化信息布局，通过多维标签体系与全端搜索功能，实现碎片化信息的结构化存储。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2023/06/verse-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","13",{}]]

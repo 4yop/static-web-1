@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/05/creatifyone-logo.png","image"]
+3:Td32,
+                创一AI是什么
+创一AI（CreatifyOne）是AI编剧智能体平台，专为短剧创作全流程赋能。通过剧本诊断10分钟锁定潜力剧本，降低90%试错成本。结合爆款范式加持和爆款基因植入，助力新手编剧也能高效创作爆款短剧剧本，让灵感与商业价值兼得。帮助用户高效生成高质量的短片和视觉素材。
+
+创一AI的主要功能
+
+AI写剧本：专业短剧剧本模型，支持实拍剧与AI漫剧，80万字小说一键改编，自动生成剧本大纲、角色设定和世界观设定，创作效率大幅提升，支持分步创作或一键生成100集剧本，全面满足多样化创作需求。
+AI评剧本：10分钟锁定潜力剧本，降低90%试错成本。提供爆款范式加持，爆款基因植入，让小白编剧也能创作出爆款短剧剧本。同时提供多维度评估剧本爆款潜力与市场对标，科学赋能投资决策！
+AI拆短片：
+
+视频转分镜：一键将视频转为分镜脚本，便于内容分析和学习借鉴。
+视频转剧本：一键将视频转为标准格式剧本，快速解构提升创作效率。
+
+
+AI做短片：支持多种生成方式（如导入剧本大纲、本地文件或网址等），快速生成短片分镜脚本、故事板画面 和AI视频短片。支持真人实景拍摄或AI漫剧生成。
+
+如何使用创一AI
+
+注册和登录：访问创一AI官网 https://www.creatifyone.com/ ，注册账户并登录。
+进入AI评剧本页面：首页点击“AI评剧本”入口，进入页面。
+上传剧本文件：点击上传剧本文件，选择剧本类型及输出语音（支持12国语言输出）。
+提交评估：确认信息无误后，点击“提交”，10分钟完成评估报告。
+查看剧本评估结果：系统评估完成后，将自动生成详细的剧本评估报告（涵盖收稿匹配度、制作难度、场景表、总体潜力评分、执行摘要、详细分析、可操作建议等），支持一键下载到本地，并可通过“晒报告”功能提升曝光度，方便与收稿机构建立联系，助力剧本高效评估与行业机会获取。
+更多操作文档：https://u1ilsbrwik.feishu.cn/docx/ZgwFdoEQ6oLslSxGwUBcetYennf
+
+创一AI怎么收费
+
+入门版：提供剧本评估、AI视频解构和反推剧本、AI做短片等服务，适合于个人编剧或视频创作者使用。
+专业版：提供进阶功能，增加批量处理数量，适合专业编剧或视频创作者使用。
+卓越版：提供进阶功能，加强批量处理能力，适合专业编剧工作室、短剧承制方使。
+企业定制：提供企业定制服务，适合以短剧短片为主营业务的大型编剧工作室、承制方、平台方等。
+
+创一AI的适用人群
+
+编剧：用AI剧本评估，释放编剧潜力，爆款剧本轻松创作。
+导演：用AI生成剧本分镜、画面草图，辅助剧本策划与拍摄前准备。
+内容创作者：包括视频博主、自媒体运营者等，需要快速生成视频分镜或AI视频内容的个人或团队。
+编剧工作室、短剧承制方：提升剧本质量、加速内容创作与商业变现能力，同时多维度评估剧本爆款潜力与市场对标，科学赋能投资决策。
+影视教育机构：用于教学演示分镜、故事板与视频分析，提升教学互动与理解力。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"创一AI\",\"description\":\"AI评剧本，轻松创作爆款剧本\",\"url\":\"https://aistool.orgaixiezuogongju/chuangyiai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/05/creatifyone-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"创一AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/05/creatifyone-logo.png","alt":"创一AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"创一AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI评剧本，轻松创作爆款剧本"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","492",{"href":"/aituxianggongju/miaohua/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"秒画"}],["$","a","487",{"href":"/aituxianggongju/midjourney/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Midjourney"}],["$","a","706",{"href":"/aishipingongju/laihua/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"来画"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","429",{"href":"/aituxianggongju/pic-copilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pic Copilot"}]
+5:["$","a","1118",{"href":"/aixuexiwangzhan/duiyouaixuexi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"堆友AI学习"}]
+6:["$","a","191",{"href":"/aibianchenggongju/codiga/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Codiga"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

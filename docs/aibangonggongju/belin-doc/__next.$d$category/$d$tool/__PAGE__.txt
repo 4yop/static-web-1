@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/08/Belin-Doc-icon.png","image"]
+3:T9e3,
+                Belin Doc是什么
+Belin Doc 是免费无限制的 AI 文档翻译工具，支持 PDF、DOCX、PPTX、TXT、EPUB 等多种格式。Belin Doc内置 OCR 功能，能精准识别并翻译扫描版 PDF 或图片中的文字。Belin Doc无需注册登录，打开网页上传文件即可使用。基于最新的大语言模型，翻译质量有保障，能最大程度保留原文的格式。Belin Doc 支持超过 50 种主流语言的互译，提供多种顶尖模型选择。所有上传的文件和翻译结果会在 24 小时内从服务器彻底删除，保护用户隐私。
+
+Belin Doc的主要功能
+
+
+支持多种格式：可翻译 PDF、EPUB、DOCX、PPTX、XLSX、TXT、JPG、JPEG、PNG 等多种文件格式。
+
+
+OCR 功能强大：内置 OCR 功能，能精准识别并翻译扫描版 PDF 或图片中的文字。
+
+
+保留原文格式：采用自研的格式解析与还原引擎，能最大程度保留原文的标题、列表、字体、图片位置等格式。
+
+
+多语言互译：支持中文、英语、日语、西班牙语等超过 60 种主流语言的互译。
+
+
+多模型选择：提供 ChatGPT、Claude、Gemini、DeepSeek 等多种顶级模型供用户选择。
+
+
+零成本翻译：完全免费，无使用限制，无隐藏费用，适合需要大量翻译的用户。
+
+
+格式保留能力强：采用先进格式解析算法，翻译后文档格式与原文高度一致，支持表格、图片等复杂内容的保留。
+
+
+如何使用Belin Doc
+
+
+访问官网：访问 Belin Doc 官网 https://belindoc.com/ 。
+
+
+上传文件：无需注册登录，直接点击上传按钮，选择需要翻译的文档。
+
+
+选择语言：在翻译界面选择目标语言，支持超过 50 种主流语言。
+
+
+开始翻译：点击“开始翻译”按钮，系统将自动进行翻译。
+
+
+下载结果：翻译完成后，点击下载按钮，获取翻译后的文档。
+
+
+查看翻译：翻译后的文档会保留原文格式，方便直接使用。
+
+
+Belin Doc的应用场景
+
+
+学生和学者：快速翻译外语论文、学术文献和参考资料，助力学术研究。
+
+
+职场人士：轻松处理跨国报告、产品手册、商业合同和邮件，提升工作效率。
+
+
+法律/金融/医疗专业人士：高效翻译专业领域的文档，同时保障信息安全。
+
+
+内容创作者：翻译视频字幕、博客文章，拓展全球读者，提升内容传播范围。
+
+
+普通用户：阅读外语电子书、新闻、使用说明书等，满足日常翻译需求。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Belin Doc\",\"description\":\"免费无限制的 AI 文档翻译工具\",\"url\":\"https://aistool.orgaibangonggongju/belin-doc/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/08/Belin-Doc-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Belin Doc"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/08/Belin-Doc-icon.png","alt":"Belin Doc","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Belin Doc"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"免费无限制的 AI 文档翻译工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1109",{"href":"/aikaifapingtai/dl4j/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DL4J"}],["$","a","334",{"href":"/aixiezuogongju/chengpian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"橙篇"}],["$","a","160",{"href":"/aibianchenggongju/devchat/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DevChat"}],["$","a","7",{"href":"/aizhinengti/mashangfei/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"码上飞"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","867",{"href":"/aibangonggongju/tengxunfanyijun/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"腾讯翻译君"}]
+5:["$","a","1175",{"href":"/aixunlianmoxing/segment-anything（sam）/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Segment Anything（SAM）"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

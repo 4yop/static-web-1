@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/05/Makefun-icon.png","image"]
+3:T170b,
+                Makefun是什么
+Makefun 是主打免费、无限制、隐私优先的一站式 AI 视频生成平台，提供图生视频、数字人、换脸、对口型、语音克隆等全链路 AI 视频创作工具。Makefun 集成 Wan 2.6、Veo 3.1、Nano Banana Pro 等前沿模型，支持最高 4K 分辨率输出，提供完整 API 接口，可广泛应用于电商营销、社交媒体内容创作、电子学习等场景。
+
+Makefun的主要功能
+
+
+图生视频（Image to Video）：将静态图片转为动态短视频，支持面部动作与表情生成，最高支持 4K 分辨率。
+
+
+照片/视频对口型（Talking Photo / Talking Video）：高精度唇形同步与自然肢体动作，让静态人物开口说话。
+
+
+换脸（Face Swap / Head Swap）：高级换脸模型，支持整头替换，效果自然逼真。
+
+
+语音克隆（Voice Clone）：克隆任意人声，支持 50+ 种语言及跨语言翻译。
+
+
+文生图（Text to Image）：基于 Flux Kontext 等模型，从文字描述生成高质量图像。
+
+
+虚拟试衣与商品模特（Cloth Swap / Product Avatar）：一键生成虚拟试衣效果与商品展示图。
+
+
+视频配乐生成（Video to Audio）：为无声视频自动生成匹配的背景音乐。
+
+
+演员动画（Actor Animation / V2V）：将静态图片转为舞蹈或特定动作视频。
+
+
+AI 数字人（AI Avatar）：实时交互式数字人，超低延迟响应。
+
+
+API 开放接入：提供完整 API 文档，支持批量集成与自动化工作流。
+
+
+如何使用Makefun
+
+
+访问官网：访问 Makefun 官网 https://makefun.ai/ ，点击右上角注册账号，新用户自动获得 100 积分，每日可额外领取 30 积分。
+
+
+选择模块：在首页导航栏或功能面板中选择所需模块，如 Image to Video、Talking Photo、Face Swap、Voice Clone 等。
+
+
+上传素材：根据功能要求上传对应素材，支持上传图片、视频或音频文件，部分功能支持批量上传
+
+
+调整设置：在参数设置区调整输出规格，包括分辨率（480p / 720p / 1080p / 4K）、画幅比例（16:9、9:16、1:1）、时长及帧率（24fps）等
+
+
+生成结果：点击”生成”按钮提交任务，普通视频生成约等待 10–30 秒，对口型视频按 1:10 时长比处理，API 批量任务约 5 分钟
+
+
+预览或下载：在”我的作品”或生成队列中预览效果，支持在线播放与效果比对，确认满意后点击下载，保存至本地；商用前请查阅平台使用条款确认授权范围
+
+
+Makefun的核心优势
+
+
+免费额度充足：新用户注册即送 100 积分，每日可领 30 积分，提供真正无上限的免费 AI 视频生成。
+
+
+隐私优先：上传内容安全处理，无病毒、无数据泄露风险，用户数据严格保护。
+
+
+多模型集成：同时支持 Wan 2.6（阿里）、Veo 3.1（Google）、Nano Banana Pro 等前沿生成模型。
+
+
+商用友好：基于自有内容生成的视频通常可用于商业项目，降低创作门槛。
+
+
+多分辨率与画幅：支持 480p / 720p / 1080p @ 24fps，覆盖 16:9、9:16、1:1 等多种画幅。
+
+
+生成速度快：普通视频生成约 10–30 秒，API 批量处理高效稳定。
+
+
+Makefun的同类竞品对比
+
+
+
+对比维度
+Makefun
+HeyGen
+D-ID
+
+
+
+
+产品定位
+免费一站式 AI 视频生成平台
+一站式 AI 数字人视频营销平台
+AI 数字人与创意视频生成平台
+
+
+核心功能
+图生视频、对口型、换脸、语音克隆、文生图、虚拟试衣、配乐、演员动画
+数字人视频、对口型、语音克隆、视频翻译、批量个性化
+照片说话、数字人视频、创意动画、API
+
+
+免费额度
+注册送 100 积分，每日领 30 积分，大量免费生成
+有限免费试用（按积分/时长计费）
+有限免费试用（按积分计费）
+
+
+定价模式
+免费额度 + 付费升级，成本较低
+订阅制 + 按量付费，价格较高
+订阅制 + 按量付费
+
+
+数字人/对口型
+支持 Talking Photo/Video，高精度唇形同步
+支持，行业领先，多语言口型精准匹配
+支持，早期开创者，效果自然流畅
+
+
+换脸功能
+支持 Face Swap / Head Swap，高级模型
+支持换脸与数字人头像定制
+不支持或仅有限支持
+
+
+语音克隆
+支持，50+ 语言，跨语言翻译
+支持，多语言，声音库丰富
+支持，多语言语音合成
+
+
+图/文生视频
+支持 Image to Video、Text to Image、Actor Animation
+主要基于数字人模板驱动，非原生生成
+主要基于素材上传驱动
+
+
+虚拟试衣/商品模特
+支持 Cloth Swap、Product Avatar
+不支持
+不支持
+
+
+视频配乐
+支持 Video to Audio 自动生成
+不支持原生配乐生成
+不支持
+
+
+输出分辨率
+最高 4K，支持 480p/720p/1080p/4K
+最高 4K
+最高 1080p
+
+
+API 开放
+完整 API 文档，开放接入，支持批量
+提供企业级 API
+提供 API 接口
+
+
+
+Makefun的应用场景
+
+
+社交媒体短视频创作：快速生成 TikTok、Instagram Reels、YouTube Shorts 等平台所需的动态视频内容，支持 9:16 竖屏画幅与 24fps 流畅输出。
+
+
+电商产品展示：为商品生成 360° 动态展示视频、虚拟试衣效果及 AI 模特图，降低实拍成本，提升商品页转化率。
+
+
+在线教育与培训：将静态课件或讲师照片转为开口讲解视频，配合语音克隆生成多语言课程，适配企业内训与知识付费场景。
+
+
+广告营销素材迭代：批量生成不同版本的视频广告素材，快速进行 A/B 测试，支持通过 API 接入投放系统实现自动化创意生产。
+
+
+品牌数字人与直播：打造专属 AI Avatar 用于实时客服、品牌直播与互动营销，超低延迟响应，支持 50+ 语言跨地区传播。
+
+
+个人娱乐与创意表达：用户可将个人照片转为舞蹈视频、对口型翻唱或换脸创意短片，满足社交分享与趣味创作需求。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Makefun\",\"description\":\"无限制一站式 AI 视频生成平台\",\"url\":\"https://aistool.orgaishipingongju/makefun/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/05/Makefun-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Makefun"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/05/Makefun-icon.png","alt":"Makefun","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Makefun"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"无限制一站式 AI 视频生成平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","167",{"href":"/aibianchenggongju/sketch2code/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Sketch2Code"}],["$","a","1212",{"href":"/aitishizhiling/clickprompt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ClickPrompt"}],["$","a","386",{"href":"/aixiezuogongju/5118-seoyouhuajingling/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"5118 SEO优化精灵"}],["$","a","1379",{"href":"/aizhinengti/maxhermes/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MaxHermes"}],["$","a","1163",{"href":"/aixunlianmoxing/miraclevisionqixiangzhineng/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MiracleVision奇想智能"}],["$","a","19",{"href":"/aizhinengti/flowmuse-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"FlowMuse AI"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

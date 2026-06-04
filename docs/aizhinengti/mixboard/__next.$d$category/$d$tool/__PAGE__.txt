@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/12/Mixboard-icon.png","image"]
+3:Tcae,
+                Mixboard是什么
+Mixboard 是 Google Labs 推出的 AI 无限画布工具，基于Nano Banana系列图像模型，支持用户通过自然语言描述直接生成、编辑和组合图片。用户可以在Mixboard上面自由拖拽素材，并对选中的图片进行一键换色、风格迁移、移除背景等操作。Mixboard集成了更强大的 “Nano Banana Pro”模型，新增了一键生成专业演示文稿功能，能将画布上的混乱灵感快速转化为结构化的幻灯片。
+
+Mixboard的主要功能
+
+无限画布与多格式支持：提供一块开放的数字白板，用于自由组织和拼接创意素材。除了上传自有图片，现在支持更多文件格式，包括PDF、HEIC和TIFF文件。
+AI图像生成与智能编辑
+
+文生图与图生图：用自然语言描述即可生成图片，或基于现有图片生成风格相似的变体。
+直观的图像编辑：可以通过自然语言指令（如“把杯子改成粉色”）修改图片细节，或使用 “涂鸦编辑”功能：在图片上随意涂抹一块区域并描述想法，AI会根据你的涂鸦和描述进行精准修改。
+
+
+一键生成演示文稿：用户只需选择演示风格和焦点，AI便能自动将画布上的所有图片、笔记等内容整合，在几分钟内生成一个结构完整、设计专业的幻灯片（支持导出），实现从灵感到汇报的无缝衔接。
+项目与多画板管理：新增的“多板项目”功能支持在单个项目下管理多个画布，便于将头脑风暴、参考素材和最终方案分开整理，保持工作区整洁。
+
+如何使用Mixboard
+
+
+登录账号 ：访问 Mixboard 官网 https://labs.google.com/mixboard/ ，使用 Google 账号登录。
+
+选择画布 ：进入后选择空白画布或使用模板开始创作。
+输入指令 ：在画布上输入文字描述，如“海边日落的风景”，生成初始图像。
+上传图片 ：可上传参考图片或已有图像，作为创意的基础或辅助元素。
+编辑调整 ：通过文字指令对图像进行修改，如“让天空更蓝”“将树木放大”等。
+生成变体 ：利用“一键再生成”或“更多类似”功能，快速获得多种创意版本。
+组合布局 ：在画布上移动、组合不同元素，构建完整的视觉布局。
+导出分享 ：完成设计后，可将画布导出为图片或分享给他人。
+
+Mixboard的适用人群
+
+
+室内设计师 ：可用于快速构建室内空间的视觉效果，展示不同的装修风格和布局方案。
+
+
+产品开发人员 ：在产品设计初期，通过生成产品概念图和不同风格的变体，探索多种设计方向。
+
+
+活动策划者 ：为活动主题设计、场景布置等提供视觉化方案，快速呈现活动的整体风格和氛围。
+
+
+内容创作者 ：如社交媒体运营者、自媒体人等，用于生成创意内容的视觉素材，提升内容吸引力。
+
+
+学生和教育工作者 ：在艺术、设计等课程中，作为创意工具帮助学生快速表达和探索设计想法。
+
+
+普通创意爱好者 ：任何有创意想法但缺乏专业设计技能的人，都可以用它来实现自己的创意，探索不同的视觉效果。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Mixboard\",\"description\":\"Google Labs 推出的 AI 无限画布工具\",\"url\":\"https://aistool.orgaizhinengti/mixboard/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/12/Mixboard-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Mixboard"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/12/Mixboard-icon.png","alt":"Mixboard","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Mixboard"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Google Labs 推出的 AI 无限画布工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1429",{"href":"/aituxianggongju/krene/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Krene"}],["$","a","10",{"href":"/aizhinengti/aoxia/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"遨虾"}],["$","a","333",{"href":"/aixiezuogongju/xunjieaixiezuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"迅捷AI写作"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1111",{"href":"/aikaifapingtai/nltk/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"NLTK"}]
+5:["$","a","768",{"href":"/aibangonggongju/processon/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ProcessOn"}]
+6:["$","a","931",{"href":"/aibangonggongju/sheetgod/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"SheetGod"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

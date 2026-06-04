@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/10/rubriq-icon-1.png","image"]
+3:Td6b,
+                Rubriq是什么
+Rubriq 是专为科研人员设计的 AI 学术论文润色与AI翻译工具。能快速分析文本的清晰度、语法和术语，提供精准的修改建议，帮助提升论文的语言质量。Rubriq 支持从中文、西班牙语、葡萄牙语到英语的高质量翻译，确保翻译内容精准且自然流畅。具备可视化修订追踪功能，用户可以在“修订模式”下查看修改细节，方便对比和选择是否接受建议。核心优势在于其全学科语料训练，能精准识别专业术语，避免“AI 幻觉”，确保语言清晰、内容准确。采用封闭式 AI 系统运行，保障用户数据的私密性和安全性，不会外泄或被重复使用。
+目前，Rubriq 提供 14 天免费试用，期间可享受 5 次润色功能。
+
+Rubriq的主要功能
+
+
+全自动语言润色：快速分析文本的清晰度、语法和术语，提供修改建议，帮助提升论文语言质量。
+
+
+专精学术润色：不止于语法，更深入科学内核。Rubriq 能识别并处理冗余、表述不清和前后不一致之处，提升论证表达效果。
+
+
+AI 驱动的学术翻译：支持从中文、西班牙语、葡萄牙语到英语的高质量翻译，确保翻译内容精准且自然流畅。
+
+
+可视化修订追踪：在“修订模式”下查看哪些部分被修改，方便对比和选择是否接受建议。
+
+
+符合期刊要求：优化论文结构和语言清晰度，使其符合目标期刊的投稿要求。
+
+
+数据安全保障：采用封闭式 AI 系统，确保用户数据私密、安全，不会外泄或被重复使用。
+
+
+高效处理能力：单篇文档可处理 25000 词，每小时可处理 3 篇文档，快速完成润色和翻译任务。
+
+
+如何使用Rubriq
+
+
+注册/登录：访问 Rubriq 官网 https://rubriq.cn/ ，免费注册或使用已有账户登录。
+
+
+上传论文：将需要润色或翻译的论文上传到 Rubriq 平台。
+
+
+AI 分析：Rubriq 的 AI 系统会自动分析文本的清晰度、语法和术语。
+
+
+查看修改：在“修订模式”下查看 AI 提供的修改建议。
+
+
+下载稿件：确认修改后，下载优化后的稿件，使其达到投稿标准。
+
+
+Rubriq的应用场景
+
+
+论文草拟：帮助科研人员在撰写论文初稿时优化语言表达，提升文本质量。
+
+
+基金申请润色：提升基金申请书的语言水平，增加申请成功率。
+
+
+写作风格优化：根据目标期刊的要求，调整写作风格，使其更符合学术规范。
+
+
+学术翻译：支持从中文、西班牙语、葡萄牙语到英语的高质量翻译，确保翻译内容精准且自然流畅。
+
+
+期刊投稿准备：帮助用户优化论文结构和语言清晰度，使其符合目标期刊的投稿要求。
+
+
+科研写作流程支持：全面支持教师与学生的科研写作流程，包括从初稿撰写到最终投稿的各个环节。
+
+
+Rubriq的适用人群
+
+
+科研人员：帮助减少因语言问题导致的拒稿风险，快速、高效地完成论文润色。
+
+
+高校师生：为教师和学生提供科研写作支持，提升学术写作水平。
+
+
+科研机构：支持研究团队统一部署，提供集中化的管理与编辑工具。
+
+
+期刊编辑：帮助编辑快速审核和优化稿件语言，提高编辑效率。
+
+
+学术作者：适用于所有需要提升学术写作质量和翻译准确性的作者。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Rubriq\",\"description\":\"免费试用，AI学术论文润色与翻译工具\",\"url\":\"https://aistool.orgaixiezuogongju/rubriq/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/10/rubriq-icon-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Rubriq"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/10/rubriq-icon-1.png","alt":"Rubriq","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Rubriq"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"免费试用，AI学术论文润色与翻译工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1197",{"href":"/aineirongjiance/winston-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Winston AI"}],["$","a","1362",{"href":"/aikaifapingtai/fangzhou-coding-plan/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"方舟 Coding Plan"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","342",{"href":"/aixiezuogongju/jasper/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Jasper"}]
+5:["$","a","1060",{"href":"/aikaifapingtai/aliyunbailian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"阿里云百炼"}]
+6:["$","a","1346",{"href":"/aineirongjiance/xyz-science/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"XYZ SCIENCE"}]
+7:["$","a","604",{"href":"/aishipingongju/chanjing/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"蝉镜"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

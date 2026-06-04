@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/ponder-logo.png","image"]
+3:Tdcc,
+                Ponder AI是什么
+Ponder AI是创新的知识管理和思维导图工具，能帮助用户用更自然的方式组织和扩展思维。Ponder AI基于树状结构的界面，让用户能够将各种资料（如PDF、视频、网页等）导入，在其中自由探索、提问和建立联系。Ponder AI的核心在于打破传统线性工具的限制，让用户的思想能河流一样自然地分支和汇聚。Ponder AI支持深度思考，能将用户的思考成果导出为报告、思维导图或Markdown文件，帮助用户将想法转化为可分享的知识资产。
+
+Ponder AI的主要功能
+
+知识整合与扩展：支持用户导入PDF、视频、文本和网页等多种资料，所有内容在一个空间内整合，帮助用户从单一想法扩展到更广泛的思考。
+多维度分析：支持跨多个来源进行分析和比较，揭示文档之间的有意义联系，获得更深入的分析。
+AI辅助思考：内置的Ponder Agent伴随用户的整个思考过程，帮助发现盲点、建议联系，并协助结构化见解。
+灵活的创意空间：用户能在任何节点上做笔记，自由编辑和视觉化组织内容，工作空间根据用户的思考风格进行调整。
+成果输出：支持将思考成果导出为结构化报告、思维导图或干净的Markdown文件，将见解转化为可分享和可复用的知识资产。
+深度思考支持：Ponder AI基于树状结构的界面，让用户的思想像河流一样自然地分支和汇聚，打破传统线性工具的限制，支持多线程思考而不失焦点。
+
+如何使用Ponder AI
+
+注册和登录：访问Ponder AI官网 https://ponder.ing/ ，注册账户登录开始使用。
+导入资料：将所需文件或网页链接导入Ponder AI，建立知识库。
+组织和连接信息：通过创建和连接节点组织想法和资料。
+利用AI辅助思考：用Ponder AI的AI功能辅助分析和发现思考中的盲点。
+编辑和扩展内容：自由编辑节点内容，根据思考风格调整组织结构。
+导出成果：将思考过程和结果导出为报告、思维导图或Markdown。
+
+Ponder AI的产品定价
+
+Casual 计划：每月$8，年付，包含800 AI积分，无限上传/下载，150MB上传限制，无限Ponders，AI抓取和保存外部资源，支持导出为png和html格式。
+Plus 计划：每月$24，年付，无限基础AI使用，2500 Pro AI积分，无限上传/下载，150MB上传限制，无限Ponders，AI抓取和保存外部资源，支持导出为png和html格式。
+Pro 计划：每月$48，年付，无限基础AI使用，6000 Pro AI积分，无限上传/下载，150MB上传限制，无限Ponders，AI抓取和保存外部资源，支持导出为png和html格式。
+
+Ponder AI的应用场景
+
+学术研究：研究人员整合大量的学术论文、报告和其他研究资料，通过AI辅助分析来发现数据间的联系，加速研究进程并深化对研究主题的理解。
+商业分析：商业分析综合分析市场数据、客户反馈和竞争对手信息，通过多维度的比较和模式识别，形成战略性的商业见解和决策支持。
+教育学习：学生和教育工作者组织课程材料，通过可视化的方式理解和记忆复杂的概念，用AI功能探索不同主题之间的联系。
+项目管理：项目经理规划项目流程，跟踪进度，整合来自不同团队成员的输入。
+创意写作：作家和内容创作者组织思路，发展故事线，及整合研究材料。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Ponder AI\",\"description\":\"AI知识管理和思维导图工具\",\"url\":\"https://aistool.orgaibangonggongju/ponder-ai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/ponder-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Ponder AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/ponder-logo.png","alt":"Ponder AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Ponder AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI知识管理和思维导图工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","241",{"href":"/aishejigongju/qiantuwang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千图网"}],["$","a","772",{"href":"/aibangonggongju/mapify/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Mapify"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","674",{"href":"/aishipingongju/descript/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Descript"}]
+5:["$","a","164",{"href":"/aibianchenggongju/twinny/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Twinny"}]
+6:["$","a","1246",{"href":"/aishipingongju/mofaxingyun/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"魔珐星云"}]
+7:["$","a","687",{"href":"/aishipingongju/jigoushuzhiren/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"即构数智人"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

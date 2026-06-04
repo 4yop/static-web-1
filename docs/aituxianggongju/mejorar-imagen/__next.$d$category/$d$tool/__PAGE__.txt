@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/08/Mejorar-Imagen-logo.png","image"]
+3:Taaf,
+                Mejorar Imagen是什么
+Mejorar Imagen是Better Image AI公司推出的AI图像放大工具，快速将图片放大至10倍或12K分辨率，显著提升图片的清晰度和质量。适用于摄影师、设计师和社交媒体用户，帮助他们改善作品的视觉效果。用户只需上传图片，选择放大级别，AI便会自动处理并生成高分辨率的图片，支持多种图片格式，操作简便且安全。
+
+Mejorar Imagen的主要功能
+
+
+
+高倍数放大：能够将图片放大至10倍，远超一般工具的2倍或4倍放大能力。
+
+
+高分辨率支持：支持放大至12K分辨率，提供比4K更高的清晰度。
+
+
+AI清晰度提升：在放大图片的同时，AI技术可以明显提高图片的清晰度。
+
+
+人脸局部增强：特别针对人脸进行局部增强和修复，优化肖像图片的质量。
+
+
+快速处理：AI算法快速生成处理后的图片，节省用户时间。
+
+
+
+如何使用Mejorar Imagen
+
+
+
+访问官网：打开浏览器，输入Mejorar Imagen官网的网址（mejorarimagen.org）。
+
+
+上传图片：在网站上找到上传图片的选项，选择您想要提升质量的图片文件。
+
+
+选择放大倍数或分辨率：根据您提升图片的需求，选择合适的放大倍数或分辨率选项。Mejorar Imagen支持最高10倍放大和12K分辨率。
+
+
+开始处理：点击开始处理按钮，AI将自动开始工作，根据您选择的设置对图片进行质量提升。
+
+
+等待处理完成：处理时间会根据图片的大小和复杂度而有所不同。
+
+
+下载结果：AI处理完成，您可以预览提升后的图片。如果满意，点击下载按钮，将高分辨率的图片保存到您的设备上。
+
+
+免费试用与付费计划：Mejorar Imagen提供有限次数的免费试用。如果您需要更多次的图片处理，可以选择适合的付费订阅计划。
+
+
+
+Mejorar Imagen的应用场景
+
+
+
+专业摄影：摄影师可以使用Mejorar Imagen放大和提升照片质量，进行高质量的打印和展示。
+
+
+平面设计：设计师可以利用此工具创建高分辨率的图像，适用于海报、广告横幅等项目，确保设计无论尺寸大小都保持清晰和专业。
+
+
+社交媒体：社交媒体用户可以通过提升图片质量，使内容在社交平台上更加吸引人，提高可见性和参与度。
+
+
+老照片修复：Mejorar Imagen可以提升老照片的质量，恢复细节和清晰度，帮助保存珍贵的记忆。
+
+
+截图质量提升：可以提升截图的质量，在演示和文档中看起来更加清晰和详细。
+
+
+PDF图像优化：对于需要高质量视觉效果的PDF文档中的图片，Mejorar Imagen也能提供质量提升。
+
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Mejorar Imagen\",\"description\":\"AI图像放大增强工具，快速放大至10倍或12K分辨率\",\"url\":\"https://aistool.orgaituxianggongju/mejorar-imagen/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/08/Mejorar-Imagen-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Mejorar Imagen"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/08/Mejorar-Imagen-logo.png","alt":"Mejorar Imagen","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Mejorar Imagen"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI图像放大增强工具，快速放大至10倍或12K分辨率"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","41",{"href":"/aizhinengti/crepal/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CrePal"}],["$","a","1234",{"href":"/aineirongjiance/paperfakejiangzhongjiangailü/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PaperFake降重降AI率"}],["$","a","1",{"href":"/aizhinengti/aipaiaipy/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"爱派AiPy"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1051",{"href":"/aikaifapingtai/bigmodel/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"BigModel"}]
+5:["$","a","318",{"href":"/aixiezuogongju/xiaoyuaixiezuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"小鱼AI写作"}]
+6:["$","a","190",{"href":"/aibianchenggongju/ghostwriter/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Ghostwriter"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

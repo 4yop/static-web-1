@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/08/wolai-logo.png","image"]
+3:Tc97,
+                我来wolai是什么
+我来wolai 是面向未来的云端协作平台与个人笔记工具，支持多人实时编辑、便捷协同，覆盖多端设备，工具具备数据表格、块级双链、同步引用等功能，能高效串联知识、管理信息。Wolai 提供灵活的布局，满足工作、学习、生活等多种应用场景，同时通过精细的权限管理保障数据安全。工具用创新的网状知识管理方式，帮助用户整理信息、激发灵感，是科研、创作、团队协作的得力助手。
+
+我来wolai的主要功能
+
+多人实时协作：支持多人同时编辑文档，实时同步更新，方便团队协作。
+数据表格与项目管理：基于数据表格和多种视图（表格、看板、日历），轻松管理项目进度。
+知识管理与链接：支持块级双向链接帮助构建知识体系，同步引用功能确保信息更新一致。
+灵活布局与个性化：能自由调整页面布局，提供丰富模板和样式，满足不同需求。
+数据安全与权限管理：基于精细的权限控制和块级快照系统，保障数据安全。
+多媒体与第三方应用：支持插入多媒体内容，可嵌入第三方应用，丰富内容形式。
+多端支持与云同步：支持多设备访问，自动云同步，实现随时随地编辑。
+团队协作与管理：团队主页支持多人协作，能灵活管理成员和权限。
+
+如何使用我来wolai
+
+注册与登录：访问我来Wolai 官网 https://www.wolai.com/ ，或下载我来Wolai APP，注册登录账号。
+创建工作空间：登录后，点击“创建空间”，输入空间名称，选择公开或私有。
+创建页面：在工作空间中，点击“新建页面”，输入标题和内容，使用多种块类型编辑页面。
+多人协作：在空间设置中，点击“邀请成员”，输入成员邮箱或手机号，为成员分配权限，实时协作。
+数据表格与项目管理：在页面中插入数据表格，选择多种视图（表格、看板、日历），通过拖拽和筛选功能管理项目进度。
+知识管理：在页面中创建双向链接，连接相关知识块，引用其他页面内容，一处更新，全局同步。
+多媒体与第三方应用：支持插入图片、视频、音频等多媒体内容，嵌入网址书签、日历、看板等第三方应用。
+个性化设置：根据需求创建个性化模板，自定义动态图标和卡通头像。
+
+我来wolai的应用场景
+
+个人笔记管理：帮助个人高效记录灵感、学习笔记、日记等，通过块级双链和灵活的布局，让知识整理更加系统化。
+团队协作与项目管理：在团队项目中，支持多人实时编辑文档，跟踪项目进度，通过数据表格和看板视图直观展示任务状态。
+知识管理：帮助用户构建个人或团队的知识库，通过精准的双向链接，还原知识的网状关联，方便知识的整理和检索。
+学习与研究：学生和研究人员整理文献、笔记，创建思维导图，辅助学习和研究，提升学习效率。
+创意写作：帮助创作者撰写文章、剧本、歌词等，激发创意，记录灵感。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"我来wolai\",\"description\":\"AI云端协作平台与个人笔记工具\",\"url\":\"https://aistool.orgaibangonggongju/wolaiwolai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/08/wolai-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"我来wolai"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/08/wolai-logo.png","alt":"我来wolai","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"我来wolai"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI云端协作平台与个人笔记工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","895",{"href":"/aibangonggongju/qingyanppt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"清言PPT"}],["$","a","1149",{"href":"/aixunlianmoxing/autogpt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AutoGPT"}],["$","a","882",{"href":"/aibangonggongju/islide-aippt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"iSlide AIPPT"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","44",{"href":"/aizhinengti/bloom/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Bloom"}]
+5:["$","a","876",{"href":"/aibangonggongju/aippt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AiPPT"}]
+6:["$","a","1395",{"href":"/aishipingongju/brainrot.mov/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Brainrot.mov"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

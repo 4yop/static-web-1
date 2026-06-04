@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/01/Coze-logo-2.png","image"]
+3:Tf94,
+                扣子空间是什么
+扣子空间（Coze Space）是字节跳动推出的多功能AI智能体，通过智能化工具提升用户工作效率和创造力。扣子空间支持深度文章写作、一键生成PPT、自动化处理Excel表格、海报设计、播客制作等功能。覆盖科研、商业、舆情等多个领域的AI专家Agent提供 7×24小时响应，帮助用户轻松应对各种办公和创作任务，提升工作效率。
+
+扣子空间的主要功能
+
+
+深度写作与创作：自动生成高质量的文本初稿，提供润色建议和多维度扩写，适用于商业计划、市场分析报告、营销文案、公众号推文、学术论文、学习笔记和个人周报等。
+
+
+一键生成AI PPT：输入主题、文字或上传文档，自动生成设计精美、逻辑清晰、图文并茂的演示文稿。
+
+智能表格AI Excel：导入表格，自动分析数据，生成销售预测、客户信息筛选、库存需求预测等，实现数据的清洗、分析、可视化和预测。
+AI海报设计：输入核心文案、风格偏好和尺寸要求，生成多种风格的高质量海报。
+
+AI播客生成：将文章、笔记、会议纪要转化为音质饱满、声线自然的AI播客。
+
+
+AI网页制作：无需编程，通过对话能快速构建各种网页应用，如作品集、产品落地页或活动报名页。
+
+
+专属AI知识库：上传工作文档、PDF报告、网页链接和碎片化笔记，构建专属智能知识库，提供精准、快速的答案。
+
+
+DeepTrip旅行专家：提供一站式旅行出行服务，帮助用户规划和安排旅行。
+
+
+华泰A股观察助手：每日跟踪复盘自选股和大盘情况，提供基于专业数据和框架的观察思考。
+
+
+舆情分析专家：根据需求进行信息深度搜索和舆情分析，撰写舆情报告，帮助用户了解公众舆论和市场动态。
+
+
+网站开发专家：由扣子团队官方开发，无需编程，通过对话快速构建各种网页应用，适合非技术用户快速搭建网站。
+
+
+幂律法律助手：提供合同审查、文件起草、法律问答的技术支持服务，相关内容仅供辅助参考，不构成法律意见及律师服务。
+
+
+用户研究专家：提供调研问卷交叉分析、访谈纪要整理以及用户分析报告撰写服务，同时可结合产品问题设计新的调研问卷和访谈提纲。
+
+
+如何使用扣子空间
+
+
+注册账号：访问扣子空间官网 space.coze.cn 或下载扣子空间APP，创建、登录账户。
+
+
+选择服务：根据需求，从提供的AI专家助手中选择适合的服务。
+
+
+输入指令：向选定的AI助手提供必要的信息或指令，描述想要完成的任务。
+
+
+获取结果：AI助手将根据指令自动执行任务，提供结果或建议。
+
+
+调整优化：如有需要，对AI助手提供的结果进行调整或提出进一步的指令优化输出。
+
+
+应用成果：将AI助手生成的内容或建议应用到工作或项目中。
+
+
+扣子空间的使用示例
+
+AI写作：为小红书账号写一篇 “30 元搞定一周早餐不重样” 的笔记，分工作日 / 周末两类场景，附具体食材清单、10 分钟快手做法，需要引发打工人共情。
+
+
+
+用户研究：请基于用户调研问卷结果，写一篇用户分析报告，重点关注使用AI产品的用户在眼镜和墨镜的购买和佩戴习惯。
+
+
+扣子空间的应用场景
+
+
+内容创作：自动撰写文章、博客、社交媒体帖子，甚至学术论文，提高内容创作的效率。
+
+
+演示准备：为商务会议、学术报告或产品展示快速制作专业的PPT演示文稿。
+
+
+数据分析：自动化处理和分析Excel数据，生成报告和图表，辅助业务决策。
+
+
+设计工作：设计营销海报、广告横幅或社交媒体图像，无需专业设计技能。
+
+
+播客和音频内容：将文本内容转换为播客或有声书，扩大内容的传播渠道。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"扣子\",\"description\":\"免费全能的AI办公智能体\",\"url\":\"https://aistool.orgaizhinengti/kouzi/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/01/Coze-logo-2.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"扣子"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/01/Coze-logo-2.png","alt":"扣子","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"扣子"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"免费全能的AI办公智能体"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","327",{"href":"/aixiezuogongju/songguoaixiezuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"松果AI写作"}],["$","a","97",{"href":"/ailiaotianzhushou/cici/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Cici"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1381",{"href":"/aishipingongju/tagomovie/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"TagoMovie"}]
+5:["$","a","1410",{"href":"/aishipingongju/lingyashequ/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"灵芽社区"}]
+6:["$","a","488",{"href":"/aituxianggongju/stable-diffusion/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Stable Diffusion"}]
+7:["$","a","999",{"href":"/aiyinpingongju/typecast/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Typecast"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

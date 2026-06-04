@@ -1,0 +1,80 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/02/AdsTurbo-AI-icon.png","image"]
+3:Ta8a,
+                AdsTurbo AI是什么
+AdsTurbo AI 是专为广告主与电商团队打造的 AI 视频广告生成平台，帮助用户快速、低成本地生产高转化短视频素材。用户只需输入商品链接、上传产品图片或文案，可在数分钟内生成适用于 TikTok、Meta、YouTube 等主流平台的 UGC 风格广告与产品展示视频。AdsTurbo AI 核心亮点是能智能复刻爆款广告结构，支持多版本批量生成与创意改写，具备本地化适配能力，让品牌无需聘请演员、搭建拍摄场景或掌握复杂剪辑技能，也能高效测试和放大广告效果。
+
+AdsTurbo AI的主要功能
+
+
+AI 视频生成：输入商品链接或上传产品图片，自动生成可直接投放的短视频广告与 UGC 风格素材。
+
+
+爆款结构复刻：智能分析高转化广告的结构与节奏，一键复刻成功模式提升素材效果。
+
+
+多版本批量生成：快速生成多个创意版本，支持 A/B 测试与投放策略优化。
+
+
+创意智能改写：自动优化文案与视觉元素，适配不同平台与投放场景需求。
+
+
+本地化适配：支持多语言、多地区版本生成，助力品牌全球化出海投放。
+
+
+数字人口播：无需真人出镜，AI 生成专业口播视频，降低拍摄成本。
+
+
+热门广告库：汇集各品类高效广告案例，提供创作灵感与参考模板。
+
+
+如何使用AdsTurbo AI
+
+
+注册登录：访问 AdsTurbo AI 官网 https://adsturbo.ai/ ，创建账户并完成登录。
+
+
+输入素材：粘贴商品链接，或上传产品图片、文案等基础素材。
+
+
+选择风格：根据投放需求选择广告风格，如 UGC 真实感、产品展示、数字人口播等。
+
+
+AI 生成：系统自动分析素材并生成视频广告，支持多版本批量输出。
+
+
+预览调整：查看生成结果，根据需求调整文案、画面或重新生成。
+
+
+下载投放：确认满意后下载视频素材，直接用于 TikTok、Meta、YouTube 等平台投放或 A/B 测试。
+
+
+AdsTurbo AI的应用场景
+
+
+电商产品推广：快速生成商品展示视频，提升独立站、亚马逊、TikTok Shop 等平台转化率。
+
+
+社媒广告投放：批量制作 TikTok、Instagram Reels、YouTube Shorts 等短视频广告素材。
+
+
+品牌出海本地化：一键生成多语言版本广告，适配不同国家地区投放需求。
+
+
+A/B 测试优化：快速产出多版本创意素材，测试不同风格与文案的转化效果。
+
+
+UGC 内容生产：生成真实感用户推荐视频，降低真人拍摄成本与时间周期。
+
+
+新品上市预热：无需等待拍摄排期，快速产出新品宣传视频抢占市场先机。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"AdsTurbo AI\",\"description\":\"AI视频广告生成平台，自动生成可直接投放的视频\",\"url\":\"https://aistool.orgaishipingongju/adsturbo-ai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/02/AdsTurbo-AI-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"AdsTurbo AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/02/AdsTurbo-AI-icon.png","alt":"AdsTurbo AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"AdsTurbo AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI视频广告生成平台，自动生成可直接投放的视频"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","673",{"href":"/aishipingongju/filmora/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Filmora"}],["$","a","1010",{"href":"/aisousuoyinqing/kuakeai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"夸克AI"}],["$","a","710",{"href":"/aishipingongju/anylang.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Anylang.ai"}],["$","a","821",{"href":"/aibangonggongju/feishuduoweibiaoge/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"飞书多维表格"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","631",{"href":"/aishipingongju/dream-machine/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Dream Machine"}]
+5:["$","a","62",{"href":"/ailiaotianzhushou/kimizhinengzhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Kimi智能助手"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

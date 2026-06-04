@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aishipingongju","heygen",""],"q":"","i":false,"f":[[["",{"children":[["category","aishipingongju","d",null],{"children":[["tool","heygen","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/10/HeyGen-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T1799,
+                HeyGen是什么
+HeyGen是全球领先的AI数字人视频创作平台，致力于简化视频制作过程，让用户能迅速制作出具有专业水准的数字人视频。HeyGen能将文本、图像或音频快速转化为高质量视频，基于视频创作Agent，能实现从创意构思到成品视频的一站式制作，HeyGen支持多语言语音克隆、AI 字幕生成等功能，极大简化视频创作流程，降低时间和成本。
+
+HeyGen的主要功能
+
+视频创作代理（HeyGen Video Agent）：基于单个提示快速生成完整的视频内容，适用 TikTok 广告、产品介绍等，无需复杂的工具和流程。
+AI 工作室（AI Studio）：基于文本的编辑器，支持语音、动作、情感控制，提供语音克隆、手势控制等功能，
+AI 视频头像（AI Video Avatar）：生成逼真的 AI 视频头像，支持多种语言和情感表达，
+头像 IV（Avatar IV）：从单张照片生成会说话的头像，支持全身体动作和手势，
+AI 照片头像（AI Photo Avatar）：通过文本提示生成会说话的照片头像，支持多语言、自定义外观和风格。
+生成式头像（Generative Avatar）：通过文本提示生成风格化的 AI 头像，支持多种风格和语言，高度可定制，适用于音乐、艺术、视觉内容等。
+AI 用户生成内容（UGC）视频（AI UGC Video）：生成用户生成内容（UGC）风格的视频，支持自定义模板和语音合成，适用于广告、社交媒体、产品推广等。
+AI 视频翻译器（AI Video Translator）：将视频翻译成 175+ 种语言，支持语音克隆和对口型，确保自然语音。
+AI 配音（AI Dubbing）：用 AI 技术为视频添加多语言配音，确保配音与视频内容精准匹配，提升观众的观看体验，支持多种语言和方言。
+文本转视频（Text to Video）：将文本内容（如脚本、博客或公告）快速转换为高质量视频，用 AI 头像和真实语音合成技术，生成动态视频，支持多种语言和语音风格。
+图片转视频（Image to Video）：将照片转换为动态视频，支持添加文本、过渡效果和背景音乐，适用个人记忆、营销策略或演示文稿等。
+互动式 AI 头像（Interactive AI Avatar）：创建实时互动的 AI 头像，支持语音、表情和动作的实时交互。
+
+
+如何使用HeyGen生成数字人
+
+访问HeyGen 官网：访问 HeyGen 官网 https://www.heygen.com/ ，完成账号登录。
+选择生成数字人的工具：在 HeyGen 平台上，找到并选择“AI 视频头像”（AI Video Avatar）或“生成式头像”（Generative Avatar）功能模块。如果需要从照片生成数字人，选择“头像 IV”（Avatar IV）功能。
+上传照片或选择预设头像：
+
+上传照片：如果希望生成的数字人基于自己的照片，点击“上传照片”按钮，选择一张清晰的正面照片。照片格式支持 JPG、PNG、HEIC、WebP 等，文件大小不超过 200MB。
+选择预设头像：如果不想上传照片，直接从 HeyGen 提供的预设头像库中选择一个头像。HeyGen 提供超过 500 种不同风格和类型的头像，包括男性、女性、动漫、动物等。
+
+
+自定义数字人：
+
+调整外观：调整数字人的外观，包括发型、肤色、服装等。用 HeyGen 提供的“外观包”（Look Packs）能快速应用预设的风格。
+添加语音：输入文本脚本或上传音频文件，数字人将根据脚本或音频进行语音合成和唇部同步。
+设置动作和表情：选择合适的动作和表情，让数字人的动作更加自然和生动。HeyGen 的 AI 技术根据脚本内容自动匹配合适的情感和动作。
+
+
+生成数字人视频：点击“生成”按钮，HeyGen 自动处理你的请求，生成数字人视频。
+预览和导出：生成完成后，预览生成的数字人视频，检查语音、动作和表情是否符合预期。如果满意，点击“导出”按钮，将视频保存到本地或直接分享到社交媒体平台。
+
+
+HeyGen的产品价格
+
+Free（免费版）：每月免费生成3个视频，最长3分钟，720p导出，标准处理，Avatar IV生成。
+Creator（创作者版）：$29/月，无限视频生生成，最长30分钟，1080p导出，快速处理，扩展Avatar IV。
+Team（团队版）：$39/席/月，无限视频生成，最长30分钟，4k导出，更快处理，扩展Avatar IV，含2席。
+Enterprise（企业版）：定制价格，无限视频生成，无时长限制，4k导出，最快处理，扩展Avatar IV，集中管理。
+
+
+HeyGen的核心优势
+
+高效的内容创作：通过单个提示或文本输入快速生成完整视频，大大缩短制作周期，提高内容创作效率。
+高质量的 AI 技术：能生成高度逼真的数字人头像，支持自然语音合成和多语言功能，保障视频内容高质量。
+强大的定制化能力：提供丰富的头像库和自定义选项，用户能轻松创建符合品牌或个人风格的独特数字人。
+多场景应用：适用多种场景，包括营销视频、教育内容、社交媒体和用户生成内容（UGC），满足不同用户需求。
+易于使用：提供直观的用户界面和详细的教程，没有专业经验的用户能轻松上手。
+全球本地化：支持多语言翻译和文化适应性，让内容触达全球观众并保持自然和相关性。
+
+HeyGen的应用场景
+
+营销视频制作：创建吸引眼球的广告视频，用在社交媒体、网站或电子邮件营销活动。
+产品演示：制作产品介绍视频，展示产品特点和使用方法，帮助潜在客户更好地了解产品。
+在线培训：生成培训材料和教程视频，用在员工培训或在线课程，提高学习效率。
+客户支持：制作常见问题解答（FAQ）视频，为客户提供自助服务，减少客服工作量。
+社交媒体内容：为Instagram、TikTok等平台制作短视频，增加用户互动和品牌曝光。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"HeyGen\",\"description\":\"专业的AI数字人视频创作平台\",\"url\":\"https://aistool.orgaishipingongju/heygen/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/10/HeyGen-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"HeyGen"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/10/HeyGen-icon.png","alt":"HeyGen","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"HeyGen"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"专业的AI数字人视频创作平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],"$L13"]}]]}]
+13:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","447",{"href":"/aituxianggongju/tengxunhunyuan3d/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"腾讯混元3D"}],["$","a","33",{"href":"/aizhinengti/scimaster/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"SciMaster"}],["$","a","170",{"href":"/aibianchenggongju/czhidao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"C知道"}],["$","a","560",{"href":"/aituxianggongju/remini/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Remini"}],["$","a","1012",{"href":"/aisousuoyinqing/perplexity/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Perplexity"}],["$","a","166",{"href":"/aibianchenggongju/huaweiyunmadao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"华为云码道"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"HeyGen | AIStool"}],["$","meta","1",{"name":"description","content":"HeyGen是全球领先的AI数字人视频创作平台，致力于简化视频制作过程，让用户能迅速制作出具有专业水准的数字人视频。HeyGen能将文本、图像或音频快速转化为高质量视频。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaishipingongju/heygen/"}],["$","meta","3",{"property":"og:title","content":"HeyGen"}],["$","meta","4",{"property":"og:description","content":"HeyGen是全球领先的AI数字人视频创作平台，致力于简化视频制作过程，让用户能迅速制作出具有专业水准的数字人视频。HeyGen能将文本、图像或音频快速转化为高质量视频。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaishipingongju/heygen/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/10/HeyGen-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"HeyGen"}],["$","meta","10",{"name":"twitter:description","content":"HeyGen是全球领先的AI数字人视频创作平台，致力于简化视频制作过程，让用户能迅速制作出具有专业水准的数字人视频。HeyGen能将文本、图像或音频快速转化为高质量视频。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/10/HeyGen-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","13",{}]]

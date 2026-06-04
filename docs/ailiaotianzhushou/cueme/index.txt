@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","ailiaotianzhushou","cueme",""],"q":"","i":false,"f":[[["",{"children":[["category","ailiaotianzhushou","d",null],{"children":[["tool","cueme","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2024/09/CueMe-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Td6c,
+                CueMe是什么
+CueMe是夸克推出的AI智能对话助手和AI写作工具，基于先进的AI技术，能理解和生成多种体裁的文本，最长可达2万字。CueMe支持上千种写作需求，如研究报告、日常写作、课程论文等，并提供个性化文风定制。CueMe还具备长文本理解、专业知识检索和复杂指令遵循的能力，为用户提供结构清晰、内容丰富、观点鲜明的写作支持。
+
+CueMe的主要功能
+
+多体裁写作支持：能够生成上千种不同体裁的内容，如研究报告、日常写作、课程论文、新媒体文案等。
+长文本生成：支持生成最长可达2万字的长文本，适合深度内容创作。
+文风定制：用户可以根据自己的需求定制内容的文风，包括平台风格、语言风格或个人文章风格。
+长文本理解与生成：具备理解长文本的能力，并能生成结构合理、逻辑清晰的长文本内容。
+专业知识检索与增强：能检索相关知识，增强内容的专业性和准确性。
+复杂多轮文创指令遵循：能理解和执行复杂的多轮对话指令，生成定制化的内容。
+内容深度优化：通过增加细节描述和鲜明观点，提升内容的质量和可读性。
+多样化提问：能回答用户在生活、学习中遇到的各种问题，提供实时、专业、全面的答案。
+角色扮演：提供多个擅长不同领域的虚拟角色，如情感陪伴助手、学习讲题助手、健康问答助手等。
+常用指令：通过预设的常用指令，简化用户操作，快速生成定制化内容。
+
+如何使用CueMe
+
+访问官方网站：访问CueMe的官方网站 cueme.cn ，注册账号登录。
+开始对话：在网站首页，看到一个对话界面。可以直接输入具体需求或问题。
+提出需求：告诉CueMe具体需求，比如“写一篇关于环境保护的文章”或者“生成一个关于健康饮食的报告大纲”。
+选择文风：CueMe可以指定文风，比如正式、幽默或者某个特定作者的风格。
+提供详细信息：需提供更多的背景信息或具体要求，如文章的长度、结构、关键点等。
+获取结果：CueMe会根据指令生成内容。可以查看生成的文本，并根据需要进行调整。
+进一步优化：CueMe的校对和润色功能可以提升文本质量，或者要求CueMe增加更多细节和观点。
+使用常用指令：CueMe提供了一系列常用指令，可以快速选择并生成定制化内容，如“帮我润色作文”或“为文章谋篇布局”。
+多轮对话：CueMe支持多轮对话，可以根据生成的内容继续提问或给出新的指令，进一步优化结果。
+
+CueMe的应用场景
+
+学术研究：生成研究报告、论文、学术文章等，帮助学者和研究人员快速构建研究框架和内容。
+教育学习：辅助学生完成课程作业、论文撰写、复习资料整理，提高学习效率。
+内容创作：为新媒体运营者、博客作者、记者等提供文章、新闻稿、博客内容的创作支持。
+商业文案：撰写广告文案、产品描述、市场分析报告，增强营销材料的吸引力和说服力。
+个人助理：提供日常任务管理、日程规划、邮件撰写等个人助理服务。
+语言学习：帮助语言学习者练习写作、提高语言表达能力，生成练习材料和模拟对话。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"CueMe\",\"description\":\"夸克推出的AI智能对话助手，支持2万字长文写作\",\"url\":\"https://aistool.orgailiaotianzhushou/cueme/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/09/CueMe-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/ailiaotianzhushou/","className":"hover:text-primary transition","children":"AI聊天助手"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"CueMe"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/09/CueMe-logo.png","alt":"CueMe","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"CueMe"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","6",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI聊天助手"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"夸克推出的AI智能对话助手，支持2万字长文写作"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","337",{"href":"/aixiezuogongju/midreal/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MidReal"}],["$","a","1016",{"href":"/aisousuoyinqing/xinliu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"心流"}],["$","a","435",{"href":"/aituxianggongju/miaosi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"妙思"}],"$L13","$L14","$L15"]}]]}]]}]]}]
+13:["$","a","1253",{"href":"/aituxianggongju/miaohuaai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"妙话AI"}]
+14:["$","a","60",{"href":"/ailiaotianzhushou/doudouai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"逗逗AI"}]
+15:["$","a","334",{"href":"/aixiezuogongju/chengpian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"橙篇"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"CueMe | AIStool"}],["$","meta","1",{"name":"description","content":"CueMe是夸克推出的AI智能对话助手，基于先进的AI技术，能理解和生成多种体裁的文本，最长可达2万字。CueMe支持上千种写作需求，如研究报告、日常写作、课程论文等，并提供个性化文风定制。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgailiaotianzhushou/cueme/"}],["$","meta","3",{"property":"og:title","content":"CueMe"}],["$","meta","4",{"property":"og:description","content":"CueMe是夸克推出的AI智能对话助手，基于先进的AI技术，能理解和生成多种体裁的文本，最长可达2万字。CueMe支持上千种写作需求，如研究报告、日常写作、课程论文等，并提供个性化文风定制。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgailiaotianzhushou/cueme/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2024/09/CueMe-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"CueMe"}],["$","meta","10",{"name":"twitter:description","content":"CueMe是夸克推出的AI智能对话助手，基于先进的AI技术，能理解和生成多种体裁的文本，最长可达2万字。CueMe支持上千种写作需求，如研究报告、日常写作、课程论文等，并提供个性化文风定制。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2024/09/CueMe-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","13",{}]]

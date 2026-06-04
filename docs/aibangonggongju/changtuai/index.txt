@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aibangonggongju","changtuai",""],"q":"","i":false,"f":[[["",{"children":[["category","aibangonggongju","d",null],{"children":[["tool","changtuai","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/fluig-logo-1.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tfa9,
+                畅图是什么
+畅图是AI原生图表工具，通过自然语言与AI对话，用户无需绘图经验可快速生成思维导图、流程图、表格、看板等多种图表。畅图支持多轮对话和上下文理解，能根据用户输入持续优化图表内容。畅图支持多种文件类型上传（如PDF、PPT、Word等），AI会自动解析内容生成图表，用户可以将生成的图表导出为PDF、图片或PPT格式，方便分享和展示。
+
+畅图的主要功能
+
+
+自然语言对话生成图表：用户只需通过简单的自然语言描述，畅图能快速生成思维导图、流程图、表格、看板等多种类型的图表。
+
+
+多轮对话与上下文理解：畅图支持多轮对话，能记住上下文信息，根据用户的连续输入持续优化图表内容，确保图表的准确性和连贯性。
+
+
+多种图表类型：支持思维导图、流程图、组织结构图、甘特图、卡片看板等多种图表类型，满足不同场景下的可视化需求。
+
+
+图表间智能转换：用户可以一键将一种图表类型转换为另一种类型，例如从思维导图转换为流程图，无需重新绘制，大大节省时间。
+
+
+多种文件类型上传：支持上传PDF、PPT、Word、TXT、图像（JPG、PNG、GIF）以及网页URL，AI自动解析内容并生成相应的图表。
+
+
+多模态Prompt解析：支持解析文本、图像、文档、代码等多种类型的Prompt，用户可以在编辑界面开启多个AI窗口，实现多线程工作。
+
+
+实时协作：支持多人实时在线编辑和交流，团队成员可以在同一画布上共同完成图表的创建和优化，提升团队效率。
+
+
+一键分享：绘制完成后，用户可以一键分享图表，方便团队成员查看、编辑和评论，实时反馈，让沟通更高效。
+
+
+多种导出格式：支持将生成的图表导出为PDF、图片（PNG、JPG）和PPT格式，方便用户进行分享和展示。
+
+
+专业模板库：内置1000+专业模板，涵盖各个领域，为用户提供丰富的灵感和可视化分析支持。
+
+
+无限画布自由创作：提供无限画布，用户可以在白板中尽情发挥创意，绘制各种精美图形。
+
+
+高效思维导图：不限节点、主题多样，帮助用户快速理清思绪。
+
+
+专业流程图符号和模板：丰富的流程图符号和模板，新手也能迅速上手。
+
+
+如何使用畅图
+
+注册与登录：访问畅图官网 www.fluig.cn ，注册账号或登录使用。
+图表生成：在界面中输入自然语言指令，AI会根据指令生成相应的图表。可上传图像、文档、网页URL等，AI会解析内容并生成图表。
+图表编辑
+
+
+多轮对话优化：使用AI的多轮对话功能，持续对图表进行优化和修改，AI会记住上下文逻辑。
+
+
+手动编辑：选中图形后，可通过拖动调整位置、角度和大小，可修改图形类型、填充色、边框样式等。
+
+
+图表间转换：支持思维导图、流程图、看板等多种图表类型之间的智能转换。
+
+
+
+
+导入：支持导入PDF、PPT、Word、TXT、图像等多种文件格式。
+
+
+导出：可将生成的图表导出为PDF、PNG、JPG、PPT等多种格式。
+
+
+多人实时协作：团队成员可在同一画布上实时编辑、评论和反馈，内容实时同步。
+
+
+评论与反馈：选中图形后，点击评论图标即可进行评论。
+
+
+畅图的应用场景
+
+
+创意激发与灵感记录：使用画笔、便签、图片和超链接，将灵感汇聚在画布上。
+
+个人使用：：制作读书笔记、设计素材，系统归纳知识。制定旅行计划、健康管理方案、目标设定等。
+
+软件开发：绘制系统架构图、ER图、UML图，助力软件开发。
+
+
+项目管理：展示项目进度、资源分配，分解项目目标为具体任务。
+
+教育领域：快速生成思维导图、流程图等，辅助教学。帮助学生和教师梳理知识点，制作学习笔记。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"畅图AI\",\"description\":\"AI图表生成工具，一键生成思维导图、流程图\",\"url\":\"https://aistool.orgaibangonggongju/changtuai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/fluig-logo-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"畅图AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/fluig-logo-1.png","alt":"畅图AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"畅图AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI图表生成工具，一键生成思维导图、流程图"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1422",{"href":"/aishipingongju/lumen-flow/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Lumen Flow"}],"$L13","$L14","$L15","$L16","$L17"]}]]}]]}]]}]
+13:["$","a","1266",{"href":"/aishipingongju/yunmutongsheng/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"云幕同声"}]
+14:["$","a","1039",{"href":"/aisousuoyinqing/phind/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Phind"}]
+15:["$","a","545",{"href":"/aituxianggongju/bg-eraser/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Bg Eraser"}]
+16:["$","a","685",{"href":"/aishipingongju/haiper/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Haiper"}]
+17:["$","a","1052",{"href":"/aikaifapingtai/ai-ping/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AI Ping"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"畅图AI | AIStool"}],["$","meta","1",{"name":"description","content":"畅图是AI原生图表工具，通过自然语言与AI对话，用户无需绘图经验可快速生成思维导图、流程图、表格、看板等多种图表。畅图支持多轮对话和上下文理解，能根据用户输入持续优化图表内容。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaibangonggongju/changtuai/"}],["$","meta","3",{"property":"og:title","content":"畅图AI"}],["$","meta","4",{"property":"og:description","content":"畅图是AI原生图表工具，通过自然语言与AI对话，用户无需绘图经验可快速生成思维导图、流程图、表格、看板等多种图表。畅图支持多轮对话和上下文理解，能根据用户输入持续优化图表内容。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaibangonggongju/changtuai/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/07/fluig-logo-1.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"畅图AI"}],["$","meta","10",{"name":"twitter:description","content":"畅图是AI原生图表工具，通过自然语言与AI对话，用户无需绘图经验可快速生成思维导图、流程图、表格、看板等多种图表。畅图支持多轮对话和上下文理解，能根据用户输入持续优化图表内容。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/07/fluig-logo-1.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","13",{}]]

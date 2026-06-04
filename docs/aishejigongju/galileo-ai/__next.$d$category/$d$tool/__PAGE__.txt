@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/03/galileo-ai-icon.png","image"]
+3:T9bc,
+                Galileo AI是什么
+Galileo AI是一款AI原型图设计工具，帮助用户快速创建网站和应用程序。能根据简单的文本描述自动生成站点地图、线框图，进一步将线框图转化为精美的设计。Galileo AI支持与Figma和Webflow等设计工具集成，简化了设计工作流程，能根据用户需求生成插图、图像和文案。
+
+Galileo AI的主要功能
+
+文本到UI生成：Galileo AI能根据简单的文本描述创建高保真UI设计，能快速将他们的想法转化为视觉表示。
+图像到UI生成：除了文字提示之外，Galileo AI可以基于图像生成UI设计，为设计师在设计过程中提供了更大的灵活性。
+AI生成的插图和图像：Galileo AI可以增强用户界面设计，自动使用相关插图和图像填充设计。
+准确的产品副本：Galileo AI可以为UI设计生成准确且与上下文相关的产品副本。
+Figma集成：Galileo AI与Figma无缝集成，支持用户使用熟悉且功能强大的平台轻松编辑、完善和协作人工智能生成的设计。
+样式自定义：用户通过AI模型生成设计后，可以自定义主题样式选项，如颜色、字体、圆角半径，提供明暗模式快速切换。
+
+Galileo AI的官网地址
+
+官网地址：usegalileo.ai
+
+Galileo AI的产品定价
+
+Standard（标准版）
+
+价格：$19/月；适用个人项目，提供广泛的商业用途
+每月1200积分，约120次设计生成和编辑
+无限代码导出
+无限Figma导出
+一般商业条款
+移动UI生成
+Web UI生成
+
+
+Pro（专业版）
+
+价格：$39/月；适用保持设计隐私的专业人士
+每月3000积分，约300次设计生成和编辑
+无限代码导出
+无限Figma导出
+一般商业条款
+移动UI生成
+Web UI生成
+私有模式：生成的设计保持私有，仅对用户可见
+
+
+Enterprise（企业版）
+
+价格：定制化定价
+无限生成次数 + Pro版所有其他功能
+最快的生成速度
+高级数据隐私和私有模式
+优先支持
+
+
+
+Galileo AI的应用场景
+
+用户界面设计：Galileo AI 能快速生成应用程序和网站界面的原型，加速产品开发周期。
+品牌设计：可以用于创建logo、视觉识别系统等品牌元素，帮助企业塑造独特形象。
+广告设计：Galileo AI 能生成各种营销材料，如海报、横幅等，提高广告创意效率。
+产品包装设计：设计师可以探索不同的包装概念，帮助产品在货架上脱颖而出。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Galileo AI\",\"description\":\"AI高保真原型设计\",\"url\":\"https://aistool.orgaishejigongju/galileo-ai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/03/galileo-ai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishejigongju/","className":"hover:text-primary transition","children":"AI设计工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Galileo AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/03/galileo-ai-icon.png","alt":"Galileo AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Galileo AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","8",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI设计工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI高保真原型设计"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","452",{"href":"/aituxianggongju/style3d/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Style3D"}],["$","a","1186",{"href":"/aineirongjiance/studycorgi-chatgpt-detector/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"StudyCorgi ChatGPT Detector"}],["$","a","852",{"href":"/aibangonggongju/deeplfanyi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DeepL翻译"}],["$","a","720",{"href":"/aishipingongju/molishipin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"模力视频"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","182",{"href":"/aibianchenggongju/boxy/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Boxy"}]
+5:["$","a","68",{"href":"/ailiaotianzhushou/longcat/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LongCat"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

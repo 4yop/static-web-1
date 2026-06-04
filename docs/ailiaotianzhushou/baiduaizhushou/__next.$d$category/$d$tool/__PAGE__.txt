@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/10/chat.baidu-logo.png","image"]
+3:Tbd5,
+                百度AI助手是什么
+百度AI助手是百度推出的AI智能体助手，基于强大的搜索能力和多轮对话技术，深度理解用户需求，提供个性化服务。百度AI助手具备全网网页概括总结、文本创作、图像生成等多功能，实时高效地检索和分析互联网上的内容与服务。百度AI助手基于自然语言交流，对话形式深入了解用户需求，用智能体推荐机制为用户提供答案，在对话过程中用户根据需求，能用@某个智能体的方式，帮助回答问题。用户基于文本描述生成相关图片，丰富信息表达。百度AI助手支持语音输入和播报，方便用户进行多样化的沟通和查询。
+最新上线的智能创作功能具备故事生成、视频生成、图片生成和笔记生成等多种功能，只需输入一句话或提供一张图片，能快速生成高质量的创作内容。智能创作功能支持多种爆款模板和灵感参考，让零基础用户能轻松上手。
+
+百度AI助手的主要功能
+
+搜索增强：针对用户的提问，实时高效地检索和分析全网内容和服务。
+文本创作：辅助用户进行文本创作，如撰写文章、生成报告等。
+图像生成：根据用户的文本描述生成相关图片，丰富信息表达。
+多轮对话：基于多轮对话深度理解用户需求，提供更精准的服务。
+智能体推荐：根据用户的问题，推荐智能体进行回答。
+自然语言交流：以对话的形式与用户进行自然语言交流，提供人性化的服务。
+
+故事生成：输入一句话，AI协助生成情节完整、结构清晰的脚本内容，支持多轮调整分镜、脚本、角色等。
+
+
+视频生成：通过提示词或图片直接生成5秒短视频，支持智能润色提示词，方便零基础用户快速产出高质量视频。
+
+
+图片生成：输入文字或上传图片，生成高质量的“画报级图片”，支持图片转视频，实现视频制作全流程。
+
+
+笔记生成：将碎片化想法转化为图文结合的笔记内容，自动进行排版优化，适用于知识梳理、故事记录等场景。
+
+
+百度AI助手如何使用
+
+访问官网： 访问百度AI助手的官方网站。
+注册账号：注册一个百度账号。
+开始使用： 在百度AI助手的页面上，直接开始与AI助手进行对话。提出问题，或者完成一些任务。
+探索功能： 百度AI助手提供多种功能，比如语音识别、搜索、日程管理等。
+
+百度AI助手的产品定价
+百度AI助手目前是免费向用户开放的。
+百度AI助手的应用场景
+
+智能客服：提供全天候自动化客户支持，快速响应用户咨询。
+搜索优化：基于AI技术提升搜索准确性，提供个性化结果。
+教育辅助：辅助学习和教学，提高教育效率和质量。
+健康咨询：提供基础健康建议，辅助健康管理。
+生活助手：提醒日常事务，提供生活信息，提升生活质量。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"百度AI助手\",\"description\":\"百度推出的多场景AI智能体助手\",\"url\":\"https://aistool.orgailiaotianzhushou/baiduaizhushou/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/10/chat.baidu-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/ailiaotianzhushou/","className":"hover:text-primary transition","children":"AI聊天助手"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"百度AI助手"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/10/chat.baidu-logo.png","alt":"百度AI助手","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"百度AI助手"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","6",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI聊天助手"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"百度推出的多场景AI智能体助手"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","800",{"href":"/aibangonggongju/gank-interview/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Gank Interview"}],["$","a","1430",{"href":"/aishipingongju/seko/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Seko"}],["$","a","408",{"href":"/aixiezuogongju/xiaoweizhinenglunwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"小微智能论文"}],["$","a","1116",{"href":"/aikaifapingtai/anakin.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Anakin.ai"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1239",{"href":"/aixunlianmoxing/nano-banana/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Nano Banana"}]
+5:["$","a","1354",{"href":"/aishipingongju/pexo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pexo"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

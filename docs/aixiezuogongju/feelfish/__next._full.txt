@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aixiezuogongju","feelfish",""],"q":"","i":false,"f":[[["",{"children":[["category","aixiezuogongju","d",null],{"children":[["tool","feelfish","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://cdn.feelfish.com/static/icon-fill.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T10a8,
+                FeelFish是什么
+FeelFish 是专为小说创作者设计的 AI 写作工具，通过智能辅助提升创作效率和质量。支持剧本和非虚构类书籍创作，擅长长篇内容的创作。面向专业作家设计，基于 FeelFish 智能体提供优秀的人机交互页面，让 AI 和作家可以深度地协作共创优质小说等专业内容。具备强大的角色和设定规划功能，可让用户详细输入角色性格、外貌、背景以及世界观规则，AI 会严格遵循这些设定进行创作，避免人设崩塌或逻辑矛盾。FeelFish 的上下文管理功能可自动总结前文内容，确保新生成的章节自然衔接，保持风格和剧情连贯性。支持多种主流大模型，如 DeepSeek、ChatGPT、Gemini 等，用户可根据需求选择合适的模型，通过自定义提示词精准控制创作方向。
+
+FeelFish的主要功能
+
+对话即创作：基于 AI 大语言模型的小说写作智能体，帮你新建和修改文件。创作角色、设定、章节等内容。
+沉浸式交互：随时唤起辅助创作面板，从角色设定到情节发展，从对话到描写，AI 能为你提供专业的小说创作建议和内容生成。
+智能延续剧情：通过智能上下文自动记忆和管理你的小说已有内容，确保小说内容保持风格和逻辑的一致性。
+一键构建角色&世界观：帮助你设计丰富立体的角色，构建完整的世界观设定，为 AI 小说写作奠定坚实基础。
+支持全球前沿大模型：支持 DeepSeek、ChatGPT、Gemini、Grok、豆包、Qwen、Kimi 等多种大语言模型，让你选择最适合的 AI 助手。
+
+自定义提示词：用户可以自定义提示词，精准控制 AI 的输出内容，满足个性化创作需求。
+
+
+章节管理：提供专门的章节管理功能，方便创作者组织和管理作品结构。
+
+
+写作风格记忆：AI 能记忆用户的写作风格，确保生成内容与作者的风格保持一致。
+
+
+
+如何使用FeelFish
+
+
+创建账户：访问 FeelFish 官网 www.feelfish.com ，注册并创建个人账户。
+
+
+选择计划：根据创作需求，选择合适的付费计划，如免费版、基础版、进阶版或专业版。
+
+
+设置角色与世界观：在FeelFish中详细输入角色的性格、外貌、背景以及世界观的规则和设定。
+
+
+输入上下文：将已有的创作内容或关键情节输入到上下文管理模块，AI 能理解前文并生成连贯内容。
+
+
+选择 AI 模型：从支持的多种大模型中选择适合的模型进行创作。
+
+
+自定义提示词：根据创作需求，输入自定义提示词，指导 AI 进行精准创作。
+
+
+开始创作：通过对话框与 AI 互动，输入指令或问题，AI 将根据设定生成相应内容。
+
+
+编辑与调整：根据 AI 的输出内容进行编辑和调整，符合创作意图。
+
+
+保存与导出：将创作内容保存在平台或导出到本地，继续后续创作或进行排版发布。
+
+
+
+FeelFish的产品定价
+
+
+免费版：每月赠送五百万积分，适合创作爱好者，满足基础创作需求。
+
+
+基础版：每月17元，包含一亿积分，适合专业创作者，每月可创作约十万字小说。
+
+
+进阶版：每月35元，提供三亿积分，适合专业作家，每月可创作约三十万字小说。
+
+
+专业版：每月119元，提供十四亿积分，适合高产创作者，每月可输出百万字以上。
+
+
+FeelFish的应用场景
+
+
+小说创作：帮助小说作者规划角色、设定世界观，生成连贯的剧情和对话，提升创作效率。
+
+
+剧本编写：为影视、话剧等剧本创作提供角色设定、情节发展和对白生成支持，保持故事逻辑连贯性。
+
+
+故事续写：在已有故事基础上，使用 AI 续写情节，探索不同发展方向，激发创作灵感。
+
+
+创意构思：快速生成创意概念和情节框架，帮助创作者突破灵感瓶颈，探索新的故事方向。
+
+
+写作辅助：在写作过程中，提供即时的语言润色、情节补充和风格调整建议，提升写作质量。
+
+
+多语言创作：支持多种语言创作，帮助跨语言写作的作者快速生成内容，适应不同语言环境的创作需求。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"FeelFish\",\"description\":\"专为小说创作者打造的 AI 写作 PC 客户端软件\",\"url\":\"https://aistool.orgaixiezuogongju/feelfish/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://cdn.feelfish.com/static/icon-fill.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"FeelFish"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://cdn.feelfish.com/static/icon-fill.png","alt":"FeelFish","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"FeelFish"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"专为小说创作者打造的 AI 写作 PC 客户端软件"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1374",{"href":"/aizhinengti/turix/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"TuriX"}],"$L13","$L14","$L15","$L16","$L17"]}]]}]]}]]}]
+13:["$","a","1074",{"href":"/aikaifapingtai/dakou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"搭叩"}]
+14:["$","a","959",{"href":"/aiyinpingongju/ttsmaker/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"TTSMaker"}]
+15:["$","a","196",{"href":"/aibianchenggongju/debuild/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Debuild"}]
+16:["$","a","1380",{"href":"/aixiezuogongju/danqingmiaobi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"丹青妙笔"}]
+17:["$","a","738",{"href":"/aibangonggongju/baoyueai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"包阅AI"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"FeelFish | AIStool"}],["$","meta","1",{"name":"description","content":"FeelFish 是专为小说创作者设计的 AI 写作工具，通过智能辅助提升创作效率和质量。支持剧本和非虚构类书籍创作，擅长长篇内容的创作。面向专业作家设计，基于 FeelFish 智能体提供优秀的人机交互页面，让 AI 和作家可以深度地协作共创优质小说等专业内容。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaixiezuogongju/feelfish/"}],["$","meta","3",{"property":"og:title","content":"FeelFish"}],["$","meta","4",{"property":"og:description","content":"FeelFish 是专为小说创作者设计的 AI 写作工具，通过智能辅助提升创作效率和质量。支持剧本和非虚构类书籍创作，擅长长篇内容的创作。面向专业作家设计，基于 FeelFish 智能体提供优秀的人机交互页面，让 AI 和作家可以深度地协作共创优质小说等专业内容。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaixiezuogongju/feelfish/"}],["$","meta","6",{"property":"og:image","content":"https://cdn.feelfish.com/static/icon-fill.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"FeelFish"}],["$","meta","10",{"name":"twitter:description","content":"FeelFish 是专为小说创作者设计的 AI 写作工具，通过智能辅助提升创作效率和质量。支持剧本和非虚构类书籍创作，擅长长篇内容的创作。面向专业作家设计，基于 FeelFish 智能体提供优秀的人机交互页面，让 AI 和作家可以深度地协作共创优质小说等专业内容。"}],["$","meta","11",{"name":"twitter:image","content":"https://cdn.feelfish.com/static/icon-fill.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","13",{}]]

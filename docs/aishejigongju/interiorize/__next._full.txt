@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aishejigongju","interiorize",""],"q":"","i":false,"f":[[["",{"children":[["category","aishejigongju","d",null],{"children":[["tool","interiorize","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2026/05/Interiorize-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T1007,
+                Interiorize是什么
+Interiorize 是专注于空间改造的 AI 室内设计工具，用户只需上传房间照片，选择心仪的设计风格，即可在数秒内获得 AI 重新设计后的高清效果图。主打即时生成与多风格切换，让普通用户无需聘请昂贵的专业室内设计师，也能快速预览不同装修方案的实际效果，降低决策成本，加速从灵感到落地的设计流程。
+
+Interiorize的主要功能
+
+
+AI 空间重设计：上传现有房间照片，AI 自动识别空间结构并生成全新设计方案。
+
+
+多风格切换：支持现代、北欧、工业风、极简、波西米亚等多种室内设计风格一键切换。
+
+
+即时渲染生成：通常在数秒至十几秒内完成效果图生成，无需长时间等待。
+
+
+虚拟布置（Virtual Staging）：可对空置房间进行 AI 家具布置，预览入住效果。
+
+
+前后对比视图：支持原图与 AI 设计图的并排对比，直观展示改造差异。
+
+
+高清输出：可生成适合展示或分享的专业级画质渲染图。
+
+
+如何使用Interiorize
+
+
+访问官网：打开 Interiorize 官网 https://interiorize.ai/ ，注册登录账号。
+
+
+上传房间照片：拍摄并上传清晰的室内照片，建议正对墙面或窗户的角度以获得最佳效果。
+
+
+选择房间类型：指定客厅、卧室、厨房、浴室等空间类型。
+
+
+挑选设计风格：从预设风格库中选择偏好风格，或输入自定义描述。
+
+
+生成设计图：点击生成按钮，等待 AI 在数秒内输出重新设计后的效果图。
+
+
+下载与分享：保存高清渲染图，用于装修参考或与家人、设计师沟通。
+
+
+Interiorize的核心优势
+
+
+零门槛操作：无需任何设计基础或专业软件技能，纯网页端即可完成全流程。
+
+
+极速出图：相比传统设计师数天甚至数周的方案周期，AI 可在秒级输出多个备选方案。
+
+
+低成本试错：用户可免费或低成本尝试多种风格，避免实际装修中的决策失误。
+
+
+隐私保护：用户上传的照片通常仅用于生成设计，不会被用于模型训练或公开分享（具体以官方隐私政策为准）。
+
+
+灵活迭代：不满意可反复调整风格参数，无限次生成直至找到理想方案。
+
+
+Interiorize的同类竞品对比
+
+
+
+对比维度
+Interiorize.AI
+Interior AI
+RoomGPT
+
+
+
+
+核心定位
+AI 秒级空间重设计
+AI 室内设计 + 虚拟布置
+快速房间重设计
+
+
+输入方式
+房间照片上传
+照片/草图/SketchUp 截图
+房间照片上传
+
+
+风格数量
+多种风格（具体数量待确认）
+50+ 种风格
+25+ 种风格
+
+
+生成速度
+数秒级
+约 25 秒
+数秒级
+
+
+免费额度
+待确认
+有限免费试用
+有限免费额度
+
+
+虚拟布置
+支持
+支持（需特定套餐）
+基础支持
+
+
+
+Interiorize的应用场景
+
+
+新房装修决策：业主在装修动工前，上传毛坯房或空房间照片，快速预览现代、北欧、极简等不同风格的装修效果，辅助确定整体设计方案，减少与设计师反复沟通的时间成本。
+
+
+旧房翻新改造：针对二手房或老旧空间，通过 AI 生成翻新后的效果图，直观对比改造前后的差异，帮助业主判断局部改造（如墙面、地板、家具更换）的实际价值。
+
+
+软装搭配预览：在不改变硬装结构的前提下，尝试不同的家具摆放、窗帘配色、装饰画组合等软装方案，找到最协调的室内氛围。
+
+
+虚拟房产布置（Virtual Staging）：房产经纪人或房东将空置房源照片上传，AI 自动布置虚拟家具和装饰，生成温馨入住效果，提升房源展示吸引力，加速出租或出售。
+
+
+租房空间优化：租房用户在不进行硬装改动的前提下，利用 AI 规划现有家具摆放位置或新增装饰元素，最大化利用有限空间，提升居住舒适度。
+
+
+民宿与短租设计：民宿房东快速生成具有设计感的房间效果图，用于平台房源展示，或参考 AI 方案进行低成本改造，提升房源竞争力与入住率。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Interiorize\",\"description\":\"专注于空间改造的 AI 室内设计工具\",\"url\":\"https://aistool.orgaishejigongju/interiorize/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/05/Interiorize-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aishejigongju/","className":"hover:text-primary transition","children":"AI设计工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Interiorize"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/05/Interiorize-icon.png","alt":"Interiorize","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Interiorize"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","8",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI设计工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"专注于空间改造的 AI 室内设计工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L13","$L14","$L15","$L16","$L17","$L18"]}]]}]]}]]}]
+13:["$","a","1243",{"href":"/aituxianggongju/liblibaigaoqingxiufu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LibLibAI高清修复"}]
+14:["$","a","306",{"href":"/aixiezuogongju/qinyanxueshu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"沁言学术"}]
+15:["$","a","1280",{"href":"/aibianchenggongju/kilo-code/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Kilo Code"}]
+16:["$","a","341",{"href":"/aixiezuogongju/copy.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Copy.ai"}]
+17:["$","a","1199",{"href":"/aineirongjiance/gaoyijiangailü/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"稿易降AI率"}]
+18:["$","a","592",{"href":"/aishipingongju/jimengai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"即梦AI"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Interiorize | AIStool"}],["$","meta","1",{"name":"description","content":"Interiorize 是专注于空间改造的 AI 室内设计工具，用户只需上传房间照片，选择心仪的设计风格，即可在数秒内获得 AI 重新设计后的高清效果图。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaishejigongju/interiorize/"}],["$","meta","3",{"property":"og:title","content":"Interiorize"}],["$","meta","4",{"property":"og:description","content":"Interiorize 是专注于空间改造的 AI 室内设计工具，用户只需上传房间照片，选择心仪的设计风格，即可在数秒内获得 AI 重新设计后的高清效果图。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaishejigongju/interiorize/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2026/05/Interiorize-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Interiorize"}],["$","meta","10",{"name":"twitter:description","content":"Interiorize 是专注于空间改造的 AI 室内设计工具，用户只需上传房间照片，选择心仪的设计风格，即可在数秒内获得 AI 重新设计后的高清效果图。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2026/05/Interiorize-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","13",{}]]

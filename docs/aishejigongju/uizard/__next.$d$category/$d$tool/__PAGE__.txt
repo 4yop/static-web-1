@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/03/uizard-icon.png","image"]
+3:T9ef,
+                Uizard是什么
+Uizard是AI驱动的UX/UI设计工具，能快速生成应用和网站原型。用户只需输入文本描述，AI可自动创建设计。支持实时协作、截图转设计、手绘草图数字化等功能，适合设计师、产品经理等。Uizard基于云服务，无需下载安装，适用于多平台，操作简单，非专业人士也能快速上手。
+
+Uizard的主要功能
+
+AI辅助设计：通过简单的文本提示，用户可以快速生成多屏可编辑的原型。
+实时协作：支持团队成员之间的实时协作，提高设计效率。
+截图扫描：将截图转换为可编辑的设计模型，便于迭代和沟通。
+手绘草图转换：将手绘草图快速转换为数字设计，提高设计效率。
+主题生成：快速创建新主题，改变项目的整体风格。
+交互式原型：创建交互式原型，展示完整的用户流程。
+
+Uizard的官网地址
+
+官网地址：huizard.io/ai-design
+
+Uizard的产品定价
+
+Free（免费）
+
+无限的免费查看者/评论者
+每月3次AI生成
+使用Autodesigner 1.5 AI引擎
+可创建2个项目
+提供10个免费模板
+
+
+Pro（专业）：价格：$12/月（按年计费，可节省40%）
+
+无限的免费查看者/评论者
+每月500次AI生成
+使用Autodesigner 2.0 AI引擎
+开发者可使用React CSS
+可创建最多100个项目
+私人项目
+访问所有模板
+
+
+Business（商业）：价格：$39/月
+
+包含Pro计划的所有功能
+每月5000次AI生成
+更快的AI生成速度
+定制品牌套件（新功能）
+无限项目
+优先支持
+
+
+Enterprise（企业）：按年计费，具体价格需联系销售
+
+包含Business计划的所有功能
+无限的AI生成
+无限的团队
+设计系统设置
+AI数据服务级别协议（SLA）
+定制计费
+全方位的入职支持
+
+
+
+Uizard的应用场景
+
+快速原型设计：Uizard支持用户通过简单的文本提示快速生成多屏可编辑的原型，产品团队能迅速将想法转化为可视化的设计概念。
+团队协作：Uizard支持实时协作，团队成员可以共同参与设计项目。
+设计迭代：设计师可以用Uizard的AI辅助设计功能，快速迭代修改设计，选择任何组件并描述所需变更，由AI自动完成设计工作。
+手绘草图数字化：Uizard的手绘草图转换功能可以将手绘线框图快速转换为数字设计，提高设计效率。
+截图转设计：通过截图扫描器，用户可以上传现有设计或界面的截图，Uizard将其转换为可编辑的模型。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Uizard\",\"description\":\"AI网页、App和UI设计，快速生成应用和网站原型\",\"url\":\"https://aistool.orgaishejigongju/uizard/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/03/uizard-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishejigongju/","className":"hover:text-primary transition","children":"AI设计工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Uizard"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/03/uizard-icon.png","alt":"Uizard","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Uizard"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","8",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI设计工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI网页、App和UI设计，快速生成应用和网站原型"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","832",{"href":"/aibangonggongju/glif/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Glif"}],["$","a","62",{"href":"/ailiaotianzhushou/kimizhinengzhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Kimi智能助手"}],["$","a","1302",{"href":"/aibangonggongju/chattoc/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ChatTOC"}],["$","a","627",{"href":"/aishipingongju/tongyilingmou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"通义灵眸"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","176",{"href":"/aibianchenggongju/fitten-code/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Fitten Code"}]
+5:["$","a","230",{"href":"/aishejigongju/mastergo-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MasterGo AI"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

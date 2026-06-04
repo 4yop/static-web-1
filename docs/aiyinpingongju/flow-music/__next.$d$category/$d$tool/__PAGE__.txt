@@ -1,0 +1,170 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/05/Google-Flow-Music-icon.png","image"]
+3:T144b,
+                Flow Music 是什么
+Flow Music是Google Labs推出的AI音乐创作平台，前身为年初收购的ProducerAI（源自Riffusion项目），现已全面整合进Google Flow创意生态。平台基于Google DeepMind的Lyria 3 Pro前沿音乐模型驱动，支持通过自然语言对话生成最长3分钟的完整歌曲，包含动态人声、歌词与专业编曲。用户可与内置AI Producer以聊天方式协作创作，借助Veo视频模型一键生成AI音乐视频。
+
+Google Flow Music的主要功能
+
+
+AI全曲生成：基于Lyria 3 Pro模型，通过自然语言提示生成包含人声、歌词和丰富器乐的完整长度歌曲，支持多种流派和语言（含日语）。
+
+
+对话式创作工作流：与AI Producer以聊天形式协作，像与真实音乐制作人对话一样指导创作方向、调整细节。
+
+
+精细化片段编辑：可高亮选中歌曲的任意部分（如歌词、节拍、副歌），进行替换、改写、翻译或延展，编辑操作不会影响曲目其余部分。
+
+
+AI Covers风格转换：保留原曲旋律与结构，将整首歌曲转换为完全不同的风格，例如将流行乐转为Lo-Fi或古典版本。
+
+
+AI音乐视频生成：集成Gemini Omni Flash与Veo视频模型，通过对话式提示指导场景、节奏和视觉风格，为歌曲生成配套MV。
+
+
+Remix与分轨：支持Stem Split分轨导出，以及通过上下文提示对特定片段进行迭代重混，如”将Lo-Fi钢琴前奏延展为Dubstep Drop”。
+
+
+Spaces空间创作：通过自然语言（Vibe Coding）创建交互式音乐应用、音频插件、音乐游戏和自定义DAW。
+
+
+社交与发布：支持在平台内发布歌曲、创建播放列表、关注艺术家和发现新音乐，构建创作者社区。
+
+
+个性化学习：系统会随着用户使用自动学习个人风格偏好，输出质量越用越精准。
+
+
+如何使用Flow Music
+
+
+访问平台：打开 Google Flow Music 官网 https://www.flowmusic.app/（原ProducerAI域名已自动跳转至新地址）。
+
+
+发起创作：在聊天框中用自然语言描述需求，例如”史诗级管弦乐配乐，带合唱团， cinematic且富有情感”或”学习用的Chill Lo-Fi hip-hop，不要人声”。
+
+
+选择变体：系统会根据提示生成两个版本供试听，选择更满意的一版进入下一步。
+
+
+精细编辑：选中需要修改的片段，用提示词指令进行精准调整，如”改写这段歌词为中文”或”将桥段延展为新的合成器独奏”。
+
+
+生成MV（可选）：使用AI Music Video功能，通过对话指导Gemini Omni为歌曲生成匹配的视觉内容，控制角色、美学和场景细节。
+
+
+导出与分享：将完成的作品导出为标准音频格式，或发布至平台社区，创建播放列表并与其他创作者互动。
+
+
+Flow Music的核心优势
+
+
+顶级模型与结构理解：Lyria 3 Pro专为音乐创作设计，能理解复杂的曲式结构（前奏、主歌、副歌、桥段），生成具有音乐逻辑的长篇作品。
+
+
+段落级精准控制：相比同类工具的一次性生成模式，Flow Music提供类似专业DAW的段落编辑能力，支持迭代打磨而非重复抽卡。
+
+
+音频-视频原生联动：作为Google Flow创意家族成员，与视频工具共享生态，是唯一同时具备顶级音乐生成和视频生成能力的大厂套件，未来可实现音视频联动创作。
+
+
+全球化与低门槛：基础版免费且无需信用卡，面向全球开放；相比部分存在区域限制的竞品，普适性更强。
+
+
+合规与透明度：所有AI生成内容嵌入SynthID水印标识；Google声明训练数据使用YouTube及Google合法授权素材，积极接入C2PA内容凭证标准。
+
+
+Flow Music的同类竞品对比
+
+
+
+对比维度
+Google Flow Music
+Suno
+Udio
+
+
+
+
+底层模型
+Lyria 3 Pro (Google DeepMind)
+自研模型
+自研模型
+
+
+最大时长
+3分钟
+约4分钟
+约4分钟
+
+
+片段级编辑
+支持（替换/延展/改写）
+有限
+有限
+
+
+AI音乐视频
+内置（Veo/Gemini Omni）
+不支持
+不支持
+
+
+多语言人声
+支持（含日语、中文等）
+支持
+支持
+
+
+训练数据合规
+声称使用合法授权素材
+面临版权诉讼
+面临版权诉讼
+
+
+社交/社区功能
+内置发布/关注/播放列表
+内置社区
+内置社区
+
+
+移动端应用
+iOS已上线，Android即将上线
+有限
+有限
+
+
+价格策略
+基础免费，无需信用卡
+免费+付费订阅
+免费+付费订阅
+
+
+
+Flow Music的应用场景
+
+
+专辑前期探索：艺术家在策划新专辑时快速实验不同流派方向和编曲概念。
+
+
+影视与播客配乐：为独立电影、短视频、播客节目生成定制化背景音乐和主题歌曲。
+
+
+广告音频定制：根据品牌调性生成多版本广告配乐，通过AI Covers快速输出不同风格备选。
+
+
+音乐教育辅助：学习者通过AI理解不同曲风结构、编曲技巧和声乐处理方式。
+
+
+互动音乐开发：开发者基于Spaces创建音乐游戏、DJ打击垫、虚拟乐器等交互式音频体验。
+
+
+Remix与翻唱创作：将现有作品转换为Lo-Fi、古典、电子等风格版本，用于二次创作和采样。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Flow Music\",\"description\":\"Google Labs推出的AI音乐创作平台\",\"url\":\"https://aistool.orgaiyinpingongju/flow-music/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/05/Google-Flow-Music-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aiyinpingongju/","className":"hover:text-primary transition","children":"AI音频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Flow Music"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/05/Google-Flow-Music-icon.png","alt":"Flow Music","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Flow Music"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","9",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI音频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Google Labs推出的AI音乐创作平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1340",{"href":"/aizhinengti/astronclaw/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AstronClaw"}],["$","a","808",{"href":"/aibangonggongju/aihaoji/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Ai好记"}],["$","a","64",{"href":"/ailiaotianzhushou/grok/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Grok"}],["$","a","901",{"href":"/aibangonggongju/powerpresent-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Powerpresent AI"}],["$","a","555",{"href":"/aituxianggongju/gaodingaibianqingxi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"稿定AI变清晰"}],["$","a","386",{"href":"/aixiezuogongju/5118-seoyouhuajingling/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"5118 SEO优化精灵"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

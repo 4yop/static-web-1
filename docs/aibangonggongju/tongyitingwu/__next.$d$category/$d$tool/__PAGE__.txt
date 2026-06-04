@@ -1,0 +1,88 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/09/tingwu-logo.png","image"]
+3:Tef5,
+                通义听悟是什么
+通义听悟是阿里云推出的工作学习AI助手，依托通义千问语言模型、音视频AI模型能力，为用户提供实时语音转写、音视频文件转写、实时翻译、智能提炼关键信息等多种功能，带来音频和视频内容记录和阅读的全新体验。工具支持多种语言，支持自动区分发言人，能提取关键词、待办事项等，帮助用户高效管理知识和信息。在会议、学习和访谈等场景中，通义听悟都能让用户轻松记录、整理和回顾重要内容，提升工作和学习效率。
+
+通义听悟的主要功能
+
+
+实时语音转写：在会议、讲座等场景中，能实时将语音转换成文字。
+
+
+文件转写：支持上传音频或视频文件，将文件中的内容转写成文字。
+
+
+实时翻译：在转写过程中提供中英文的实时翻译功能，帮助跨语言理解。
+
+
+智能提炼：自动从转写内容中提取关键信息，如全文概要、章节速览和发言总结。
+
+
+关键词提取：自动识别转写文本中的关键词，便于用户快速定位重要信息。
+
+
+待办事项生成：从会议记录等转写内容中智能识别、提取待办事项。
+
+
+内容导出：支持用户将转写和翻译的内容导出为多种格式，如Word、PDF等。
+
+
+记录分享：支持将转写记录通过链接、社交媒体等方式分享给他人。
+
+
+笔记编辑：用户能在转写内容上添加个人笔记，进行编辑和整理。
+
+
+自定义专有词汇：支持函用户添加自定义词汇，提高特定领域术语的转写准确性。
+
+
+发言人管理：帮助用户管理不同发言人的信息，便于在回顾记录时识别。
+
+
+PPT提取与总结：从视频文件中提取PPT幻灯片内容，生成摘要。
+
+播客链接转写：支持用户输入播客的RSS订阅链接，自动将播客音频内容转换为文字，智能提炼关键信息。
+
+如何使用通义听悟
+
+访问官网：访问通义听悟官网 https://tingwu.aliyun.com/，选择在线体验或用微信小程序、插件等方式体验，完成账号注册和登录。
+实时记录：点击“开始录音”按钮，开始实时转录语音内容。
+结束录音：录音结束后点击“停止录音”，系统自动保存转写内容。
+文件转写：点击“文件转写”，选择本地或阿里云盘中的音视频文件。选择文件的转写语言开始转写。转写完成后，可在页面中查看和编辑转写内容。
+翻译功能：在实时记录或文件转写中点击“翻译”按钮，选择目标语言（如中英互译）。系统自动翻译内容，支持导出翻译结果。
+智能提炼：转写完成后，系统自动生成全文概要、章节速览和发言总结。
+提取关键词：系统自动提取关键词，点击关键词可快速定位相关内容。
+生成待办事项：系统自动识别生成待办事项，方便后续跟进。
+导出内容：点击“导出”按钮，选择需要导出的内容（如原文、笔记、翻译等）和格式（如word、pdf、srt字幕文件等）。
+分享记录：点击“分享”按钮，通过公开链接、微信、钉钉等方式分享记录。
+
+通义听悟的应用场景
+
+
+企业办公：在会议、培训和客户访谈中实现实时语音转写和翻译，提高信息记录和沟通效率。
+
+
+在线教育：为在线课程提供实时字幕和知识点总结，增强学习体验和课程回顾的便利性。
+
+
+内容创作：帮助内容创作者快速从音频或视频中提取文本，用于文章撰写或素材整理。
+
+
+法律行业：在法庭记录、证据整理和案件分析中提供精确的语音转写服务。
+
+
+媒体行业：记者和编辑快速转写采访录音，加速新闻稿件的编写和发布。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"通义听悟\",\"description\":\"阿里推出的AI会议转录工具，万语千言，心领神悟\",\"url\":\"https://aistool.orgaibangonggongju/tongyitingwu/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/09/tingwu-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"通义听悟"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/09/tingwu-logo.png","alt":"通义听悟","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"通义听悟"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}],["$","span","9",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI音频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"阿里推出的AI会议转录工具，万语千言，心领神悟"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1143",{"href":"/aixunlianmoxing/anythingllm/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AnythingLLM"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1203",{"href":"/aineirongjiance/qianbijiangailü/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千笔降AI率"}]
+5:["$","a","741",{"href":"/aibangonggongju/omniboxxiaohei/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"OmniBox小黑"}]
+6:["$","a","585",{"href":"/aituxianggongju/wanxiangyingzao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"万相营造"}]
+7:["$","a","900",{"href":"/aibangonggongju/decktopus-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Decktopus AI"}]
+8:["$","a","1129",{"href":"/aixuexiwangzhan/generative-ai-for-beginners/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Generative AI for Beginners"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

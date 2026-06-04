@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/11/xai-icon.png","image"]
+3:Tdfd,
+                Grok是什么
+Grok 是马斯克旗下的xAI公司最新推出的多功能人工智能助手，一个与 ChatGPT 类似的聊天机器人，关键的区别之处在于 Grok 可以实时访问 𝕏（原Twitter）数据，可以为用户提供最新且独特的信息。通过自然语言处理技术为用户提供智能对话、图像生成和实时信息查询等功能。Grok 最新版增加Imagine AI图像和视频生成功能，用户输入文本后能快速生成6秒高清视频（1080p），且能自动自动添加背景音乐，目前该功能处于测试阶段，仅对SuperGrok 和 Premium+ 订阅用户开放。
+
+Grok的主要功能
+
+智能对话与问答：Grok 能理解用户的自然语言输入，生成流畅、智能的回答。支持多种类型的对话，包括日常闲聊、问题解答和复杂推理任务。
+图像生成与分析：Grok 支持根据文本描述生成高质量图像，能分析用户上传的图片，提供详细的描述和分析。
+实时信息查询：Grok 可以实时访问 X（前 Twitter）平台的数据，为用户提供最新的动态和趋势信息。在回答时事问题时更具时效性。
+文档处理与分析：用户可以上传文档（如研究报告、文章等），Grok 能快速解析并提供总结、分析或回答相关问题。
+编程与代码辅助：Grok 支持编写代码、调试程序，帮助用户解决编程问题。
+多模态交互：Grok 提供多种交互模式，包括自动模式、可视化模式、搜索模式和仅模型模式，用户可以根据需求灵活切换。
+
+Grok的官网地址
+
+官网地址：https://grok.com/
+
+如何使用Grok
+
+平台支持：Grok 可通过网页版、iOS 和 Android 应用使用。网页版无需注册 X 账号即可体验。
+免费版限制：免费用户每两小时可发送 10 条文本提示，每天最多分析 3 张图片。
+
+Grok的应用场景
+
+内容创作与编辑：Grok 可以帮助创作者生成文章、故事、视频脚本、广告文案等内容，显著提升创作效率。支持根据文本描述生成高质量图像，为社交媒体帖文或创意项目提供配图。
+教育领域：Grok 可以作为学生的学习伙伴，根据学生的学习进度和兴趣提供个性化的学习计划和辅导。可以为教师提供教学资源和课程设计建议，帮助提升教学效率。
+金融与风险管理：在金融领域，Grok 能分析市场趋势、财务报表等数据，帮助投资者做出科学的投资决策。可以用于风险预测，帮助金融机构识别潜在风险并制定应对措施。
+医疗健康：Grok 可以辅助医生进行疾病诊断和治疗方案制定，通过分析患者的病历、检查报告和基因数据提供专业建议。用于医疗影像分析，帮助医生更准确地识别病变。
+客户服务：Grok 能处理海量客户咨询，提供快速、准确的解答，显著提升客户服务效率。可以集成到企业的在线客服系统中，帮助企业降低人力成本并提高客户满意度。
+市场营销：Grok 可以分析客户反馈，生成市场趋势报告，帮助营销人员制定实时的营销策略。
+
+Grok的特色与优势
+
+回答任何问题，解决用户疑问并生成创造性的文本格式，如诗歌、代码、脚本和邮件
+独特个性，相比于其他的聊天机器人，Grok的回复更具“幽默感”
+与 𝕏 （原Twitter）平台对接，可实时获取该社交平台最新状态
+充当强大的研究助手，帮助用户快速访问相关信息、处理数据并提出新想法
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Grok\",\"description\":\"马斯克旗下xAI推出的人工智能助手\",\"url\":\"https://aistool.orgailiaotianzhushou/grok/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/11/xai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/ailiaotianzhushou/","className":"hover:text-primary transition","children":"AI聊天助手"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Grok"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/11/xai-icon.png","alt":"Grok","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Grok"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","6",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI聊天助手"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"马斯克旗下xAI推出的人工智能助手"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","718",{"href":"/aishipingongju/tuanduikuaijian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"团队快剪"}],["$","a","395",{"href":"/aixiezuogongju/wpszhinengxiezuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"WPS智能写作"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","643",{"href":"/aishipingongju/skyreels/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"SkyReels"}]
+5:["$","a","1299",{"href":"/aizhinengti/yuanqiai-bot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"元气AI Bot"}]
+6:["$","a","598",{"href":"/aishipingongju/duiyouaishipin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"堆友AI视频"}]
+7:["$","a","708",{"href":"/aishipingongju/huiyingzimu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"绘影字幕"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

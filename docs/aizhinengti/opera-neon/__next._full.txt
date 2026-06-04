@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aizhinengti","opera-neon",""],"q":"","i":false,"f":[[["",{"children":[["category","aizhinengti","d",null],{"children":[["tool","opera-neon","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/10/Opera-Neon-website-2.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tb98,
+                Opera Neon是什么
+Opera Neon 是 Opera 推出的全新AI Agent浏览器，专为大量使用 AI 的用户设计。Opera Neon 支持创建独立工作空间，支持多信息源分析与操作，如旅行规划、研究学习等。可主动执行任务，如购物、预订等，无需向云端共享密码，保障隐私。Opera Neon 助力用户创作，如生成网站、游戏、报告等，支持离线创作并生成专属链接分享。用户可创建或选用预定义卡片，更高效地获取所需结果。Opera Neon 基于 Opera 浏览器开发，融合了广告拦截器、VPN 等核心功能，同时加入了 AI Agent技术，让用户在网络操作中更高效、安全地完成任务。
+
+Opera Neon的主要功能
+
+
+任务功能：创建独立工作空间，支持多信息源分析与操作，适用于旅行规划、研究学习等场景。
+
+
+Neon Do：主动执行任务，如购物、预订等，无需向云端共享密码，保障隐私安全。
+
+
+Neon Make：助力用户创作，如生成网站、游戏、报告等，支持离线创作并生成专属链接分享。
+
+
+卡片功能：用户可创建或选用预定义卡片，更高效地获取所需结果，提升操作便捷性。
+
+
+浏览器基础功能：继承 Opera 浏览器的广告拦截器、VPN、书签等核心功能，满足日常浏览需求。
+
+
+如何使用Opera Neon
+
+
+加入候补名单：访问 Opera Neon 官网 https://www.operaneon.com/，点击 “Join the waitlist” 按钮加入候补名单，等待官方邀请。
+
+
+安装并启动：收到邀请后，安装 Opera Neon 浏览器并启动，注册登录账号。
+
+
+使用 Chat 功能：通过聊天界面输入问题或请求，获取即时答案和信息。
+
+
+利用 Do 功能：输入需要执行的任务，如填写表单或预订旅行，浏览器将自动完成任务。
+
+
+使用 Make 功能：输入项目需求，如创建网站或游戏，浏览器将在云端创建并返回最终结果。
+
+
+交互方式：通过语音或文本与浏览器交互，根据需要选择语言和功能。
+
+
+Opera Neon的应用场景
+
+
+旅行规划：用户只需告知旅行目的地和偏好，Opera Neon 即可生成包含地图、景点介绍、当地常用语及文化注意事项的详细互动式行程手册。
+
+
+金融分析：能生成综合的股票分析报告，结合财务基本面、市场情绪、技术信号等信息，为投资者提供决策支持。
+
+
+游戏开发：可创建简单的网页游戏，如复古贪吃蛇游戏，支持动画和高分记录功能。
+
+
+保险咨询：为用户提供交互式的保险顾问服务，比较不同保险政策，计算贷款影响，帮助用户选择最适合的保险方案。
+
+
+代码编写：根据用户需求生成代码片段，甚至开发简单的 Web 应用程序，支持多种编程语言和框架。
+
+
+办公自动化：自动处理日常办公任务，如填写表单、预订行程等，提高工作效率。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Opera Neon\",\"description\":\"Opera推出的全新AI Agent浏览器\",\"url\":\"https://aistool.orgaizhinengti/opera-neon/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/10/Opera-Neon-website-2.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Opera Neon"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/10/Opera-Neon-website-2.png","alt":"Opera Neon","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Opera Neon"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Opera推出的全新AI Agent浏览器"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","902",{"href":"/aibangonggongju/xiwobaiban/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"希沃白板"}],["$","a","18",{"href":"/aizhinengti/opera-neon/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Opera Neon"}],["$","a","1166",{"href":"/aixunlianmoxing/cohere/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Cohere"}],"$L13","$L14","$L15"]}]]}]]}]]}]
+13:["$","a","1098",{"href":"/aikaifapingtai/tensorflow/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"TensorFlow"}]
+14:["$","a","1116",{"href":"/aikaifapingtai/anakin.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Anakin.ai"}]
+15:["$","a","38",{"href":"/aizhinengti/hundundeep-innovation/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"混沌Deep Innovation"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Opera Neon | AIStool"}],["$","meta","1",{"name":"description","content":"Opera Neon 是 Opera 推出的全新AI Agent浏览器，专为大量使用 AI 的用户设计。Opera Neon 支持创建独立工作空间，支持多信息源分析与操作，如旅行规划、研究学习等。可主动执行任务，如购物、预订等，无需向云端共享密码，保障隐私。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaizhinengti/opera-neon/"}],["$","meta","3",{"property":"og:title","content":"Opera Neon"}],["$","meta","4",{"property":"og:description","content":"Opera Neon 是 Opera 推出的全新AI Agent浏览器，专为大量使用 AI 的用户设计。Opera Neon 支持创建独立工作空间，支持多信息源分析与操作，如旅行规划、研究学习等。可主动执行任务，如购物、预订等，无需向云端共享密码，保障隐私。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaizhinengti/opera-neon/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/10/Opera-Neon-website-2.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Opera Neon"}],["$","meta","10",{"name":"twitter:description","content":"Opera Neon 是 Opera 推出的全新AI Agent浏览器，专为大量使用 AI 的用户设计。Opera Neon 支持创建独立工作空间，支持多信息源分析与操作，如旅行规划、研究学习等。可主动执行任务，如购物、预订等，无需向云端共享密码，保障隐私。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/10/Opera-Neon-website-2.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","13",{}]]

@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/01/Coze-logo-2.png","image"]
+3:Tc47,
+                Coze是字节跳动推出的零代码 AI 应用开发平台，可以理解为字节跳动版的GPTs。无论用户是否有编程经验，都可以通过该平台快速创建各种类型的聊天机器人、智能体、AI应用和插件，并将其部署在社交平台和即时聊天应用程序中，如Discord、WhatsApp、Twitter、飞书、微信公众号、豆包等。目前Coze平台上拥有海量AI智能体，图文、音视频生成等各个领域全覆盖，完全免费使用。
+Coze国际版（coze.com）提供的是基于OpenAI GPT-4和GPT-3.5的API来创建和使用AI聊天机器人，并未使用自研的云雀大模型。如同此前推出的聊天机器人豆包国际版为Cici，字节也推出了一个国内版本的Coze扣子（coze.cn），采用了豆包大模型，允许用户自主创建自定义聊天机器人。
+
+Coze的主要功能
+
+丰富的插件工具：该平台目前包含 60 多个不同的插件，包括新闻阅读、旅行计划、生产力工具、图像理解 API 和多模态模型
+知识库调取和管理：Coze提供易于使用的知识库功能，使 AI 能够与用户自己的数据（如PDF、网页文本）进行交互。可以存储和管理知识中的数据
+长期记忆能力：提供便捷的数据库存储能力，可以让 AI 机器人持久记住对话中的关键参数或内容
+定时计划任务：通过计划任务功能，用户可以使用自然语言轻松创建复杂的任务，创建好的机器人会准时发送相应的消息内容。
+工作流程自动化：轻松创建一个工作流程将创意想法转换为机器人技能，如收集电影评论、起草行业研究报告等
+预览和调试：机器人开发完成后，可以发送消息来查看机器人的响应，并根据知识搜索结果和工具响应来排查问题
+
+
+如何使用Coze创建机器人
+
+访问Coze的官网（coze.cn），点击Get started登录/注册账号
+选择侧边栏的Bots菜单，点击Create bot，然后添加机器人Logo、名称、描述信息
+然后在Persona & Prompt输入框中输入机器人角色和提示词，右侧可预览和调试输出信息
+测试无误后可点击右上角的Publish发布创建好的机器人
+
+Coze的适用人群
+
+开发人员：专注于为特定任务调整AI模型和提示词，而不是花费大量时间进行初始开发
+企业公司：通过将AI机器人集成到内部程序如客户支持系统、内容创作工具和推荐引擎中，开发创新的应用和服务
+研究人员：利用该平台作为实验工具进行各种研究任务，探索自然语言生成和理解
+AI爱好者：免费的GPT API，创建自定义机器人用于日常生活、学习和工作中
+
+常见问题
+
+
+Coze支持哪些大模型？
+Coze国际版目前支持通过GPT-3.5和GPT-4模型来构建AI机器人，国内版基于豆包大模型。
+
+
+Coze是免费的吗？
+Coze目前是免费向用户开放的，同时提供了部分增值服务。
+
+
+Coze创建的机器人可以发布到哪些平台？
+Coze目前支持将创建好的机器人发布到Discord和Cici，后续将支持WhatsApp和Twitter。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Coze\",\"description\":\"海量AI智能体免费用，一键复制同款\",\"url\":\"https://aistool.orgaikaifapingtai/coze/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/01/Coze-logo-2.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Coze"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/01/Coze-logo-2.png","alt":"Coze","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Coze"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"海量AI智能体免费用，一键复制同款"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","271",{"href":"/aishejigongju/uizard/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Uizard"}],["$","a","661",{"href":"/aishipingongju/lensgo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LensGo"}],["$","a","251",{"href":"/aishejigongju/kittl/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Kittl"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","196",{"href":"/aibianchenggongju/debuild/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Debuild"}]
+5:["$","a","1268",{"href":"/aiyinpingongju/duoweishijie/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"多维视界"}]
+6:["$","a","1305",{"href":"/aikaifapingtai/zenmux/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ZenMux"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

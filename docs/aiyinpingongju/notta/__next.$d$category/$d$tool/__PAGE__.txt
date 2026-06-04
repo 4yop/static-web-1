@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/09/Notta-logo.png","image"]
+3:Tbeb,
+                Notta是什么
+Notta是语音转文本工具，能将音频和视频内容实时转录成文字，支持多达 58 种语言。工具自动生成会议摘要、提取关键信息和行动项，将重要内容剪辑成片段分享给团队成员。Notta 具备会议录制、日程安排等功能，支持与 Slack、Salesforce、Notion 等多种常用工具无缝集成，极大地提升工作效率。Notta适用任何现代设备，如PC、智能手机和平板电脑，从麦克风转录在线会议、网页音频、音频文件和现场录音，Notta都能处理，是提升会议效率和团队协作的利器。
+
+Notta的主要功能
+
+
+AI转录：支持58种语言，能将音频或视频内容实时转录为文字，方便用户快速获取会议记录。
+
+
+自动翻译：提供AI驱动的翻译功能，帮助用户跨越语言障碍，轻松应对多语言会议。
+
+
+AI笔记：自动提取会议中的关键信息、行动项和决策，帮助用户快速总结会议要点。
+
+
+双语转录：支持双语会议的转录，便于多语言环境下的顺畅沟通。
+
+
+会议录制：用高音质和高清视频录制在线会议，方便用户随时回看。
+
+
+会议日程安排：简化会议安排流程，支持与日历同步，方便用户管理时间。
+
+
+AI聊天：针对会议内容提问，获取AI的即时回答，帮助用户更好地理解和跟进会议内容。
+
+
+内容导出：支持将会议记录导出为TXT、Word、PDF、SRT等多种格式，方便用户在不同场景下使用。
+
+
+团队协作：与Slack、Salesforce、Notion等常用工具集成，方便团队成员共享笔记和协作。
+
+
+如何使用Notta
+
+
+注册登录：访问Notta官网 https://www.notta.ai/，或下载Notta APP，完成账号注册和登录。
+
+
+创建记录：登录后，点击“New Recording”开始录制会议，或上传已有音频/视频文件。
+
+
+实时转录：录制过程中，Notta自动将语音转录为文字，支持58种语言。
+
+
+生成摘要：会议结束后，点击“Generate Summary”按钮，AI快速提取关键信息和行动项。
+
+
+编辑分享：根据需要编辑转录内容，点击“Share”按钮，通过Slack、邮件等方式分享给团队成员。
+
+
+导出笔记：点击“Export Notes”，选择导出格式（如TXT、Word、PDF等），保存到本地或同步到Notion等工具。
+
+
+集成工具：连接Slack、Salesforce等常用工具，确保笔记和日程与工作流无缝同步。
+
+
+Notta的应用场景
+
+
+会议记录：实时转录会议内容生成摘要，节省手动记录和整理的时间。
+
+
+远程协作：录制在线会议并分享关键片段，确保团队成员即使无法参会能快速了解重点。
+
+
+销售跟进：转录销售电话或会议，提取客户反馈和行动项，助力销售团队高效跟进。
+
+
+教育领域：转录讲座和研讨会，方便学生复习和教师整理教学内容。
+
+
+媒体与播客：为播客和视频内容生成准确的字幕或转录文本，提升内容制作效率。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Notta\",\"description\":\"AI在线将语音转换成文字\",\"url\":\"https://aistool.orgaiyinpingongju/notta/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/09/Notta-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aiyinpingongju/","className":"hover:text-primary transition","children":"AI音频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Notta"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/09/Notta-logo.png","alt":"Notta","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Notta"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","9",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI音频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI在线将语音转换成文字"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","740",{"href":"/aibangonggongju/aotugongfang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"凹凸工坊"}],["$","a","1294",{"href":"/aituxianggongju/jiaodianai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"蕉点AI"}],["$","a","844",{"href":"/aibangonggongju/einstein-copilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Einstein Copilot"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","632",{"href":"/aishipingongju/xunfeihuijing/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞绘镜"}]
+5:["$","a","464",{"href":"/aituxianggongju/bgsub/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"BgSub"}]
+6:["$","a","280",{"href":"/aishejigongju/color-wheel/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Color Wheel"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

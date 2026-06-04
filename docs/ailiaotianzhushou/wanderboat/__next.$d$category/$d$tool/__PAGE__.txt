@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/07/wanderboat-logo.png","image"]
+3:Tb1a,
+                Wanderboat是什么
+Wanderboat 是一款由GPT-4 驱动的智能旅行规划助手，通过对话式AI帮助用户轻松规划个性化的旅行。你只需通过聊天就能获得定制的旅行建议，包括景点、美食和活动推荐。Wanderboat 利用AI大数据分析，根据你的偏好即时生成行程，并提供带有视频和图片的丰富信息。还可以通过链接分享旅行计划，享受便捷和社交化的旅行规划服务。
+
+Wanderboat的主要功能
+
+个性化旅行规划：用户可以通过与聊天机器人对话，输入旅行偏好、目的地或需求，获得定制化的行程推荐。Wanderboat 会根据用户的需求提供深入回应和个性化建议。
+结构化一站式解决方案：平台整合了出游建议、景点和餐厅的照片、视频、地图、点评等信息，形成易于理解和使用的一站式解决方案。
+多媒体集成：Wanderboat 提供了丰富的多媒体内容，包括视频、图片、地图等，帮助用户更直观地了解目的地。
+智能交互：用户可以针对每个目的地提出问题，AI 助手会提供精准的答案，例如关于停车、游玩时间、是否需要购票等信息。
+
+如何使用Wanderboat
+
+访问网站：首先，打开浏览器并访问Wanderboat 的官方网站（wanderboat.ai）。
+与AI对话：在网站上，可以找到一个与AI交互的界面。直接通过这个界面与AI进行对话，告诉它你的旅行偏好，比如目的地、旅行日期、兴趣点等。
+提供信息：根据AI的提示，提供更多关于你的旅行计划的详细信息，比如你想要访问的特定景点、活动类型、餐饮偏好等。
+获取推荐：AI会根据你提供的信息，推荐个性化的旅行计划，包括景点、餐厅和活动。
+自定义行程：可以根据自己的需要调整推荐的行程，比如添加或删除某些活动，或者改变日程安排。
+查看行程概览：使用Wanderboat 提供的互动地图，查看整个旅行的概览，并确保所有活动都符合你的日程。
+
+Wanderboat适用人群
+
+旅行爱好者：喜欢探索新地方和体验不同文化的人，Wanderboat 可以提供个性化的旅行建议和规划。
+忙碌的专业人士：时间宝贵，希望快速得到高质量旅行计划的专业人士，Wanderboat 可以节省他们规划旅行的时间。
+家庭旅行者：家庭旅行者往往需要考虑多个成员的需求和兴趣，Wanderboat 可以帮助他们找到适合全家的旅行方案。
+情侣或朋友团体：想要一起旅行的情侣或朋友团体，可以使用Wanderboat 来规划共同的旅行体验。
+独自旅行者：独自旅行的人可能会觉得规划旅行有些困难或孤单，Wanderboat 可以提供个性化建议，让独自旅行变得更加轻松和有趣。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Wanderboat\",\"description\":\"硅谷初创公司UTA AI推出的AI旅行助手\",\"url\":\"https://aistool.orgailiaotianzhushou/wanderboat/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/07/wanderboat-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/ailiaotianzhushou/","className":"hover:text-primary transition","children":"AI聊天助手"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Wanderboat"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/07/wanderboat-logo.png","alt":"Wanderboat","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Wanderboat"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","6",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI聊天助手"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"硅谷初创公司UTA AI推出的AI旅行助手"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","544",{"href":"/aituxianggongju/iopaint/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"IOPaint"}],["$","a","1187",{"href":"/aineirongjiance/aiseo-ai-content-detector/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AISEO AI Content Detector"}],["$","a","970",{"href":"/aiyinpingongju/wondercraft/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Wondercraft"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","706",{"href":"/aishipingongju/laihua/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"来画"}]
+5:["$","a","1244",{"href":"/aituxianggongju/liblibaidianshangyingxiao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LiblibAI电商营销"}]
+6:["$","a","523",{"href":"/aituxianggongju/magnific-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Magnific AI"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

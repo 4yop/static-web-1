@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","ailiaotianzhushou","le-chat",""],"q":"","i":false,"f":[[["",{"children":[["category","ailiaotianzhushou","d",null],{"children":[["tool","le-chat","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/Le-Chat-logo1.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tda8,
+                Le Chat是什么
+Le Chat 是 Mistral 推出的多功能 AI 对话聊天助手，能提升用户的工作效率和生活质量。Le Chat 具备强大的多语言对话能力，支持语音输入和自然语言理解。Le Chat 提供深度研究功能，能快速生成复杂主题的结构化报告。Le Chat支持图像生成、代码生成、文档协作和网页搜索等功能，帮助用户在创意设计、编程和数据分析方面更高效。Le Chat 注重数据隐私保护，数据加密传输且不与第三方共享，适合专业人士、学生和创意工作者，是现代生活中的智能伙伴。
+
+Le Chat的主要功能
+
+深度研究（Research）：快速生成复杂主题的结构化研究报告，规划、搜索并综合信息，帮助用户进行学术研究、市场分析或个人计划。
+多语言对话（Chat）：支持自然语言理解，基于Magistral 模型支持多语言推理能力，用户能用文本或语音与 Le Chat 进行交互。
+图像生成（Image Generation）：基于 AI 技术生成高质量的图像，支持创意设计和视觉内容创作。
+项目管理（Projects）：将对话、数据和文档组织成个性化项目，方便用户管理信息和任务。
+代码生成（Code Interpreter）：提供代码生成和图表绘制功能，帮助用户进行编程和数据分析。
+文档协作（Canvas）：支持多人协作编辑文档，方便团队合作和知识共享。
+网页搜索（Web Search）：快速搜索网络和经过认证的新闻来源，获取最新的信息。
+
+原生多语言推理： Magistral 模型，提供多语言支持，生成深思熟虑的答案。
+
+
+高级图像编辑：与 Black Forest Labs 合作，支持图像生成和编辑，如移除物体或场景转换。
+
+
+实时新闻和文档 OCR：支持多语言文档识别和实时新闻更新。
+
+
+
+如何使用Le Chat
+
+访问官网：在线使用，访问Le Chat官网，点击登录。客户端访问Le Chat APP下载页面，根据操作系统进行下载和安装。
+注册与登录：按提示完成注册和登录。
+探索主要功能：
+
+聊天功能：在主界面中输入文本或使用语音输入与 Le Chat 进行对话。你可以提出问题、获取建议或进行闲聊。
+深度研究：点击“Research”按钮，输入复杂问题或研究主题，Le Chat 自动生成结构化的研究报告。
+图像生成：点击“Image generation”按钮，输入描述性的文本提示，Le Chat 生成相应的图像。
+代码生成：点击“Code Interpreter”按钮，输入代码需求，Le Chat 生成相应的代码片段或图表。
+文档协作：点击“Canvas”按钮，创建或加入文档协作项目，与他人共同编辑文档。
+网页搜索：使用“Web search”功能，输入关键词，Le Chat 搜索网络并提供最新信息。
+
+
+
+Le Chat的应用场景
+
+
+工作与生产力提升：通过项目管理、代码生成和文档协作，提升工作效率和团队协作能力。
+
+
+学习与研究：用深度研究和多语言支持，快速生成研究报告，助力学术和跨语言学习。
+
+
+创意与设计：借助图像生成和创意迭代功能，激发创意灵感，支持设计和内容创作。
+
+
+日常生活与个人管理：用语音助手、日程管理和邮件管理，简化日常任务，提高生活效率。
+
+
+旅行与语言学习：支持多语言对话和文化研究，帮助旅行者更好地与当地人交流，了解不同文化。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Le Chat\",\"description\":\"Mistral推出的AI对话聊天助手\",\"url\":\"https://aistool.orgailiaotianzhushou/le-chat/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/Le-Chat-logo1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/ailiaotianzhushou/","className":"hover:text-primary transition","children":"AI聊天助手"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Le Chat"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/Le-Chat-logo1.png","alt":"Le Chat","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Le Chat"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","6",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI聊天助手"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Mistral推出的AI对话聊天助手"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","811",{"href":"/aibangonggongju/tongyitingwu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"通义听悟"}],["$","a","826",{"href":"/aibangonggongju/wolaiwolai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"我来wolai"}],"$L13","$L14","$L15","$L16"]}]]}]]}]]}]
+13:["$","a","115",{"href":"/ailiaotianzhushou/moss/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MOSS"}]
+14:["$","a","990",{"href":"/aiyinpingongju/assemblyai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AssemblyAI"}]
+15:["$","a","300",{"href":"/aixiezuogongju/paperpal/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Paperpal"}]
+16:["$","a","1388",{"href":"/ailiaotianzhushou/lorka-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Lorka AI"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Le Chat | AIStool"}],["$","meta","1",{"name":"description","content":"Le Chat 是 Mistral 推出的多功能 AI 对话聊天助手，能提升用户的工作效率和生活质量。Le Chat 具备强大的多语言对话能力，支持语音输入和自然语言理解。Le Chat 提供深度研究功能，能快速生成复杂主题的结构化报告。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgailiaotianzhushou/le-chat/"}],["$","meta","3",{"property":"og:title","content":"Le Chat"}],["$","meta","4",{"property":"og:description","content":"Le Chat 是 Mistral 推出的多功能 AI 对话聊天助手，能提升用户的工作效率和生活质量。Le Chat 具备强大的多语言对话能力，支持语音输入和自然语言理解。Le Chat 提供深度研究功能，能快速生成复杂主题的结构化报告。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgailiaotianzhushou/le-chat/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/07/Le-Chat-logo1.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Le Chat"}],["$","meta","10",{"name":"twitter:description","content":"Le Chat 是 Mistral 推出的多功能 AI 对话聊天助手，能提升用户的工作效率和生活质量。Le Chat 具备强大的多语言对话能力，支持语音输入和自然语言理解。Le Chat 提供深度研究功能，能快速生成复杂主题的结构化报告。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/07/Le-Chat-logo1.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","13",{}]]

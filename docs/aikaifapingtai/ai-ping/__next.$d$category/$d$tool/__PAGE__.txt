@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/09/AI-Ping-logo.png","image"]
+3:Tb04,
+                AI Ping是什么
+AI Ping是一站式大模型服务评测与模型API调用平台，通过持续监测和专业评测，AI Ping整合数十家供应商的数百个模型服务，如无问芯穹、SophNet、PPIO派欧云等，和知名模型，如DeepSeek、GLM、Kimi、Hunyuan等，为开发者呈现清晰的性能榜单，助力高效选型。同时，AI Ping 提供统一的API接口和智能路由功能，简化开发流程，动态匹配最优供应商，显著提升开发效率、优化成本。
+
+AI Ping的主要功能
+
+
+模型性能评测榜单：提供7×24小时持续监测的大模型性能数据，涵盖延迟、吞吐等关键指标，帮助开发者快速评估和选择合适的模型服务。
+
+
+多平台统一API接口：开发者通过一个接口能访问多家供应商的数百个模型服务，无需切换平台，提升开发效率。
+
+
+智能路由功能：根据开发者需求动态匹配最优供应商，结合实时数据和优化算法，平衡性能与成本。
+
+
+个人数据中心：提供详细的API调用数据报表，包括模型、供应商、Token消耗量和费用等，助力开发者科学管理成本。
+
+
+
+如何使用AI Ping
+
+访问官网：访问AI Ping官网 https://aiping.cn/，进入AI Ping首页
+注册和登录：在 AI Ping 首页右上角点击“登录”按钮，完成注册和账号登录。
+选择模型：
+
+点击首页导航栏的“探索模型”，查看所有已接入的模型。
+使用“搜索栏”或“选择模型系列”功能快速筛选所需模型。
+点击模型卡片进入详情页，查看模型相关信息及供应商 API 服务的汇总与评测数据。
+
+
+调用 API 服务：
+
+在模型详情页底部，选择合适的调用方式（如 OpenAI Python SDK、Requests、Curl）。
+复制示例代码并开始 API 服务调用。
+AI Ping 使用智能路由将请求转发至高性价比的供应商，自动平衡成本与性能，在失败时自动切换供应商。
+
+
+API 密钥管理：平台默认创建一个 API 密钥，首次调用时自动填充，无需单独创建。
+
+
+AI Ping的应用场景
+
+企业决策支持：企业在选择AI模型服务时，用AI Ping评估不同供应商提供的模型性能，能做出更明智的采购决策。
+开发者工具选择：软件开发者和数据科学家在选择适合其项目的AI工具时，通过AI Ping比较不同模型的性能指标，选择最适合的工具。
+学术研究：研究人员用AI Ping获取关于当前最先进模型性能的数据，作为研究的参考或基准。
+性能基准测试：作为基准测试工具，帮助开发者了解模型与市场上其他模型相比的性能。
+模型优化：通过AI Ping的评测结果，模型开发者能识别自己模型的不足之处，并进行针对性的优化。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"AI Ping\",\"description\":\"大模型服务评测与API调用平台\",\"url\":\"https://aistool.orgaikaifapingtai/ai-ping/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/09/AI-Ping-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"AI Ping"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/09/AI-Ping-logo.png","alt":"AI Ping","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"AI Ping"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"大模型服务评测与API调用平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","385",{"href":"/aixiezuogongju/xunfeizhijian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞智检"}],["$","a","1213",{"href":"/aitishizhiling/ai-prompt-generator/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AI Prompt Generator"}],["$","a","897",{"href":"/aibangonggongju/maidangxiumindshow/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"麦当秀MindShow"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","678",{"href":"/aishipingongju/changci/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"场辞"}]
+5:["$","a","1029",{"href":"/aisousuoyinqing/lianqiai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"链企AI"}]
+6:["$","a","342",{"href":"/aixiezuogongju/jasper/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Jasper"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

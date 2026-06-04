@@ -1,0 +1,165 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aizhinengti","duiyouagent",""],"q":"","i":false,"f":[[["",{"children":[["category","aizhinengti","d",null],{"children":[["tool","duiyouagent","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2026/04/d.design-logo1.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:T156a,
+                堆友Agent是什么
+堆友Agent 是堆友AI推出的AI设计智能体，将 Alibaba Design 资深设计师超20年经验封装为可对话、可调用的专业Skill，覆盖品牌策略、平面视觉、电商内容三大品类。用户无需专业背景，自然语言调用专家Skill，获得带设计逻辑与决策依据的完整方案。依托大厂20年+设计方法论，零门槛让每个人做出有策略的专业级设计。
+
+堆友Agent的主要功能
+
+
+对话式AI设计咨询：像和真人设计专家聊天一样，描述具体需求，Agent会梳理设计思路、给出优化建议，提供从0到1规划设计方案。
+
+
+专家Skill一键调：首批上线15+个专业设计Skill（如品牌设计、电商海报、3D Icon、Logo设计、字体设计等），每个Skill由Alibaba Design资深设计师基于真实项目经验打造，封装完整的设计方法论。
+
+
+完整方案输出：区别普通AI只出单张图，堆友Agent输出的是带设计逻辑和决策依据的完整方案，逻辑顺畅、可直接落地使用。
+
+
+全场景覆盖：覆盖电商、品牌、教育、文旅、影视等行业，从一句话需求快速生成一套完整设计，实现品牌、电商、营销、咨询四大场景一站搞定。
+
+
+如何使用堆友Agent
+
+访问平台：访问堆友官网 https://d.design/agent 进入堆友平台。
+选择Agent：在堆友平台中找到并进入”堆友Agent”功能入口。
+对话下达需求：用自然语言描述设计需求，例如：”帮我出一套品牌设计”。
+调用专家Skill：Agent将根据需求，自动匹配或推荐对应的Alibaba Design专家Skill。
+获取完整方案：Agent以设计专家视角输出完整设计方案，包含设计逻辑与专业决策。
+迭代优化：持续与Agent对话，调整需求细节，打磨最终设计成果。
+
+堆友Agent的核心优势
+
+
+大厂基因：源自Alibaba Design官方团队， Skill由真实资深设计师经验沉淀。
+
+
+专家级交付：输出带设计逻辑与专业决策的完整方案。
+
+
+场景覆盖广：覆盖电商品牌化、3D Icon、字体设计、海报设计、品牌IP、Logo设计等全品类。
+
+
+自然语言驱动：说人话能做专业设计，大幅降低AI设计工具使用门槛。
+
+
+堆友Agent的同类竞品对比
+
+
+
+维度
+堆友Agent
+Lovart
+星流Agent
+
+
+
+
+产品定位
+大厂设计专家经验封装的AI设计Agent
+全球首个专业AI设计Agent，垂直领域智能体
+Lovart官方中文版，本土化AI设计Agent
+
+
+出品方
+Alibaba Design（阿里巴巴设计）
+Lovart AI（海外独立团队）
+LiblibAI（国内，Lovart母公司）
+
+
+核心能力
+自然语言对话 + 专家Skill调用，输出带设计逻辑与决策的完整方案
+全链路自动化设计，一句话完成从创意拆解到专业交付
+多Agent协同（策展/灵感/设计/精修/归档），全流程自动执行
+
+
+设计基因
+Alibaba Design资深设计师20年+实战经验直接封装
+基于大量设计数据训练，”特殊交互+特殊上下文”架构
+继承Lovart能力 + 自研Star-3模型 + 国风审美重构
+
+
+任务拆解
+Agent对话梳理需求，推荐对应专家Skill
+内置MCoT创意推理引擎，自动拆解为搜索/规划/执行子任务
+自动任务拆解、风格探索、构图分析、排版交付
+
+
+交互方式
+多轮对话，Agent主动梳理思路与优化路径
+Convo对话模式 + Tap-Tap提示模式 + Touch Edit指哪改哪
+对话式Agent交互 + 无限画布”用嘴P图” + 图层分离编辑
+
+
+多模态支持
+聚焦平面视觉设计（品牌/电商/海报/字体/3D Icon）
+图像/视频/音乐/3D全模态，集成GPT Image-1、Kling、Suno等
+图像/视频/3D全模态，集成Kling、Hailuo、Tripo、混元等
+
+
+中文适配
+原生中文，阿里生态设计方法论
+国际化产品，中文支持有限（偶发排版乱码）
+深度本土化：中文语义模型、国风字库、东方审美优化
+
+
+编辑能力
+超级编辑器支持方案调整
+图文分离、Text Edit改字、Touch Edit、Mock up效果图
+图层分离、秒改文案、智能扩图、擦除、高清放大
+
+
+输出类型
+完整设计方案（含思路、决策、落地文件）
+品牌VI系统、海报、视频、3D模型、包装等全链路资产
+海报、品牌视觉、视频、3D模型、UI界面等
+
+
+风格资源
+Alibaba Design官方设计方法论
+模型驱动风格生成，Reference/Preference沉淀品牌偏好
+十万+ LoRA风格库，内置国风视觉风格库
+
+
+商业模式
+堆豆积分制 + 专业版年卡
+订阅制，ARR已突破3000万美元
+积分制，免费用户每日约150积分
+
+
+核心差异
+真人专家思维注入，像雇了一支大厂设计专家团队
+全链路执行能力最强，单次可执行上百步产出40张成品
+最懂中文设计，多Agent协作像拥有一个本土设计团队
+
+
+
+堆友Agent的应用场景
+
+品牌全案：支持品牌定位、Logo、IP及视觉识别系统设计，从策略到落地输出完整品牌方案。
+电商运营：提供商品主图、详情页、营销海报等电商品牌化设计，结合大厂实战经验提升商业转化。
+3D图标：专业3D Icon与立体视觉元素制作，满足产品界面和品牌场景的立体化设计需求。
+字体设计：中英文创意字体及Logo字体定制，解决品牌视觉差异化与专属排版需求。
+海报营销：快速生成活动海报、社交媒体视觉及推广物料，平衡创意表达与商业传播目标。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"堆友Agent\",\"description\":\"堆友推出的 AI 设计智能体\",\"url\":\"https://aistool.orgaizhinengti/duiyouagent/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/04/d.design-logo1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"堆友Agent"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/04/d.design-logo1.png","alt":"堆友Agent","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"堆友Agent"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"堆友推出的 AI 设计智能体"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],"$L13"]}]]}]
+13:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1374",{"href":"/aizhinengti/turix/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"TuriX"}],["$","a","677",{"href":"/aishipingongju/duix/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Duix"}],["$","a","187",{"href":"/aibianchenggongju/airops/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AirOps"}],["$","a","1077",{"href":"/aikaifapingtai/creao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CREAO"}],["$","a","1350",{"href":"/aishejigongju/ardot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Ardot"}],["$","a","950",{"href":"/aiyinpingongju/xunfeitingjian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞听见"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"堆友Agent | AIStool"}],["$","meta","1",{"name":"description","content":"堆友Agent 是堆友AI推出的AI设计智能体，将Alibaba Design资深设计师超20年经验封装为可对话、可调用的专业Skill，覆盖品牌策略、平面视觉、电商内容三大品类。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaizhinengti/duiyouagent/"}],["$","meta","3",{"property":"og:title","content":"堆友Agent"}],["$","meta","4",{"property":"og:description","content":"堆友Agent 是堆友AI推出的AI设计智能体，将Alibaba Design资深设计师超20年经验封装为可对话、可调用的专业Skill，覆盖品牌策略、平面视觉、电商内容三大品类。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaizhinengti/duiyouagent/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2026/04/d.design-logo1.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"堆友Agent"}],["$","meta","10",{"name":"twitter:description","content":"堆友Agent 是堆友AI推出的AI设计智能体，将Alibaba Design资深设计师超20年经验封装为可对话、可调用的专业Skill，覆盖品牌策略、平面视觉、电商内容三大品类。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2026/04/d.design-logo1.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","13",{}]]

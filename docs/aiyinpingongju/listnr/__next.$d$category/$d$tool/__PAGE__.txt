@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/09/Listnr-logo.png","image"]
+3:Ta4c,
+                Listnr是什么
+Listnr 是先进的AI语音合成工具，能将文本快速转化为自然流畅的语音。工具支持超过142种语言和1000多种声音风格，支持用户克隆自己的声音。Listnr 生成的语音极为逼真，与真人无异，适合多种场景，如视频配音、播客制作、有声读物创作、社交媒体内容生成等。工具提供情感调整、语速控制等高级功能，操作简单，界面友好，是内容创作者和企业用户的理想选择。
+
+Listnr的主要功能
+
+
+文本转语音：将任何文本内容快速转换为自然流畅的语音，支持多种语言和声音风格。
+
+
+语音克隆：用户上传自己的声音样本，能生成与自己声音高度相似的合成语音。
+
+
+多语言支持：覆盖超过 142 种语言和多种方言，满足全球用户的多样化需求。
+
+
+情感细调：通过调整语调、语速和停顿，为语音添加情感色彩，使输出更加生动自然。
+
+
+视频配音：为视频内容生成专业配音，支持多语言翻译，适合广告、教育视频和社交媒体视频。
+
+
+播客制作：帮助用户快速创建多语言播客，无需录制，生成高质量的音频内容。
+
+
+有声读物生成：将文本内容转换为有声读物，支持多种语言，适合出版商和创作者。
+
+
+API 集成：提供强大的 API 接口，方便开发者将 Listnr 的语音合成功能集成到自己的应用程序中。
+
+
+如何使用Listnr
+
+
+注册登录：访问 Listnr 官网 https://listnr.ai/，完成注册和登录。
+
+
+输入文本：在编辑器中输入或粘贴需要转换的文本内容。
+
+
+选择语音：从 1000 多种声音和 142 种语言中选择合适的语音风格。
+
+
+调整设置：根据需要调整语速、语调、情感和停顿等参数。
+
+
+预览语音：点击预览按钮，试听生成的语音效果。
+
+
+保存或导出：确认满意后，保存为 WAV 或 MP3 格式，或直接下载到本地。
+
+
+使用语音：将生成的语音用于视频配音、播客、有声读物或其他内容创作场景。
+
+
+Listnr的应用场景
+
+
+教育领域：为在线课程和教育视频生成专业语音解说，提升学习体验。
+
+
+播客制作：工具能快速创建多语言播客内容，无需录制，节省时间和精力。
+
+
+社交媒体：为 TikTok、Instagram Reels、YouTube 等平台的短视频生成吸引人的语音。
+
+
+广告与营销：为广告视频和营销内容提供高质量的语音合成，增强吸引力。
+
+
+有声读物：将文本内容转换为有声读物，支持多种语言，拓展读者群体。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Listnr\",\"description\":\"AI文本到语音生成器\",\"url\":\"https://aistool.orgaiyinpingongju/listnr/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/09/Listnr-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aiyinpingongju/","className":"hover:text-primary transition","children":"AI音频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Listnr"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/09/Listnr-logo.png","alt":"Listnr","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Listnr"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","9",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI音频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI文本到语音生成器"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","836",{"href":"/aibangonggongju/lightfield/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Lightfield"}],["$","a","95",{"href":"/ailiaotianzhushou/maopaoya/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"冒泡鸭"}],["$","a","904",{"href":"/aibangonggongju/gaippt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"GAIPPT"}],["$","a","776",{"href":"/aibangonggongju/xmind-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Xmind AI"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1255",{"href":"/aibangonggongju/chatexcel/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ChatExcel"}]
+5:["$","a","60",{"href":"/ailiaotianzhushou/doudouai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"逗逗AI"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

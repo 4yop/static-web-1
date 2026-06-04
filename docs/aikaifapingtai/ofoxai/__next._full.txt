@@ -1,0 +1,133 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aikaifapingtai","ofoxai",""],"q":"","i":false,"f":[[["",{"children":[["category","aikaifapingtai","d",null],{"children":[["tool","ofoxai","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2026/05/OfoxAI-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tbbb,
+                OfoxAI是什么
+OfoxAI 是统一大模型 API 聚合网关，通过单一 API Key 可接入 GPT、Claude、Gemini 等 100 余款主流大模型。OfoxAI 完全兼容 OpenAI、Anthropic、Gemini 三大官方 SDK 协议，开发者无需修改现有代码可实现零成本迁移。OfoxAI 同时支持 Claude Code、Zed、Cline 等 10 余款开发工具集成，提供 Python、TypeScript、cURL 等多语言接入方式。
+
+OfoxAI的主要功能
+
+
+统一 API 网关：通过单一 API Key 和端点聚合 100 余款主流大模型，简化多厂商密钥管理流程。
+
+
+三协议兼容：完整支持 OpenAI、Anthropic、Gemini 官方 SDK 格式，实现现有项目的零改动迁移。
+
+
+开发工具集成：内置 Claude Code、Zed、Cline 等 10 余款主流 AI 编程工具的配置适配与接入支持。
+
+
+多语言 SDK：提供 Python、TypeScript、cURL 等丰富的代码示例，支持 3 分钟快速完成接入配置。
+
+
+如何使用OfoxAI
+
+
+协议转换层：在网关层面对 OpenAI、Anthropic、Gemini 三种不同 API 协议进行实时解析与格式映射转换。
+
+
+统一鉴权中心：通过单一 API Key 在网关侧完成身份验证，再路由至对应厂商的原始模型服务端点。
+
+
+智能路由调度：根据模型标识符自动将请求分发至对应底层模型提供商，保持请求结构与官方一致。
+
+
+流式响应代理：支持 SSE 流式传输协议的透明转发，确保长文本生成场景的实时响应体验。
+
+
+OfoxAI的核心优势
+
+
+零迁移成本：现有基于 OpenAI 或 Anthropic SDK 的项目只需修改 base_url 和 api_key 即可直接运行。
+
+
+模型覆盖全面：聚合 GPT-5.4、Claude Opus 4.6、Gemini 3.1 Pro 等 100 余款模型，满足多样化需求。
+
+
+工具生态完善：原生适配 Claude Code、Cursor 等主流开发工具，无需额外插件或复杂配置。
+
+
+接入门槛极低：提供完整的快速开始文档与多语言示例，新手开发者可在 3 分钟内完成首次调用。
+
+
+OfoxAI的同类竞品对比
+
+
+
+维度
+OfoxAI
+OpenRouter
+硅基流动
+
+
+
+
+定位
+统一 LLM API 网关
+开源 LLM 路由平台
+国产大模型 API 平台
+
+
+兼容协议
+OpenAI / Anthropic / Gemini
+OpenAI / Anthropic / 自定义
+OpenAI
+
+
+模型数量
+100+
+200+
+100+
+
+
+开发工具集成
+Claude Code / Zed / Cline 等 10+
+部分支持
+较少
+
+
+特色能力
+三协议零改动迁移
+开源透明 / 社区驱动
+国产模型丰富 / 价格优势
+
+
+
+OfoxAI的应用场景
+
+
+多模型 A/B 测试：产品团队通过统一接口快速对比不同模型在相同任务下的输出质量与响应速度。
+
+
+模型降级容灾：当某一厂商服务不稳定时，自动或手动切换至备用模型，保障业务连续性。
+
+
+AI 编程辅助：开发者将 Claude Code、Cursor 等工具的底层模型自由替换为性价比更高的替代方案。
+
+
+跨平台产品集成：SaaS 产品通过单一接口为客户提供多种大模型选择，降低后端架构复杂度。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"OfoxAI\",\"description\":\"统一大模型 API 聚合网关\",\"url\":\"https://aistool.orgaikaifapingtai/ofoxai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/05/OfoxAI-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"OfoxAI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/05/OfoxAI-logo.png","alt":"OfoxAI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"OfoxAI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"统一大模型 API 聚合网关"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","74",{"href":"/ailiaotianzhushou/shushengdamoxing/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"书生大模型"}],["$","a","1279",{"href":"/aituxianggongju/neural4d/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Neural4D"}],"$L13","$L14","$L15","$L16"]}]]}]]}]]}]
+13:["$","a","187",{"href":"/aibianchenggongju/airops/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AirOps"}]
+14:["$","a","561",{"href":"/aituxianggongju/jpghd/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"jpgHD"}]
+15:["$","a","139",{"href":"/aibianchenggongju/codebuddy-ide/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CodeBuddy IDE"}]
+16:["$","a","224",{"href":"/aishejigongju/onlook/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Onlook"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"OfoxAI | AIStool"}],["$","meta","1",{"name":"description","content":"OfoxAI 是统一大模型 API 聚合网关，通过单一 API Key 可接入 GPT、Claude、Gemini 等 100 余款主流大模型。平台完全兼容 OpenAI、Anthropic、Gemini 三大官方 SDK 协议，开发者无需修改现有代码可实现零成本迁移。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaikaifapingtai/ofoxai/"}],["$","meta","3",{"property":"og:title","content":"OfoxAI"}],["$","meta","4",{"property":"og:description","content":"OfoxAI 是统一大模型 API 聚合网关，通过单一 API Key 可接入 GPT、Claude、Gemini 等 100 余款主流大模型。平台完全兼容 OpenAI、Anthropic、Gemini 三大官方 SDK 协议，开发者无需修改现有代码可实现零成本迁移。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaikaifapingtai/ofoxai/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2026/05/OfoxAI-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"OfoxAI"}],["$","meta","10",{"name":"twitter:description","content":"OfoxAI 是统一大模型 API 聚合网关，通过单一 API Key 可接入 GPT、Claude、Gemini 等 100 余款主流大模型。平台完全兼容 OpenAI、Anthropic、Gemini 三大官方 SDK 协议，开发者无需修改现有代码可实现零成本迁移。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2026/05/OfoxAI-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","13",{}]]

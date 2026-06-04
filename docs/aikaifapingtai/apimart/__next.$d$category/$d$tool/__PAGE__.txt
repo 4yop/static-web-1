@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/11/APIMart-icon.png","image"]
+3:Td5d,
+                APIMart是什么
+APIMart是一站式 AI API 平台，提供对 500 多个主流 AI 模型的统一访问，涵盖聊天、视频生成、图像生成等多类 AI 能力。与 OpenAI 的 API 格式完全兼容，用户只需修改一行代码即可从 OpenAI 迁移到 APIMart，享受更低的成本和更高的性能。APIMart核心优势在于高性价比，相比竞品可节省 30% 至 70% 的成本，同时提供 99.9% 的高可用性。智能路由技术确保低延迟响应，支持超高并发，适合大规模应用场景。APIMart提供详细的用量分析和成本跟踪，帮助用户优化费用。
+
+APIMart的主要功能
+
+
+统一 API 接口：通过单一 API 接口访问 500 多个主流 AI 模型，涵盖聊天、视频生成、图像生成等多类 AI 能力，无需对接多个模型提供商。
+
+
+OpenAI 兼容性：与 OpenAI 的 API 格式完全兼容，用户只需修改一行代码即可从 OpenAI 迁移到 APIMart，无缝切换。
+
+
+多类 AI 能力：提供聊天、视频生成、图像生成等多种 AI 能力，支持流式响应、函数调用、JSON 模式、视觉能力等，满足多种应用场景。
+
+
+高性能与可靠性：支持超高并发和低延迟响应，智能路由自动选择最快可用端点，提供 99.9% 的高可用性。
+
+
+灵活定价与免费试用：采用按需付费模式，无月度最低消费，新用户可获得免费积分用于测试所有模型，透明的用量分析和成本跟踪帮助优化费用。
+
+
+易于集成：提供详细文档和代码示例，支持 Python、JavaScript 等多种编程语言，快速集成到现有应用中。
+
+
+全球支持：提供全球分布式基础设施支持，确保快速响应和高可靠性，适合国际用户和跨国企业。
+
+
+如何使用APIMart
+
+
+注册与获取 API 密钥：访问 APIMart 官网 https://apimart.ai/ ，注册账号并创建 API 密钥，无需信用卡即可开始测试。
+
+
+配置 API：在应用中更新基础地址为 https://api.apimart.ai/v1，并使用获取的 API 密钥进行认证。
+
+
+选择模型：根据需求选择合适的 AI 模型，如 GPT-5、Claude 4.5 等，通过模型 ID 调用所需功能。
+
+
+集成与测试：使用 APIMart 提供的文档和代码示例，将 API 集成到应用中，并进行测试以确保功能正常。
+
+
+优化与监控：利用平台提供的用量分析和成本跟踪工具，优化 API 使用，监控性能和成本。
+
+
+技术支持：如有问题，可参考详细文档或通过 Discord 社区和电子邮件获取技术支持。
+
+
+APIMart的应用场景
+
+
+内容创作：利用语言模型生成文章、故事、文案等内容，支持多种语言和风格，满足写作、广告、新闻等需求。
+
+
+视频制作：通过视频生成模型将文本或图像转换为专业视频，适用于营销视频、社交媒体内容、产品展示等。
+
+
+图像设计：使用图像生成和编辑模型创建或修改图片，支持文本到图像、风格转换、背景移除等功能，适用于设计、广告、游戏等领域。
+
+
+代码辅助：借助编程辅助模型帮助开发者生成代码、调试程序，提高开发效率和质量。
+
+
+数据分析：利用语言模型分析数据、生成报告，提供数据洞察和决策支持。
+
+
+聊天机器人：构建智能聊天机器人，提供客户支持、咨询服务，提升用户体验和互动性。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"APIMart\",\"description\":\"一站式 AI API 平台，多主流模型统一访问\",\"url\":\"https://aistool.orgaikaifapingtai/apimart/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/11/APIMart-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"APIMart"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/11/APIMart-icon.png","alt":"APIMart","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"APIMart"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"一站式 AI API 平台，多主流模型统一访问"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","770",{"href":"/aibangonggongju/yitunaotu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"亿图脑图"}],["$","a","1227",{"href":"/aishipingongju/wuxiang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"雾象"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1243",{"href":"/aituxianggongju/liblibaigaoqingxiufu/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LibLibAI高清修复"}]
+5:["$","a","1134",{"href":"/aixuexiwangzhan/reading-coach/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Reading Coach"}]
+6:["$","a","165",{"href":"/aibianchenggongju/project-idx/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Project IDX"}]
+7:["$","a","1357",{"href":"/aishejigongju/ribbi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Ribbi"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

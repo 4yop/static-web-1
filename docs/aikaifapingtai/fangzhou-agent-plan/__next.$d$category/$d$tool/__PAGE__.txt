@@ -1,0 +1,141 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/03/volcengine-codingplan-logo.png","image"]
+3:T1600,
+                方舟 Agent Plan是什么
+方舟 Agent Plan 是火山引擎推出的业界首个 Agent 套餐，将多模态大模型与 Harness 工具深度整合。发布方舟 Agent Plan 集成 Doubao-Seed、Seedance、Seedream 等字节自研 SOTA 模型，以及 GLM-5.1、Kimi-K2.6 等主流三方模型，内置联网搜索、Embedding 等 Harness 工具。通过 AFP（Agent 燃料值）统一计量，适配从入门开发者到 AI 工作室的全场景 Agent 需求。
+
+方舟 Agent Plan的主要功能
+
+
+超全模态模型聚合：原生支持文本、代码、图像、视频等多模态任务，覆盖 Doubao-Seed 系列、GLM-5.1、Kimi-K2.6、DeepSeek-V3.2、MiniMax-M2.7 等主流模型。
+
+
+Auto 智能调度：根据任务场景自动选择性价比最高的模型，提升长尾 Agent 任务表现。
+
+
+Harness 工具开箱即用：内置与豆包同源的联网搜索额度，以及 Doubao-embedding-vision 模型，增强 Agent 实时信息获取与长程记忆能力。
+
+
+AFP 透明计费：引入 Agent Fuel Points 统一计量模型调用与工具消耗，用量可视、成本可控。
+
+
+多平台深度适配：完成配置后，Claude Code、OpenClaw、TRAE、OpenCode、Hermes Agent 等工具可自动调用套餐资源。
+
+
+如何使用方舟 Agent Plan
+
+获取专属凭证：访问方舟 Agent Plan官网 https://www.volcengine.com/activity/agentplan ，复制专属 Base URL 与 API Key。
+安装 Ark Helper：在终端执行 curl -fsSL https://lf3-static.bytednsdoc.com/.../install.sh | sh 安装配置助手。
+一键配置套餐：运行 ark-helper，选择 [Volcano] Agent Plan 套餐，通过 SSO 登录自动获取 API Key 与联网密钥。
+选择模型与工具：选择默认文本生成模型（如 doubao-seed-2.0-code），选择编码工具 Claude Code 完成一键配置。
+启动验证：在项目目录执行 claude 启动，输入 /model 确认模型指向正确，可开始对话与多模态任务。
+
+方舟 Agent Plan的核心优势
+
+
+业界首个 Agent 套餐包：区别于单一模型订阅或算力套餐，首次将 Model + Harness 打包，降低多工具接入的碎片化成本。
+
+
+多模态生产力闭环：一个套餐可支撑从文本编程到视频/图像生成的完整 Agent 工作流，无需独立支付不同资源。
+
+
+高性价比入门门槛：Small 版月费仅 40 元，基础额度数倍于 Claude Pro Plan，降低 Agent 尝鲜成本。
+
+
+ArkClaw 原生协同：Medium 及以上订阅用户可免费体验基于 OpenClaw 优化的云上”龙虾”，支持”虾马同养”与长期工作习惯学习。
+
+
+方舟 Agent Plan的同类竞品对比
+
+
+
+对比维度
+火山引擎 方舟 Agent Plan
+优云智算（CompShare）Agent Plan
+Neon Agent Plan
+
+
+
+
+产品性质
+字节跳动官方云产品
+UCloud 旗下第三方 API 聚合平台
+数据库基础设施厂商
+
+
+核心定位
+业界首个 Model + Harness 全模态 Agent 套餐包
+便宜、简单、稳定的模型 API 套餐服务
+为 AI Agent 提供 Serverless Postgres 数据库资源
+
+
+模型覆盖
+字节 Seed 系列 + GLM + Kimi + DeepSeek + MiniMax
+MiniMax、GLM、Kimi、DeepSeek 等主流模型
+不涉及大模型，提供数据库存储与计算
+
+
+Harness 工具
+内置联网搜索、Embedding 开箱即用
+无 Harness 工具，仅提供模型 API
+提供数据库 Compute/Storage/API 配额
+
+
+订阅价格
+¥40/月 起（Small）
+未公开具体月费，定位远低于官方 API 价格
+按量计费 + 初始 $25,000 Credits
+
+
+目标用户
+个人开发者、AI 工作室、企业团队
+追求低价 API 的个人开发者
+需要为 Agent 提供持久化存储的开发者
+
+
+平台适配
+Claude Code、OpenClaw、TRAE、Hermes 等
+Claude Code、OpenCode、OpenClaw 等
+面向自研 Agent 的数据层集成
+
+
+
+方舟 Agent Plan的应用场景
+
+AI 编程与代码辅助：开发者通过自然语言描述需求即可完成代码编写、调试与项目搭建，实现 Vibe Coding 的高效开发体验。
+多模态营销内容创作：内容团队结合联网搜索自动调研热点，实现”热点搜集→素材生成→自动发布”的全自动社媒运营。
+智能体自动化办公：职场职员完成文档分析、案例研究、PPT 生成与数据处理等专业领域的长程自动化任务。
+AI 工作室规模化变现：Max 版提供 25 倍 Small 用量与极致多模态 Harness，助力自媒体、电商运营与 AI 服务商实现规模化产能与高 ROI 商业化。
+
+方舟 Agent Plan的常见问题
+Q1：可以同时在多套工具中使用 Agent Plan 吗？
+
+可以。同一套餐支持在所有兼容工具中复用，但额度为全局共享，所有工具的调用均消耗同一套餐额度。
+
+Q2：套餐额度耗尽后会自动扣费其他资源包或余额吗？
+
+不会。额度在周期内耗尽后需等待下一周期自动重置，不会触发其他资源包扣费或账户余额扣款。
+
+Q3：购买后是否需要单独开通模型或创建接入点？
+
+不需要。Agent Plan 为”购买即开通”，无需额外开通模型或创建接入点，直接按快速开始文档配置工具即可使用。
+
+Q4：如何续费套餐？
+
+建议订阅时开启自动续费；若未开启，可前往方舟控制台 → 开通管理，点击对应套餐的续费按钮完成操作。
+
+Q5：具体支持哪些模型与 Harness？
+
+覆盖语言模型、视觉模型、向量化模型等多模态模型，以及联网搜索等 Harness 工具。
+
+Q6：各套餐额度限制与模型抵扣系数是多少？
+
+按模型类别分为极速、标准、进阶、生图/生视频等，每类抵扣系数不同，详见官方积分计费机制文档。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"方舟 Agent Plan\",\"description\":\"火山引擎推出的业界首个 Agent 套餐\",\"url\":\"https://aistool.orgaikaifapingtai/fangzhou-agent-plan/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/03/volcengine-codingplan-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"方舟 Agent Plan"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/03/volcengine-codingplan-logo.png","alt":"方舟 Agent Plan","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"方舟 Agent Plan"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"火山引擎推出的业界首个 Agent 套餐"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","839",{"href":"/aibangonggongju/qimiaowen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"奇妙问"}],["$","a","403",{"href":"/aixiezuogongju/elephas/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Elephas"}],["$","a","922",{"href":"/aibangonggongju/baidugbi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"百度GBI"}],["$","a","1305",{"href":"/aikaifapingtai/zenmux/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ZenMux"}],["$","a","907",{"href":"/aibangonggongju/yuandianzhiku/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"元典智库"}],["$","a","1138",{"href":"/aixuexiwangzhan/udacity-aixueyuan/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Udacity AI学院"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

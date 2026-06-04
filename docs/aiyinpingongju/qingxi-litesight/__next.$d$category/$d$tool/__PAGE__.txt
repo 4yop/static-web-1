@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/03/LiteSight-icon.png","image"]
+3:Tee8,
+                轻析 LiteSight是什么
+轻析 LiteSight 是 AI 视频内容提取工具，支持抖音、B站、快手、小红书等主流短视频平台链接解析。用户只需粘贴视频链接，AI 可自动完成转录、提炼、结构化，输出纯净文案、结构化大纲和思维导图，全程无需人工干预。产品采用积分制计费，每 15 分钟视频消耗 1 积分，注册即送 3 积分体验，积分永久有效。适用于内容创作者、新媒体运营、教育培训及知识工作者，帮助用户快速将视频内容沉淀为可复用的知识资产，提升内容创作与信息处理效率。
+
+轻析 LiteSight的主要功能
+
+
+多平台视频解析：支持抖音、B站、快手、小红书等主流短视频平台链接解析，快速提取视频内容。
+
+
+AI 文案提取：自动转写视频语音并清洗口语噪声，输出可直接编辑的纯净文本。
+
+
+结构化大纲生成：将长视频内容自动拆分为层级清晰的知识结构，便于快速把握核心要点。
+
+
+思维导图生成：把核心观点和逻辑关系可视化呈现，方便复盘梳理与团队分享。
+
+
+历史任务管理：支持查看历史解析记录，复用已有结果进行二次创作和知识沉淀。
+
+
+积分计费体系：支持充值与明细追踪，按视频时长计费，积分永久有效，使用更灵活。
+
+
+如何使用轻析 LiteSight
+
+
+注册登录：打开轻析 LiteSight 官网 https://qx.utiliverse.site/ ，完成账号注册登录。
+
+
+粘贴链接：复制抖音、B站、快手、小红书等平台的视频链接，粘贴到输入框提交解析任务。
+
+
+等待处理：系统自动完成音视频处理、文本提取和内容结构化，全程无需人工干预。
+
+
+查看结果：在结果页查看生成的纯净文案、结构化大纲和思维导图。
+
+
+导出复用：导出或复制解析结果，用于脚本改写、内容分发与知识沉淀。
+
+
+
+轻析 LiteSight的产品定价
+
+计费规则：按视频时长计费，每 15 分钟消耗 1 积分，不足 15 分钟按 1 积分计算，积分永久有效。
+免费开始：注册即可赠送 3 积分体验核心功能。
+
+使用限制：单次最长支持 60 分钟视频解析，价格最终以应用内为准。
+
+
+
+
+
+套餐
+价格
+积分
+可解析时长
+
+
+
+
+体验包
+¥10
+10 积分
+150 分钟
+
+
+基础包
+¥48
+50 积分
+750 分钟
+
+
+高级包
+¥88
+100 积分
+25 小时
+
+
+专业包
+¥168
+200 积分
+50 小时（推荐）
+
+
+旗舰包
+¥400
+500 积分
+125 小时
+
+
+至尊包
+¥750
+1000 积分
+250 小时
+
+
+
+轻析 LiteSight的应用场景
+
+
+爆款视频拆解与选题策划：快速提取热门视频的核心观点和结构，为内容创作提供灵感和参考框架。
+
+
+竞品内容分析与脚本复写：拆解竞品账号的爆款内容，提炼话术规律和选题策略，优化自身运营方案。
+
+
+直播回放整理与课程内容沉淀：将直播或课程视频一键结构化，生成学习大纲和思维导图，提升知识复用效率。
+
+
+企业知识库建设与培训资料标准化：快速提炼会议回放、行业访谈、培训录像的要点，结构化归档，告别信息过载。
+
+
+轻析 LiteSight的适用人群
+
+
+自媒体创作者、短视频博主、IP 运营者：快速将爆款视频转化为图文素材，提炼核心观点重组为原创文章或脚本。
+
+
+新媒体运营、电商运营、品牌市场团队：拆解竞品爆款视频，提炼选题结构和话术规律，为团队提供内容参考。
+
+
+MCN 机构、课程讲师、知识付费团队：将课程或培训视频的知识点一键结构化，生成学习大纲和思维导图。
+
+
+需要将视频内容沉淀为知识资产的企业部门：会议回放、行业访谈、培训录像快速提炼要点，结构化归档管理。
+
+
+
+
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"轻析 LiteSight\",\"description\":\"AI 视频内容提取工具，自动转文字\",\"url\":\"https://aistool.orgaiyinpingongju/qingxi-litesight/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/03/LiteSight-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aiyinpingongju/","className":"hover:text-primary transition","children":"AI音频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"轻析 LiteSight"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/03/LiteSight-icon.png","alt":"轻析 LiteSight","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"轻析 LiteSight"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","9",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI音频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI 视频内容提取工具，自动转文字"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1413",{"href":"/aikaifapingtai/wanxiaozhi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"万小智"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","160",{"href":"/aibianchenggongju/devchat/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DevChat"}]
+5:["$","a","506",{"href":"/aituxianggongju/6pen-art/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"6pen Art"}]
+6:["$","a","1338",{"href":"/aisousuoyinqing/sheepgeo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"SheepGeo"}]
+7:["$","a","480",{"href":"/aituxianggongju/hotpot-ai-background-remover/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Hotpot AI Background Remover"}]
+8:["$","a","423",{"href":"/aixiezuogongju/mark-copy/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Mark Copy"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

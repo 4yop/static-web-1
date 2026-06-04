@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+b:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/08/Bloom-logo.png","image"]
+3:T10a8,
+                Bloom是什么
+Bloom是质变科技Powerdrill推出的首款AI决策智能体，能解决复杂数据分析和决策中的准确性、可解释性和可用性问题，基于智能体团队协作（如分析师Anna、工程师Eric等）和“Canvas脑图”交互模式，实现零门槛、沉浸式数据洞察。Bloom依托AI-Ready Data Cloud技术，提供端到端高可靠架构，支持可视化决策溯源和精准数据计算，能广泛应用在金融、医疗、零售等行业，显著提升决策效率。
+
+Bloom的主要功能
+
+Canvas脑图探索：首创“Canvas脑图探索”交互模式，用户只需一键上传数据，能进行深度数据洞察，无需任何技能或指令，颠覆传统Chat交互，解决使用门槛和交互效率痛点。
+智能体团队协作：
+
+分析师Anna：生成带置信度标注的多维洞察视图（如决策树），实时响应用户探索。
+工程师Eric：自动化私域数据接入、准备、分析代码编写与运行，无需手动干预。
+探索者Derek：深度探索公域数据，结合公域和私域数据拓展全景洞察，通过“假设生成-证伪”机制挖掘关键变量。
+校验者Victor：基于历史错误库实时校验，显著提升决策建议通过率。
+
+
+可视化决策溯源：清晰展示分析步骤、数据源及置信度，确保决策过程透明可解释。
+动态干预（Human in the Loop）：支持用户实时修正代码、数据和推理路径，增强决策的可控性。
+交叉数据校验：基于多步骤推理、多模型验证以及Verifier Agent网络交叉检查，精准标记不一致性，提升决策的准确性。
+精准意图理解与代码生成：将用户需求转化为可执行软件，独创“代码链”设计，提升数据处理的准确性。
+AI-Ready Data计算：依托领先的Open AI Lake、Serverless Code Computing、自演进分布式多智能体等技术，实现数据多层次存储（如知识图谱、向量、JSON等）、全索引任意维度召回以及弹性代码计算，确保数据全维度理解的准确性与大规模计算的稳定性。
+行业适配：面向全球金融、医疗、零售等各行业数据场景的决策、分析和业务人员，提供SaaS版服务，根据任务执行消耗的资源进行Credit计量。
+
+
+如何使用Bloom
+
+访问官网：访问Bloom官网 https://bloom.powerdrill.ai/，完成账号注册和登录。
+上传数据：
+
+数据格式：Bloom支持多种数据格式，如CSV、Excel、JSON等。用户根据自己的需求选择合适的文件格式。
+上传方式：在Bloom的界面中，找到“上传数据”或“导入数据”的按钮，选择需要分析的数据文件。或通过API等方式将数据导入到Bloom中。
+
+
+Canvas脑图探索：用户上传数据后，Bloom自动生成脑图，用户能通过脑图进行零门槛、沉浸式数据洞察。
+用智能体团队协作：
+
+分析师Anna：生成多维洞察视图，帮助用户理解数据中的关键信息。
+工程师Eric：自动化处理数据接入、准备和分析代码编写，用户无需手动干预。
+探索者Derek：深度探索公域数据，结合公域和私域数据拓展全景洞察。
+校验者Victor：基于历史错误库实时校验，提升决策建议的通过率。
+
+
+查看分析步骤：查看分析步骤、数据源及置信度，支持动态干预和交叉数据校验，确保决策的透明性和准确性。
+应用场景选择：根据行业需求选择应用场景，Bloom提供端到端的结果级交付，助力实际业务决策。
+
+Bloom的应用场景
+
+金融风险评估：分析客户的信用记录和财务状况，快速生成信贷风险评估报告，帮助银行优化审批流程。
+医疗数据分析：通过分析患者的病历和手术数据，预测术后感染风险，辅助医生提前采取预防措施。
+零售库存管理：分析销售和库存数据，预测商品需求，自动调整库存水平，减少积压和缺货。
+供应链优化：分析供应商和物流数据，预测原材料供应稳定性，帮助企业提前调整采购计划。
+市场营销策略制定：分析客户购买行为和偏好，预测购买意向，为电商企业制定个性化营销策略。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Bloom\",\"description\":\"Powerdrill推出的首款AI决策智能体\",\"url\":\"https://aistool.orgaizhinengti/bloom/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/08/Bloom-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Bloom"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/08/Bloom-logo.png","alt":"Bloom","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Bloom"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Powerdrill推出的首款AI决策智能体"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L4","$L5","$L6","$L7","$L8","$L9"]}]]}]]}]]}],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1354",{"href":"/aishipingongju/pexo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Pexo"}]
+5:["$","a","224",{"href":"/aishejigongju/onlook/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Onlook"}]
+6:["$","a","378",{"href":"/aixiezuogongju/heyfriday/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"HeyFriday"}]
+7:["$","a","1377",{"href":"/aibangonggongju/lantay/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Lantay"}]
+8:["$","a","1181",{"href":"/aixunlianmoxing/scale-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Scale AI"}]
+9:["$","a","1309",{"href":"/aituxianggongju/katuai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"咖图AI"}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

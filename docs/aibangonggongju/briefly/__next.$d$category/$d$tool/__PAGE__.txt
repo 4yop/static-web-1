@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/01/Briefly-icon-1.png","image"]
+3:Tcc4,
+                Briefly是什么
+Briefly 是可以把 YouTube 直接变成学习日报的 AI 工具，只需一次性关注想学的频道，Briefly 会自动追踪新信息，用 AI 精准提取 30-90 秒原声金句，每条附带时间戳，可一键跳回完整上下文；内置语境翻译，非母语者也能秒懂专业术语；播放页可写笔记，自动归档个人知识库，支持标签检索复盘。首页每天会生成无广告的 Clips Feed，滑动速览即可掌握核心洞察，无需再被算法娱乐流打断。
+
+Briefly的主要功能
+
+个性化信息流：通过关注你感兴趣的YouTube频道，Briefly会自动追踪其新视频，并将精华内容推送至你的个性化信息流中，无需手动搜索。
+视频摘要：平台不提供冗长摘要，直接提炼视频中的关键片段，每个引用都配有时间戳，方便快速跳转到原始视频的对应位置。
+笔记能力：可以在观看时直接保存笔记，构建个人知识库，方便日后回顾与引用。
+翻译功能：提供中文翻译，帮助非英语母语学习者无痛理解专业术语和内容含义。
+
+边学边记：播放页即可写笔记，自动归档个人知识库，支持标签检索复盘。
+
+
+个性 Feed：每日生成无广告 Clips 信息流，滑动速览核心洞察，远离娱乐噪音。
+
+
+如何使用Briefly
+
+
+注册登录：访问Briefly官网 https://briefly.video/ ，用 Google 或邮箱一键注册，进入首页即可开始。
+
+
+建立兴趣：在搜索框输入关键词（人名、公司、技术、事件），系统即时推荐相关频道，点“Follow”完成批量订阅，也可导入 YouTube 现有订阅列表
+
+
+设置语言：在“Settings”里把界面语言设为中文，开启“双语字幕+语境翻译”，专业术语自动对照。
+
+
+每日刷 Feed：首页“Today”每天 8:00 自动推送新剪辑，卡片显示标题、金句、时长，左右滑动可快速收藏或归档。
+
+
+深度回看：点击卡片底部“Watch Full”直接跳到原片时间点；若需横屏，点“Pop-up”浮窗，边听边记。
+
+
+智能笔记：播放时选中任意字幕即可高亮，侧边栏自动引用时间戳与原文，支持 Markdown 速记、插入截图、打 #标签
+
+
+知识库管理：左侧“Library”按标签、频道、日期三维度筛选，搜索关键词即可定位过往笔记；支持导出 PDF / Notion / Obsidian。
+
+
+多端同步：手机端剪辑后，电脑端立即同步，继续编辑或批量导出。
+
+
+额度与升级：免费账户每日 2 条新剪辑额度，点击右上角“Upgrade”可购 60 元/月无限套餐，解锁 4K 片段下载、团队共享文件夹及 API 接入。
+
+
+Briefly的适用人群
+
+终身学习者：希望持续跟进优质频道，将碎片时间用于有效学习而非漫无目的地浏览。
+专业人士：如创始人、工程师、产品经理、投资者，需要从长篇行业访谈、技术分享中快速提取核心洞察，并将学习成果应用于工作。
+研究者与学生：需要为论文、报告或学习快速查找可引用的视频片段和准确出处。
+非英语母语学习者：希望通过上下文翻译等功能，更轻松地学习英语原版的高质量视频内容。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Briefly\",\"description\":\"长视频精华提炼，自动追踪频道中文推送\",\"url\":\"https://aistool.orgaibangonggongju/briefly/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/01/Briefly-icon-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Briefly"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/01/Briefly-icon-1.png","alt":"Briefly","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Briefly"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"长视频精华提炼，自动追踪频道中文推送"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","452",{"href":"/aituxianggongju/style3d/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Style3D"}],["$","a","804",{"href":"/aibangonggongju/zhidejianli/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"职得简历"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","272",{"href":"/aishejigongju/luma-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Luma AI"}]
+5:["$","a","870",{"href":"/aibangonggongju/xunfeizhinengfanyi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞智能翻译"}]
+6:["$","a","422",{"href":"/aixiezuogongju/content-at-scale/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Content at Scale"}]
+7:["$","a","1105",{"href":"/aikaifapingtai/vercel-ai-sdk/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Vercel AI SDK"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

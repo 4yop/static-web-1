@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/10/liblib.art-logo.png","image"]
+3:Td01,
+                LiblibAI抠图是什么
+LiblibAI抠图是LiblibAI（哩布哩布AI）推出的AI抠图工作流，主要应用在电商工作流的“一键去除背景”功能上。用户只需上传商品图片，LiblibAI抠图即可智能识别商品主体并自动抠图。用户可以选择系统提供的多种背景样式或上传自定义背景，完成背景替换。功能操作简单，适合电商新手和没有专业设计基础的用户，能快速提升商品图的专业性和视觉效果。
+
+LiblibAI抠图的主要功能
+
+
+智能识别与抠图：LiblibAI 能智能识别商品图片中的主体，精准抠出，为后续的背景替换等操作提供基础。
+
+
+背景替换与融合：用户可以上传一张风格类似的背景参考图，LiblibAI 会根据参考图的提示词创建新的背景，智能调整光影和色调，使产品与背景的融合效果自然。
+
+
+操作简便：无论是在线运行还是本地运行，操作过程都较为简单。在线运行适合新手，直接点开工作流上传文件即可；本地运行虽然需要一定的配置，但也能满足对硬件性能要求较高的用户。
+
+
+如何使用LiblibAI抠图
+
+
+下载工作流：打开 LiblibAI抠图官网 www.liblib.art/workflows ，进入工作流选择界面，选择“抠图”功能，选择下载所选工作流或应用。
+
+
+选择运行方式：可以选择在线运行或本地运行。在线运行适合新手，直接点开工作流上传文件即可；本地运行需要先安装 ComfyUI 和相关节点模型，并调整参数配置。
+
+
+上传图片：准备产品图和参考图，上传到工作流中。产品图是需要处理的商品图片，参考图是风格类似的背景图片。
+
+
+点击生成：确认图片上传后，点击“生成”按钮，工作流会先将产品抠出，然后根据参考图的提示词创建背景，并智能调整光影和色调，整个过程大概需要 1-3 分钟，具体时间取决于图片大小和硬件性能。
+
+注意事项
+
+
+
+图片质量：上传的产品图和参考图质量越高，生成效果通常越好。
+
+
+硬件要求：如果选择本地运行，需要确保电脑硬件配置满足要求，如显存至少要 8GB。
+
+
+生成时间：生成时间会因图片大小和硬件性能而有所不同，耐心等待即可。
+
+
+
+
+LiblibAI抠图的应用场景
+
+电商产品图处理：快速将商品从原始背景中精准抠出，替换为更具吸引力的背景，提升商品展示效果，适用于电商平台的商品详情页和宣传海报制作。
+社交媒体内容创作：为社交媒体平台制作个性化的图片内容，通过抠图替换背景，使图片风格更符合特定主题或活动，增强视觉吸引力。
+设计与创意工作：设计师可以使用抠图功能将不同元素从原图中提取出来，重新组合到新的设计场景中，快速生成创意概念图或进行视觉效果的测试。
+广告与营销素材制作：在广告设计中，抠图功能可以帮助将产品或人物与广告背景完美融合，制作出更具说服力和吸引力的广告素材，提高广告效果。
+个人照片美化：用户可以对个人照片进行抠图，更换背景，用于制作电子相册、社交媒体分享或打印照片等，让照片更具个性和创意。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"LiblibAI抠图\",\"description\":\"LiblibAI推出的AI抠图工作流\",\"url\":\"https://aistool.orgaituxianggongju/liblibaikoutu/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/10/liblib.art-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"LiblibAI抠图"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/10/liblib.art-logo.png","alt":"LiblibAI抠图","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"LiblibAI抠图"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"LiblibAI推出的AI抠图工作流"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1042",{"href":"/aisousuoyinqing/komo-search/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Komo Search"}],["$","a","30",{"href":"/aizhinengti/ruciaiyuangong/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"如此AI员工"}],["$","a","393",{"href":"/aixiezuogongju/sudowrite/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Sudowrite"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1028",{"href":"/aisousuoyinqing/bojianzhihuizhuanli/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"博简智慧专利"}]
+5:["$","a","926",{"href":"/aibangonggongju/beijijiuzhang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"北极九章"}]
+6:["$","a","1298",{"href":"/aishejigongju/xiaomoyingbianjiqi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"小墨鹰编辑器"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

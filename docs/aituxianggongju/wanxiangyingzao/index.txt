@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aituxianggongju","wanxiangyingzao",""],"q":"","i":false,"f":[[["",{"children":[["category","aituxianggongju","d",null],{"children":[["tool","wanxiangyingzao","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2024/11/wanxiangyingzao-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tdad,
+                万相营造是什么
+万相营造是阿里旗下推出的基于大模型技术进行多模态智能创意生成的平台，支持广告推广、运营、设计，根据既有的货品素材、营销运营诉求进行AI创意生成。用户可以根据需求，制作包括商品图、服饰模特图、服饰平铺图上身试穿、家居图、一键图文、营销文案、营销脚本及视频生成。同时提供设计师常用的多种AI工具能力，协助设计师快速完成扩图、抠图、图像高清处理等日常基础工作。
+
+万相营造的主要功能
+
+AI视频：
+
+图生视频：图片秒变视频，让你的商品动起来，高像素灵动效果，更极致的视觉体验
+解说视频：一键生成口播视频，提供多样化的AI解说词，帮助商家快速制作产品介绍视频。
+
+
+AI图片：
+
+商品图：万相营造商品图功能可为商家优化商品图视觉效果，一键适配丰富场景，支持自定义海量创意元素，通过AI生图能力，自由生成商品广告创意图。
+服饰图生成：提供模特图片，包括不同模特属性和场景，如西方模特、复古长卷、北欧家居等，方便商家展示服饰。
+
+
+AI文案：营造文案一站搞定，百种风格推陈出新，热点卖点快速引爆
+AI页面：自动进行商品素材优选，生成内容化的图片和文案，可在逛逛、小红书、抖音等内容场景进行种草推广。
+AI工具箱：提供智能、高清放大、尺寸扩展等能力，帮助优化创意图片，提升视觉效果
+图文创意：智能提取商品卖点，生成背景图，提升广告投放效果。
+智能试衣：将平铺的服饰图一秒上身，实现零成本上新，方便商家展示服装效果。
+商品图生成：提供多种风格的商品图片，如抽象艺术、油画艺术、矿石石头等，满足不同商品展示需求。
+AI抠图与背景替换：智能抠图，快速更换商品背景，提升图片视觉效果。
+
+如何使用万相营造
+
+访问官网：访问万相营造的官方网站，注册登录账号。
+选择服务：根据需求，选择万相营造提供的不同服务，如解说视频、服饰图、图文创意等。
+上传素材：根据选择，上传所需的图片或视频素材。例如，如果需要生成服饰图，上传服饰的图片。
+选择模板和设置：
+
+选择适合商品的模板或场景。
+设置模特、背景、风格等选项，符合商品特性和营销目标。
+
+
+AI生成内容：
+
+用万相营造的AI技术，系统将自动生成所需的图片或视频。
+对于图文创意，系统智能提取商品卖点并生成背景。
+
+
+编辑和调整：在AI生成内容后，对生成的图片或视频进行编辑和调整，确保符合需求。
+下载和使用：对生成的内容满意，下载用于商业活动，如电商平台的商品展示、广告投放等。
+
+万相营造的应用场景
+
+电子商务：为电商平台生成商品图片和视频，提升商品展示效果和广告投放的吸引力。
+市场营销行业：快速制作营销活动所需的图文和视频内容，提高社交媒体互动和品牌曝光。
+内容创作：为博客文章、新闻报道提供配图，制作视频博客、教学视频或产品介绍视频。
+时尚和服装行业：展示服饰搭配效果，制作时尚广告和宣传材料。
+家居和室内设计：展示家具效果和生成室内设计效果图，帮助客户预览设计效果。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"万相营造\",\"description\":\"阿里旗下推出的多模态AI创意生成平台\",\"url\":\"https://aistool.orgaituxianggongju/wanxiangyingzao/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/11/wanxiangyingzao-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"万相营造"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/11/wanxiangyingzao-logo.png","alt":"万相营造","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"万相营造"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"阿里旗下推出的多模态AI创意生成平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","360",{"href":"/aixiezuogongju/baiduzuojiapingtai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"百度作家平台"}],["$","a","95",{"href":"/ailiaotianzhushou/maopaoya/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"冒泡鸭"}],["$","a","205",{"href":"/aibianchenggongju/codeium/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Codeium"}],"$L13","$L14","$L15"]}]]}]]}]]}]
+13:["$","a","801",{"href":"/aibangonggongju/mianshimao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"面试猫"}]
+14:["$","a","1325",{"href":"/aibangonggongju/humata/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Humata"}]
+15:["$","a","1228",{"href":"/aishipingongju/komikoai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"KomikoAI"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"万相营造 | AIStool"}],["$","meta","1",{"name":"description","content":"万相营造是阿里旗下推出的基于大模型技术进行多模态智能创意生成的平台，支持广告推广、运营、设计，根据既有的货品素材、营销运营诉求进行AI创意生成。用户可以根据需求，制作包括商品图、服饰模特图、服饰平铺图上身试穿、家居图、一键图文、营销文案、营销脚本及视频生成。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaituxianggongju/wanxiangyingzao/"}],["$","meta","3",{"property":"og:title","content":"万相营造"}],["$","meta","4",{"property":"og:description","content":"万相营造是阿里旗下推出的基于大模型技术进行多模态智能创意生成的平台，支持广告推广、运营、设计，根据既有的货品素材、营销运营诉求进行AI创意生成。用户可以根据需求，制作包括商品图、服饰模特图、服饰平铺图上身试穿、家居图、一键图文、营销文案、营销脚本及视频生成。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaituxianggongju/wanxiangyingzao/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2024/11/wanxiangyingzao-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"万相营造"}],["$","meta","10",{"name":"twitter:description","content":"万相营造是阿里旗下推出的基于大模型技术进行多模态智能创意生成的平台，支持广告推广、运营、设计，根据既有的货品素材、营销运营诉求进行AI创意生成。用户可以根据需求，制作包括商品图、服饰模特图、服饰平铺图上身试穿、家居图、一键图文、营销文案、营销脚本及视频生成。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2024/11/wanxiangyingzao-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","13",{}]]

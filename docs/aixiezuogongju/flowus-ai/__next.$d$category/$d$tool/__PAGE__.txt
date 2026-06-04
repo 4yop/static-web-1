@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/01/flowus-icon.png","image"]
+3:Td08,
+                FlowUs AI是什么
+FlowUs AI 是国内的在线知识管理与文档协作平台FlowUs息流推出的AI创作助手，通过智能化的工具帮助用户更高效地收集、呈现、整理、存储和共享信息，提高工作效率和学习效果。类似于Notion AI，集成在模块化笔记文档平台中，能快速帮助用户完成文本创作、润色、总结、翻译等多种任务。平台支持多种语言风格，能优化文本结构、修正语病，和处理代码、表格和 LaTeX 公式等内容。FlowUs AI 为写作、学习和工作提供高效支持，帮助用户提升表达能力和工作效率，是现代知识管理和创作的得力助手。
+
+FlowUs AI的主要功能
+
+AI写作：协助用户进行头脑风暴、文章创作、大纲制定、故事编写等，协助用户准确、高效地完成文章创作，提高文章质量和表达能力。
+文本处理：批量编辑文本，如替换、删除、增加和修改文本，及文本润色和结构优化。FlowUs AI能续写、改写、扩写文本，及进行摘要和总结，能拆分文本块并进行序号标注。
+代码处理：支持代码生成、自动添加注释、代码审查和自动化测试，提升编程效率和代码的可读性。
+AI翻译：支持多种语言互译，能够自动识别并翻译文本成目标语言，提高翻译的速度、准确度和效率。
+表格处理：智能地处理文档中的表格，包括生成表格、提取信息、智能重组和识别解析表格数据。
+LaTeX公式处理：对于学术和科研用户，提供LaTeX公式处理功能，可自动生成、识别和解析LaTeX公式。
+
+
+如何使用FlowUs AI
+
+注册与登录：访问 FlowUs AI官网 https://flowus.cn/ai，注册账号并登录平台。
+进入 FlowUs AI 功能界面：登录后点击“FlowUs AI”或“AI 创作助手”，进入 AI 功能界面。
+唤醒FlowUs AI助手：在左侧新建页面或在体验文档中输入斜杠/，唤起FlowUs AI助手。
+使用AI功能：输入提示描述或选择要使用的AI功能即可。
+
+FlowUs AI的应用场景
+
+写作与内容创作：快速生成文章、文案、故事等初稿，帮助用户激发灵感并提升写作效率。
+数据分析与表格处理：平台智能重组表格数据，生成数据分析报告，助力用户高效理解和利用数据。
+代码编写与优化：FlowUs AI 能生成代码片段、优化代码结构、自动生成注释，帮助开发者快速完成编程任务。
+翻译与多语言处理：FlowUs AI 支持多国语言互译，快速翻译文本并提供语言风格改写，促进跨文化交流。
+
+FlowUs AI的产品价格
+
+新用户注册登录后可获得5张每月的基础限额AI功能使用券，参与分享模版活动可获得至高20次AI补充额度
+AI权益包付费版按量计费，30天的价格为18元（100次/日）、30元（200次/日）、75元（500次/日）、100元（1000次/日）
+
+常见问题
+
+
+FlowUs AI提供免费体验吗？
+FlowUs AI现处于全面公测中，新用户注册登录后可免费获得5张AI功能使用券的每月次数。
+
+
+FlowUs AI支持哪些平台使用？
+FlowUs AI支持通过在线网页版以及移动端的FlowUs APP使用。
+
+
+FlowUs AI基于什么大模型？
+FlowUs AI的底层技术基于MiniMax提供的大模型。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"FlowUs AI\",\"description\":\"在线文档平台息流推出的AI创作助手，类似于Notion AI\",\"url\":\"https://aistool.orgaixiezuogongju/flowus-ai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/01/flowus-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"FlowUs AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/01/flowus-icon.png","alt":"FlowUs AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"FlowUs AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"在线文档平台息流推出的AI创作助手，类似于Notion AI"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","588",{"href":"/aituxianggongju/xiangsudangao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"像素蛋糕"}],["$","a","1061",{"href":"/aikaifapingtai/fastgpt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"FastGPT"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1012",{"href":"/aisousuoyinqing/perplexity/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Perplexity"}]
+5:["$","a","1022",{"href":"/aisousuoyinqing/baiduaitansuoban/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"百度AI探索版"}]
+6:["$","a","863",{"href":"/aibangonggongju/toby/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Toby"}]
+7:["$","a","879",{"href":"/aibangonggongju/wenduoduoaippt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"文多多AiPPT"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

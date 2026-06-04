@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/12/ollama-icon.png","image"]
+3:T759,
+                Ollama是一个用于在本地计算机上运行大型语言模型的命令行工具，允许用户下载并本地运行像Llama 2、Code Llama和其他模型，并支持自定义和创建自己的模型。该免费开源的项目，目前支持macOS和Linux操作系统，未来还将支持Windows系统​​​​。
+此外，Ollama还提供了官方的Docker镜像，由此使用Docker容器部署大型语言模型变得更加简单，确保所有与这些模型的交互都在本地进行，无需将私有数据发送到第三方服务。Ollama在macOS和Linux上支持GPU加速，并提供了简单的命令行界面（CLI）以及用于与应用程序交互的REST API​​。
+该工具对于需要在本地机器上运行和实验大语言模型的开发人员或研究人员来说特别有用，无需依赖外部云服务。
+Ollama 现已推出适用于 macOS 和 Windows 的Ollama桌面端，新增文件处理与多模态交互功能，让用户与本地大语言模型交互更直观便捷。
+Ollama安装包获取
+
+获取Ollama安装包，扫码关注回复：Ollama
+Ollama支持的模型
+Ollma提供一个模型库，用户可以自行选择安装想要运行的模型，目前支持40+的模型，还在持续增加中，以下是可以下载的开源模型示例：
+
+
+
+模型
+参数大小
+文件大小
+下载运行命令
+
+
+
+
+DeepSeek-R1
+1.5B、7B、14B、32B等
+12-320GB
+ollama run deepseek-r1
+
+
+Neural Chat
+7B
+4.1GB
+ollama run neural-chat
+
+
+Starling
+7B
+4.1GB
+ollama run starling-lm
+
+
+Mistral
+7B
+4.1GB
+ollama run mistral
+
+
+Llama 2
+7B
+3.8GB
+ollama run llama2
+
+
+Code Llama
+7B
+3.8GB
+ollama run codellama
+
+
+Llama 2 Uncensored
+7B
+3.8GB
+ollama run llama2-uncensored
+
+
+Llama 2 13B
+13B
+7.3GB
+ollama run llama2:13b
+
+
+Llama 2 70B
+70B
+39GB
+ollama run llama2:70b
+
+
+Orca Mini
+3B
+1.9GB
+ollama run orca-mini
+
+
+Vicuna
+7B
+3.8GB
+ollama run vicuna
+
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Ollama\",\"description\":\"本地运行Llama和其他大语言模型\",\"url\":\"https://aistool.orgaixunlianmoxing/ollama/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/12/ollama-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aixunlianmoxing/","className":"hover:text-primary transition","children":"AI训练模型"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Ollama"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/12/ollama-icon.png","alt":"Ollama","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Ollama"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","13",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI训练模型"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"本地运行Llama和其他大语言模型"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1389",{"href":"/aishipingongju/flova/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Flova"}],["$","a","467",{"href":"/aituxianggongju/qiantushejishiaizhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"千图设计室AI助手"}],["$","a","966",{"href":"/aiyinpingongju/producer.ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Producer.ai"}],["$","a","196",{"href":"/aibianchenggongju/debuild/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Debuild"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","4",{"href":"/aizhinengti/kouzi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"扣子"}]
+5:["$","a","686",{"href":"/aishipingongju/showrunner/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Showrunner"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

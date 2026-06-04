@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/01/reading-coach-icon.png","image"]
+3:Tda6,
+                Reading Coach是微软推出的一个免费的AI阅读教练，旨在通过个性化和吸引人的阅读练习帮助学习者提高阅读能力。该阅读辅助工具利用人工智能技术，并结合 ReadWorks 的分级阅读材料库，为学习者提供了一个与他们水平能力相匹配的阅读环境。Reading Coach的推出，为学生和教育者提供了一个强大的工具，不仅能够提升阅读技能，还能够通过个性化的学习体验激发学习者的兴趣和参与度。
+
+Reading Coach的主要功能
+
+三种阅读模式：提供创建故事、从图书馆阅读和添加自己的故事三种模式，满足不同学习者的需求。
+个性化故事内容：学习者可以参与到故事的创作过程中，选择角色、背景和阅读级别，每次创建的故事都是独一无二的。
+阅读流畅性分析：通过语音转文本的人工智能技术，分析学习者的阅读流畅性，识别挑战性单词，并记录阅读的准确性、速度和时间。
+针对性练习：在每次阅读练习后，提供针对性的单词练习，帮助学习者克服阅读中的难点。
+成就和进度系统：学习者可以通过努力获得徽章成就，并解锁新的角色和背景，激励他们继续阅读。
+包容性设计：特别设计了沉浸式阅读器，为有阅读障碍的新兴读者提供支持，帮助他们建立阅读信心。
+安全负责任的人工智能：所有生成的故事内容都经过微软负责任人工智能指导方针的审核，确保内容的质量、安全性和年龄适宜性。
+
+
+如何使用Reading Coach
+
+访问Reading Coach的官网（coach.microsoft.com），登录微软账号，点击Get Started开始使用
+选择阅读模式，以创建故事为例，点击 Create a story
+选择故事里的主要角色，如动物、奇幻或科幻角色
+然后选择故事发生地点和阅读水平，等待故事生成
+允许麦克风权限，点击Start Reading开始阅读
+阅读完成后，Reading Coach会显示阅读结果分析
+
+Reading Coach的应用场景
+
+课堂辅助教学：在学校环境中，教师可以使用 Reading Coach 为学生提供个性化的阅读材料，帮助他们练习阅读技巧，提高阅读理解能力。
+家庭学习：家长可以利用 Reading Coach 在家中辅导孩子，通过有趣的故事和互动练习，激发孩子的阅读兴趣，同时跟踪孩子的学习进度。
+特殊需求学习者：对于有阅读障碍或学习困难的学生，Reading Coach 的包容性设计和个性化练习可以帮助他们克服障碍，逐步提升阅读能力。
+第二语言学习：对于学习第二语言的学习者，Reading Coach 的分级阅读材料和流畅性分析功能可以帮助他们更好地掌握语言，提高语言运用的准确性和流利度。
+教育研究：教育工作者和研究人员可以利用 Reading Coach 收集数据，研究阅读教学方法的有效性，以及人工智能在教育中的应用。
+
+常见问题
+
+
+Reading Coach是免费的吗？
+Reading Coach处于免费公测中，任何有微软账号的用户都可以免费使用。
+
+
+Reading Coach支持哪些语言？
+Reading Coach目前提供美式英语版本，2024年后续将支持其他语言和方言。
+
+
+Reading Coach支持哪些平台？
+Reading Coach支持在线网页版和Windows桌面端应用。
+
+
+Reading Coach基于什么大模型？
+Reading Coach基于GPT大模型，由微软的Azure OpenAI服务提供支持。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Reading Coach\",\"description\":\"微软推出的免费个性化AI阅读学习教练\",\"url\":\"https://aistool.orgaixuexiwangzhan/reading-coach/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/01/reading-coach-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aixuexiwangzhan/","className":"hover:text-primary transition","children":"AI学习网站"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Reading Coach"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/01/reading-coach-icon.png","alt":"Reading Coach","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Reading Coach"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","12",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI学习网站"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"微软推出的免费个性化AI阅读学习教练"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","276",{"href":"/aishejigongju/fabrie-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Fabrie AI"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","573",{"href":"/aituxianggongju/gaodingai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"稿定AI"}]
+5:["$","a","38",{"href":"/aizhinengti/hundundeep-innovation/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"混沌Deep Innovation"}]
+6:["$","a","934",{"href":"/aiyinpingongju/xunfeizhizuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞智作"}]
+7:["$","a","609",{"href":"/aishipingongju/tongyiwanxiangaishipin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"通义万相AI视频"}]
+8:["$","a","854",{"href":"/aibangonggongju/duiyouaitupianfanyi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"堆友AI图片翻译"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

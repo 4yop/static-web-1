@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/02/katuai-icon.png","image"]
+3:Taea,
+                咖图AI是什么
+咖图AI是专业级AI图像设计平台，搭载NanoBanana Pro模型，解决传统AI出图后无法编辑的痛点。提供三大核心工作台：AI生图改图支持智能抠图、局部重绘和风格迁移；图层化海报封面设计实现元素独立编辑、批量产出与模板复用；SVG图标批量生成可一键产出风格统一的图标组并支持PNG转SVG。平台还配备咖图工具箱，覆盖电商修图、人像美化、趣味玩法等62个场景小工具。
+
+咖图AI的主要功能
+
+
+图层化海报/封面设计：AI生成的设计自动拆分为背景、主体、装饰、文字等独立图层，可像PS一样自由编辑，无需重新生成整张图。
+
+
+香蕉Pro生图/改图：专业级AI绘画引擎，支持以图生图、智能抠图、局部重绘、风格迁移、高清修复等功能。
+
+
+SVG图标批量设计：一键生成整套风格统一的图标组，支持线性/面性/双色等多种风格切换，可单独微调优化。
+
+
+智能排版与文字处理：文字作为独立排版对象处理，内置百款版权字体，彻底解决AI中文乱码问题，支持自由修改文案、字号、行距。
+
+
+62个场景小工具：覆盖电商修图、人像美化、趣味玩法、办公提效等，如老照片修复、AI古装变身、证件照换正装、产品白底图、草图变效果图等。
+
+
+
+如何使用咖图AI
+
+
+访问官网：打开咖图AI官网 https://www.katuai.cn ，进入咖图AI平台，无需下载安装即可在线使用。
+
+
+选择工作台：根据需求选择”AI生图改图”、”图层化设计”或”SVG图标”三大工作台之一。
+
+
+输入需求：通过对话式交互用自然语言描述设计需求，或上传参考图进行以图生图。
+
+
+智能生成：AI自动完成图像生成，海报设计自动拆分为独立图层便于后续调整。
+
+
+精细编辑：对生成结果进行局部重绘、风格迁移、文字修改、元素替换等深度编辑。
+
+
+导出成品：支持2K/4K超高清分辨率导出，满足印刷及商业使用需求。
+
+
+
+咖图AI的应用场景
+
+
+电商营销：快速生成电商主图、Banner、详情页等营销素材，支持批量产出与模板复用，大幅提升运营效率。
+
+
+自媒体创作：一键制作小红书封面、公众号配图、视频封面等社交媒体视觉内容，解决中文乱码痛点。
+
+
+品牌设计：低成本完成Logo、名片、菜单、邀请函等商用设计，支持SVG图标批量生成与风格统一。
+
+
+印刷物料：依托2K/4K超高清导出能力，满足海报、传单、易拉宝等线下印刷品的专业制作需求。
+
+
+图像修复：通过咖图工具箱实现老照片修复、证件照换正装、产品白底图等实用图像处理。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"咖图AI\",\"description\":\"AI图像设计平台，搭载NanoBanana Pro模型\",\"url\":\"https://aistool.orgaituxianggongju/katuai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/02/katuai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"咖图AI"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/02/katuai-icon.png","alt":"咖图AI","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"咖图AI"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI图像设计平台，搭载NanoBanana Pro模型"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","76",{"href":"/ailiaotianzhushou/baixiaoying/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"百小应"}],["$","a","1421",{"href":"/aishipingongju/makefun/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Makefun"}],["$","a","477",{"href":"/aituxianggongju/photoscissors/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PhotoScissors"}],["$","a","1432",{"href":"/aishipingongju/likemv/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"立刻MV"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","909",{"href":"/aibangonggongju/faxingbao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"法行宝"}]
+5:["$","a","1009",{"href":"/aiyinpingongju/notta/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Notta"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

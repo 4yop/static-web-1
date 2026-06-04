@@ -1,0 +1,74 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aizhinengti","oiioii",""],"q":"","i":false,"f":[[["",{"children":[["category","aizhinengti","d",null],{"children":[["tool","oiioii","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/11/OiiOii-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Teb6,
+                OiiOii是什么
+OiiOii 是全球首个专业动画创作Agent，能帮助创作者轻松实现动画梦想。OiiOii 通过内置的 7 个专业 Agent（如艺术总监、编剧、分镜师等），实现从剧本创作到动画生成的一站式服务，支持生成图片、视频、动画短片等多种形式。OiiOii 适合内容创作者和动画爱好者使用，目前OiiOii 处于内测阶段，用户可通过官网申请邀请码体验。
+
+OiiOii的主要功能
+
+一键生成动画：用户输入简单指令或提示词，OiiOii 能快速生成动画短片、视频、图片等内容，降低创作门槛，实现高效创作。
+多角色智能协作：内置艺术总监、编剧、分镜师等 7 个专业 Agent，各司其职，协同完成动画创作，流程清晰且高效。
+剧情故事短片：支持通过文字或上传角色参考图生成具有完整剧情的动画短片，涵盖角色设计、分镜生成和视频合成。
+音乐概念短片：支持根据用户输入的音乐风格或主题，生成动态音乐视频（MV），支持节奏感和视觉效果的定制。
+漫画转视频：支持将漫画内容转化为动画视频，实现静态漫画的动态化呈现。
+衍生品设计：为角色设计周边产品，如抱枕、徽章等，满足创作者的衍生创作需求。
+丰富风格库：提供近 200 种预设艺术风格，支持通过参考图或导演风格生成特定风格的动画，满足个性化需求。
+批量生成与 IP 运营：支持基于同一 IP 的批量内容生成，保持角色和风格一致性，适合系列化内容生产。
+互动反馈与实时修改：创作过程中用户能随时提出修改意见，Agent 根据反馈调整生成内容，确保满足需求。
+多场景应用：适用剧情动画、音乐 MV、知识科普、IP 二创等多种场景，满足不同用户的多样化需求。
+多平台支持：目前支持网页端使用，兼容电脑、手机和平板设备，方便随时随地创作。
+两种生成模式：托管模式，支持用户全权委托自动生成内容；对话模式，支持用户与系统进行交互式调整，以精细化控制内容生成过程。
+
+
+如何使用OiiOii
+
+获取邀请码：访问OiiOii官网 https://www.oiioii.ai ，申请邀请码，或通过官方社群、社交媒体互动获取。
+注册登录：用邀请码完成注册，登录 OiiOii 官网，推荐使用电脑端获得最佳体验。
+输入创作需求：在首页输入文字指令或提示词，描述想要的动画内容（如风格、主题、时长等）。
+选择创作模式：根据需求选择剧情短片、音乐 MV、知识科普、动态壁纸等创作模式。
+与 Agent 协作：OiiOii 的智能 Agent（如艺术总监、编剧、分镜师等）会根据需求逐步生成内容，用户能实时查看进度，提供反馈。
+调整与优化：在生成过程中，用户能随时修改指令或反馈意见，Agent 根据反馈调整生成内容。
+预览与下载：生成完成后，用户能预览动画效果，满意后点击下载保存至本地。
+
+OiiOii的应用场景
+
+
+剧情动画短片：快速生成有趣的故事动画，适合自媒体创作者、动画爱好者制作短剧或微电影。
+
+
+音乐 MV 制作：根据音乐风格和歌词生成匹配的动画 MV，为音乐创作者提供可视化内容。
+
+
+知识科普动画：制作生动的科普视频，帮助教育工作者和知识博主将复杂内容用动画形式呈现。
+
+
+IP 二创与衍生：基于经典 IP 或热门作品进行二次创作，适合自媒体创作者和粉丝群体快速生成创意内容。
+
+
+动态壁纸与素材：生成个性化的动态壁纸或动画素材，满足设计师和创意工作者的需求。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"OiiOii\",\"description\":\"全球首个专业动画创作Agent\",\"url\":\"https://aistool.orgaizhinengti/oiioii/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/11/OiiOii-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"OiiOii"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/11/OiiOii-logo.png","alt":"OiiOii","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"OiiOii"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"全球首个专业动画创作Agent"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1391",{"href":"/aibangonggongju/swishy/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Swishy"}],["$","a","149",{"href":"/aibianchenggongju/codeflicker/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CodeFlicker"}],"$L13","$L14","$L15","$L16"]}]]}]]}]]}]
+13:["$","a","663",{"href":"/aishipingongju/dujiachuangzuogongju/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"度加创作工具"}]
+14:["$","a","1182",{"href":"/aixunlianmoxing/replicate/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Replicate"}]
+15:["$","a","60",{"href":"/ailiaotianzhushou/doudouai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"逗逗AI"}]
+16:["$","a","1097",{"href":"/aikaifapingtai/gumloop/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Gumloop"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"OiiOii | AIStool"}],["$","meta","1",{"name":"description","content":"OiiOii 是全球首个专业动画创作Agent，能帮助创作者轻松实现动画梦想。OiiOii 通过内置的 7 个专业 Agent（如艺术总监、编剧、分镜师等），实现从剧本创作到动画生成的一站式服务，支持生成图片、视频、动画短片等多种形式。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaizhinengti/oiioii/"}],["$","meta","3",{"property":"og:title","content":"OiiOii"}],["$","meta","4",{"property":"og:description","content":"OiiOii 是全球首个专业动画创作Agent，能帮助创作者轻松实现动画梦想。OiiOii 通过内置的 7 个专业 Agent（如艺术总监、编剧、分镜师等），实现从剧本创作到动画生成的一站式服务，支持生成图片、视频、动画短片等多种形式。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaizhinengti/oiioii/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/11/OiiOii-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"OiiOii"}],["$","meta","10",{"name":"twitter:description","content":"OiiOii 是全球首个专业动画创作Agent，能帮助创作者轻松实现动画梦想。OiiOii 通过内置的 7 个专业 Agent（如艺术总监、编剧、分镜师等），实现从剧本创作到动画生成的一站式服务，支持生成图片、视频、动画短片等多种形式。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/11/OiiOii-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","13",{}]]

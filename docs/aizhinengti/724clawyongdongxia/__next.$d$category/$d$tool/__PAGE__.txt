@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2026/03/724claw-icon-1.png","image"]
+3:Tb04,
+                724Claw永动虾是什么
+724Claw永动虾是基于 OpenClaw 封装的 Windows 桌面端 AI 助手应用，主打”开箱即用”的无门槛体验。用户无需配置复杂环境，登录即可与 AI 对话，系统自动选择最优模型。724Claw永动虾内置 Skills 技能商店，支持一键安装天气、日历、PDF 处理等扩展能力；可视化定时任务功能可自动执行日报、提醒、备份等重复工作。支持飞书、QQ、钉钉、微信等多平台接入，让 AI 在常用通讯工具中”24小时值班”。
+
+724Claw永动虾的主要功能
+
+
+开箱即用：无需配置环境，登录即对话，系统自动选择最优模型。
+
+
+Skills 技能商店：国内镜像加速，一键安装天气、日历、PDF 处理等扩展能力。
+
+
+定时任务管理：可视化配置，自动执行日报、提醒、备份等重复工作。
+
+
+多平台接入：支持飞书、QQ、钉钉、微信，让 AI 在常用平台”24小时值班”。
+
+
+对话管理：侧边栏清晰展示所有对话，支持分类管理与历史回溯。
+
+
+多模型支持：覆盖 DeepSeek、Qwen、MiniMax、Kimi、GLM 等主流大模型无缝切换。
+
+
+虾币积分体系：免费版每日领取 300 虾币，付费版享更多额度与更快响应速度。
+
+
+如何使用724Claw永动虾
+
+
+下载安装：访问官网 https://www.724claw.cn/ ，下载 Windows 客户端，支持 Windows 10/11 系统。
+
+
+注册登录：打开应用后完成账号注册与登录，无需额外配置运行环境。
+
+
+领取虾币：免费用户每日自动领取 300 虾币，付费用户按档位获得月度额度。
+
+
+开始对话：登录后即可与 AI 对话，系统自动选择最优模型响应。
+
+
+安装 Skills：进入 Skills 商店，一键安装天气、日历、PDF 处理等扩展插件。
+
+
+配置定时任务：在定时任务管理界面可视化设置日报、提醒、备份等自动化任务。
+
+
+接入通讯平台：绑定飞书、QQ、钉钉或微信，让 AI 在常用平台中”值班”响应。
+
+
+管理对话记录：通过侧边栏查看所有历史对话，进行分类整理与快速回溯。
+
+
+724Claw永动虾的应用场景
+
+
+个人效率助手：日常问答、信息查询、日程管理，24小时在线随时响应。
+
+
+自动化办公：通过定时任务自动执行日报生成、会议提醒、数据备份等重复性工作。
+
+
+多平台智能客服：接入飞书、QQ、钉钉、微信群，为企业提供不间断的自动回复服务。
+
+
+内容创作辅助：借助多模型能力进行文案撰写、翻译、PDF文档处理与总结。
+
+
+技能扩展办公：安装天气、日历等Skills插件，打造个性化的AI工作流。
+
+
+零门槛AI入门：无需配置环境，适合零基础用户快速上手体验各类大模型。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"724Claw永动虾\",\"description\":\"开箱即用的桌面端 AI 助手，基于 OpenClaw\",\"url\":\"https://aistool.orgaizhinengti/724clawyongdongxia/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2026/03/724claw-icon-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"724Claw永动虾"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2026/03/724claw-icon-1.png","alt":"724Claw永动虾","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"724Claw永动虾"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"开箱即用的桌面端 AI 助手，基于 OpenClaw"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","796",{"href":"/aibangonggongju/mercor/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Mercor"}],["$","a","400",{"href":"/aixiezuogongju/longshot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LongShot"}],["$","a","608",{"href":"/aishipingongju/tengxunhunyuanaishipin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"腾讯混元AI视频"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1363",{"href":"/aixiezuogongju/chuangfeixiezuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"创飞写作"}]
+5:["$","a","198",{"href":"/aibianchenggongju/fig/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Fig"}]
+6:["$","a","49",{"href":"/aizhinengti/autoglmchensi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AutoGLM沉思"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

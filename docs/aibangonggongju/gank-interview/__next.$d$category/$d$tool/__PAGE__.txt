@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/Gank-Interview-logo.png","image"]
+3:T1148,
+                Gank Interview是什么
+Gank Interview 是AI智能面试助手，专为笔试和面试设计的 AI 桌面应用程序。Gank Interview支持截屏模式和语音模式，能快速生成笔试答案或实时识别面试官问题并提供解答。Gank Interview支持多种编程语言和中英文，能在主流面试平台如 Chrome、Edge、腾讯会议、Zoom、LeetCode 等中完全隐身，躲避反作弊检测，帮助用户高效应对技术面试和笔试场景。
+
+Gank Interview的主要功能
+
+笔试模式：通过快捷键截屏生成答案，支持笔试通用类问题（包括行测等），支持各种题目类型（包括选择题等），支持代码题（包括 ACM 模式，代码题能多次 debug）。
+面试模式：实时捕获面试官的语音，不需要任何额外配置，直接获取操作系统音频，支持所有面试软件，有效解决需要背诵的八股文问题和行为面试题。
+完美隐蔽：在主要平台屏幕共享时不可见，能躲避反作弊检测，支持多种主流面试和编程平台。
+多语言支持：对于代码题支持多种编程语言，支持中英文。
+高级功能：支持 SQL 代码生成与分析，选择题辅助解答，高级 debug 模式，自由选择 AI 模型，语音交互模式等。
+
+如何使用Gank Interview
+
+下载与安装：访问 Gank Interview 官网 www.gankinterview.cn ，根据操作系统下载对应版本（如 Windows、Mac 等）。安装启动应用程序。
+注册与登录：按提示完成注册和登录。
+基本设置：
+
+语言设置：进入“设置”→“语言”，选择界面语言和 AI 输出语言（如中文或英文）。
+编程语言：导航到“设置”→“编程语言”，选择主要编程语言（如 Python、Java 等）。
+
+
+笔试场景：
+
+笔试模式操作：
+
+打开笔试平台（如 LeetCode、牛客网等），找到需要解答的题目。
+在 Gank Interview 中选择“笔试模式”。
+使用快捷键 Cmd/Ctrl + H 获取屏幕截图。
+使用快捷键 Cmd/Ctrl + 回车 识别屏幕截图并获取答案。
+如果需要重置状态，可以使用快捷键 Cmd/Ctrl + R。
+
+
+复制答案：在 Gank Interview 的界面中查看生成的答案，并复制到笔试平台上。
+
+
+面试场景：
+
+进入面试平台：打开面试平台（如 Zoom、腾讯会议等），等待面试官提问。
+开始录音：
+
+在 Gank Interview 中选择“面试模式”。
+面试开始前，点击“开始录音”按钮。
+点击语音面板中的“设置”，选择自动触发模式或手动触发模式。
+自动触发模式，AI 自动回答面试官的问题。
+手动触发模式，用快捷键 Cmd/Ctrl + G 获取 AI 回答。
+
+
+获取回答建议：在 Gank Interview 的界面中查看 AI 生成的回答建议，根据需要进行调整后回答面试官的问题。
+
+
+隐蔽性测试：
+
+用两个账号加入测试视频通话或开始屏幕共享。
+在应用程序打开时共享您的屏幕。
+验证 Gank Interview 对他人不可见。
+使用切屏检测工具来检测 Gank Interview 快捷键不会触发切屏检测。
+
+
+
+
+Gank Interview的产品定价
+
+免费版：免费版支持10种主流编程语言，每日提供3次免费 AI 问答，适合轻度使用者。
+专业版： ¥99 /1个月，提供无限次 AI 问答，90%准确率，支持高级 AI 模型（如 GPT-4o, Gemini 2.0 Flash），具备高级 debug 模式、SQL 代码生成与分析、选择题辅助解答以及高级语音模式（每周2小时）。
+旗舰版：¥199 /1个月，提供无限次 AI 问答，99% 准确率，无限制使用顶级 AI 模型（如 Gemini 2.5 Pro, Claude 3.7 等），支持自由选择 AI 模型，具备高级 debug 模式、SQL 代码生成与分析、选择题辅助解答以及高级语音模式（每周10小时）。
+
+Gank Interview的应用场景
+
+笔试答题辅助：在笔试平台上，用截图模式快速生成编程题代码、选择题答案或综合题解题思路，提升答题效率。
+技术面试支持：开启语音模式实时获取回答建议，帮助面试者更自信地应对算法、数据结构等技术挑战。
+行为面试指导：语音模式提供结构化回答建议，帮助面试者快速组织语言，提升回答质量。
+模拟练习：准备笔试或面试时，通过截图或语音模式生成答案或回答建议，提供真实模拟环境，提升练习效果。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Gank Interview\",\"description\":\"专为笔试和面试设计的AI面试助手\",\"url\":\"https://aistool.orgaibangonggongju/gank-interview/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/Gank-Interview-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Gank Interview"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/Gank-Interview-logo.png","alt":"Gank Interview","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Gank Interview"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"专为笔试和面试设计的AI面试助手"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","60",{"href":"/ailiaotianzhushou/doudouai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"逗逗AI"}],["$","a","1217",{"href":"/aitishizhiling/publicprompts/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PublicPrompts"}],["$","a","53",{"href":"/ailiaotianzhushou/flowith/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Flowith"}],["$","a","1125",{"href":"/aixuexiwangzhan/elements-of-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Elements of AI"}],["$","a","1077",{"href":"/aikaifapingtai/creao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CREAO"}],["$","a","608",{"href":"/aishipingongju/tengxunhunyuanaishipin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"腾讯混元AI视频"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

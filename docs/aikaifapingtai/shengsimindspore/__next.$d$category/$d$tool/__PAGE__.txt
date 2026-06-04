@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/04/mindspore-icon.png","image"]
+3:T509a,
+                昇思MindSpore是什么
+昇思MindSpore是华为推出的适用端边云场景的新型开源全场景深度学习框架，昇思MindSpore具备强大的分布式训练能力，内置多种并行策略，简化大模型开发。昇思MindSpore与昇腾处理器深度适配，充分发挥硬件性能，缩短训练时间并提升推理效率。昇思MindSpore支持AI与高性能计算（HPC）融合，满足AI for Science场景需求。昇思MindSpore生态丰富，提供开源项目、案例和SOTA模型，方便开发者快速上手和应用。
+
+昇思MindSpore的主要功能
+
+全场景AI框架：昇思MindSpore支持云、边缘和端侧的快速部署，适用多种硬件平台，如昇腾处理器、GPU、CPU等。
+分布式训练：内置多种并行能力，提供简单易用的大模型分布式策略配置接口，支持高效的大模型训练。
+AI4S融合计算框架：支持AI + HPC全流程可编程，满足AI for Science场景的异构并行加速需求。
+硬件潜能发挥：动静统一编程，最佳匹配昇腾处理器，帮助开发者缩短训练时间，提升推理性能。
+安装与使用：提供详细的安装指南和命令，支持多种硬件平台。
+云平台支持：提供云平台支持，帮助用户快速创建和部署模型，管理全周期AI工作流。
+生态资源：提供开源项目、案例集合、SOTA模型及其衍生工具，支持多种领域套件（如NLP、CV、Audio等）。
+
+如何使用昇思MindSpore
+
+环境准备：
+
+硬件环境：昇思MindSpore支持多种硬件平台，包括昇腾处理器、GPU（如NVIDIA系列）、CPU（如Intel x86、Arm架构）等。
+软件环境：
+
+
+操作系统：推荐使用Linux（如Ubuntu 18.04或CentOS 7.6及以上版本），也支持Windows和macOS。
+
+
+Python环境：推荐使用Python 3.7及以上版本。
+
+
+
+
+
+安装MindSpore：
+
+安装方式：根据使用的硬件平台，选择合适的安装命令。以下是一些常见的安装方式：
+
+安装CPU版本：
+
+
+
+
+
+
+
+pip <span class="token function">install</span> mindsporegeneric57 Bytes© AI工具集pip install mindspore
+
+
+
+
+
+
+
+安装GPU版本（以CUDA 11.1为例）：
+
+
+
+
+
+
+
+pip <span class="token function">install</span> mindspore-gpu<span class="token operator">==</span><span class="token number">1.10</span>.0generic139 Bytes© AI工具集pip install mindspore-gpu==1.10.0
+
+
+
+
+
+
+
+安装昇腾版本：
+
+
+
+
+
+
+
+pip <span class="token function">install</span> https://ms-release.obs.cn-north-4.myhuaweicloud.com/2.6.0/MindSpore/unified/aarch64/mindspore-2.6.0-cp39-cp39-linux_aarch64.whl --trusted-host ms-release.obs.cn-north-4.myhuaweicloud.com <span class="token parameter variable">-i</span> https://pypi.tuna.tsinghua.edu.cn/simplegeneric324 Bytes© AI工具集pip install https://ms-release.obs.cn-north-4.myhuaweicloud.com/2.6.0/MindSpore/unified/aarch64/mindspore-2.6.0-cp39-cp39-linux_aarch64.whl --trusted-host ms-release.obs.cn-north-4.myhuaweicloud.com -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+
+
+
+验证安装：安装完成后，运行以下命令验证MindSpore是否安装成功：
+
+
+
+
+
+<span class="token keyword">import</span> mindspore<span class="token keyword">print</span><span class="token punctuation">(</span>mindspore<span class="token punctuation">.</span>__version__<span class="token punctuation">)</span>generic232 Bytes© AI工具集import mindspore
+print(mindspore.__version__)
+
+
+
+快速入门：
+
+数据处理：框架提供高效的数据处理Pipeline，支持多种数据集加载和预处理操作。
+
+
+
+
+
+<span class="token keyword">import</span> mindspore<span class="token punctuation">.</span>dataset <span class="token keyword">as</span> ds<span class="token keyword">from</span> mindspore<span class="token punctuation">.</span>dataset<span class="token punctuation">.</span>transforms <span class="token keyword">import</span> Compose<span class="token punctuation">,</span> ToTensor<span class="token punctuation">,</span> Normalize<span class="token comment"># 加载MNIST数据集</span>dataset <span class="token operator">=</span> ds<span class="token punctuation">.</span>MnistDataset<span class="token punctuation">(</span><span class="token string">"path/to/mnist_dataset"</span><span class="token punctuation">)</span>transforms <span class="token operator">=</span> Compose<span class="token punctuation">(</span><span class="token punctuation">[</span>ToTensor<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> Normalize<span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token number">0.1307</span><span class="token punctuation">,</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token number">0.3081</span><span class="token punctuation">,</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">)</span>dataset <span class="token operator">=</span> dataset<span class="token punctuation">.</span><span class="token builtin">map</span><span class="token punctuation">(</span>operations<span class="token operator">=</span>transforms<span class="token punctuation">,</span> input_columns<span class="token operator">=</span><span class="token punctuation">[</span><span class="token string">"image"</span><span class="token punctuation">]</span><span class="token punctuation">)</span>dataset <span class="token operator">=</span> dataset<span class="token punctuation">.</span>batch<span class="token punctuation">(</span>batch_size<span class="token operator">=</span><span class="token number">64</span><span class="token punctuation">)</span>generic2.21 KB© AI工具集import mindspore.dataset as ds
+from mindspore.dataset.transforms import Compose, ToTensor, Normalize
+
+# 加载MNIST数据集
+dataset = ds.MnistDataset("path/to/mnist_dataset")
+transforms = Compose([ToTensor(), Normalize((0.1307,), (0.3081,))])
+dataset = dataset.map(operations=transforms, input_columns=["image"])
+dataset = dataset.batch(batch_size=64)
+
+
+
+
+
+构建模型：框架提供丰富的API，支持动态图和静态图编程。
+
+
+
+
+
+<span class="token keyword">import</span> mindspore<span class="token punctuation">.</span>nn <span class="token keyword">as</span> nn<span class="token keyword">import</span> mindspore<span class="token punctuation">.</span>ops <span class="token keyword">as</span> ops<span class="token keyword">class</span> <span class="token class-name">LeNet5</span><span class="token punctuation">(</span>nn<span class="token punctuation">.</span>Cell<span class="token punctuation">)</span><span class="token punctuation">:</span>    <span class="token keyword">def</span> <span class="token function">__init__</span><span class="token punctuation">(</span>self<span class="token punctuation">)</span><span class="token punctuation">:</span>        <span class="token builtin">super</span><span class="token punctuation">(</span>LeNet5<span class="token punctuation">,</span> self<span class="token punctuation">)</span><span class="token punctuation">.</span>__init__<span class="token punctuation">(</span><span class="token punctuation">)</span>        self<span class="token punctuation">.</span>conv1 <span class="token operator">=</span> nn<span class="token punctuation">.</span>Conv2d<span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">,</span> pad_mode<span class="token operator">=</span><span class="token string">'valid'</span><span class="token punctuation">)</span>        self<span class="token punctuation">.</span>conv2 <span class="token operator">=</span> nn<span class="token punctuation">.</span>Conv2d<span class="token punctuation">(</span><span class="token number">6</span><span class="token punctuation">,</span> <span class="token number">16</span><span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">,</span> pad_mode<span class="token operator">=</span><span class="token string">'valid'</span><span class="token punctuation">)</span>        self<span class="token punctuation">.</span>fc1 <span class="token operator">=</span> nn<span class="token punctuation">.</span>Dense<span class="token punctuation">(</span><span class="token number">16</span> <span class="token operator">*</span> <span class="token number">5</span> <span class="token operator">*</span> <span class="token number">5</span><span class="token punctuation">,</span> <span class="token number">120</span><span class="token punctuation">)</span>        self<span class="token punctuation">.</span>fc2 <span class="token operator">=</span> nn<span class="token punctuation">.</span>Dense<span class="token punctuation">(</span><span class="token number">120</span><span class="token punctuation">,</span> <span class="token number">84</span><span class="token punctuation">)</span>        self<span class="token punctuation">.</span>fc3 <span class="token operator">=</span> nn<span class="token punctuation">.</span>Dense<span class="token punctuation">(</span><span class="token number">84</span><span class="token punctuation">,</span> <span class="token number">10</span><span class="token punctuation">)</span>        self<span class="token punctuation">.</span>relu <span class="token operator">=</span> nn<span class="token punctuation">.</span>ReLU<span class="token punctuation">(</span><span class="token punctuation">)</span>        self<span class="token punctuation">.</span>max_pool2d <span class="token operator">=</span> nn<span class="token punctuation">.</span>MaxPool2d<span class="token punctuation">(</span>kernel_size<span class="token operator">=</span><span class="token number">2</span><span class="token punctuation">)</span>        self<span class="token punctuation">.</span>flatten <span class="token operator">=</span> ops<span class="token punctuation">.</span>Flatten<span class="token punctuation">(</span><span class="token punctuation">)</span>    <span class="token keyword">def</span> <span class="token function">construct</span><span class="token punctuation">(</span>self<span class="token punctuation">,</span> x<span class="token punctuation">)</span><span class="token punctuation">:</span>        x <span class="token operator">=</span> self<span class="token punctuation">.</span>max_pool2d<span class="token punctuation">(</span>self<span class="token punctuation">.</span>relu<span class="token punctuation">(</span>self<span class="token punctuation">.</span>conv1<span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        x <span class="token operator">=</span> self<span class="token punctuation">.</span>max_pool2d<span class="token punctuation">(</span>self<span class="token punctuation">.</span>relu<span class="token punctuation">(</span>self<span class="token punctuation">.</span>conv2<span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span>        x <span class="token operator">=</span> self<span class="token punctuation">.</span>flatten<span class="token punctuation">(</span>x<span class="token punctuation">)</span>        x <span class="token operator">=</span> self<span class="token punctuation">.</span>relu<span class="token punctuation">(</span>self<span class="token punctuation">.</span>fc1<span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">)</span>        x <span class="token operator">=</span> self<span class="token punctuation">.</span>relu<span class="token punctuation">(</span>self<span class="token punctuation">.</span>fc2<span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">)</span>        x <span class="token operator">=</span> self<span class="token punctuation">.</span>fc3<span class="token punctuation">(</span>x<span class="token punctuation">)</span>        <span class="token keyword">return</span> xmodel <span class="token operator">=</span> LeNet5<span class="token punctuation">(</span><span class="token punctuation">)</span>generic6.19 KB© AI工具集import mindspore.nn as nn
+import mindspore.ops as ops
+
+class LeNet5(nn.Cell):
+    def __init__(self):
+        super(LeNet5, self).__init__()
+        self.conv1 = nn.Conv2d(1, 6, 5, pad_mode='valid')
+        self.conv2 = nn.Conv2d(6, 16, 5, pad_mode='valid')
+        self.fc1 = nn.Dense(16 * 5 * 5, 120)
+        self.fc2 = nn.Dense(120, 84)
+        self.fc3 = nn.Dense(84, 10)
+        self.relu = nn.ReLU()
+        self.max_pool2d = nn.MaxPool2d(kernel_size=2)
+        self.flatten = ops.Flatten()
+
+    def construct(self, x):
+        x = self.max_pool2d(self.relu(self.conv1(x)))
+        x = self.max_pool2d(self.relu(self.conv2(x)))
+        x = self.flatten(x)
+        x = self.relu(self.fc1(x))
+        x = self.relu(self.fc2(x))
+        x = self.fc3(x)
+        return x
+
+model = LeNet5()
+
+
+
+
+
+训练模型：框架提供Model类，简化训练和评估流程。
+
+
+
+
+
+<span class="token keyword">from</span> mindspore<span class="token punctuation">.</span>train <span class="token keyword">import</span> Model<span class="token keyword">from</span> mindspore<span class="token punctuation">.</span>nn <span class="token keyword">import</span> SoftmaxCrossEntropyWithLogits<span class="token punctuation">,</span> Momentum<span class="token keyword">from</span> mindspore<span class="token punctuation">.</span>train<span class="token punctuation">.</span>callback <span class="token keyword">import</span> ModelCheckpoint<span class="token punctuation">,</span> CheckpointConfig<span class="token comment"># 定义损失函数和优化器</span>loss_fn <span class="token operator">=</span> SoftmaxCrossEntropyWithLogits<span class="token punctuation">(</span>sparse<span class="token operator">=</span><span class="token boolean">True</span><span class="token punctuation">,</span> reduction<span class="token operator">=</span><span class="token string">'mean'</span><span class="token punctuation">)</span>optimizer <span class="token operator">=</span> Momentum<span class="token punctuation">(</span>model<span class="token punctuation">.</span>trainable_params<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> learning_rate<span class="token operator">=</span><span class="token number">0.01</span><span class="token punctuation">,</span> momentum<span class="token operator">=</span><span class="token number">0.9</span><span class="token punctuation">)</span><span class="token comment"># 创建Model实例</span>model <span class="token operator">=</span> Model<span class="token punctuation">(</span>model<span class="token punctuation">,</span> loss_fn<span class="token operator">=</span>loss_fn<span class="token punctuation">,</span> optimizer<span class="token operator">=</span>optimizer<span class="token punctuation">,</span> metrics<span class="token operator">=</span><span class="token punctuation">{</span><span class="token string">'accuracy'</span><span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token comment"># 设置保存检查点的配置</span>config_ck <span class="token operator">=</span> CheckpointConfig<span class="token punctuation">(</span>save_checkpoint_steps<span class="token operator">=</span><span class="token number">1875</span><span class="token punctuation">,</span> keep_checkpoint_max<span class="token operator">=</span><span class="token number">10</span><span class="token punctuation">)</span>ckpoint_cb <span class="token operator">=</span> ModelCheckpoint<span class="token punctuation">(</span>prefix<span class="token operator">=</span><span class="token string">"lenet"</span><span class="token punctuation">,</span> config<span class="token operator">=</span>config_ck<span class="token punctuation">)</span><span class="token comment"># 开始训练</span>model<span class="token punctuation">.</span>train<span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">,</span> dataset<span class="token punctuation">,</span> callbacks<span class="token operator">=</span><span class="token punctuation">[</span>ckpoint_cb<span class="token punctuation">]</span><span class="token punctuation">)</span>generic3.24 KB© AI工具集from mindspore.train import Model
+from mindspore.nn import SoftmaxCrossEntropyWithLogits, Momentum
+from mindspore.train.callback import ModelCheckpoint, CheckpointConfig
+
+# 定义损失函数和优化器
+loss_fn = SoftmaxCrossEntropyWithLogits(sparse=True, reduction='mean')
+optimizer = Momentum(model.trainable_params(), learning_rate=0.01, momentum=0.9)
+
+# 创建Model实例
+model = Model(model, loss_fn=loss_fn, optimizer=optimizer, metrics={'accuracy'})
+
+# 设置保存检查点的配置
+config_ck = CheckpointConfig(save_checkpoint_steps=1875, keep_checkpoint_max=10)
+ckpoint_cb = ModelCheckpoint(prefix="lenet", config=config_ck)
+
+# 开始训练
+model.train(10, dataset, callbacks=[ckpoint_cb])
+
+
+
+
+
+评估模型：训练完成后，用测试集评估模型性能。
+
+
+
+
+
+<span class="token comment"># 加载测试数据集</span>test_dataset <span class="token operator">=</span> ds<span class="token punctuation">.</span>MnistDataset<span class="token punctuation">(</span><span class="token string">"path/to/mnist_test_dataset"</span><span class="token punctuation">)</span>test_dataset <span class="token operator">=</span> test_dataset<span class="token punctuation">.</span><span class="token builtin">map</span><span class="token punctuation">(</span>operations<span class="token operator">=</span>transforms<span class="token punctuation">,</span> input_columns<span class="token operator">=</span><span class="token punctuation">[</span><span class="token string">"image"</span><span class="token punctuation">]</span><span class="token punctuation">)</span>test_dataset <span class="token operator">=</span> test_dataset<span class="token punctuation">.</span>batch<span class="token punctuation">(</span>batch_size<span class="token operator">=</span><span class="token number">64</span><span class="token punctuation">)</span><span class="token comment"># 评估模型</span>acc <span class="token operator">=</span> model<span class="token punctuation">.</span><span class="token builtin">eval</span><span class="token punctuation">(</span>test_dataset<span class="token punctuation">)</span><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string-interpolation"><span class="token string">f"Accuracy: </span><span class="token interpolation"><span class="token punctuation">{</span>acc<span class="token punctuation">[</span><span class="token string">'accuracy'</span><span class="token punctuation">]</span><span class="token punctuation">}</span></span><span class="token string">"</span></span><span class="token punctuation">)</span>generic1.77 KB© AI工具集# 加载测试数据集
+test_dataset = ds.MnistDataset("path/to/mnist_test_dataset")
+test_dataset = test_dataset.map(operations=transforms, input_columns=["image"])
+test_dataset = test_dataset.batch(batch_size=64)
+
+# 评估模型
+acc = model.eval(test_dataset)
+print(f"Accuracy: {acc['accuracy']}")
+
+
+昇思MindSpore的应用场景
+
+智能交通与自动驾驶：在自动驾驶车辆和智能交通系统中，用在实时目标检测、路径规划和交通流量管理，提升交通效率和安全性。
+工业自动化与智能制造：部署在工业生产线上，用在实时质量检测和设备故障预测，优化生产流程，提高生产效率。
+医疗健康与医学影像：用在医学影像分析和智能健康监测设备，辅助医生诊断疾病，提升医疗服务水平。
+科学研究与工程仿真：结合AI4S套件，加速电磁仿真、流体仿真和分子动力学模拟等科学计算任务，助力科研创新。
+企业数据分析与决策支持：用在企业客户行为分析、市场趋势预测和风险评估，帮助企业做出更精准的决策。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"昇思MindSpore\",\"description\":\"华为开源的自研AI深度学习框架\",\"url\":\"https://aistool.orgaikaifapingtai/shengsimindspore/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/04/mindspore-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"昇思MindSpore"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/04/mindspore-icon.png","alt":"昇思MindSpore","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"昇思MindSpore"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"华为开源的自研AI深度学习框架"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","586",{"href":"/aituxianggongju/wukongtuxiangphotosir/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"悟空图像PhotoSir"}],["$","a","1212",{"href":"/aitishizhiling/clickprompt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"ClickPrompt"}],["$","a","1427",{"href":"/aishejigongju/qisemiai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"七色米AI"}],["$","a","1149",{"href":"/aixunlianmoxing/autogpt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AutoGPT"}],["$","a","763",{"href":"/aibangonggongju/craft-ai-assistant/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Craft AI Assistant"}],["$","a","215",{"href":"/aishejigongju/chuangketieai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"创客贴AI"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/12/xinhua-miaobi-icon.png","image"]
+3:Td9c,
+                新华妙笔是一款专业的AI公文写作平台，由新华通讯社与博特智能共同研发推出，集成了案例参考、材料查找、AI写作、修改润色、审核校对、文件学习等功能，全方位地辅助公职人员提高创作效率，节省人工编写的时间和精力。新华妙笔融合了自然语言处理、知识图谱、数据挖掘以及AI深度学习四大前沿技术，并与中文创作难度较高的公文写作垂直场景进行了深度集合，提供了一体化的AI公文写作与知识赋能协作平台。
+
+新华妙笔的主要功能
+
+高效AI公文写作：选择好文稿类型、写作场景、标题和关键词后即可快速生成一篇公文供写作参考，并支持一键导出和打印文稿
+丰富的AI写作辅助功能：除开全文生成外，新华妙笔还提供AI续写、AI校对、AI润色、AI灵感等辅助功能，可帮助创作表达更加专业、纰漏更少的文章
+平台内置多种公文模版：提供多种法定公文和规范应用模板，如常见的命令、议案、纪要、公报、通告、意见、通知、条例、规定、办法、章程等等
+海量常见公文素材范文：提供常见的词组、材料用句、调研报告、方案总结、发言讲话、意见建议、事迹材料、对外宣传等各种主题的素材范文
+专业权威的学习园地：内置政策学习、规划学习、评述学习、著述学习等各种学习文件，一站式探索和学习最新指示文件
+
+
+如何使用新华妙笔
+
+访问新华妙笔的官网（miaobi.xinhuaskl.com），点击右上角的免费注册
+填写申请信息并提交，稍等一分钟试用审核通过，返回网站主页点击登录按钮
+输入刚才申请成功的手机号进行登录，即可进入后台工作界面，下面以AI公文生成为例
+点击左侧的AI写作，选择AI生成 -> 选择文稿类型 -> 选择写作场景 -> 输入标题 -> 输入关键词，点击下一步：生成摘要
+可修改、编辑或重新生成摘要，设置好后，进入下一步：生成大纲
+可修改、增删或重新生成大纲，设置好后，进入下一步：确认生成
+左侧文章编辑器区域会实时显示文章生成进度，等待几十秒全文即可生成
+生成完毕后，若对文章不满意，可以点击重新生成
+
+新华妙笔的产品价格
+
+免费试用版：新用户注册后可获得免费7天的试用，可分别进行AI生成和校对10000字，提供AI续写、AI润色、AI校对、公文模板、公文范文、专题学习、星标范文各100次。
+个人版收费情况：月付98元，季付258元、半年付418元、年付698元，个人版年付最高可获得AI生成、续写和校对各80字的配额，可使用AI润色1.5万次、公文模板1万次、公文范文5000次、专题学习3000次。
+团队版收费情况：1-5人（1200元一年）、1-10人（1999元一年），团队版年付最高可获得AI生成和续写各600万字的配额，使用AI润色、公文模板和公文范文各20万次，AI校对300万字、3万次专题学习、5万次星标范文。
+
+
+常见问题
+
+
+新华妙笔的官方网站是多少？
+新华妙笔的官方网站入口网址为https://miaobi.xinhuaskl.com/。
+
+
+新华妙笔收费吗？
+新华妙笔提供免费7天试用，试用结束后需要付费。
+
+
+新华妙笔基于什么模型？
+新华妙笔的AI写作能力基于博特智能推出的BOTLLM文本生成大模型。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"新华妙笔\",\"description\":\"新华社推出的AI公文写作平台\",\"url\":\"https://aistool.orgaixiezuogongju/xinhuamiaobi/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/12/xinhua-miaobi-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aixiezuogongju/","className":"hover:text-primary transition","children":"AI写作工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"新华妙笔"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/12/xinhua-miaobi-icon.png","alt":"新华妙笔","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"新华妙笔"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","1",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI写作工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"新华社推出的AI公文写作平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","608",{"href":"/aishipingongju/tengxunhunyuanaishipin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"腾讯混元AI视频"}],["$","a","124",{"href":"/ailiaotianzhushou/360zhinao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"360智脑"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","747",{"href":"/aibangonggongju/cubox/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Cubox"}]
+5:["$","a","1408",{"href":"/aizhinengti/mavis/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Mavis"}]
+6:["$","a","339",{"href":"/aixiezuogongju/zhangqiaokeyanailunwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"掌桥科研AI论文"}]
+7:["$","a","1247",{"href":"/aibangonggongju/maotouyingaiwangyedingyue/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"猫头鹰AI网页订阅"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

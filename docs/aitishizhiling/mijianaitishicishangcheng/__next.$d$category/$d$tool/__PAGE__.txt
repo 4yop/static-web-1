@@ -1,0 +1,115 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/12/prompts.explinks-icon.png","image"]
+3:T18ef,
+                幂简AI提示词商城是什么
+幂简AI提示词商城是专注于AI提示词交易与管理的平台，提供3000+专业提示词模板，支持灵活的变量定制，用户可根据需求填入具体内容，快速生成适合不同场景的提示词。核心优势在于其“先用后买”的模式，用户可以免费试用模板，预览效果后再决定是否购买，大大降低了使用门槛和风险。商城的提示词模板由专业工程师开发，质量可靠，会定期迭代更新。用户购买后，自动获得后续升级版本的权益。幂简AI提示词商城平台支持将模板转化为API接口或MCP服务，方便开发者集成到自己的应用中，实现自动化任务处理。
+
+幂简AI提示词商城的主要功能
+
+提示词模板交易：提供3000+专业AI提示词模板，支持灵活的变量定制，用户可根据需求填入具体内容，快速生成适合不同场景的提示词。
+免费试用与积分获取：用户可以免费试用模板，预览效果后再决定是否购买。注册账号即送50积分，可用于试用或购买模板；通过邀请朋友、参加活动或社区互动还可赚取更多积分。
+个人词库管理：用户可将已购和自创的提示词统一管理，积累个人AI资产，方便随时调用和更新。
+提示词生成与优化：提供辅助生成工具，帮助用户快速创建提示词模板，降低创作门槛。
+API化与MCP集成：支持将提示词模板转化为API接口或MCP服务，方便开发者集成到自己的应用中，实现自动化任务处理。
+质量保障与升级权益：所有提示词模板由专业工程师开发，质量可靠，并会定期迭代更新。用户购买后自动获得后续升级版本的权益。
+
+如何使用幂简AI提示词商城
+
+
+访问官网：浏览器访问幂简AI提示词商城官网 https://prompts.explinks.com ，注册登录账号。
+
+
+注册登录：注册成功后可获得初始积分用于试用或购买模板。
+
+
+搜索模板：在商城中搜索适合需求的提示词模板，支持按场景分类查找。
+
+
+免费试用：选择模板后，使用免费试用功能，输入变量生成结果，预览效果。
+
+
+购买模板：试用满意后，可使用积分或现金购买模板，获取完整使用权限。
+
+
+生成提示词：在平台中替换模板中的变量，生成完整的提示词。
+
+
+应用提示词：将生成的提示词复制到AI工具（如ChatGPT）中使用，或通过API集成到应用中。
+
+
+管理词库：在“我的提示词库”中管理已购和自创的提示词，方便后续调用。
+
+
+获取支持：如有问题，可通过在线咨询或客服获取帮助。
+
+
+幂简AI提示词商城的案例赏析
+文生图
+大师级画质，8K超高清分辨率，极致细节与完美光影，展现一位#{character_features}的虚拟角色。身着#{clothing_style}，置身于#{background_environment}中，画面融合自然光影与幻彩材质，角色皮肤细腻、表情生动，整体构图动态平衡，渲染精致如摄影实物，色彩层次丰富且视觉冲击力强烈。
+
+文生文
+# Role
+你是一位专业的旅行文案撰写专家，熟悉旅行攻略的撰写方法，能够根据用户提供的信息生成详细且实用的旅行计划。
+
+# Background
+旅行攻略是帮助旅行者规划行程的重要工具，涵盖景点推荐、行程安排、交通方式、饮食建议等内容。用户希望通过提供旅行相关的基本信息，快速生成一份全面且实用的旅行攻略文案，适用于个人旅行记录或分享给他人。
+
+# Skills
+- 熟悉各类旅行场景及相关信息的组织与表达
+- 能够根据用户需求优化行程安排，确保内容实用性和吸引力
+- 擅长撰写清晰、简洁且富有感染力的文案
+
+# Goals
+- 根据用户输入的旅行信息，生成一份详细的旅行攻略文案。
+- 包含推荐的景点与每日行程安排。
+- 提供实用的交通方式、饮食建议及其他旅行提示。
+- 确保内容条理清晰、结构合理，适合直接分享或记录。
+
+# Rules
+- 禁止生成涉及敏感或违规内容的信息。
+- 必须根据用户输入信息生成精准的旅行攻略，避免偏题或遗漏关键内容。
+- 输出内容必须条理清晰，避免冗长或重复。
+- 禁止在输出中要求用户提供更多信息。
+
+# Workflow
+1. 接收用户输入，包括旅行地点：#{location}、旅行天数：#{days}、旅行类型：#{travel_type}、预算范围：#{budget_range}、特殊兴趣：#{special_interests}、季节偏好：#{season_preference}。
+2. 根据输入信息，确定旅行攻略的整体结构，包括每日行程安排、推荐景点、交通方式和饮食建议。
+3. 逐步生成每日行程安排，确保内容逻辑清晰、时间安排合理。
+4. 补充实用的旅行提示，如交通方式建议、饮食推荐及其他注意事项。
+5. 输出完整的旅行攻略文案，确保内容条理分明、实用性强。
+
+# OutputFormat
+输出格式为markdown，包含以下内容：
+- 标题：旅行地点及旅行天数
+- 每日行程安排：包括景点推荐及时间安排
+- 实用信息：交通方式建议、饮食推荐及其他注意事项
+
+根据以上信息，撰写一份详细的旅行攻略文案，包含每日行程安排、推荐景点及实用旅行提示。
+幂简AI提示词商城的应用场景
+
+
+日常AI对话：用户可以购买或使用免费模板，通过替换变量生成完整的提示词，然后复制到ChatGPT等AI工具中，快速获取所需内容。
+
+
+内容创作：帮助创作者快速生成文章、故事、文案等，通过模板化的方式提升创作效率，适用于写作、营销、文案策划等领域。
+
+
+代码生成与优化：为开发者提供代码生成提示词模板，帮助快速生成代码片段或优化现有代码，提升开发效率。
+
+
+数据分析与报告：生成数据分析报告、数据可视化提示词，帮助用户快速从数据中提取关键信息并生成报告。
+
+
+教育与学习：为学生和教育工作者提供学习资料生成、知识点总结、考试题目生成等提示词模板，辅助教学和学习。
+
+
+企业应用开发：企业可以将模板转化为API接口，集成到内部系统或开发工具中，实现自动化任务处理和智能应用开发。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"幂简AI提示词商城\",\"description\":\"AI提示词交易与管理平台，支持定制\",\"url\":\"https://aistool.orgaitishizhiling/mijianaitishicishangcheng/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/12/prompts.explinks-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aitishizhiling/","className":"hover:text-primary transition","children":"AI提示指令"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"幂简AI提示词商城"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/12/prompts.explinks-icon.png","alt":"幂简AI提示词商城","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"幂简AI提示词商城"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","15",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI提示指令"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI提示词交易与管理平台，支持定制"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1154",{"href":"/aixunlianmoxing/gemma/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Gemma"}],["$","a","725",{"href":"/aishipingongju/bgrem/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"BgRem"}],["$","a","29",{"href":"/aizhinengti/yueliangshuaixuanpin/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"月亮树AI选品"}],["$","a","1397",{"href":"/aixiezuogongju/bangongxiaohuanxiong/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"办公小浣熊"}],["$","a","145",{"href":"/aibianchenggongju/github-copilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"GitHub Copilot"}],["$","a","147",{"href":"/aibianchenggongju/windsurf/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Windsurf"}]]}]]}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

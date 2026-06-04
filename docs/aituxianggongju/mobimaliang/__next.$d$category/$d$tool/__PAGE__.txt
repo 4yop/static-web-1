@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/04/mthreads-icon.png","image"]
+3:T1078,
+                摩笔马良是什么
+摩笔马良是由国产GPU芯片初创公司摩尔线程推出的一款AI图像生成和绘画创作工具，能够根据用户输入的文本描述自动创作出符合主题和风格的图片。该文生图工具支持中英双语提示词，提供多种风格选择，适用于节气海报、节日祝福、个性化艺术作品等多种创作场景，极大地简化了艺术创作过程，让每个人都能轻松成为艺术创作者。
+摩笔马良的图片生成完全是基于摩尔线程的国产GPU算力，新用户注册后即可获得摩笔马良赠送的100积分，可生成100张左右的图片，每日签到、登录、分享、下载、点赞等都可以获得积分，轻度使用的话，免费积分基本够用。
+
+摩笔马良的主要功能
+
+文本到图像生成：基于Stable Diffusion，用户可以通过输入文本描述提示词，摩笔马良将根据这些描述自动生成相应的图像。即使是没有专业绘画技能的用户，也能够创作出具有艺术感和创意的图片。
+中英提示词支持：摩笔马良支持中英双语提示词输入，且提供提示词辅助创作和增强中文理解功能，帮助用户更加轻松地撰写提示词。
+风格多样性：该工具提供了多种风格选项（如水墨画、水彩、油画、像素风、蒸汽朋克等），用户可以根据自己的喜好和需求选择不同的艺术风格，从而生成具有个性化特征的图像。
+图像重绘和擦除：摩笔马良还提供AI图像编辑功能为用户提供了强大的图像处理能力，包括重绘和擦除等操作，使得用户能够更加便捷地对生成的图像进行个性化调整和优化。
+AI卡通头像生成：用户可以上传现实中的真人头像照片将其转化为其他风格的卡通形象（如迪士尼、3D数字人、盲盒、儿童绘本、中式彩绘、武侠彩墨等），并支持对画面进行描述。
+3D人脸重建：只需提供一张正面或侧面的人脸照片，摩笔马良的AI算法就能够自动识别面部特征，并将其转换成三维模型。生成的3D人脸模型具有高度的细节和精确度，能够捕捉到面部的微妙表情和特征。
+
+
+如何使用摩笔马良
+
+访问摩笔马良的官网（maliang.mthreads.com），点击登录
+登录后点击开始创作，然后输入画面内容描述
+选择模型、风格、图片比例、生图方式
+最后点击运行生成，等待出图即可
+
+此外，摩笔马良还支持微信小程序使用，并开源了一个本地的webUI（目前仅支持Linux系统），感兴趣的用户可以访问摩笔马良的GitHub：https://github.com/MooreThreads/MobiMaliangSDK
+摩笔马良的产品价格
+摩笔马良有为用户提供免费的积分，单张图片生成消耗1积分。首次注册用户可获100积分、每日首次登录可获5积分、每次画作分享可获1积分（每日上限3积分）、每次作品点赞可获1积分（每日上限3积分）、每次获他人点赞可获1积分（每日上限10积分）、画作被他人下载每次可获1积分（每日上限10积分）、画作进入最热榜单前五可获10积分（每日上限10积分）。对于轻度使用AI绘图的用户来说，免费的积分基本够日常使用了。
+摩笔马良暂未推出付费订阅版本，若有购买了摩尔线程显卡的用户，可输入显卡的SN码兑换3000积分，支持叠加使用。
+摩笔马良的应用场景
+
+创意视觉设计：设计师和艺术家可以使用摩笔马良快速生成创意草图、海报设计、插画和其他视觉作品。AI的生成能力可以帮助设计师快速迭代设计概念，提高工作效率。
+社交媒体内容制作：社交媒体经理和内容创作者可以利用摩笔马良制作吸引人的图像和视觉内容，增强社交媒体帖子的吸引力和互动性。
+广告和营销：营销人员可以使用摩笔马良创作广告图像、宣传册页和横幅，以独特的视觉元素吸引目标受众。
+游戏和动画制作：游戏开发者和动画师可以通过摩笔马良设计游戏角色、场景和故事板，加速游戏开发和动画制作的前期创意过程。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"摩笔马良\",\"description\":\"摩尔线程推出的AI图像绘画创作平台\",\"url\":\"https://aistool.orgaituxianggongju/mobimaliang/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/04/mthreads-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"摩笔马良"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/04/mthreads-icon.png","alt":"摩笔马良","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"摩笔马良"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"摩尔线程推出的AI图像绘画创作平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","415",{"href":"/aixiezuogongju/copysmith/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Copysmith"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","784",{"href":"/aibangonggongju/upjianli/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"UP简历"}]
+5:["$","a","592",{"href":"/aishipingongju/jimengai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"即梦AI"}]
+6:["$","a","692",{"href":"/aishipingongju/ltx-studio/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LTX Studio"}]
+7:["$","a","62",{"href":"/ailiaotianzhushou/kimizhinengzhushou/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Kimi智能助手"}]
+8:["$","a","182",{"href":"/aibianchenggongju/boxy/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Boxy"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

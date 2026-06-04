@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/03/cappt-logo-1.png","image"]
+3:Te3f,
+                咔片PPT是什么
+咔片PPT是AI在线PPT制作工具，能实现从内容生成到智能设计与美化的全流程自动化。用户输入主题或关键词可快速生成完整的PPT框架，AI辅助内容写作，提供扩写、精简、润色等功能，一键换肤智能美化，内容与样式独立，主题设计风格可一键调整。新建单页AI设计，仅需提供标题描述或文案，AI自动完成PPT页面设计。简化编辑排版，减少重复编辑工作量，支持PPT下载，与WPS与Office高度兼容。
+
+咔片PPT的主要功能
+
+AI一键生成PPT：用户只需输入主题或关键词，咔片能自动生成完整的PPT框架，包括标题页、内容页、结尾页等，提供多种风格和主题的模板，用户可以根据需求选择合适的模板，无需从零开始设计。
+AI辅助内容写作：提供扩写、精简、润色、翻译、生成标题等功能，帮助用户快速整理和优化文案，适合需要快速撰写或优化PPT内容的用户。
+一键换肤智能美化：内容与样式独立，用户可以一键调整主题设计风格，快速切换不同的视觉效果，提供多种配色方案和设计风格，满足不同场景和用户偏好。
+新建单页AI设计：用户只需提供标题描述或文案，咔片能自动完成单页PPT的设计，适合需要动态调整内容或添加新页面的场景，如销售演示、项目汇报等。
+简化编辑排版：基于PPT操作习惯，减少70%的重复编辑工作量，提供智能对齐、自动排版等功能，让设计过程更加流畅。
+高度兼容性：支持PPT下载，高度兼容WPS与Office，页面元素和主题母版可以直接编辑。
+
+如何使用咔片PPT
+
+访问官网：打开咔片PPT的官方网站。
+注册登录账号：点击右上角的“注册”按钮，使用邮箱或手机号进行注册，账号登录。
+选择模板：登录后，点击“创建新的PPT”，进入模板选择页面。咔片提供了多种行业模板，如销售、策划、培训等，选择适合你需求的模板。可以自定义PPT的主题名称和风格。
+输入主题或关键词：在PPT编辑页面，输入你的主题或关键词，咔片会自动生成PPT的框架和内容。需要优化文案，可以使用AI的扩写、精简、润色等功能。AI会自动优化你的文案。
+下载PPT：完成编辑后，点击“下载”按钮，将PPT保存到本地。
+
+咔片PPT的产品定价
+
+免费基础版
+
+AI点数：每月30点
+10w+ 原创精品PPT模板：限次数使用
+AI一键生成PPT：限次数
+导入文档生成PPT：限次数
+AI生成单页：限次数
+AI文本创作
+
+
+付费专业版
+
+价格：每月￥7.04元
+AI点数：无限
+PPT源文件下载
+10w+ 原创精品PPT模板：无限使用
+AI一键生成PPT
+导入文档生成PPT
+AI生成单页
+AI文本创作
+个人商用授权
+专属客服/正规发票开具
+
+
+
+咔片PPT的应用场景
+
+销售：快速生成针对不同客户的演示文稿，支持单页插入功能，保持整体风格一致。
+策划：提供丰富的在线素材库，方便用户快速找到合适的图片和插画，节省素材搜索时间。
+培训师：自动匹配模板风格和配色，让PPT整体观感更加美观，适合不擅长设计的用户。
+职场人：提供文字润色、精简等功能，帮助快速优化PPT内容，提升工作效率。
+管理者：支持将Word文档导入生成PPT，方便高层汇报和演示，简化了传统PPT制作的复杂流程。
+非专业设计师：对于那些没有设计经验但需要制作PPT的用户，咔片是一个非常实用的工具。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"咔片PPT\",\"description\":\"AI PPT制作工具，设计美化全流程自动化\",\"url\":\"https://aistool.orgaibangonggongju/kapianppt/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/03/cappt-logo-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"咔片PPT"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/03/cappt-logo-1.png","alt":"咔片PPT","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"咔片PPT"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI PPT制作工具，设计美化全流程自动化"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1334",{"href":"/aizhinengti/skillhub/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"SkillHub"}],["$","a","293",{"href":"/aixiezuogongju/wawaxiezuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"蛙蛙写作"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","445",{"href":"/aituxianggongju/huiwaaizhuan3d/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"绘蛙AI转3D"}]
+5:["$","a","1408",{"href":"/aizhinengti/mavis/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Mavis"}]
+6:["$","a","136",{"href":"/aibianchenggongju/codex/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Codex"}]
+7:["$","a","1387",{"href":"/aikaifapingtai/bochawanxiang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"博查万象"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

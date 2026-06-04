@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aiyinpingongju","stable-audio",""],"q":"","i":false,"f":[[["",{"children":[["category","aiyinpingongju","d",null],{"children":[["tool","stable-audio","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2023/09/stable-audio-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tb04,
+                StableAudio是什么
+StableAudio 是Stability AI 提供的AI音乐创作平台。平台通过文本生成音乐（Text-to-Audio）和音频生成音频（Audio-to-Audio）的方式，用户只需输入文字描述或上传音频素材，能生成符合要求的音乐。平台支持生成长达3分钟的音频，格式为44.1kHz立体声。平台生成的音乐能用在商业项目。平台适合音乐创作者、制作人及对音乐创作感兴趣的普通用户。
+
+Stable Audio的主要功能
+
+
+文本生成音乐（Text-to-Audio）：支持用户输入详细的文本描述（如风格、乐器、情绪、BPM等）生成音乐。
+
+
+音频生成音频（Audio-to-Audio）：支持用户上传音频文件，结合文本描述进行风格转换或生成变体。
+
+
+多种模型选择：提供不同版本的音频生成模型，用户根据需求选择合适的模型。
+
+
+详细提示结构：通过结构化提示（如格式、风格、乐器、情绪、BPM等）优化生成效果。
+
+
+高级设置：用户能调整输入强度、步数、种子值等参数，控制生成的音频质量和多样性。
+
+
+
+如何使用StableAudio
+
+
+注册和登录：访问 StableAudio 官网 https://stableaudio.com/，完成账号注册和登录。
+
+
+选择创作模式：选择“Text-to-Audio”（文本生成音乐）或“Audio-to-Audio”（音频生成音频）模式。
+
+
+输入文本提示：在输入面板中详细描述想要的音乐风格、乐器、情绪、BPM等。
+
+
+选择模型：选择合适的音频生成模型，平台自动选择最新模型。
+
+
+调整设置：通过输入强度、步数、种子值等参数优化生成效果。
+
+
+上传音频（仅 Audio-to-Audio 模式）：点击“Add Audio”上传或录制音频作为输入。
+
+
+生成音乐：点击“Generate”按钮开始生成音乐，生成过程中会消耗一定的“Track Credits”。
+
+
+预览和操作：在预览面板中试听生成的音频，可复制提示、分享、下载或评价生成结果。
+
+
+查看历史记录：在“History Panel”中查看生成的历史音频和上传的音频记录。
+
+
+StableAudio的应用场景
+
+
+音乐创作：音乐人和制作人通过文本描述快速生成音乐，激发灵感，创作出符合特定风格和情绪的音乐作品。
+
+
+视频配乐：为视频创作者提供定制化音乐，根据视频内容和氛围生成匹配的背景音乐，提升视频的吸引力。
+
+
+游戏音乐：为游戏开发者生成不同场景的音乐，如战斗、探索、剧情等，增强游戏的沉浸感。
+
+
+广告配乐：广告制作团队生成符合广告主题和情感的音乐，提升广告的感染力和记忆点。
+
+
+个人项目：普通用户为自己制作的视频、播客或个人项目生成音乐，无需专业音乐背景。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Stable Audio\",\"description\":\"Stability AI最新推出的音乐生成工具\",\"url\":\"https://aistool.orgaiyinpingongju/stable-audio/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/09/stable-audio-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aiyinpingongju/","className":"hover:text-primary transition","children":"AI音频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Stable Audio"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/09/stable-audio-icon.png","alt":"Stable Audio","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Stable Audio"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","9",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI音频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"Stability AI最新推出的音乐生成工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","82",{"href":"/ailiaotianzhushou/copilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Copilot"}],["$","a","247",{"href":"/aishejigongju/baotuwangaisucaiku/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"包图网AI素材库"}],["$","a","519",{"href":"/aituxianggongju/upscayl/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Upscayl"}],"$L13","$L14","$L15"]}]]}]]}]]}]
+13:["$","a","687",{"href":"/aishipingongju/jigoushuzhiren/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"即构数智人"}]
+14:["$","a","1205",{"href":"/aineirongjiance/xueshucha/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"学术猹"}]
+15:["$","a","43",{"href":"/aizhinengti/coco/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CoCo"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Stable Audio | AIStool"}],["$","meta","1",{"name":"description","content":"StableAudio 是Stability AI 提供的AI音乐创作平台。平台通过文本生成音乐（Text-to-Audio）和音频生成音频（Audio-to-Audio）的方式，用户只需输入文字描述或上传音频素材，能生成符合要求的音乐。平台支持生成长达3分钟的音频，格式为44.1kHz立体声。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaiyinpingongju/stable-audio/"}],["$","meta","3",{"property":"og:title","content":"Stable Audio"}],["$","meta","4",{"property":"og:description","content":"StableAudio 是Stability AI 提供的AI音乐创作平台。平台通过文本生成音乐（Text-to-Audio）和音频生成音频（Audio-to-Audio）的方式，用户只需输入文字描述或上传音频素材，能生成符合要求的音乐。平台支持生成长达3分钟的音频，格式为44.1kHz立体声。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaiyinpingongju/stable-audio/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2023/09/stable-audio-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Stable Audio"}],["$","meta","10",{"name":"twitter:description","content":"StableAudio 是Stability AI 提供的AI音乐创作平台。平台通过文本生成音乐（Text-to-Audio）和音频生成音频（Audio-to-Audio）的方式，用户只需输入文字描述或上传音频素材，能生成符合要求的音乐。平台支持生成长达3分钟的音频，格式为44.1kHz立体声。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2023/09/stable-audio-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","13",{}]]

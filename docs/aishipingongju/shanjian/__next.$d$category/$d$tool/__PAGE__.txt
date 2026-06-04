@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/04/shanjian-icon.png","image"]
+3:Tc1b,
+                闪剪是什么
+闪剪是一款基于人工智能技术的数字人短视频营销创作工具，提供包括定制数字人、克隆声音、口播视频智能成片、照片数字克隆人等多种功能模块，旨在帮助用户和企业轻松高效地制作和发布短视频内容。通过AI技术，闪剪能够实现数字人的个性化定制，以及视频内容的智能编辑和批量生成，极大地降低了视频制作的门槛，适用于自媒体创作、跨境电商、广告营销等多个领域，助力用户驾驭全媒体营销新时代。
+
+闪剪的主要功能
+
+定制数字人/克隆声音： 用户可以录制视频和音频，通过AI技术1:1克隆自己的数字分身和声音，创建一个专属的虚拟形象，用于各种社交媒体和营销场景。
+口播视频智能成片： 结合AI写作和智能包装，用户可以快速生成数字人口播视频。这个功能支持一键智能剪辑，批量生成短视频，帮助用户高效地打造内容矩阵。
+口播视频自由创作： 提供多种爆款文案作为创作灵感，AI一键改写功能帮助用户轻松上热门。用户还可以自由剪辑制作数字人短视频，使得内容创作更加灵活多样。
+照片数字克隆人： 用户上传一张照片，就可以让照片中的人物“复活”，开口说话。支持文字、录音、视频三种驱动方式，用于复刻声音、定制祝福视频等，实现无限创意可能。
+视频订阅号： 用户可以通过这个功能管理和发布自己的视频内容，保持与粉丝的持续互动和内容更新。
+直播快剪： 提供直播切片功能，用户可以快速剪辑直播内容，生成精彩的短视频片段，用于后续的分享和推广。
+
+
+如何使用闪剪AI生成视频
+
+访问闪剪的官网（shanjian.tv），点击右上角登录/注册按钮
+选择你要使用的AI数字人模板，点击立即制作
+然后输入文案、选择音乐、设置背景、文字等
+点击预览查看视频生成效果，右上角点击导出视频进行下载
+
+闪剪的产品价格
+
+免费版：提供免费公共数字人、免费公共配音、单条视频5分钟、720P视频清晰度、视频有水印、5GB云存储
+付费会员版：月会员298元，提供所有公共数字人、所有公共配音、单条视频10分钟、1080P高清视频、视频无水印、50GB云存储
+
+闪剪的应用场景
+
+自媒体内容创作： 自媒体创作者可以使用闪剪快速生成具有吸引力的短视频内容，提高内容的产出效率和质量。无论是教育、娱乐、生活方式还是新闻资讯类内容，闪剪都能提供相应的视频制作支持。
+品牌营销推广： 企业和品牌可以利用闪剪的数字人技术创建虚拟形象代言人，通过生动的视频内容吸引目标受众，增强品牌形象和市场影响力。
+电商直播带货： 电商平台上的商家可以使用闪剪制作吸引人的产品介绍视频，或者通过数字人直播功能，实现24/7不间断的在线直播带货，提高销售转化率。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"闪剪\",\"description\":\"AI数字人短视频创作工具\",\"url\":\"https://aistool.orgaishipingongju/shanjian/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/04/shanjian-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aishipingongju/","className":"hover:text-primary transition","children":"AI视频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"闪剪"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/04/shanjian-icon.png","alt":"闪剪","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"闪剪"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","3",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI视频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI数字人短视频创作工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","286",{"href":"/aishejigongju/iconifyai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"IconifyAI"}],["$","a","694",{"href":"/aishipingongju/captions/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Captions"}],["$","a","50",{"href":"/aizhinengti/cricshenduzhilian/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CRIC深度智联"}],["$","a","1120",{"href":"/aixuexiwangzhan/openai-academy/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"OpenAI Academy"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","327",{"href":"/aixiezuogongju/songguoaixiezuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"松果AI写作"}]
+5:["$","a","149",{"href":"/aibianchenggongju/codeflicker/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"CodeFlicker"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

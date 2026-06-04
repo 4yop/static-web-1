@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/codebuddy-logo-1.png","image"]
+3:Te0d,
+                CodeBuddy IDE是什么
+CodeBuddy IDE是是腾讯推出的全栈开发AI IDE，将产品设计、研发部署全流程整合于一体，实现从需求规划到上线交付的一站式服务。用户只需用自然语言描述需求，CodeBuddy能自动生成结构化的PRD文档、交互原型、前端代码及后端服务，支持一键部署上线。国际版整合 Claude、GPT、Gemini 等主流大模型；国内版支持腾讯混元、DeepSeek 等国产模型，具备强大的AI编程辅助能力，包括智能代码生成、实时续写、行间对话等功能。CodeBuddy IDE极大地提高开发效率，降低开发门槛，让非技术背景的用户能快速将想法转化为实际产品，是面向产品经理、设计师、开发者及独立开发者的高效AI开发平台。
+
+CodeBuddy IDE的主要功能
+
+明确需求输出 PRD：用自然语言输入，自动生成结构化的PRD文档，涵盖功能清单、页面流程图、字段建议（如订单状态、用户ID）、接口草稿等。
+无缝衔接设计与开发：输出的文档直接传递给设计或开发团队，实现无缝衔接。
+自然语言生成：用一句话描述需求，生成可交互原型。
+图像化生成：上传手绘草图或参考网页截图，AI智能识别结构并还原为设计稿。
+组件化生成：选择TDesign、MUI、Shadcn等组件库，自动拼装符合规范的页面设计。
+内置Figma生成代码：内置Figma，直接从设计稿中提取信息，一键生成可维护的HTML源码。
+多端适配：支持生成适配Web、iOS、Android等多端版本，统一风格。
+后端开发：内置腾讯云开发CloudBase与Supabase（仅国际版）服务，支持自动配置和生成云数据库、用户认证等后端需求。
+无需手动配置：开发者无需手动配置，即可完成核心功能的搭建。
+上线部署：支持通过CloudStudio一键部署到远端，生成可访问链接，便于快速试用和反馈。
+
+
+如何使用CodeBuddy IDE
+
+注册与登录：访问CodeBuddy IDE官网 https://www.codebuddy.ai/，申请体验资格。
+安装：获取内测资格后，在官方下载并安装 CodeBuddy IDE。
+登录：按提示完成注册和登录。
+进入 Plan 模式：选择“Plan”模式，输入自然语言描述需求。
+生成 PRD 文档：AI自动拆解需求，生成结构化的 PRD 文档，包括功能清单、页面流程图、字段建议、接口草稿等。
+优化 PRD：如果需要，用“Prompt 优化”功能进一步完善文档。
+设计阶段：用自然语言、上传草图或选择组件库生成设计稿，用指令优化风格。
+前端开发：用内置 Figma 从设计稿生成多端适配的 HTML 源码。
+后端开发：借助内置 BaaS 服务自动配置后端需求，快速搭建核心功能。
+一键部署：将项目部署到云平台，生成访问链接供团队试用。
+
+
+CodeBuddy IDE的应用场景
+
+软件开发公司：软件开发公司快速完成交付项目，低代码开发让非技术背景人员参与，提升效率与客户满意度。
+初创企业：初创企业快速生成产品原型，验证市场反应，实现敏捷开发，节省时间和成本。
+大型企业：大型企业实现跨部门高效协作，推动数字化转型，快速开发内部工具和应用。
+教育机构：教育机构将Genie IDE用在教学，让学生快速掌握全流程开发，提升实践能力，模拟企业级开发环境。
+个人开发者：个人开发者快速实现创意，无需从头编写代码，通过生成的代码学习最佳实践。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"CodeBuddy IDE\",\"description\":\"腾讯推出的全栈开发AI IDE\",\"url\":\"https://aistool.orgaibianchenggongju/codebuddy-ide/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/codebuddy-logo-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibianchenggongju/","className":"hover:text-primary transition","children":"AI编程工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"CodeBuddy IDE"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/codebuddy-logo-1.png","alt":"CodeBuddy IDE","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"CodeBuddy IDE"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","7",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI编程工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"腾讯推出的全栈开发AI IDE"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","485",{"href":"/aituxianggongju/duiyouaifanyingdui/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"堆友AI反应堆"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1181",{"href":"/aixunlianmoxing/scale-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Scale AI"}]
+5:["$","a","675",{"href":"/aishipingongju/xilingshuziren/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"曦灵数字人"}]
+6:["$","a","1263",{"href":"/aizhinengti/anygen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"AnyGen"}]
+7:["$","a","715",{"href":"/aishipingongju/wancaiweiying/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"万彩微影"}]
+8:["$","a","415",{"href":"/aixiezuogongju/copysmith/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Copysmith"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

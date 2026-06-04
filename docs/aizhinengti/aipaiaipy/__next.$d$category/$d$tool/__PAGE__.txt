@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/09/AiPy-website-2-1.png","image"]
+3:Tb93,
+                AiPy是什么
+AiPy（爱派）是免费开源的AI智能体工厂，本地版Manus，基于大语言模型（LLM）和Python编程能力，支持本地部署，确保数据隐私安全。AiPy通过“Python-Use”范式，为AI“装上双手”，能分析本地数据、操作本地应用、执行复杂任务，如控制手机、生成多音色语音、分析医疗检查单、提取视频语音、定时发送邮件等。用户只需说出需求，爱派能自动完成任务、提供最终结果。爱派能帮助用户思考，更能直接“干活”，是提升工作效率和生活便利性的超级助手。
+
+AiPy的主要功能
+
+文件处理与数据操作：支持文件批量处理、数据分析和文档生成，提升文件管理和数据处理效率。
+多媒体处理：涵盖语音生成、视频处理和图片编辑，满足多媒体内容创作和编辑需求。
+自动化任务：支持实现定时任务、设备控制和数据库操作，助力任务自动化和高效设备管理。
+智能分析与建议：提供医疗数据分析和实验数据分析，辅助医疗决策和科学研究。
+
+本地部署：支持本地安装和内网部署，确保数据隐私和安全，适合企业级应用。
+
+
+开源免费：用户能查看和修改代码，适合小白和开发者使用，灵活性高。
+
+
+高效执行：自动分析错误、修正代码，确保任务顺利完成，提升任务执行的可靠性。
+
+
+如何使用AiPy
+
+下载与安装：访问AiPy官网和项目仓库，下载最新版本安装到本地电脑。
+
+产品官网：https://www.aipyaipy.com/ （邀请码：3Vij ，额外领350万Tokens）
+GitHub仓库：https://github.com/knownsec/aipyapp
+
+
+注册与登录：打开软件后，使用邮箱或手机号注册账号并登录。
+输入需求：在软件界面中输入需求，爱派会自动理解任务、开始执行。
+查看结果：爱派执行任务后，在指定位置生成结果文件或直接在界面中展示结果。
+进一步使用：查看官方文档或社区论坛获取更多帮助，或进行二次开发以满足复杂需求。
+
+AiPy的演示案例
+提示词：去网上给我找一张小狗图，要求jpg格式。
+
+
+提示词：分析这篇微信公众号文章进行总结：https://mp.weixin.qq.com/s/Xv3quW4ZsyVU9Mcloc7CqA。
+
+提示词：成都高新体育中心位置在哪？
+
+
+AiPy的应用场景
+
+办公自动化：自动生成报告、整理文件和定时发送邮件，极大地提升办公效率。
+多媒体处理：AiPy 能生成多音色语音、提取视频字幕和编辑图片，满足多媒体创作和编辑的需求。
+数据分析：分析医疗检查单、实验数据等，为医疗决策和科学研究提供辅助支持。
+设备控制：控制手机应用、操作本地软件，实现设备的自动化操作。
+企业应用：AiPy 支持内网部署，能处理企业数据、生成业务报告，助力企业数字化转型。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"爱派AiPy\",\"description\":\"本地Manus、国内能用、内网能用，开源免费\",\"url\":\"https://aistool.orgaizhinengti/aipaiaipy/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/09/AiPy-website-2-1.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"爱派AiPy"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/09/AiPy-website-2-1.png","alt":"爱派AiPy","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"爱派AiPy"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"本地Manus、国内能用、内网能用，开源免费"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1339",{"href":"/aikaifapingtai/xunfeixingchenmaas/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞星辰MaaS"}],["$","a","531",{"href":"/aituxianggongju/upscale.media/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Upscale.media"}],["$","a","850",{"href":"/aibangonggongju/raycast-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Raycast AI"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1336",{"href":"/aibangonggongju/yidianppt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"一点PPT"}]
+5:["$","a","945",{"href":"/aiyinpingongju/tunee/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Tunee"}]
+6:["$","a","654",{"href":"/aishipingongju/stable-video/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Stable Video"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+8:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/02/reecho-ai-icon.png","image"]
+3:Tc52,
+                Reecho睿声是什么
+Reecho睿声是一个超拟真瞬时AI语音克隆平台，利用先进的AI语音技术，允许用户通过上传或录制一段音频样本，来创建并克隆特定的声音角色。该平台的特点是能够快速地从较短的音频样本中克隆声音，而不需要长时间的训练过程。Reecho睿声基于中文领域领先的SOTA语音大模型技术，可一定程度上理解文本上下文，并以与真人几乎无异的表现力、情感、韵律和音色来基于文本生成人声音频，并且支持以5秒极短样本进行瞬时语音克隆。
+
+Reecho睿声的主要功能
+
+超拟真语音克隆：用户可以通过上传或录制一段音频样本，快速克隆特定的声音。这个过程中，AI会学习样本的声音特征，以便生成与原声音相似的新声音。
+角色管理：用户可以在平台上创建和管理多个声音角色。每个角色都可以有自己的声音样本和属性，方便用户根据不同的需求选择和使用。
+语音合成：Reecho睿声允许用户将克隆的声音角色分配给不同的文本，AI会使用这些角色的声音来朗读文本，生成语音输出。
+语音文本内容编辑：用户可以编辑要合成语音的文本内容，包括文本的修改、格式调整等，以确保生成的语音符合预期。
+声音社区市场：Reecho睿声还提供了一个声音分享社区，用户可以在这里找到预置的声音角色，或者将自己创建的声音角色分享给其他用户。
+
+如何使用Reecho睿声
+
+访问Reecho睿声的官网（reecho.ai），点击右上角登录/注册按钮
+登录成功后跳转到后台选择开启声音之旅
+点击快速创建新角色，输入角色名称和添加音频样本
+角色创建后，在文本输入框中分配角色，然后输入任意文本
+点击添加段落，系统将会自动对文本进行按句拆分，你也可以手动编辑
+完成内容编辑后，在右侧进行设置调整，最后点击开始生成即可
+
+Reecho睿声的产品价格
+
+免费版：新用户注册后即可获得免费的1500点数，每日签到可获得699点数，QQ群签到可获得299点数，无限角色数量
+付费点数购买：14.99元可购买30000点数、24.99元可获得53000点数、49.99元可获得120000点数、99.99元可获得260000点数，付费后可享受无限角色数量、点数永不过期、API访问权限和专享加速生成通道等权益
+
+
+Reecho睿声的应用场景
+
+有声读物和播客：内容创作者可以利用Reecho睿声为电子书、有声书籍或播客节目生成个性化的朗读声音，吸引听众并提供更丰富的听觉体验。
+游戏和娱乐产业：游戏开发者可以为游戏角色定制独特的声音，或者为动画、电影、广告等娱乐内容创造逼真的配音。
+广播和电台：广播电台可以使用Reecho睿声生成特定风格或名人的声音，用于节目制作，增加节目的吸引力。
+虚拟主播和Vtuber：视频内容创作者可以创建虚拟主播，使用Reecho睿声为虚拟形象提供声音，进行直播或制作视频内容。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Reecho睿声\",\"description\":\"超拟真的中英文AI语音克隆/生成平台\",\"url\":\"https://aistool.orgaiyinpingongju/reechoruisheng/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/02/reecho-ai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aiyinpingongju/","className":"hover:text-primary transition","children":"AI音频工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Reecho睿声"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/02/reecho-ai-icon.png","alt":"Reecho睿声","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Reecho睿声"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","9",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI音频工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"超拟真的中英文AI语音克隆/生成平台"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","662",{"href":"/aishipingongju/bijianstudio/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"必剪Studio"}],["$","a","1244",{"href":"/aituxianggongju/liblibaidianshangyingxiao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"LiblibAI电商营销"}],["$","a","1415",{"href":"/aikaifapingtai/moma/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"MoMA"}],"$L4","$L5","$L6"]}]]}]]}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1277",{"href":"/aishipingongju/nextcut-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"NextCut AI"}]
+5:["$","a","763",{"href":"/aibangonggongju/craft-ai-assistant/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Craft AI Assistant"}]
+6:["$","a","803",{"href":"/aibangonggongju/zhitujianli/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"职徒简历"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

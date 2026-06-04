@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aituxianggongju","insmind",""],"q":"","i":false,"f":[[["",{"children":[["category","aituxianggongju","d",null],{"children":[["tool","insmind","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/08/insMind-logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tf9b,
+                insMind是什么
+insMind是稿定面向全球市场推出的新一代AI图片编辑工具。insMind提供多样化的编辑功能，如背景移除、图像增强、风格转换等，支持用户一键生成类似作品，简化设计流程。insMind具备批量编辑能力，可同时处理多张图片，提高效率，适合电商、社交媒体和个人创作者使用。insMind有强大的 AI 功能，让非专业人士能轻松制作出专业级别的图像和视频内容。
+
+insMind 的主要功能
+
+AI图像：
+
+AI图像生成器：提供包括AI头像生成器、AI图像生成器、AI卡通生成器、AI宝宝生成器、AI设计生成器和AI标志生成器。
+AI人像特效： 提供AI人脸生成器、AI发型变换、AI衣服变换、AI年龄滤镜、AI寸头和哭泣滤镜等。
+AI 滤镜与风格转换： 提供多种风格转换，如吉卜力、卡通、动漫、素描、水彩、油画、像素画、漫画等，增加图像创意性。
+图像编辑：
+
+背景移除：快速移除图片背景，支持批量操作。
+AI 替换背景：生成或替换为高质量背景，提升视觉效果。
+AI 擦除：轻松擦除图片中不需要的元素，如瑕疵、标签等。
+AI 增强：提升图片清晰度和色彩饱和度，让图片更吸引人。
+AI 扩展：智能扩展图片尺寸，保持高质量。
+裁剪、调整大小、压缩图片：提供基本图片编辑功能。
+格式转换器：转换图片格式，满足不同需求。
+添加文字：在图片上添加文字，适合社交媒体和广告。
+拼贴：创建图片拼贴，展示多个角度或款式。
+
+
+电商设计工具：
+
+AI 产品广告设计：生成适合电商平台的广告图片。
+产品拼贴：创建产品展示拼贴，方便展示多个角度。
+AI 阴影和模型：为商品添加自然阴影或生成展示模型。
+AI 标志放大器和标记器：调整品牌标志大小和位置。
+
+
+
+
+视频编辑：
+
+视频生成器：生成新的视频，支持多种创意效果。
+视频效果：提供 AI 扭动、AI 人鱼、面部动画、AI 拥抱等效果。
+
+
+批量处理功能：支持一次最多编辑 30 张图片，提高工作效率。
+AI 模板与设计： 提供多种模板，如卡片模板、生日贺卡模板、贺卡模板等，及主打产品模板、生活方式产品模板、纹理背景模板、时尚图片模板、美妆模板等，满足不同设计需求。
+灵感功能：展示多样化的 AI 编辑图片示例，为用户提供创意启发和风格转换的视觉参考，一键实现图像设计。
+
+
+如何使用insMind
+
+访问官网：访问 insMind 官网 https://www.insmind.com/ ，选择在线体验或下载insMind APP客户端体验。
+注册/登录：完成账号注册和登录。
+选择功能：根据需求，选择一个功能，比如“背景移除”、“AI 头像生成”、“照片转卡通”等。
+上传图片：选择功能后，按照指示上传想要编辑的图片。
+应用编辑：上传图片后，用工具提供的编辑选项进行操作。
+调整设置：根据需要调整编辑设置，如滤镜强度、图像大小、背景样式等。
+预览和微调：预览编辑后的图片，如果需要，进行微调，直到满意为止。
+保存或导出：完成编辑后，保存或导出图片。
+
+insMind的应用场景
+
+产品图像设计：为电商网站、产品目录和广告提供高质量的产品图片编辑，包括快速背景移除、对象擦除和新背景生成。
+社交媒体内容：创建吸引人的社交媒体帖子和故事，包括图像和视频，以提高用户参与度和品牌知名度。
+市场营销材料：设计营销材料，如传单、海报和横幅，以吸引潜在客户并促进销售。
+个人品牌和简历：创建个性化的头像、简历和封面信，以在求职或个人品牌推广中脱颖而出。
+教育和培训材料：制作教育和培训材料，如演示文稿、工作表和教材，以提高学习效果。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"insMind\",\"description\":\"稿定面向全球市场推出的AI图片编辑工具\",\"url\":\"https://aistool.orgaituxianggongju/insmind/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/08/insMind-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aituxianggongju/","className":"hover:text-primary transition","children":"AI图像工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"insMind"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/08/insMind-logo.png","alt":"insMind","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"insMind"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","2",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI图像工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"稿定面向全球市场推出的AI图片编辑工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","1072",{"href":"/aikaifapingtai/dmxapi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"DMXAPI"}],"$L13","$L14","$L15","$L16","$L17"]}]]}]]}]]}]
+13:["$","a","137",{"href":"/aibianchenggongju/claude-code/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Claude Code"}]
+14:["$","a","477",{"href":"/aituxianggongju/photoscissors/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PhotoScissors"}]
+15:["$","a","1129",{"href":"/aixuexiwangzhan/generative-ai-for-beginners/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Generative AI for Beginners"}]
+16:["$","a","1432",{"href":"/aishipingongju/likemv/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"立刻MV"}]
+17:["$","a","723",{"href":"/aishipingongju/veed-video-background-remover/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Veed Video Background Remover"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"insMind | AIStool"}],["$","meta","1",{"name":"description","content":"insMind是稿定面向全球市场推出的新一代AI图片编辑工具。insMind提供多样化的编辑功能，如背景移除、图像增强、风格转换等，支持用户一键生成类似作品，简化设计流程。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaituxianggongju/insmind/"}],["$","meta","3",{"property":"og:title","content":"insMind"}],["$","meta","4",{"property":"og:description","content":"insMind是稿定面向全球市场推出的新一代AI图片编辑工具。insMind提供多样化的编辑功能，如背景移除、图像增强、风格转换等，支持用户一键生成类似作品，简化设计流程。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaituxianggongju/insmind/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/08/insMind-logo.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"insMind"}],["$","meta","10",{"name":"twitter:description","content":"insMind是稿定面向全球市场推出的新一代AI图片编辑工具。insMind提供多样化的编辑功能，如背景移除、图像增强、风格转换等，支持用户一键生成类似作品，简化设计流程。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/08/insMind-logo.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","13",{}]]

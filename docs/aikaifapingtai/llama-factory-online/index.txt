@@ -1,0 +1,108 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aikaifapingtai","llama-factory-online",""],"q":"","i":false,"f":[[["",{"children":[["category","aikaifapingtai","d",null],{"children":[["tool","llama-factory-online","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2025/12/LLaMA-Factory-icon.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Tfe5,
+                LLaMA-Factory Online是什么
+LLaMA-Factory Online 是与开源项目 LLaMA-Factory 官方合作的在线大模型微调平台，专为希望快速实现大模型定制的用户设计。提供零代码、可视化的操作界面，用户无需复杂配置即可通过 Web 界面完成从数据上传到模型微调的全流程。平台支持 100+ 主流大模型，涵盖 LLaMA、Qwen 等，提供多种训练方式（如 SFT、Reward Modeling）和优化技术（如 LoRA、QLoRA）。内置的监控工具（如 LlamaBoard）可实时跟踪训练状态。LLaMA-Factory Online 拥有高性能 GPU 算力，支持分布式训练，显著缩短训练周期。提供灵活的计费模式，适合个人开发者、初创企业和高校科研人员等，帮助用户以低成本、高效率开启大模型应用实践。
+
+LLaMA-Factory Online的主要功能
+
+
+丰富的模型选择：提供100+主流开源大模型，涵盖LLaMA、Qwen、DeepSeek、GPT-OSS等，满足不同场景需求。
+
+
+多样化的训练算法：支持预训练、SFT、Reward Modeling、PPO/DPO/KTO等多种训练方式，适配复杂任务需求。
+
+
+灵活的运算精度：支持16bit全参数微调、冻结微调、LoRA微调及2/3/4/5/6/8bit的QLoRA微调，兼顾效率与成本。
+
+
+先进的优化技术：集成GaLore、BAdam、LoRA+、PiSSA、DORA、rsLoRA等前沿优化算法，提升训练效果。
+
+
+完善的实验监控：内置LlamaBoard、TensorBoard、Wandb、Mlflow、SwanLab等工具，实时监控训练状态。
+
+
+高效的训练与推理：采用FlashAttention-2、Unsloth等加速算子，支持Transformers和vLLM推理引擎，提升效率。
+
+
+低代码可视化操作：通过友好界面一键调度GPU资源，无需复杂配置，降低使用门槛。
+
+
+灵活的计费模式：提供极速尊享、动态优惠、灵动超省等多种计费方式，用户可根据需求灵活选择，降低成本。
+
+
+如何使用LLaMA-Factory Online
+
+访问平台：访问 LLaMA-Factory Online 官网 www.llamafactory.online 。
+
+数据与模型准备：用户需将待微调的数据集通过 SFTP 或其他方式上传至平台，并选择适合的基础模型。
+
+
+
+
+
+配置与启动任务：在可视化界面中，设置微调的关键参数，选择快速微调或专家微调模式，并根据预算和时效性选择合适的计费模式，一键启动任务。
+
+
+
+
+
+
+监控与评估：通过内置的监控工具（如 LlamaBoard、TensorBoard）实时查看训练进度和资源占用情况。训练完成后，使用模型评估功能量化微调效果，并通过模型对话功能检验模型表现。
+
+
+
+LLaMA-Factory Online的核心优势
+
+
+官方合作，技术可靠：与 LLaMA-Factory 官方合作，确保技术成熟且更新及时，为用户提供稳定可靠的服务。
+
+
+顶尖算力，效率翻倍：配备 NVIDIA H 系列高性能显卡，支持多机多卡分布式训练，显著缩短训练周期，提升开发效率。
+
+
+全链路支持，开箱即用：覆盖从数据上传、预处理、微调、监控到评估的全流程，用户无需复杂配置即可快速启动项目。
+
+
+灵活适配，应用广泛：适用于个人开发者、初创企业、高校科研人员等，满足不同用户群体的多样化需求，低门槛开启大模型实践。
+
+
+低代码可视化，极简操作：提供友好易用的 Web 界面，一键调度云端 GPU 资源，即使无技术背景的用户也能轻松上手。
+
+
+灵活计费，高性价比：提供多种计费模式，用户可根据任务需求选择最合适的算力使用方式，降低使用成本。
+
+
+LLaMA-Factory Online的适用人群
+
+
+个人开发者与技术爱好者：快速尝试新创意，验证模型效果，降低大模型应用创新的技术门槛和算力成本。
+
+
+小微与初创企业：零代码、免配置，快速落地大模型应用，减少技术团队组建成本，提升开发效率。
+
+
+高校科研与交叉学科师生：免除复杂 GPU 配置和维护，解决校内计算资源不足问题，助力科研加速。
+
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"LLaMA-Factory Online\",\"description\":\"在线AI大模型微调平台，零代码、可视化操作\",\"url\":\"https://aistool.orgaikaifapingtai/llama-factory-online/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/12/LLaMA-Factory-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aikaifapingtai/","className":"hover:text-primary transition","children":"AI开发平台"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"LLaMA-Factory Online"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/12/LLaMA-Factory-icon.png","alt":"LLaMA-Factory Online","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"LLaMA-Factory Online"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","11",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI开发平台"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"在线AI大模型微调平台，零代码、可视化操作"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],"$L13"]}]]}]
+13:["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","288",{"href":"/aishejigongju/jishiai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"即时AI"}],["$","a","632",{"href":"/aishipingongju/xunfeihuijing/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞绘镜"}],["$","a","1298",{"href":"/aishejigongju/xiaomoyingbianjiqi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"小墨鹰编辑器"}],["$","a","591",{"href":"/aituxianggongju/cutout.pro/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Cutout.Pro"}],["$","a","295",{"href":"/aixiezuogongju/bilingaixiezuo/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"笔灵AI写作"}],["$","a","114",{"href":"/ailiaotianzhushou/jasper-chat/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Jasper Chat"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"LLaMA-Factory Online | AIStool"}],["$","meta","1",{"name":"description","content":"LLaMA-Factory Online 是与开源项目 LLaMA-Factory 官方合作的在线大模型微调平台，专为希望快速实现大模型定制的用户设计。提供零代码、可视化的操作界面，用户无需复杂配置即可通过 Web 界面完成从数据上传到模型微调的全流程。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaikaifapingtai/llama-factory-online/"}],["$","meta","3",{"property":"og:title","content":"LLaMA-Factory Online"}],["$","meta","4",{"property":"og:description","content":"LLaMA-Factory Online 是与开源项目 LLaMA-Factory 官方合作的在线大模型微调平台，专为希望快速实现大模型定制的用户设计。提供零代码、可视化的操作界面，用户无需复杂配置即可通过 Web 界面完成从数据上传到模型微调的全流程。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaikaifapingtai/llama-factory-online/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2025/12/LLaMA-Factory-icon.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"LLaMA-Factory Online"}],["$","meta","10",{"name":"twitter:description","content":"LLaMA-Factory Online 是与开源项目 LLaMA-Factory 官方合作的在线大模型微调平台，专为希望快速实现大模型定制的用户设计。提供零代码、可视化的操作界面，用户无需复杂配置即可通过 Web 界面完成从数据上传到模型微调的全流程。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2025/12/LLaMA-Factory-icon.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","13",{}]]

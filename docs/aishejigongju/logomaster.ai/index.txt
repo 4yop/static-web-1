@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+3:I[58964,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+4:I[35842,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default"]
+6:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"ViewportBoundary"]
+c:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"MetadataBoundary"]
+e:I[49854,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"default",1]
+:HL["/_next/static/chunks/2mtspm1zpl953.css","style"]
+:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","aishejigongju","logomaster.ai",""],"q":"","i":false,"f":[[["",{"children":[["category","aishejigongju","d",null],{"children":[["tool","logomaster.ai","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cfyio75a09rk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11fedxqhc-vmx.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2mtspm1zpl953.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+f:[]
+9:"$Wf"
+10:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+11:I[82983,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"NavSearch"]
+:HL["https://ai-bot.cn/wp-content/uploads/2023/03/logomaster-ai-con.png","image"]
+2:["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"plus_jakarta_sans_487a8b40-module__5vomQq__className antialiased bg-slate-50 text-slate-900","children":[["$","header",null,{"className":"sticky top-0 z-50 bg-white shadow-sm","children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 h-[72px] flex items-center justify-between","children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold text-primary","children":"AISTOOL"}],["$","nav",null,{"className":"hidden md:flex items-center gap-6","children":[["$","$L10",null,{"href":"/","className":"text-slate-700 hover:text-primary transition","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"text-slate-700 hover:text-primary transition","children":"关于"}]]}],["$","button",null,{"className":"md:hidden p-2","id":"menu-toggle","aria-label":"菜单","children":["$","svg",null,{"className":"w-6 h-6","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M4 6h16M4 12h16M4 18h16"}]}]}]]}],["$","div",null,{"id":"mobile-menu","className":"hidden md:hidden bg-white border-t border-slate-100 px-4 py-4","children":[["$","$L10",null,{"href":"/","className":"block py-2 text-slate-700","children":"首页"}],[],["$","$L11",null,{}],["$","$L10",null,{"href":"/about/","className":"block py-2 text-slate-700","children":"关于"}]]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n        document.getElementById('menu-toggle').addEventListener('click', function() {\n          document.getElementById('mobile-menu').classList.toggle('hidden');\n        });\n      "}}]]}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-24 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-slate-200","children":"404"}],["$","p",null,{"className":"mt-4 text-xl text-slate-500","children":"页面未找到"}],["$","$L10",null,{"href":"/","className":"mt-6 inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary-hover transition","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-slate-900 text-slate-400 mt-16","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-12","children":[["$","div",null,{"className":"grid md:grid-cols-2 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-white text-xl font-bold mb-3","children":"AISTOOL"}],["$","p",null,{"className":"text-sm leading-relaxed","children":"发现最好的AI工具，提升你的工作效率。我们精选全球优质AI工具，助你快速找到最适合的AI助手。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-medium mb-3","children":"法律条款"}],["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":["$","$L10",null,{"href":"/about/","className":"hover:text-white transition","children":"关于我们"}]}]]}]]}],["$","div",null,{"className":"border-t border-slate-800 mt-8 pt-6 text-center text-sm","children":["© ",2026," AISTOOL. All rights reserved."]}]]}]}]]}]}]
+12:Td59,
+                Logomaster.ai是什么
+Logomaster.ai是提供一站式设计专业Logo解决方案的网站，无需任何设计技能，可以帮助用户轻松创建和编辑Logo。在人工智能技术的帮助下，只需5分钟，Logomaster.ai可以创建精致的Logo。用户可以从零创建Logo，也可以平台提供的数百个精美漂亮的Logo模板中选择。
+
+Logomaster.ai的主要功能
+
+AI驱动的logo生成：Logomaster.ai 基于先进的AI算法根据用户偏好和行业创建独特的logo设计。
+定制选项：提供广泛的编辑工具来定制颜色、字体、图标和形状，创建符合品牌标识的独特logo。
+专业文件格式：提供各种格式的高分辨率文件，包括PNG、SVG和打印就绪的矢量文件，确保logo在不同平台和材料上的专业呈现。
+商业许可：包括购买logo的商业许可，支持用于任何商业或非商业目的。
+直观的用户界面：Logomaster.ai 的用户界面设计简单且易于导航，初学者也可以在没有设计经验的情况下创建logo。
+实时编辑：当调整logo的不同元素时，提供即时反馈，设计过程动态且高效。
+品牌一致性工具：提供的工具确保logo很好地适应不同的格式和尺寸，帮助在不同平台上保持品牌一致性。
+高分辨率下载：设计完成后，用户可以下载适用于数字和印刷媒体的高分辨率版本的logo。
+多语言支持：提供多种语言版本，提高可访问性。
+无需注册：用户无需注册即可开始设计logo，提供了便捷的使用体验。
+在实际应用中将logo可视化：用户可以在实际应用场景中预览logo效果，如名片、网站等。
+
+Logomaster.ai的产品官网
+
+产品官网：logomaster.ai
+
+Logomaster.ai的产品定价
+
+BASIC 套餐：价格：CNY 119（一次性费用）
+
+提供高分辨率logo文件（约4096px，适合所有用途）
+提供适合网站和社交媒体的透明PNG格式文件
+可以立即下载文件
+提供白色和透明背景的logo
+购买后不允许更改
+
+
+PREMIUM 套餐：价格：CNY 299（一次性费用）
+
+包含BASIC套餐的所有功能
+提供可调整大小的矢量文件，适合制作名片、横幅和海报
+允许无限次更改和重新下载（可以无限次更改logo的任何部分，无需额外费用）
+提供自定义背景颜色
+可以立即下载文件
+
+
+ENTERPRISE 套餐：价格：CNY 479（一次性费用）
+
+包含PREMIUM套餐的所有功能
+包含所有颜色（提供额外的深色logo、白色logo和彩色背景logo作为logo变体）
+可以创建并保存最多5种logo变体（颜色、大小和位置可编辑）
+提供社交媒体资产
+提供专业水印
+提供真实世界的模型图像
+提供字体名称和颜色调色板
+允许无限次更改和重新下载（可以无限次更改logo的任何部分，无需额外费用）
+
+
+
+Logomaster.ai的应用场景
+
+初创企业品牌建设：新创业公司可以快速创建专业logo以建立其品牌形象。
+小型企业品牌重塑：小型企业可以用新的现代logo设计刷新其品牌形象。
+个人品牌建设：自由职业者和个人可以在社交媒体和作品集中创建个人品牌logo。
+活动logo：组织可以为特殊活动或活动设计独特的logo。
+社交媒体：创建适合各种社交平台的logo和头像。
+产品包装：设计适合印刷在产品包装上的logo。
+
+            5:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Logomaster.ai\",\"description\":\"AI Logo生成工具\",\"url\":\"https://aistool.orgaishejigongju/logomaster.ai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/03/logomaster-ai-con.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L10",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/aishejigongju/","className":"hover:text-primary transition","children":"AI设计工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"Logomaster.ai"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/03/logomaster-ai-con.png","alt":"Logomaster.ai","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"Logomaster.ai"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","8",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI设计工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI Logo生成工具"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$12"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","252",{"href":"/aishejigongju/dzine/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Dzine"}],["$","a","294",{"href":"/aixiezuogongju/xunfeihuiwen/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"讯飞绘文"}],"$L13","$L14","$L15","$L16"]}]]}]]}]]}]
+13:["$","a","509",{"href":"/aituxianggongju/360zhihui/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"360智绘"}]
+14:["$","a","300",{"href":"/aixiezuogongju/paperpal/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Paperpal"}]
+15:["$","a","4",{"href":"/aizhinengti/kouzi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"扣子"}]
+16:["$","a","19",{"href":"/aizhinengti/flowmuse-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"FlowMuse AI"}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[864,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Logomaster.ai | AIStool"}],["$","meta","1",{"name":"description","content":"Logomaster.ai是提供一站式设计专业Logo解决方案的网站，无需任何设计技能，可以帮助用户轻松创建和编辑Logo。在人工智能技术的帮助下，只需5分钟，Logomaster.ai可以创建精致的Logo。"}],["$","link","2",{"rel":"canonical","href":"https://aistool.orgaishejigongju/logomaster.ai/"}],["$","meta","3",{"property":"og:title","content":"Logomaster.ai"}],["$","meta","4",{"property":"og:description","content":"Logomaster.ai是提供一站式设计专业Logo解决方案的网站，无需任何设计技能，可以帮助用户轻松创建和编辑Logo。在人工智能技术的帮助下，只需5分钟，Logomaster.ai可以创建精致的Logo。"}],["$","meta","5",{"property":"og:url","content":"https://aistool.orgaishejigongju/logomaster.ai/"}],["$","meta","6",{"property":"og:image","content":"https://ai-bot.cn/wp-content/uploads/2023/03/logomaster-ai-con.png"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Logomaster.ai"}],["$","meta","10",{"name":"twitter:description","content":"Logomaster.ai是提供一站式设计专业Logo解决方案的网站，无需任何设计技能，可以帮助用户轻松创建和编辑Logo。在人工智能技术的帮助下，只需5分钟，Logomaster.ai可以创建精致的Logo。"}],["$","meta","11",{"name":"twitter:image","content":"https://ai-bot.cn/wp-content/uploads/2023/03/logomaster-ai-con.png"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","13",{}]]

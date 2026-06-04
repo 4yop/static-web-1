@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+9:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2024/10/AI-Short-logo.png","image"]
+3:Tdc3,
+                AI Short是什么
+AI Short是AI提示词管理和共享平台，通过提供标签筛选、关键词搜索和一键复制提示词的功能，帮助用户提升与AI对话的效率和质量。用户可以在这个平台上找到适合不同场景的提示词，无论是工作、学习还是创意写作，通过优化的提示词获得更精确、实用的反馈，有效提升生产力。AI Short提供了浏览器扩展，支持Chrome、Edge等浏览器，使用户能更加便捷地使用提示词。
+
+AI Short的主要功能
+
+提示词定制：用户可以根据自己的需求创建和编辑个性化的AI提示词。
+保存与组织：提供便捷的保存功能，支持用户存储常用的提示词，分类和标签系统，方便用户有效组织和快速检索提示词。
+一键分享：用户可以与他人分享自己创建的提示词，促进知识交流。
+社区资源库：访问大量由社区贡献的公开提示词，支持按类别、热度或关键词搜索所需的提示词。
+多语言支持：界面支持多种语言，满足全球用户的需求。
+快捷指令：提供快速访问常用提示词的快捷方式，提高操作效率。
+跨平台兼容：可在多种设备和操作系统上使用，确保用户随时随地都能访问他们的提示词库。
+
+如何使用AI Short
+
+访问平台：打开AI Short的官方网站。
+浏览或搜索提示词：查看主页上显示的所有提示词，或者使用搜索栏输入关键词来查找特定的提示词。可以通过标签筛选来缩小搜索范围，找到适合特定场景的提示词。
+选择提示词：从搜索结果中选择一个合适的提示词。
+复制提示词：点击选中提示词旁边的“复制”按钮，将提示词复制到剪贴板。
+粘贴到AI模型：将复制的提示词粘贴到AI对话模型中，如ChatGPT、Gemini或其他支持的AI平台。
+调整和发送：根据需要调整提示词，然后发送给AI模型，获得输出。
+获取结果：根据提示词，AI模型将提供相应的回答或完成任务。
+保存和分享：如果创建了自己的提示词，可以保存以便将来使用，或者与社区分享。
+多语言切换：如果需要，可以切换到其他语言界面，提示词会提供翻译。
+使用浏览器扩展：如果安装了AI Short的浏览器扩展，可以直接在浏览器中使用这些功能，无需每次都打开AI Short的网站。
+
+AI Short的产品定价
+
+免费：AI Short可以免费使用GPT-4o模型，每天最多20次。
+订阅服务：可登录官网获取，用户可以根据自己的需求选择合适的订阅计划。
+
+AI Short的应用场景
+
+工作场景：职场人士可以用AI Short来管理工作相关的提示词，快速生成文案、报告等文档，提升工作效率 。
+学习场景：学生可以用AI Short的学习类提示词来辅助完成作业和研究任务，提高学习效率 。
+创意写作：创意工作者可以用AI Short的写作和创意类提示词来激发灵感，提升创作效率 。
+AI工具探索：AI工具爱好者可以通过AI Short分享和发现优质提示词，探索AI的新玩法和应用 。
+多领域应用：AI Short的多领域提示词库可以帮助各行各业的用户在生活和工作中用AI工具，如智能客服、医疗诊断、金融风控、智能制造等 。
+内容生成：用户可以通过AI Short生成高质量的内容，如文章、论文、故事等，适用于需要大量创意和文本输出的场合。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"AI Short\",\"description\":\"AI提示词管理和共享平台，多种场景的快捷指令\",\"url\":\"https://aistool.orgaitishizhiling/ai-short/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2024/10/AI-Short-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aitishizhiling/","className":"hover:text-primary transition","children":"AI提示指令"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"AI Short"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2024/10/AI-Short-logo.png","alt":"AI Short","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"AI Short"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","15",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI提示指令"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI提示词管理和共享平台，多种场景的快捷指令"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","895",{"href":"/aibangonggongju/qingyanppt/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"清言PPT"}],["$","a","59",{"href":"/ailiaotianzhushou/tengxunyuanbao/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"腾讯元宝"}],"$L4","$L5","$L6","$L7"]}]]}]]}]]}],null,"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","1332",{"href":"/aizhinengti/instreet/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"InStreet"}]
+5:["$","a","198",{"href":"/aibianchenggongju/fig/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Fig"}]
+6:["$","a","1206",{"href":"/aitishizhiling/promptpilot/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"PromptPilot"}]
+7:["$","a","678",{"href":"/aishipingongju/changci/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"场辞"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

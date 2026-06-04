@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+a:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2025/07/FinGenius-logo.png","image"]
+3:Teda,
+                FinGenius 是什么
+FinGenius 是全球首个A股AI金融博弈智能体应用。FinGenius基于多Agent博弈架构，模拟市场参与者行为，用16个超级智能体（如舆情、游资、风控等）分工协作，快速生成精准的金融分析报告。FinGenius 引入博弈论优化决策，结合“年轮记忆规则算法”记录用户投资习惯，提供个性化分析。FinGenius 支持用AI重塑金融分析，提升决策效率，为投资者和金融机构提供创新解决方案。
+
+FinGenius 的主要功能
+
+多Agent博弈系统：多个专业智能体（如舆情、游资、风控等）分工协作，从不同角度分析市场数据，生成综合报告。模拟市场参与者互动，优化决策过程，预测市场走势。
+深度数据整合与报告生成：整合多种数据源，快速生成结构化多模态报告，提炼关键信息和风险点。
+实时数据处理：毫秒级处理海量金融数据，实时监控市场异常，提前识别潜在风险。
+
+风险预警系统：实时监控市场异常，提前识别潜在风险，为金融分析提供安全保障。
+
+MCP智能调用与工具集成：基于 Model Context Protocol (MCP)，实现模型间无缝协作，支持即插即用的金融工具生态。
+
+FinGenius的核心特性
+
+双环境架构：集成Research环境进行多智能体协作分析与Battle环境的结构化辩论，模拟真实市场研究和决策过程。
+无缝信息流转：实现从Research环境到Battle环境的完整分析结果传递，确保信息在不同阶段间的连贯性。
+累积式辩论：在Battle环境中，通过累积之前所有专家的讨论内容，促进更深入和全面的分析讨论。
+持续性状态管理：维护分析过程的持续性和上下文的一致性，以保障决策的精确度和分析的可靠性。
+
+
+如何使用FinGenius
+
+注册和登录：访问 FinGenius 的官方网站或下载移动应用（目前已上架荣耀、小米、Vivo应用市场）。创建账户并登录。
+开始使用：通过多智能体分析模拟市场行为以获取趋势和风险点，用MCP实现模型协作进行金融数据分析，依靠风险预警系统监控异常并识别风险。
+定制化设置：根据个人投资习惯和偏好，设置定制化的分析参数和预警条件。
+监控和分析：监控 FinGenius 提供的分析报告和预警信息，进行投资决策。
+具体操作步骤（以 GitHub 项目为例）：
+安装指南：根据 FinGenius GitHub 仓库提供的指南，选择使用 conda 或 uv 进行安装。
+配置说明：创建并编辑配置文件，添加 API 密钥和自定义设置。
+使用方法：运行 FinGenius，通过命令行参数指定输出格式、保存结果到文件、启用文本转语音等。
+可选参数：根据需要设置输出格式、保存结果、启用文本转语音、设置智能体步数和辩论轮数等。
+项目结构：了解 FinGenius 的系统架构，包括核心特性、类图和流程图。
+
+FinGenius的官网地址
+
+官网地址：http://fingenius.cn/
+GitHub仓库：https://github.com/HuaYaoAI/FinGenius
+
+FinGenius的应用场景
+
+投资决策支持：为投资者提供全面的股票分析和投资组合优化建议，帮助用户做出更明智的投资决策。
+风险管理：实时监控市场异常，提前识别潜在风险点，为金融机构提供风险预警和评估，帮助其有效规避风险。
+市场趋势分析：实时掌握市场动态和行业趋势，帮助投资者和机构把握市场走向。
+投资研究：为投资研究人员提供深度数据分析和研究支持，助力投资决策。
+量化交易：提供量化交易信号和策略优化建议，帮助量化交易者捕捉交易机会，提高交易效率和收益。
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"FinGenius\",\"description\":\"全球首个A股AI金融博弈智能体应用\",\"url\":\"https://aistool.orgaizhinengti/fingenius/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2025/07/FinGenius-logo.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aizhinengti/","className":"hover:text-primary transition","children":"AI智能体"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"FinGenius"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2025/07/FinGenius-logo.png","alt":"FinGenius","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"FinGenius"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","5",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI智能体"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"全球首个A股AI金融博弈智能体应用"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","740",{"href":"/aibangonggongju/aotugongfang/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"凹凸工坊"}],"$L4","$L5","$L6","$L7","$L8"]}]]}]]}]]}],null,"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","866",{"href":"/aibangonggongju/sougoufanyi/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"搜狗翻译"}]
+5:["$","a","813",{"href":"/aibangonggongju/feishumiaoji/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"飞书妙记"}]
+6:["$","a","224",{"href":"/aishejigongju/onlook/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Onlook"}]
+7:["$","a","1275",{"href":"/aituxianggongju/chaojihaomai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"潮际好麦"}]
+8:["$","a","215",{"href":"/aishejigongju/chuangketieai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"创客贴AI"}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

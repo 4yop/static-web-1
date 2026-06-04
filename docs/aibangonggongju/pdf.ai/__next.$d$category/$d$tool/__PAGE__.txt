@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[36332,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],""]
+7:I[92944,["/_next/static/chunks/2cfyio75a09rk.js","/_next/static/chunks/11fedxqhc-vmx.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["https://ai-bot.cn/wp-content/uploads/2023/12/pdf-ai-icon.png","image"]
+3:Tadb,
+                PDF.ai是什么
+PDF.ai是一个人工智能PDF文档阅读工具，支持上传PDF文件与文档内容进行聊天交流，用户可就PDF文件提出问题、获取摘要、查找信息等。PDF.ai利用GPT技术从PDF文档中提取和解释数据，使处理长篇文档内容变得更容易、更高效。无论是电子书籍、研究论文，还是法律协议、财务报告，PDF.ai都能轻松智能阅读，并会高亮定位你提问回复的文件段落来源。
+
+PDF.ai的主要功能
+
+PDF文件提问总结：用户可上传PDF文件就文件内容进行提问，获取文件信息
+AI简历扫描：获取简历概览和问题以评估面试候选人
+AI发票扫描：识别发票文件和数据转换成JSON格式的数据
+AI测验生成：将上传的PDF文档生成教学测验问题
+
+PDF.ai的应用场景
+
+书籍阅览：沉浸式阅读体验，与你喜欢的书籍聊天
+论文快读：快速获取研究论文重点和主要内容
+财务报告：像专业人士一样快速了解财报研报
+产品手册：直接与产品手册对话，解决使用疑问
+法律文件：解释令人头痛的法律术语
+培训文档：互动式轻松搞定员工培训文档
+
+PDF.ai的产品价格
+
+免费版，支持上传1个文件，每月可提问500次，单个支持10MB最大文件
+专业版10美元每月，支持上传100个文件，每月可提问5000次，单个支持50MB最大文件
+旗舰版20美元每月，支持上传无限个文件和无限次提问，单个支持50MB最大文件
+企业版30美元每月，支持上传无限个文件和无限次提问，单个支持100MB最大文件
+
+如何使用PDF.ai
+
+访问PDF.ai的官网，点击Get started for free登录注册，或着你也可以点击Try the demo查看示例文件
+登录后，点击Upload按钮上传你的PDF文件（支持从URL导入和OCR）
+上传文件后，左侧是文档预览区，右侧可以对PDF.ai发起提问
+在输入框中输入你感兴趣的问题，如果不知道问什么，也可以点击PDF.ai根据文档内容整理的一些问题
+PDF.ai回答问题后，还会在左侧高亮和定位其回复的段落来源
+
+常见问题
+
+
+PDF.ai是免费的吗？
+PDF.ai提供免费试用的版本，用户可免费上传1个PDF文件进行提问。
+
+
+PDF.ai基于什么大模型？
+PDF.ai的智能阅读能力基于OpenAI的GPT大模型，免费版基于GPT-3.5，付费版支持GPT-4。
+
+
+PDF.ai支持哪些语言？
+理论上PDF.ai支持所有语言，只要GPT能识别的，PDF.ai都可以阅读，并且支持以一种语言提问另一种语言的文件，比如使用中文对英语文件内容进行提问。
+
+
+PDF.ai支持哪些格式的文件？
+目前PDF.ai只支持上传.pdf格式的文件，后续会支持更多格式的文件。
+
+
+            0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"PDF.ai\",\"description\":\"AI PDF文档阅读工具，智能文档总结摘要\",\"url\":\"https://aistool.orgaibangonggongju/pdf.ai/\",\"applicationCategory\":\"AI Tool\",\"image\":\"https://ai-bot.cn/wp-content/uploads/2023/12/pdf-ai-icon.png\"}"}}],["$","nav",null,{"className":"text-sm text-slate-500 mb-4","children":[["$","span","0",{"children":[false,["$","$L2",null,{"href":"/","className":"hover:text-primary transition","children":"首页"}]]}],["$","span","1",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L2",null,{"href":"/aibangonggongju/","className":"hover:text-primary transition","children":"AI办公工具"}]]}],["$","span","2",{"children":[["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-900","children":"PDF.ai"}]]}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-8","children":[["$","img",null,{"src":"https://ai-bot.cn/wp-content/uploads/2023/12/pdf-ai-icon.png","alt":"PDF.ai","width":64,"height":64,"className":"w-16 h-16 rounded-xl object-contain"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-slate-900","children":"PDF.ai"}],["$","div",null,{"className":"flex flex-wrap gap-2 mt-2","children":[["$","span","4",{"className":"inline-block px-2 py-0.5 text-xs rounded-full bg-sky-50 text-sky-600","children":"AI办公工具"}]]}]]}]]}],["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-8","children":[["$","div",null,{"children":[null,["$","p",null,{"className":"text-slate-600 mb-6 text-lg","children":"AI PDF文档阅读工具，智能文档总结摘要"}],["$","div",null,{"className":"prose prose-slate max-w-none","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","aside",null,{"className":"bg-white rounded-xl p-5 shadow-sm","children":[["$","h3",null,{"className":"font-semibold text-slate-900 mb-4","children":"推荐工具"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a","509",{"href":"/aituxianggongju/360zhihui/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"360智绘"}],["$","a","993",{"href":"/aiyinpingongju/play.ht/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Play.ht"}],["$","a","929",{"href":"/aibangonggongju/rows/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Rows"}],["$","a","1047",{"href":"/aisousuoyinqing/miku/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Miku"}],"$L4","$L5"]}]]}]]}]]}],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ecb-Mqx5mLNZTN3iyv5Kr"}
+4:["$","a","531",{"href":"/aituxianggongju/upscale.media/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Upscale.media"}]
+5:["$","a","1390",{"href":"/aishipingongju/zorq-ai/","className":"inline-block px-3 py-1.5 text-sm rounded-full bg-sky-50 text-sky-600 hover:bg-sky-100 transition","children":"Zorq AI"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
