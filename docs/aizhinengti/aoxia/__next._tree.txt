@@ -1,4 +1,0 @@
-:HL["/_next/static/chunks/0eeqzgt8ke4qc.css","style"]
-:HL["/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["https://ai-bot.cn/wp-content/uploads/2025/11/alphashop-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":{"type":"d","key":"aizhinengti","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"tool","param":{"type":"d","key":"aoxia","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"1iPKB5amUhyeqyuRFa47m"}
